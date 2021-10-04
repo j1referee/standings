@@ -1,0 +1,561 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <head prefix="og: http://ogp.me/ns#">
+    <meta name="og:title" content="ミネ月式 Jリーグ順位表">
+    <meta name="og:url" content="https://j1referee.github.io/standings/">
+    <meta name="og:image" content="https://j1referee.github.io/standings/sample.png">
+    <meta name="og:description" content="最終順位を予想しやすいミネ月式のJリーグ順位表です。">
+    <meta name="og:type" content="article">
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@j1referee">
+    <title></title>
+    <script src="./vue.min.js"></script>
+    <script src="https://unpkg.com/v-tooltip"></script>
+    <style>
+html body * {
+  box-sizing: border-box;
+  font-size: 10px;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+}
+
+/* 全体 */
+#app {
+  display: none; /* 最初に jsロード前やコンパイル前の画面が見えるのを抑止 */
+}
+[v-cloak] {
+  visibility:hidden;
+}
+/* タイトル */
+span.timestamp {
+  font-weight: bold;
+  font-size: large;
+  word-wrap: normal;
+  white-space: nowrap;
+}
+div.sns {
+  margin-top: 0
+  margin-bottom: 0em;
+  margin-left: 6px;
+  float: right;
+}
+
+/* テーブル描画エリア */
+#table-area {
+  margin-top: 1em;
+}
+/* テーブル全体（flexコンテナ） */
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  width: auto;
+   /* border: 4px solid black; */
+}
+/* チームごとの列（flexアイテム、かつflexコンテナ） */
+.col {
+  display: flex;
+  flex-direction: column-reverse;
+  position: relative;
+  color: black;
+  text-align: center;
+}
+/* 列の中のセル（対戦相手ごと）（flexアイテム） */
+.row {
+  display: flex;
+  position: relative;
+  padding: 1px;
+  border: 1px solid black;
+}
+
+/* テキスト用 div */
+div.desc {
+  display:flex;
+  flex: auto;
+  align-items: center;
+  justify-content: center;
+  width: 50px !important;
+}
+div.win {
+  height: 39px;
+}
+div.draw {
+  height :13px;
+}
+div.lose {
+  display: none;
+}
+div.no {
+  height: 39px;
+  background-color: white !important;
+  color: black !important;
+}
+div.suspended {
+  height: 39px;
+  background-color: silver !important;
+  color: black !important;
+}
+div.no.hard-schedule {
+  border-bottom: solid 4px gray;
+}
+div.caption {
+  margin: auto;
+  margin-top: 4px;
+  border: 0;
+  background: white !important;
+  font-size: 12px;
+}
+div.caption a {
+  color: black;
+  text-decoration: none;
+  font-size: 12px;
+}
+div.point {
+  height: 36px;
+  background: white;
+  border: 0;
+  border-bottom: black 1px solid;
+}
+div.point > div {
+  width: 50px !important;
+  padding-bottom: 4px;
+  align-items: center;
+  justify-content: center;
+  line-height: 1.4em;
+  font-size: 12px;
+}
+
+/* クラブカラー */
+.sapporo       { background-color: rgb(204, 0, 0); color: white;}
+.morioka       { background-color: rgb(232, 232, 232); color: red;}
+.hachinohe     { background-color: rgb(0, 136, 54); color: white;}
+.sendai        { background-color: rgb(255, 215, 0); color: #0000CD;}
+.akita         { background-color: rgb(0, 106, 182); color: white;}
+.yamagata      { background-color: rgb(0, 0, 205); color: yellow;}
+.fukushima     { background-color: rgb(255, 0, 0);}
+.kashima       { background-color: rgb(185, 25, 63); color: #ddd;}
+.mito          { background-color: rgb(0, 0, 139); color: white;}
+.tochigi       { background-color: rgb(255, 241, 0); color: #005BAC;}
+.kusatsu       { background-color: rgb(0, 32, 89); color: yellow;}
+.urawa         { background-color: rgb(238, 27, 60); color: white;}
+.omiya         { background-color: rgb(255, 96, 0); color: white;}
+.chiba         { background-color: rgb(255, 231, 0); color: #008A51;}
+.kashiwa       { background-color: yellow;}
+.ftokyo        { background-color: rgb(0, 0, 170); color: pink;}
+.tokyov        { background-color: rgb(0, 120, 68); color: white;}
+.machida       { background-color: rgb(0, 60, 145); color: #D4AF37;}
+.kawasakif     { background-color: rgb(0, 191, 255);}
+.yokohamafm    { background-color: rgb(0, 64, 148); color: white;}
+.yokohamafc    { background-color: rgb(0, 191, 255); color: white;}
+.ysyokohama    { background-color: rgb(91, 211, 229); color: white;}
+.sagamihara    { background-color: rgb(51, 204, 102);}
+.shonan        { background-color: rgb(174, 255, 53); color: #003999;}
+.kofu          { background-color: royalblue; color: white;}
+.nagano        { background-color: rgb(255, 102, 0); color: rgb(0, 0, 128);}
+.matsumoto     { background-color: rgb(0, 102, 51); color: white;}
+.niigata       { background-color: rgb(255, 102, 0); color: blue;}
+.toyama        { background-color: rgb(17, 25, 135); color: white;}
+.kanazawa      { background-color: rgb(245, 1, 38); color: #FFD400;}
+.shimizu       { background-color: darkorange;}
+.iwata         { background-color: cornflowerblue; color: white;}
+.fujieda       { background-color: rgb(134, 137, 195); color: white;}
+.numazu        { background-color: rgb(0, 30, 179); color: white;}
+.nagoya        { background-color: rgb(228, 13, 13); color: #f7d171;}
+.gifu          { background-color: rgb(0, 89, 32); color: yellow;}
+.kyoto         { background-color: rgb(128, 0, 128); color: white;}
+.gosaka        { background-color: rgb(12, 70, 231); color: white;}
+.cosaka        { background-color: rgb(255, 105, 180); color: #000080;}
+.kobe          { background-color: rgb(157, 0, 32); color: white;}
+.tottori       { background-color: rgb(144, 238, 144); color: rgb(0, 0, 128);}
+.okayama       { background-color: rgb(204, 0, 102);}
+.hiroshima     { background-color: darkviolet; color: white;}
+.yamaguchi     { background-color: rgb(255, 96, 0);}
+.tokushima     { background-color: rgb(0, 0, 187); color: white;}
+.sanuki        { background-color: rgb(160, 216, 239); color: #000080;}
+.ehime         { background-color: rgb(255, 102, 0); color: #006;}
+.imabari       { background-color: rgb(23, 28, 97); color: #ff0;}
+.fukuoka       { background-color: rgb(35, 50, 133); color: silver;}
+.kitakyushu    { background-color: rgb(255, 231, 0); color: red;}
+.tosu          { background-color: rgb(0, 158, 235); color: #fcf;}
+.nagasaki      { background-color: rgb(0, 91, 172); color: #F39801;}
+.kumamoto      { background-color: rgb(194, 0, 32); color: white;}
+.oita          { background-color: rgb(38, 19, 172); color: #f1d305;}
+.miyazaki      { background-color: #EF007F; color: #02273d;}
+.kagoshima     { background-color: rgb(0, 51, 102); color: white;}
+.ryukyu        { background-color: rgb(127, 44, 50); color: white;}
+.ftokyo_u23    { background-color: rgb(0, 0, 170); color: pink;}
+.gamba_u23     { background-color: rgb(12, 70, 231); color: white;}
+.cosaka_u23    { background-color: rgb(255, 105, 180); color: #000080;}
+
+/* tooltip */
+.tooltip {
+  display: block !important;
+  z-index: 10000;
+}
+.tooltip .tooltip-inner {
+  font-size: 14px;
+  background: white;
+  color: black;
+  border-radius: 7px;
+  border: 1px black solid;
+  padding: 7px 12px 7px;
+  line-height: 1.6em;
+}
+.tooltip .tooltip-inner table td {
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+}
+.tooltip .tooltip-inner .current {
+ /* font-weight: bold;*/
+  color: darkblue;
+  font-size: 14px;
+}
+.tooltip .tooltip-arrow {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  position: absolute;
+  margin: 5px;
+  border-color: black;
+  z-index: 1;
+}
+.tooltip[x-placement^="top"] {
+  margin-bottom: 5px;
+}
+.tooltip[x-placement^="top"] .tooltip-arrow {
+  border-width: 5px 5px 0 5px;
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-bottom-color: transparent !important;
+  bottom: -5px;
+  left: calc(50% - 5px);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.tooltip[x-placement^="bottom"] {
+  margin-top: 5px;
+}
+.tooltip[x-placement^="bottom"] .tooltip-arrow {
+  border-width: 0 5px 5px 5px;
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+  border-top-color: transparent !important;
+  top: -5px;
+  left: calc(50% - 5px);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.tooltip[x-placement^="right"] {
+  margin-left: 5px;
+}
+.tooltip[x-placement^="right"] .tooltip-arrow {
+  border-width: 5px 5px 5px 0;
+  border-left-color: transparent !important;
+  border-top-color: transparent !important;
+  border-bottom-color: transparent !important;
+  left: -5px;
+  top: calc(50% - 5px);
+  margin-left: 0;
+  margin-right: 0;
+}
+.tooltip[x-placement^="left"] {
+  margin-right: 5px;
+}
+.tooltip[x-placement^="left"] .tooltip-arrow {
+  border-width: 5px 0 5px 5px;
+  border-top-color: transparent !important;
+  border-right-color: transparent !important;
+  border-bottom-color: transparent !important;
+  right: -5px;
+  top: calc(50% - 5px);
+  margin-left: 0;
+  margin-right: 0;
+}
+.tooltip.popover .popover-inner {
+  background: #f9f9f9;
+  color: black;
+  padding: 24px;
+  border-radius: 5px;
+  box-shadow: 0 5px 30px rgba(black, .1);
+}
+.tooltip.popover .popover-arrow {
+  border-color: #f9f9f9;
+}
+.tooltip[aria-hidden='true'] {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity .15s, visibility .15s;
+}
+.tooltip[aria-hidden='false'] {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity .15s;
+}
+
+#help {
+  width: 40em;
+  border: solid 1px black;
+  margin: 3em 0 0 0;
+  font-size: 16px;
+}
+#help-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Tweetアイコン */
+.tweet-btn-o {
+   padding-top: 2px;
+    max-width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    zoom: 1;
+}
+.tweet-btn {
+    position: relative;
+    box-sizing: border-box;
+    padding: 4px 8px 2px 6px;
+    background-color: #1b95e0;
+    color: #fff;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 11px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.tweet-btn i {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: transparent 0 0 no-repeat;
+    background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2072%2072%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h72v72H0z%22%2F%3E%3Cpath%20class%3D%22icon%22%20fill%3D%22%23fff%22%20d%3D%22M68.812%2015.14c-2.348%201.04-4.87%201.744-7.52%202.06%202.704-1.62%204.78-4.186%205.757-7.243-2.53%201.5-5.33%202.592-8.314%203.176C56.35%2010.59%2052.948%209%2049.182%209c-7.23%200-13.092%205.86-13.092%2013.093%200%201.026.118%202.02.338%202.98C25.543%2024.527%2015.9%2019.318%209.44%2011.396c-1.125%201.936-1.77%204.184-1.77%206.58%200%204.543%202.312%208.552%205.824%2010.9-2.146-.07-4.165-.658-5.93-1.64-.002.056-.002.11-.002.163%200%206.345%204.513%2011.638%2010.504%2012.84-1.1.298-2.256.457-3.45.457-.845%200-1.666-.078-2.464-.23%201.667%205.2%206.5%208.985%2012.23%209.09-4.482%203.51-10.13%205.605-16.26%205.605-1.055%200-2.096-.06-3.122-.184%205.794%203.717%2012.676%205.882%2020.067%205.882%2024.083%200%2037.25-19.95%2037.25-37.25%200-.565-.013-1.133-.038-1.693%202.558-1.847%204.778-4.15%206.532-6.774z%22%2F%3E%3C%2Fsvg%3E);
+}
+
+
+</style>
+  </head>
+  <body>
+    <div id="app" onselectstart="return false;">
+      <div style="margin-bottom: 1em;">
+        <span class="timestamp" @click="change_division">ミネ月式 {{divisionU}}順位表<br/></span>
+        <span @click="change_division" style="font-size: 14px">（{{ ts }} 更新）</span>
+        <span class="tweet-btn-o" data-scribe="component:button" style="width: 75px;">
+         <a id="tweet" class="tweet-btn" href="" rel="nofollow" target="_blank">
+           <i></i>ツイート
+         </a>
+        </span>
+        <span class="timestamp"><a :href="possibleStandingsHtml">最大勝ち点順位表</a></span>
+      </div>
+      <div id="table-area" class="flex-container">
+        <div v-for="(team_results, club_name) in results[division]" :key="club_name" class="col" :style="{order: rank(club_name)}">
+          <div class="row caption"><a :href="`https://www.jleague.jp/club/${e_name(club_name)}/`">{{club_name}}</a></div>
+          <div v-for="(match, idx) in team_results" :key="club_name + match.opponent + home_or_away(match)"
+            class="row" :class="[match_result(match), e_name(club_name), hard_schedule(team_results, idx)]">
+            <div class="desc" v-tooltip="{content: info(club_name, team_results, idx), trigger: 'click', autoHide: false}">
+              {{match.opponent}}{{home_or_away(match)}}
+            </div>
+          </div>
+          <div class="row point" v-tooltip="{content: detail(club_name, team_results), trigger: 'click', autoHide: false}">
+<!--            <div class="desc">{{ win_point(club_name)}}({{ goal_diff(club_name) }})<br/>残{{left_games(club_name)}}</div> -->
+            <div>{{ club_name }}<br/>{{ win_point(club_name)}}({{ goal_diff(club_name) }})
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="help">
+       <span id="help-title">使い方</span><br/>
+       ◆ タイトルをタップするとリーグを切り替えられます</br>
+       ◆ セルをタップすると前後の日程・結果を表示します</br>
+       ◆ 勝ち点をタップすると詳細な成績を表示します<br/>
+       ◆ 太い枠線はリーグ連戦（中３日以内）を表しています
+    </div>
+    <script>
+  Vue.config.devtools = true;
+  Vue.use(VTooltip);
+
+  function createVue(json_data)
+  {
+    var vm = new Vue({
+    el: "#app",
+    data: {
+      results: json_data.results,
+      clubs: json_data.clubs,
+      division: getDivision(),
+      updated_at: json_data.updated_at,
+      ts: (new Date(json_data.updated_at)).toLocaleString().replace(/:\d\d$/, ''),
+    },
+    computed: {
+      divisionU: function(){ return this.division.toUpperCase();},
+      possibleStandingsHtml: function(){ return `possible-standings-${this.division}.html`;},
+    },
+    methods: {
+      match_result: function(match){
+        if ( match.point == 0 ) return 'lose';
+        if ( match.point == 3 ) return 'win';
+        if ( match.point == 1 ) return 'draw';
+        if ( match.point == "suspended" || match.date == '未定' ) return 'suspended';
+        return 'no'
+      },
+      get_club: function(club_name){ return this.clubs.find( c => c.j_name == club_name ) },
+      e_name: function(club_name){ return this.get_club(club_name).name },
+      full_name: function(club_name){ return this.get_club(club_name).full_name },
+      win_point: function(club_name){ return this.get_club(club_name).win_point },
+      left_games: function(club_name){ return this.results[this.division][club_name].filter(r => r.point == null || r.point == "suspended").length },
+      rank: function(club_name){ return this.get_club(club_name).rank },
+      goal_diff: function(club_name){
+        var club = this.get_club(club_name)
+        var gd = (club.goals_for - club.goals_against )
+        return gd > 0 ? `+${gd}` : gd
+      },
+      home_or_away: function(match){
+        var h_or_a = match.home ? '(H)' : '(A)'
+        return h_or_a
+      },
+      change_division: function(e){
+        switch(this.division){
+        case "j1":
+          this.division = "j2";
+          if (window.history && window.history.pushState) { setDivision(this); }
+          break;
+        case "j2":
+          this.division = "j3";
+          if (window.history && window.history.pushState) { setDivision(this); }
+          break;
+        case "j3":
+          this.division = "j1";
+          if (window.history && window.history.pushState) { setDivision(this); }
+          break;
+        }
+      },
+      hard_schedule: function(results, idx){
+        if ( idx == 0) return "";
+        let current_match_date = results[idx].date;
+        let prev_match_date = results[idx-1].date;
+        if (current_match_date == "未定" || prev_match_date == "未定") return "";
+        let interval_days = ( mmddw2date(current_match_date) - mmddw2date(prev_match_date) ) / 1000 / 60 / 60 / 24;
+        let hard_schedule_class = ( interval_days < 5 ) ? "hard-schedule" : ""; // 試合間隔が4日以下なら連戦
+        return hard_schedule_class;
+      },
+      detail: function(club_name){
+        const club = this.get_club(club_name);
+        let str = [
+          `${club.full_name}`,
+          `${club.wins}勝 ${club.draws}分 ${club.loses}敗`,
+          `得${club.goals_for} 失${club.goals_against} 得失 ${this.goal_diff(club_name)}`,
+          `残試合 ${this.left_games(club_name)}`
+        ].join("<br>")
+        return str;
+      },
+      info: function(club_name, results, idx, event){
+        var message_lines = [];
+        var range = 4;
+        var begin = (idx - range > 0) ? idx - range : 0;
+        var end = (idx + range > results.length - 1) ? results.length - 1 : idx + range;
+        for(i = begin; i <= end; i++){
+          match = results[i];
+          var sec = `第${match.sec}節`;
+          var date = match.date // .replace(/・[祝休]/, '');
+          // if (date == '未定') date = '未定' + '　&nbsp;　';
+          var time = match.time;
+          // vs  = match.home ? `${club_name}vs${match.opponent}` : `${match.opponent}vs${club_name}`
+          var vs  = match.opponent + ( match.home ? '(H)' : '(A)' );
+          var score = /\d+-\d+/.test(match.score) ? match.score : '';
+          switch(match.point){
+          case 0: mark = '●'; break;
+          case 3: mark = '○'; break;
+          case 1: mark = '△'; break;
+          default: mark = '　';
+          }
+          var message = "<tr><td>" + [date, time, sec, vs, mark, score].join("</td><td>") + "</td></tr>";
+          if ( i == idx ) message = message.replace('<tr>', '<tr class="current">');
+          message_lines.push( message );
+        }
+        return "<table>" + message_lines.reverse().join("") + "</table>";
+        //swal.fire({target: event.target, text: message_lines.reverse().join("\n")});
+        //alert(message_lines.reverse().join("\n"));
+      },
+    },
+  });
+  setTweetButton(vm.divisionU, vm.updated_at);
+}
+
+function setTweetButton(divU, updated_at)
+{
+  const $a = document.getElementById("tweet");
+  const date = new Date(updated_at);
+  const dateStr = `${date.getFullYear()}/${('0'+(date.getMonth()+1)).slice(-2)}/${('0'+date.getDate()).slice(-2)} ` +
+                  `${('0'+date.getHours()).slice(-2)}:${('0'+date.getMinutes()).slice(-2)}`;
+  const text = `ミネ月式${divU}順位表（${dateStr}更新）`;
+  const location_href = location.href;
+  const href = `https://twitter.com/share?url=${location_href}&text=${encodeURIComponent(text)}`;
+  $a.setAttribute("href", href);
+}
+
+function getDivision()
+{
+  var  params = new URLSearchParams(window.location.search.slice(1));
+  var division = params.get("division");
+  if ( /^j[123]$/i.test(division) ){
+    division = division.toLowerCase();
+  } else {
+    division = "j1";
+  }
+  document.title=`ミネ月式 ${division.toUpperCase()}順位表`;
+  return division;
+}
+function setDivision(vm)
+{
+  // URL
+  var params = new URLSearchParams(location.search.slice(1));
+  params.set("division", vm.divisionU);
+  window.history.replaceState(null, null, `${location.pathname}?${params}`);
+  // Title
+  document.title = `ミネ月式 ${vm.divisionU}順位表`;
+  // Tweet button
+  setTweetButton(vm.divisionU, vm.updated_at);
+}
+
+function mmddw2date(str)
+{
+  let arr = str.match(/\d+/g).map(s => s - 0);
+  if ( arr.length != 2 || arr[0] < 1 || 12 < arr[0] || arr[1] < 1 || 31 < arr[1]) return null;
+  return new Date( (new Date()).getFullYear(), arr[0] - 1, arr[1]);
+}
+
+/*************************
+  main
+**************************/
+fetch("./results.json", {
+    method: "GET",
+    credentials: "same-origin",
+    headers: {
+      "Accept": "application/json",
+      "Content-Type": "application/json"
+    }
+})
+.then(response => {
+  return response.json()
+})
+.then(json => {
+  // console.log("get results.json")
+  createVue(json)
+  document.getElementById("app").style = "display: block"
+})
+ .catch(response => {
+  console.error("ERROR")
+  console.error(response)
+})
+
+// Terminology http://www.jfa.or.jp/jfa/terminology/
+    </script>
+  </body>
+</html>
