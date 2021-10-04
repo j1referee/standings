@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="./vue.min.js"></script>
+    <style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+}
+p {
+  font-size: small;
+}
+table {
+  border: none;
+  border-spacing: 0;
+}
+td {
+  padding: 0 0.2em;
+}
+.right {
+  text-align: right;
+}
+/* 全体 */
+#app {
+  display: none; /* 最初に jsロード前やコンパイル前の画面が見えるのを抑止 */
+}
+[v-cloak] {
+  visibility:hidden;
+}
+/* タイトル */
+span.title {
+  font-weight: bold;
+  word-wrap: normal;
+  white-space: nowrap;
+}
+span.timestamp { font-size: small; }
+</style>
+  </head>
+  <body>
+    <div id="app" onselectstart="return false;">
+      <div style="margin-bottom: 1em;">
+      <p>
+        <span class="title">{{divisionU}}リーグ 最大勝ち点順位表</span><br>
+        <span>（各チームが残り試合を全勝したと仮定したときの順位表）</span><br><br>
+        <span>{{ts}} 時点 （<a :href="indexHtml">戻る</a>）</span>
+      </p>
+      </div>
+      <table>
+        <tr v-for="(team, idx) in possibleRanking" :key="idx">
+          <td>{{idx+1}}</td><td>{{team.j_name}}</td><td class="right">{{team.max_win_point}}</td><td>（残 {{team.left}}）</td>
+        </tr>
+      </table>
+    </div>
+    <script>
+Vue.config.devtools = true;
+
+function createVue(json_data)
+{
+  var vm = new Vue({
+  el: "#app",
+  data: {
+    results: json_data.results,
+    clubs: json_data.clubs,
+    division: getDivision(),
+    updated_at: json_data.updated_at,
+    ts: (new Date(json_data.updated_at)).toLocaleString().replace(/:\d\d$/, ''),
+  },
+  computed: {
+    divisionU: function(){ return this.division.toUpperCase(); },
+    possibleRanking: function(){ return possible_ranking(this.clubs, this.results[this.division]); },
+    indexHtml: function(){ return `index.html?division=${this.division}`; },
+  },
+  methods: {
+    get_club: function(club_name){ return this.clubs.find( c => c.j_name == club_name ) },
+    e_name: function(club_name){ return this.get_club(club_name).name },
+    full_name: function(club_name){ return this.get_club(club_name).full_name },
+    win_point: function(club_name){ return this.get_club(club_name).win_point },
+    left_games: function(club_name){ return this.results[this.division][club_name].filter(r => r.point == null || r.point == "suspended").length },
+  },
+  });
+}
+
+function possible_ranking(clubs, results)
+{
+  clubs_in_the_div = []
+  clubs.forEach( club => {
+    club_name = club.j_name
+    if (!results[club_name]) return;
+    win_point = club.win_point;
+    games_left = results[club_name].filter(r => r.point == null || r.point == "suspended").length,
+    club.left = games_left;
+    club.max_win_point = win_point + games_left * 3;
+    clubs_in_the_div.push(club);
+  });
+
+  possible_ranking = clubs_in_the_div.sort( (a,b) => {
+    if (a.max_win_point > b.max_win_point) return -1;
+    if (a.max_win_point < b.max_win_point) return 1;
+    if (a.left <= b.left ) return -1;
+  });
+  return possible_ranking;
+}
+
+function getDivision()
+{
+  var  params = new URLSearchParams(window.location.search.slice(1));
+  var division = params.get("division");
+  if ( /^j[123]$/i.test(division) ){
+    division = division.toLowerCase();
+  } else {
+    division = "j1";
+  }
+  document.title=`${division.toUpperCase()}リーグ 最大勝ち点順位表`;
+  return division;
+}
+
+/*************************
+  main
+**************************/
+fetch("./results.json", {
+    method: "GET",
+    credentials: "same-origin",
+    headers: {
+      "Accept": "application/json",
+      "Content-Type": "application/json"
+    }
+})
+.then(response => {
+  return response.json()
+})
+.then(json => {
+  // console.log("get results.json")
+  createVue(json)
+  document.getElementById("app").style = "display: block"
+})
+.catch(response => {
+  console.error("ERROR")
+  console.error(response)
+})
+
+     
+// Terminology http://www.jfa.or.jp/jfa/terminology/
+    </script>
+  </body>
+</html>

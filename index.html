@@ -352,7 +352,7 @@ div.point > div {
            <i></i>ツイート
          </a>
         </span>
-        <span class="timestamp"><a :href="possibleStandingsHtml">最大勝ち点順位表</a></span>
+        <span class="timestamp"><a :href="possibleStandingsHtml">おまけ：最大勝ち点順位表</a></span>
       </div>
       <div id="table-area" class="flex-container">
         <div v-for="(team_results, club_name) in results[division]" :key="club_name" class="col" :style="{order: rank(club_name)}">
@@ -395,7 +395,7 @@ div.point > div {
     },
     computed: {
       divisionU: function(){ return this.division.toUpperCase();},
-      possibleStandingsHtml: function(){ return `possible-standings-${this.division}.html`;},
+      possibleStandingsHtml: function(){ return `possible-standings.html?division=${this.division}`;},
     },
     methods: {
       match_result: function(match){
