@@ -55,14 +55,13 @@ span.timestamp { font-size: small; }
       </table>
     </div>
     <script>
-Vue.config.devtools = true;
+// Vue.config.devtools = true;
 
 function createVue(json_data)
 {
   var vm = new Vue({
   el: "#app",
   data: {
-    results: json_data.results,
     clubs: json_data.clubs,
     division: getDivision(),
     updated_at: json_data.updated_at,
@@ -70,33 +69,18 @@ function createVue(json_data)
   },
   computed: {
     divisionU: function(){ return this.division.toUpperCase(); },
-    possibleRanking: function(){ return possible_ranking(this.clubs, this.results[this.division]); },
+    possibleRanking: function(){ return possible_ranking(this.clubs, this.division); },
     indexHtml: function(){ return `index.html?division=${this.division}`; },
   },
   methods: {
-    get_club: function(club_name){ return this.clubs.find( c => c.j_name == club_name ) },
-    e_name: function(club_name){ return this.get_club(club_name).name },
-    full_name: function(club_name){ return this.get_club(club_name).full_name },
-    win_point: function(club_name){ return this.get_club(club_name).win_point },
-    left_games: function(club_name){ return this.results[this.division][club_name].filter(r => r.point == null || r.point == "suspended").length },
   },
   });
 }
 
-function possible_ranking(clubs, results)
+function possible_ranking(clubs, div)
 {
-  clubs_in_the_div = []
-  clubs.forEach( club => {
-    club_name = club.j_name
-    if (!results[club_name]) return;
-    win_point = club.win_point;
-    games_left = results[club_name].filter(r => r.point == null || r.point == "suspended").length,
-    club.left = games_left;
-    club.max_win_point = win_point + games_left * 3;
-    clubs_in_the_div.push(club);
-  });
-
-  possible_ranking = clubs_in_the_div.sort( (a,b) => {
+  const clubs_in_the_div = clubs.filter( club => club["league"] == div )
+  const possible_ranking = clubs_in_the_div.sort( (a,b) => {
     if (a.max_win_point > b.max_win_point) return -1;
     if (a.max_win_point < b.max_win_point) return 1;
     if (a.left <= b.left ) return -1;
