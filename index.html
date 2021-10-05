@@ -549,6 +549,10 @@ fetch("./results.json", {
   // console.log("get results.json")
   createVue(json)
   document.getElementById("app").style = "display: block"
+  document.body.onclick = function(){
+    let tooltips = document.getElementsByClassName("tooltip");
+    for(let i=0; i < tooltips.length; i++){ tooltips[i].setAttribute("aria-hidden", true); }
+  };
 })
  .catch(response => {
   console.error("ERROR")
