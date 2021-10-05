@@ -208,7 +208,7 @@ div.point > div {
 }
 .tooltip .tooltip-inner table td {
   font-size: 14px;
-  padding: 0;
+  padding: 0 0.2em;
   margin: 0;
 }
 .tooltip .tooltip-inner .current {
@@ -376,7 +376,7 @@ div.point > div {
        ◆ タイトルをタップするとリーグを切り替えられます</br>
        ◆ セルをタップすると前後の日程・結果を表示します</br>
        ◆ 勝ち点をタップすると詳細な成績を表示します<br/>
-       ◆ 太い枠線はリーグ連戦（中３日以内）を表しています
+       ◆ 太い枠線はリーグ連戦（中３日以内）を表しています（※他大会は考慮外です）
     </div>
     <script>
   Vue.config.devtools = true;
@@ -463,7 +463,7 @@ div.point > div {
         for(i = begin; i <= end; i++){
           match = results[i];
           var sec = `第${match.sec}節`;
-          var date = match.date // .replace(/・[祝休]/, '');
+          var date = match.date.replace(/・[祝休]/, '').replace(/^0/, "&nbsp;").replace(/\/0/, "/");
           // if (date == '未定') date = '未定' + '　&nbsp;　';
           var time = match.time;
           // vs  = match.home ? `${club_name}vs${match.opponent}` : `${match.opponent}vs${club_name}`
