@@ -25552,13 +25552,13 @@
         {
           "sec": 20,
           "date": "10/20(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "102002"
         },
@@ -27016,13 +27016,13 @@
         {
           "sec": 20,
           "date": "10/20(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "長野",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "102002"
         },
@@ -27501,14 +27501,14 @@
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
       "rank": 11,
-      "win_point": 24,
+      "win_point": 25,
       "wins": 6,
-      "draws": 6,
+      "draws": 7,
       "loses": 9,
       "goals_for": 20,
       "goals_against": 32,
-      "max_win_point": 45,
-      "matches_left": 7
+      "max_win_point": 43,
+      "matches_left": 6
     },
     {
       "j_name": "岩手",
@@ -27951,14 +27951,14 @@
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
       "rank": 9,
-      "win_point": 26,
+      "win_point": 27,
       "wins": 6,
-      "draws": 8,
+      "draws": 9,
       "loses": 7,
       "goals_for": 26,
       "goals_against": 21,
-      "max_win_point": 47,
-      "matches_left": 7
+      "max_win_point": 45,
+      "matches_left": 6
     },
     {
       "j_name": "新潟",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-17T18:36:03+09:00"
+  "updated_at": "2021-10-20T23:35:11+09:00"
 }
