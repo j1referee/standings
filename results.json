@@ -1415,11 +1415,11 @@
           "date": "10/22(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "5-1",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 5,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "102201"
         },
@@ -7863,11 +7863,11 @@
           "date": "10/22(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "5-1",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 5,
+          "point": 0,
           "home": false,
           "mid": "102201"
         },
@@ -27680,15 +27680,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 5,
-      "win_point": 55,
-      "wins": 16,
+      "rank": 4,
+      "win_point": 58,
+      "wins": 17,
       "draws": 7,
       "loses": 9,
-      "goals_for": 37,
-      "goals_against": 33,
+      "goals_for": 42,
+      "goals_against": 34,
       "max_win_point": 73,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "大宮",
@@ -27738,11 +27738,11 @@
       "win_point": 37,
       "wins": 11,
       "draws": 4,
-      "loses": 17,
-      "goals_for": 32,
-      "goals_against": 43,
-      "max_win_point": 55,
-      "matches_left": 6
+      "loses": 18,
+      "goals_for": 33,
+      "goals_against": 48,
+      "max_win_point": 52,
+      "matches_left": 5
     },
     {
       "j_name": "FC東京",
@@ -28094,7 +28094,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 4,
+      "rank": 5,
       "win_point": 57,
       "wins": 17,
       "draws": 6,
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-22T21:02:04+09:00"
+  "updated_at": "2021-10-22T21:06:04+09:00"
 }
