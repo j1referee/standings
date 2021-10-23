@@ -6871,11 +6871,11 @@
           "date": "10/23(土)",
           "time": "17:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "102307"
         },
@@ -8855,11 +8855,11 @@
           "date": "10/23(土)",
           "time": "17:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "102307"
         },
@@ -27734,7 +27734,7 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 13,
+      "rank": 14,
       "win_point": 37,
       "wins": 11,
       "draws": 4,
@@ -28148,15 +28148,15 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 14,
-      "win_point": 34,
-      "wins": 9,
+      "rank": 13,
+      "win_point": 37,
+      "wins": 10,
       "draws": 7,
       "loses": 16,
-      "goals_for": 26,
+      "goals_for": 27,
       "goals_against": 40,
       "max_win_point": 52,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "C大阪",
@@ -28386,11 +28386,11 @@
       "win_point": 52,
       "wins": 14,
       "draws": 10,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 39,
-      "goals_against": 30,
-      "max_win_point": 70,
-      "matches_left": 6
+      "goals_against": 31,
+      "max_win_point": 67,
+      "matches_left": 5
     },
     {
       "j_name": "長崎",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-23T17:42:04+09:00"
+  "updated_at": "2021-10-23T19:00:04+09:00"
 }
