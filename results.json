@@ -2903,11 +2903,11 @@
           "date": "10/23(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "湘南",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102305"
         },
@@ -6375,11 +6375,11 @@
           "date": "10/23(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "横浜FC",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102305"
         },
@@ -19685,7 +19685,7 @@
         {
           "sec": 35,
           "date": "10/23(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j2",
           "score": "2-2",
           "opponent": "磐田",
@@ -20781,7 +20781,7 @@
         {
           "sec": 35,
           "date": "10/23(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j2",
           "score": "2-2",
           "opponent": "愛媛",
@@ -25918,7 +25918,7 @@
         {
           "sec": 24,
           "date": "10/23(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "3-1",
           "opponent": "沼津",
@@ -27395,7 +27395,7 @@
         {
           "sec": 24,
           "date": "10/23(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "3-1",
           "opponent": "鹿児島",
@@ -27846,11 +27846,11 @@
       "win_point": 25,
       "wins": 6,
       "draws": 7,
-      "loses": 20,
-      "goals_for": 31,
-      "goals_against": 71,
-      "max_win_point": 40,
-      "matches_left": 5
+      "loses": 19,
+      "goals_for": 30,
+      "goals_against": 69,
+      "max_win_point": 43,
+      "matches_left": 6
     },
     {
       "j_name": "YS横浜",
@@ -27878,15 +27878,15 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 16,
-      "win_point": 31,
-      "wins": 6,
+      "rank": 17,
+      "win_point": 28,
+      "wins": 5,
       "draws": 13,
       "loses": 14,
-      "goals_for": 33,
-      "goals_against": 39,
+      "goals_for": 31,
+      "goals_against": 38,
       "max_win_point": 46,
-      "matches_left": 5
+      "matches_left": 6
     },
     {
       "j_name": "相模原",
@@ -28292,7 +28292,7 @@
       "league": "j1",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 17,
+      "rank": 16,
       "win_point": 30,
       "wins": 8,
       "draws": 6,
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-23T17:16:04+09:00"
+  "updated_at": "2021-10-23T17:20:04+09:00"
 }
