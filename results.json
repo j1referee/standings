@@ -1911,11 +1911,11 @@
           "date": "10/23(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "鹿島",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102303"
         },
@@ -5383,11 +5383,11 @@
           "date": "10/23(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "FC東京",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102303"
         },
@@ -10371,11 +10371,11 @@
           "date": "10/23(土)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "102312"
         },
@@ -15303,11 +15303,11 @@
           "date": "10/23(土)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "長崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "102312"
         },
@@ -27609,14 +27609,14 @@
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
       "rank": 6,
-      "win_point": 56,
-      "wins": 17,
+      "win_point": 53,
+      "wins": 16,
       "draws": 5,
       "loses": 11,
-      "goals_for": 55,
-      "goals_against": 35,
+      "goals_for": 53,
+      "goals_against": 34,
       "max_win_point": 71,
-      "matches_left": 5
+      "matches_left": 6
     },
     {
       "j_name": "水戸",
@@ -27756,11 +27756,11 @@
       "win_point": 46,
       "wins": 13,
       "draws": 7,
-      "loses": 13,
-      "goals_for": 43,
-      "goals_against": 42,
-      "max_win_point": 61,
-      "matches_left": 5
+      "loses": 12,
+      "goals_for": 42,
+      "goals_against": 40,
+      "max_win_point": 64,
+      "matches_left": 6
     },
     {
       "j_name": "東京V",
@@ -27915,14 +27915,14 @@
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
       "rank": 3,
-      "win_point": 63,
-      "wins": 18,
+      "win_point": 66,
+      "wins": 19,
       "draws": 9,
       "loses": 7,
-      "goals_for": 52,
-      "goals_against": 30,
+      "goals_for": 54,
+      "goals_against": 31,
       "max_win_point": 87,
-      "matches_left": 8
+      "matches_left": 7
     },
     {
       "j_name": "松本",
@@ -28404,11 +28404,11 @@
       "win_point": 62,
       "wins": 18,
       "draws": 8,
-      "loses": 8,
-      "goals_for": 52,
-      "goals_against": 36,
-      "max_win_point": 86,
-      "matches_left": 8
+      "loses": 9,
+      "goals_for": 53,
+      "goals_against": 38,
+      "max_win_point": 83,
+      "matches_left": 7
     },
     {
       "j_name": "熊本",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-23T16:30:04+09:00"
+  "updated_at": "2021-10-23T16:32:03+09:00"
 }
