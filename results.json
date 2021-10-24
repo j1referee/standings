@@ -919,11 +919,11 @@
           "date": "10/24(日)",
           "time": "19:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "C大阪",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102414"
         },
@@ -7367,11 +7367,11 @@
           "date": "10/24(日)",
           "time": "19:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "横浜FM",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102414"
         },
@@ -27828,11 +27828,11 @@
       "win_point": 72,
       "wins": 22,
       "draws": 6,
-      "loses": 5,
-      "goals_for": 70,
-      "goals_against": 31,
-      "max_win_point": 87,
-      "matches_left": 5
+      "loses": 4,
+      "goals_for": 69,
+      "goals_against": 29,
+      "max_win_point": 90,
+      "matches_left": 6
     },
     {
       "j_name": "横浜FC",
@@ -28167,14 +28167,14 @@
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
       "rank": 12,
-      "win_point": 42,
-      "wins": 11,
+      "win_point": 39,
+      "wins": 10,
       "draws": 9,
       "loses": 13,
-      "goals_for": 42,
-      "goals_against": 43,
+      "goals_for": 40,
+      "goals_against": 42,
       "max_win_point": 57,
-      "matches_left": 5
+      "matches_left": 6
     },
     {
       "j_name": "神戸",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-24T21:00:04+09:00"
+  "updated_at": "2021-10-24T21:02:03+09:00"
 }
