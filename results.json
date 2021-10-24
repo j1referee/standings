@@ -423,11 +423,11 @@
           "date": "10/24(日)",
           "time": "17:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "清水",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "102413"
         },
@@ -5879,11 +5879,11 @@
           "date": "10/24(日)",
           "time": "17:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "102413"
         },
@@ -27807,14 +27807,14 @@
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
       "rank": 1,
-      "win_point": 81,
-      "wins": 25,
+      "win_point": 84,
+      "wins": 26,
       "draws": 6,
       "loses": 1,
-      "goals_for": 69,
+      "goals_for": 70,
       "goals_against": 21,
       "max_win_point": 99,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "横浜FM",
@@ -28026,11 +28026,11 @@
       "win_point": 32,
       "wins": 7,
       "draws": 11,
-      "loses": 14,
+      "loses": 15,
       "goals_for": 31,
-      "goals_against": 46,
-      "max_win_point": 50,
-      "matches_left": 6
+      "goals_against": 47,
+      "max_win_point": 47,
+      "matches_left": 5
     },
     {
       "j_name": "磐田",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-24T19:12:03+09:00"
+  "updated_at": "2021-10-24T19:16:03+09:00"
 }
