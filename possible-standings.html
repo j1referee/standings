@@ -50,7 +50,7 @@ span.timestamp { font-size: small; }
       </div>
       <table>
         <tr v-for="(team, idx) in possibleRanking" :key="idx">
-          <td>{{idx+1}}</td><td>{{team.j_name}}</td><td class="right">{{team.max_win_point}}</td><td>（残 {{team.left}}）</td>
+          <td>{{idx+1}}</td><td>{{team.j_name}}</td><td class="right">{{team.max_win_point}}</td><td>（残 {{team.matches_left}}）</td>
         </tr>
       </table>
     </div>
@@ -83,7 +83,7 @@ function possible_ranking(clubs, div)
   const possible_ranking = clubs_in_the_div.sort( (a,b) => {
     if (a.max_win_point > b.max_win_point) return -1;
     if (a.max_win_point < b.max_win_point) return 1;
-    if (a.left <= b.left ) return -1;
+    if (a.matches_left <= b.matches_left ) return -1;
   });
   return possible_ranking;
 }
