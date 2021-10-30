@@ -11478,13 +11478,13 @@
         {
           "sec": 36,
           "date": "10/30(土)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "103007"
         },
@@ -12574,13 +12574,13 @@
         {
           "sec": 36,
           "date": "10/30(土)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "北九州",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "103007"
         },
@@ -14218,7 +14218,7 @@
         {
           "sec": 36,
           "date": "10/30(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "1-2",
           "opponent": "磐田",
@@ -20794,7 +20794,7 @@
         {
           "sec": 36,
           "date": "10/30(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "1-2",
           "opponent": "大宮",
@@ -27896,15 +27896,15 @@
       "league": "j2",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 22,
-      "win_point": 30,
-      "wins": 6,
+      "rank": 19,
+      "win_point": 33,
+      "wins": 7,
       "draws": 12,
       "loses": 17,
-      "goals_for": 25,
-      "goals_against": 43,
+      "goals_for": 27,
+      "goals_against": 44,
       "max_win_point": 51,
-      "matches_left": 7
+      "matches_left": 6
     },
     {
       "j_name": "甲府",
@@ -27932,7 +27932,7 @@
       "league": "j2",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 21,
+      "rank": 22,
       "win_point": 31,
       "wins": 7,
       "draws": 10,
@@ -28310,7 +28310,7 @@
       "league": "j2",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 19,
+      "rank": 20,
       "win_point": 33,
       "wins": 7,
       "draws": 12,
@@ -28364,15 +28364,15 @@
       "league": "j2",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 20,
+      "rank": 21,
       "win_point": 31,
       "wins": 6,
       "draws": 13,
-      "loses": 16,
-      "goals_for": 31,
-      "goals_against": 54,
-      "max_win_point": 52,
-      "matches_left": 7
+      "loses": 17,
+      "goals_for": 32,
+      "goals_against": 56,
+      "max_win_point": 49,
+      "matches_left": 6
     },
     {
       "j_name": "鳥栖",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-30T16:20:04+09:00"
+  "updated_at": "2021-10-30T16:30:04+09:00"
 }
