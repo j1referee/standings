@@ -22273,11 +22273,11 @@
           "date": "10/30(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "富山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "103011"
         },
@@ -22639,11 +22639,11 @@
           "date": "10/30(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "103011"
         },
@@ -27860,15 +27860,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 8,
-      "win_point": 31,
-      "wins": 8,
+      "rank": 7,
+      "win_point": 34,
+      "wins": 9,
       "draws": 7,
       "loses": 7,
-      "goals_for": 24,
+      "goals_for": 25,
       "goals_against": 26,
       "max_win_point": 49,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "湘南",
@@ -27990,11 +27990,11 @@
       "win_point": 41,
       "wins": 12,
       "draws": 5,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 35,
-      "goals_against": 26,
-      "max_win_point": 59,
-      "matches_left": 6
+      "goals_against": 27,
+      "max_win_point": 56,
+      "matches_left": 5
     },
     {
       "j_name": "金沢",
@@ -28472,7 +28472,7 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 7,
+      "rank": 8,
       "win_point": 32,
       "wins": 9,
       "draws": 5,
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-30T15:20:03+09:00"
+  "updated_at": "2021-10-30T15:30:04+09:00"
 }
