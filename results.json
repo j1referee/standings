@@ -16960,11 +16960,11 @@
           "date": "10/30(土)",
           "time": "18:30",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "琉球",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "103009"
         },
@@ -20248,11 +20248,11 @@
           "date": "10/30(土)",
           "time": "18:30",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "町田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "103009"
         },
@@ -27789,14 +27789,14 @@
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
       "rank": 7,
-      "win_point": 59,
+      "win_point": 60,
       "wins": 17,
-      "draws": 8,
+      "draws": 9,
       "loses": 10,
       "goals_for": 53,
       "goals_against": 32,
-      "max_win_point": 80,
-      "matches_left": 7
+      "max_win_point": 78,
+      "matches_left": 6
     },
     {
       "j_name": "川崎F",
@@ -28491,14 +28491,14 @@
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
       "rank": 8,
-      "win_point": 55,
+      "win_point": 56,
       "wins": 16,
-      "draws": 7,
+      "draws": 8,
       "loses": 12,
       "goals_for": 49,
       "goals_against": 39,
-      "max_win_point": 76,
-      "matches_left": 7
+      "max_win_point": 74,
+      "matches_left": 6
     },
     {
       "j_name": "F東23",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-30T20:32:03+09:00"
+  "updated_at": "2021-10-30T20:36:03+09:00"
 }
