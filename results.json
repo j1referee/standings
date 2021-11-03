@@ -12589,11 +12589,11 @@
           "date": "11/03(水・祝)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "秋田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "110305"
         },
@@ -16425,11 +16425,11 @@
           "date": "11/03(水・祝)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "110305"
         },
@@ -27554,15 +27554,15 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 13,
-      "win_point": 43,
-      "wins": 10,
+      "rank": 12,
+      "win_point": 46,
+      "wins": 11,
       "draws": 13,
       "loses": 13,
-      "goals_for": 36,
+      "goals_for": 37,
       "goals_against": 41,
       "max_win_point": 61,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "山形",
@@ -27770,7 +27770,7 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 12,
+      "rank": 13,
       "win_point": 45,
       "wins": 12,
       "draws": 9,
@@ -27900,11 +27900,11 @@
       "win_point": 33,
       "wins": 7,
       "draws": 12,
-      "loses": 17,
+      "loses": 18,
       "goals_for": 27,
-      "goals_against": 44,
-      "max_win_point": 51,
-      "matches_left": 6
+      "goals_against": 45,
+      "max_win_point": 48,
+      "matches_left": 5
     },
     {
       "j_name": "甲府",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-10-31T16:42:04+09:00"
+  "updated_at": "2021-11-03T15:02:04+09:00"
 }
