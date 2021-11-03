@@ -7876,11 +7876,11 @@
           "date": "11/03(水・祝)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "名古屋",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110317"
         },
@@ -9860,11 +9860,11 @@
           "date": "11/03(水・祝)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110317"
         },
@@ -27680,7 +27680,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 5,
+      "rank": 4,
       "win_point": 59,
       "wins": 17,
       "draws": 8,
@@ -27738,11 +27738,11 @@
       "win_point": 37,
       "wins": 11,
       "draws": 4,
-      "loses": 19,
+      "loses": 18,
       "goals_for": 33,
-      "goals_against": 50,
-      "max_win_point": 49,
-      "matches_left": 4
+      "goals_against": 48,
+      "max_win_point": 52,
+      "matches_left": 5
     },
     {
       "j_name": "FC東京",
@@ -28094,15 +28094,15 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 4,
-      "win_point": 61,
-      "wins": 18,
+      "rank": 5,
+      "win_point": 58,
+      "wins": 17,
       "draws": 7,
       "loses": 9,
-      "goals_for": 39,
+      "goals_for": 37,
       "goals_against": 26,
       "max_win_point": 73,
-      "matches_left": 4
+      "matches_left": 5
     },
     {
       "j_name": "岐阜",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-03T17:00:04+09:00"
+  "updated_at": "2021-11-03T17:02:03+09:00"
 }
