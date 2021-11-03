@@ -436,11 +436,11 @@
           "date": "11/03(水・祝)",
           "time": "13:05",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "110314"
         },
@@ -932,11 +932,11 @@
           "date": "11/03(水・祝)",
           "time": "13:05",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "110315"
         },
@@ -1428,11 +1428,11 @@
           "date": "11/03(水・祝)",
           "time": "13:05",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "110314"
         },
@@ -8868,11 +8868,11 @@
           "date": "11/03(水・祝)",
           "time": "13:05",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "110315"
         },
@@ -27680,15 +27680,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 5,
-      "win_point": 58,
+      "rank": 4,
+      "win_point": 59,
       "wins": 17,
-      "draws": 7,
+      "draws": 8,
       "loses": 9,
-      "goals_for": 42,
-      "goals_against": 34,
-      "max_win_point": 73,
-      "matches_left": 5
+      "goals_for": 43,
+      "goals_against": 35,
+      "max_win_point": 71,
+      "matches_left": 4
     },
     {
       "j_name": "大宮",
@@ -27807,14 +27807,14 @@
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
       "rank": 1,
-      "win_point": 84,
+      "win_point": 85,
       "wins": 26,
-      "draws": 6,
+      "draws": 7,
       "loses": 1,
-      "goals_for": 70,
-      "goals_against": 21,
-      "max_win_point": 99,
-      "matches_left": 5
+      "goals_for": 71,
+      "goals_against": 22,
+      "max_win_point": 97,
+      "matches_left": 4
     },
     {
       "j_name": "横浜FM",
@@ -27828,11 +27828,11 @@
       "win_point": 72,
       "wins": 22,
       "draws": 6,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 70,
-      "goals_against": 31,
-      "max_win_point": 87,
-      "matches_left": 5
+      "goals_against": 32,
+      "max_win_point": 84,
+      "matches_left": 4
     },
     {
       "j_name": "横浜FC",
@@ -28094,7 +28094,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 4,
+      "rank": 5,
       "win_point": 58,
       "wins": 17,
       "draws": 7,
@@ -28149,14 +28149,14 @@
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
       "rank": 13,
-      "win_point": 37,
-      "wins": 10,
+      "win_point": 40,
+      "wins": 11,
       "draws": 7,
       "loses": 16,
-      "goals_for": 27,
+      "goals_for": 28,
       "goals_against": 40,
       "max_win_point": 52,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "C大阪",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-03T15:20:06+09:00"
+  "updated_at": "2021-11-03T15:30:04+09:00"
 }
