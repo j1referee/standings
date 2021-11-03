@@ -10943,13 +10943,13 @@
         {
           "sec": 37,
           "date": "11/03(水・祝)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "愛媛",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "110308"
         },
@@ -19711,13 +19711,13 @@
         {
           "sec": 37,
           "date": "11/03(水・祝)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "金沢",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "110308"
         },
@@ -27662,7 +27662,7 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 17,
+      "rank": 18,
       "win_point": 37,
       "wins": 9,
       "draws": 10,
@@ -28004,15 +28004,15 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 18,
-      "win_point": 34,
-      "wins": 8,
+      "rank": 17,
+      "win_point": 37,
+      "wins": 9,
       "draws": 10,
       "loses": 18,
-      "goals_for": 34,
-      "goals_against": 51,
+      "goals_for": 36,
+      "goals_against": 52,
       "max_win_point": 52,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "清水",
@@ -28314,11 +28314,11 @@
       "win_point": 33,
       "wins": 7,
       "draws": 12,
-      "loses": 17,
-      "goals_for": 34,
-      "goals_against": 58,
-      "max_win_point": 51,
-      "matches_left": 6
+      "loses": 18,
+      "goals_for": 35,
+      "goals_against": 60,
+      "max_win_point": 48,
+      "matches_left": 5
     },
     {
       "j_name": "今治",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-03T20:20:04+09:00"
+  "updated_at": "2021-11-03T20:30:04+09:00"
 }
