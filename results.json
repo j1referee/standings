@@ -2433,11 +2433,11 @@
           "date": "11/06(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "清水",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "110606"
         },
@@ -5905,11 +5905,11 @@
           "date": "11/06(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "110606"
         },
@@ -27483,14 +27483,14 @@
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
       "rank": 12,
-      "win_point": 44,
+      "win_point": 45,
       "wins": 12,
-      "draws": 8,
+      "draws": 9,
       "loses": 14,
-      "goals_for": 42,
-      "goals_against": 46,
-      "max_win_point": 56,
-      "matches_left": 4
+      "goals_for": 44,
+      "goals_against": 48,
+      "max_win_point": 54,
+      "matches_left": 3
     },
     {
       "j_name": "八戸",
@@ -27878,7 +27878,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 15,
+      "rank": 16,
       "win_point": 32,
       "wins": 6,
       "draws": 14,
@@ -28022,15 +28022,15 @@
       "league": "j1",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 16,
-      "win_point": 32,
+      "rank": 15,
+      "win_point": 33,
       "wins": 7,
-      "draws": 11,
+      "draws": 12,
       "loses": 16,
-      "goals_for": 31,
-      "goals_against": 51,
-      "max_win_point": 44,
-      "matches_left": 4
+      "goals_for": 33,
+      "goals_against": 53,
+      "max_win_point": 42,
+      "matches_left": 3
     },
     {
       "j_name": "磐田",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-03T20:30:04+09:00"
+  "updated_at": "2021-11-06T16:00:04+09:00"
 }
