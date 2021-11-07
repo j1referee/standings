@@ -2929,11 +2929,11 @@
           "date": "11/07(日)",
           "time": "15:00",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110723"
         },
@@ -9377,11 +9377,11 @@
           "date": "11/07(日)",
           "time": "15:00",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "横浜FC",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110723"
         },
@@ -27843,14 +27843,14 @@
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
       "rank": 20,
-      "win_point": 27,
+      "win_point": 26,
       "wins": 6,
-      "draws": 9,
+      "draws": 8,
       "loses": 20,
-      "goals_for": 32,
-      "goals_against": 72,
-      "max_win_point": 36,
-      "matches_left": 3
+      "goals_for": 31,
+      "goals_against": 71,
+      "max_win_point": 38,
+      "matches_left": 4
     },
     {
       "j_name": "YS横浜",
@@ -28347,14 +28347,14 @@
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
       "rank": 8,
-      "win_point": 51,
+      "win_point": 50,
       "wins": 14,
-      "draws": 9,
+      "draws": 8,
       "loses": 12,
-      "goals_for": 40,
-      "goals_against": 35,
-      "max_win_point": 60,
-      "matches_left": 3
+      "goals_for": 39,
+      "goals_against": 34,
+      "max_win_point": 62,
+      "matches_left": 4
     },
     {
       "j_name": "北九州",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-07T17:36:04+09:00"
+  "updated_at": "2021-11-07T17:42:03+09:00"
 }
