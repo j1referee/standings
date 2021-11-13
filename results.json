@@ -14807,11 +14807,11 @@
           "date": "11/13(土)",
           "time": "16:00",
           "division": "j2",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "琉球",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "111304"
         },
@@ -20287,11 +20287,11 @@
           "date": "11/13(土)",
           "time": "16:00",
           "division": "j2",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "千葉",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "111304"
         },
@@ -27717,14 +27717,14 @@
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
       "rank": 9,
-      "win_point": 59,
+      "win_point": 58,
       "wins": 15,
-      "draws": 14,
+      "draws": 13,
       "loses": 10,
-      "goals_for": 43,
-      "goals_against": 35,
-      "max_win_point": 68,
-      "matches_left": 3
+      "goals_for": 41,
+      "goals_against": 33,
+      "max_win_point": 70,
+      "matches_left": 4
     },
     {
       "j_name": "柏",
@@ -28491,14 +28491,14 @@
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
       "rank": 8,
-      "win_point": 60,
+      "win_point": 59,
       "wins": 17,
-      "draws": 9,
+      "draws": 8,
       "loses": 13,
-      "goals_for": 53,
-      "goals_against": 44,
-      "max_win_point": 69,
-      "matches_left": 3
+      "goals_for": 51,
+      "goals_against": 42,
+      "max_win_point": 71,
+      "matches_left": 4
     },
     {
       "j_name": "F東23",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-13T18:30:04+09:00"
+  "updated_at": "2021-11-13T18:32:03+09:00"
 }
