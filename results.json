@@ -15355,11 +15355,11 @@
           "date": "11/14(日)",
           "time": "13:05",
           "division": "j2",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "111405"
         },
@@ -21931,11 +21931,11 @@
           "date": "11/14(日)",
           "time": "13:05",
           "division": "j2",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "111405"
         },
@@ -23044,11 +23044,11 @@
           "date": "11/14(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "4-3",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 3,
+          "point": 3,
           "home": true,
           "mid": "111414"
         },
@@ -26691,11 +26691,11 @@
           "date": "11/14(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "4-3",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "111414"
         },
@@ -27915,14 +27915,14 @@
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
       "rank": 4,
-      "win_point": 70,
-      "wins": 20,
+      "win_point": 73,
+      "wins": 21,
       "draws": 10,
       "loses": 8,
-      "goals_for": 56,
-      "goals_against": 33,
+      "goals_for": 59,
+      "goals_against": 35,
       "max_win_point": 82,
-      "matches_left": 4
+      "matches_left": 3
     },
     {
       "j_name": "松本",
@@ -27936,11 +27936,11 @@
       "win_point": 32,
       "wins": 7,
       "draws": 11,
-      "loses": 20,
-      "goals_for": 31,
-      "goals_against": 64,
-      "max_win_point": 44,
-      "matches_left": 4
+      "loses": 21,
+      "goals_for": 33,
+      "goals_against": 67,
+      "max_win_point": 41,
+      "matches_left": 3
     },
     {
       "j_name": "長野",
@@ -28116,11 +28116,11 @@
       "win_point": 40,
       "wins": 12,
       "draws": 4,
-      "loses": 8,
-      "goals_for": 34,
-      "goals_against": 27,
-      "max_win_point": 52,
-      "matches_left": 4
+      "loses": 9,
+      "goals_for": 37,
+      "goals_against": 31,
+      "max_win_point": 49,
+      "matches_left": 3
     },
     {
       "j_name": "京都",
@@ -28418,7 +28418,7 @@
       "league": "j3",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 1,
+      "rank": 2,
       "win_point": 47,
       "wins": 13,
       "draws": 8,
@@ -28454,15 +28454,15 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 2,
-      "win_point": 47,
-      "wins": 14,
+      "rank": 1,
+      "win_point": 50,
+      "wins": 15,
       "draws": 5,
       "loses": 6,
-      "goals_for": 38,
-      "goals_against": 26,
+      "goals_for": 42,
+      "goals_against": 29,
       "max_win_point": 56,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "鹿児島",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-14T15:20:04+09:00"
+  "updated_at": "2021-11-14T15:30:04+09:00"
 }
