@@ -2940,7 +2940,7 @@
         {
           "sec": 36,
           "date": "11/20(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "0-2",
           "opponent": "神戸",
@@ -3438,11 +3438,11 @@
           "date": "11/20(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "鹿島",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "112002"
         },
@@ -4428,7 +4428,7 @@
         {
           "sec": 36,
           "date": "11/20(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "清水",
@@ -5422,11 +5422,11 @@
           "date": "11/20(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "大分",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "112002"
         },
@@ -5916,7 +5916,7 @@
         {
           "sec": 36,
           "date": "11/20(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "広島",
@@ -8396,7 +8396,7 @@
         {
           "sec": 36,
           "date": "11/20(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "0-2",
           "opponent": "横浜FC",
@@ -27609,14 +27609,14 @@
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
       "rank": 5,
-      "win_point": 63,
+      "win_point": 62,
       "wins": 19,
-      "draws": 6,
+      "draws": 5,
       "loses": 11,
       "goals_for": 60,
       "goals_against": 36,
-      "max_win_point": 69,
-      "matches_left": 2
+      "max_win_point": 71,
+      "matches_left": 3
     },
     {
       "j_name": "水戸",
@@ -28437,14 +28437,14 @@
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
       "rank": 18,
-      "win_point": 29,
+      "win_point": 28,
       "wins": 7,
-      "draws": 8,
+      "draws": 7,
       "loses": 21,
       "goals_for": 26,
       "goals_against": 53,
-      "max_win_point": 35,
-      "matches_left": 2
+      "max_win_point": 37,
+      "matches_left": 3
     },
     {
       "j_name": "宮崎",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-20T17:16:04+09:00"
+  "updated_at": "2021-11-20T17:20:04+09:00"
 }
