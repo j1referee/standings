@@ -22312,11 +22312,11 @@
           "date": "11/21(日)",
           "time": "13:10",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "112115"
         },
@@ -24874,11 +24874,11 @@
           "date": "11/21(日)",
           "time": "13:10",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "112115"
         },
@@ -27518,7 +27518,7 @@
       "league": "j3",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 2,
+      "rank": 3,
       "win_point": 49,
       "wins": 14,
       "draws": 7,
@@ -27864,11 +27864,11 @@
       "win_point": 37,
       "wins": 10,
       "draws": 7,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 28,
-      "goals_against": 30,
-      "max_win_point": 46,
-      "matches_left": 3
+      "goals_against": 31,
+      "max_win_point": 43,
+      "matches_left": 2
     },
     {
       "j_name": "湘南",
@@ -28418,15 +28418,15 @@
       "league": "j3",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 3,
-      "win_point": 48,
-      "wins": 13,
+      "rank": 1,
+      "win_point": 51,
+      "wins": 14,
       "draws": 9,
       "loses": 3,
-      "goals_for": 36,
+      "goals_for": 37,
       "goals_against": 19,
       "max_win_point": 57,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "大分",
@@ -28454,7 +28454,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 1,
+      "rank": 2,
       "win_point": 50,
       "wins": 15,
       "draws": 5,
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-21T15:30:04+09:00"
+  "updated_at": "2021-11-21T15:32:03+09:00"
 }
