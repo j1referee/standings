@@ -17012,11 +17012,11 @@
           "date": "11/21(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "3-5",
           "opponent": "山形",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 5,
+          "goals_against": 3,
+          "point": 3,
           "home": false,
           "mid": "112102"
         },
@@ -17560,11 +17560,11 @@
           "date": "11/21(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "3-5",
           "opponent": "町田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 5,
+          "point": 0,
           "home": true,
           "mid": "112102"
         },
@@ -27576,11 +27576,11 @@
       "win_point": 65,
       "wins": 19,
       "draws": 8,
-      "loses": 12,
-      "goals_for": 52,
-      "goals_against": 41,
-      "max_win_point": 74,
-      "matches_left": 3
+      "loses": 13,
+      "goals_for": 55,
+      "goals_against": 46,
+      "max_win_point": 71,
+      "matches_left": 2
     },
     {
       "j_name": "福島",
@@ -27788,15 +27788,15 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 6,
-      "win_point": 65,
-      "wins": 18,
+      "rank": 5,
+      "win_point": 68,
+      "wins": 19,
       "draws": 11,
       "loses": 10,
-      "goals_for": 57,
-      "goals_against": 35,
+      "goals_for": 62,
+      "goals_against": 38,
       "max_win_point": 74,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "川崎F",
@@ -27968,7 +27968,7 @@
       "league": "j2",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 5,
+      "rank": 6,
       "win_point": 67,
       "wins": 18,
       "draws": 13,
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-21T16:30:04+09:00"
+  "updated_at": "2021-11-21T16:32:04+09:00"
 }
