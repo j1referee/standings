@@ -10997,11 +10997,11 @@
           "date": "11/28(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "山形",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "112807"
         },
@@ -17573,11 +17573,11 @@
           "date": "11/28(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "金沢",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "112807"
         },
@@ -27576,11 +27576,11 @@
       "win_point": 65,
       "wins": 19,
       "draws": 8,
-      "loses": 13,
-      "goals_for": 55,
-      "goals_against": 46,
-      "max_win_point": 71,
-      "matches_left": 2
+      "loses": 14,
+      "goals_for": 56,
+      "goals_against": 48,
+      "max_win_point": 68,
+      "matches_left": 1
     },
     {
       "j_name": "福島",
@@ -27698,7 +27698,7 @@
       "league": "j2",
       "hash_tag": "#ardija",
       "full_name": "大宮アルディージャ",
-      "rank": 17,
+      "rank": 18,
       "win_point": 39,
       "wins": 8,
       "draws": 15,
@@ -27896,7 +27896,7 @@
       "league": "j2",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 18,
+      "rank": 19,
       "win_point": 38,
       "wins": 8,
       "draws": 14,
@@ -28004,15 +28004,15 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 19,
-      "win_point": 37,
-      "wins": 9,
+      "rank": 17,
+      "win_point": 40,
+      "wins": 10,
       "draws": 10,
       "loses": 21,
-      "goals_for": 37,
-      "goals_against": 59,
+      "goals_for": 39,
+      "goals_against": 60,
       "max_win_point": 43,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "清水",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-28T16:42:04+09:00"
+  "updated_at": "2021-11-28T16:50:03+09:00"
 }
