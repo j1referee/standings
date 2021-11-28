@@ -16477,11 +16477,11 @@
           "date": "11/28(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-4",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "112801"
         },
@@ -19217,11 +19217,11 @@
           "date": "11/28(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-4",
           "opponent": "秋田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "112801"
         },
@@ -27558,11 +27558,11 @@
       "win_point": 47,
       "wins": 11,
       "draws": 14,
-      "loses": 15,
-      "goals_for": 39,
-      "goals_against": 47,
-      "max_win_point": 53,
-      "matches_left": 2
+      "loses": 16,
+      "goals_for": 40,
+      "goals_against": 51,
+      "max_win_point": 50,
+      "matches_left": 1
     },
     {
       "j_name": "山形",
@@ -27771,14 +27771,14 @@
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
       "rank": 12,
-      "win_point": 52,
-      "wins": 14,
+      "win_point": 55,
+      "wins": 15,
       "draws": 10,
       "loses": 16,
-      "goals_for": 55,
-      "goals_against": 65,
+      "goals_for": 59,
+      "goals_against": 66,
       "max_win_point": 58,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "町田",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-11-28T15:32:04+09:00"
+  "updated_at": "2021-11-28T15:36:04+09:00"
 }
