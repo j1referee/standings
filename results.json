@@ -22338,11 +22338,11 @@
           "date": "12/05(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "藤枝",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "120515"
         }
@@ -24168,11 +24168,11 @@
           "date": "12/05(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "120515"
         }
@@ -27861,14 +27861,14 @@
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
       "rank": 8,
-      "win_point": 40,
-      "wins": 11,
+      "win_point": 37,
+      "wins": 10,
       "draws": 7,
       "loses": 10,
-      "goals_for": 31,
+      "goals_for": 28,
       "goals_against": 33,
       "max_win_point": 40,
-      "matches_left": 0
+      "matches_left": 1
     },
     {
       "j_name": "湘南",
@@ -28062,11 +28062,11 @@
       "win_point": 32,
       "wins": 8,
       "draws": 8,
-      "loses": 12,
+      "loses": 11,
       "goals_for": 42,
-      "goals_against": 42,
-      "max_win_point": 32,
-      "matches_left": 0
+      "goals_against": 39,
+      "max_win_point": 35,
+      "matches_left": 1
     },
     {
       "j_name": "沼津",
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-12-05T16:36:04+09:00"
+  "updated_at": "2021-12-05T16:42:03+09:00"
 }
