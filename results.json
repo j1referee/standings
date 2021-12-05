@@ -22338,11 +22338,11 @@
           "date": "12/05(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-3",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "120515"
         }
@@ -23800,13 +23800,13 @@
         {
           "sec": 30,
           "date": "12/05(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "120512"
         }
@@ -24168,11 +24168,11 @@
           "date": "12/05(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-3",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "120515"
         }
@@ -24898,13 +24898,13 @@
         {
           "sec": 30,
           "date": "12/05(日)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j3",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "120518"
         }
@@ -25264,13 +25264,13 @@
         {
           "sec": 30,
           "date": "12/05(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "福島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "120512"
         }
@@ -26364,11 +26364,11 @@
           "date": "12/05(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "120517"
         }
@@ -26728,13 +26728,13 @@
         {
           "sec": 30,
           "date": "12/05(日)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j3",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "120518"
         }
@@ -27096,11 +27096,11 @@
           "date": "12/05(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "120517"
         }
@@ -27500,15 +27500,15 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 12,
+      "rank": 13,
       "win_point": 29,
       "wins": 7,
       "draws": 8,
-      "loses": 12,
+      "loses": 13,
       "goals_for": 24,
-      "goals_against": 41,
-      "max_win_point": 32,
-      "matches_left": 1
+      "goals_against": 44,
+      "max_win_point": 29,
+      "matches_left": 0
     },
     {
       "j_name": "岩手",
@@ -27518,7 +27518,7 @@
       "league": "j3",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 1,
+      "rank": 2,
       "win_point": 53,
       "wins": 15,
       "draws": 8,
@@ -27591,14 +27591,14 @@
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
       "rank": 5,
-      "win_point": 44,
+      "win_point": 45,
       "wins": 13,
-      "draws": 5,
+      "draws": 6,
       "loses": 9,
-      "goals_for": 40,
-      "goals_against": 31,
-      "max_win_point": 47,
-      "matches_left": 1
+      "goals_for": 41,
+      "goals_against": 32,
+      "max_win_point": 45,
+      "matches_left": 0
     },
     {
       "j_name": "鹿島",
@@ -27861,14 +27861,14 @@
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
       "rank": 8,
-      "win_point": 37,
-      "wins": 10,
+      "win_point": 40,
+      "wins": 11,
       "draws": 7,
       "loses": 10,
-      "goals_for": 28,
+      "goals_for": 31,
       "goals_against": 33,
       "max_win_point": 40,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "湘南",
@@ -28062,11 +28062,11 @@
       "win_point": 32,
       "wins": 8,
       "draws": 8,
-      "loses": 11,
+      "loses": 12,
       "goals_for": 42,
-      "goals_against": 39,
-      "max_win_point": 35,
-      "matches_left": 1
+      "goals_against": 42,
+      "max_win_point": 32,
+      "matches_left": 0
     },
     {
       "j_name": "沼津",
@@ -28076,7 +28076,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 13,
+      "rank": 14,
       "win_point": 27,
       "wins": 7,
       "draws": 6,
@@ -28116,11 +28116,11 @@
       "win_point": 41,
       "wins": 12,
       "draws": 5,
-      "loses": 10,
+      "loses": 11,
       "goals_for": 38,
-      "goals_against": 33,
-      "max_win_point": 44,
-      "matches_left": 1
+      "goals_against": 35,
+      "max_win_point": 41,
+      "matches_left": 0
     },
     {
       "j_name": "京都",
@@ -28202,15 +28202,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 14,
-      "win_point": 26,
-      "wins": 8,
+      "rank": 12,
+      "win_point": 29,
+      "wins": 9,
       "draws": 2,
       "loses": 17,
-      "goals_for": 33,
+      "goals_for": 36,
       "goals_against": 53,
       "max_win_point": 29,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "岡山",
@@ -28275,14 +28275,14 @@
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
       "rank": 15,
-      "win_point": 20,
+      "win_point": 21,
       "wins": 4,
-      "draws": 8,
+      "draws": 9,
       "loses": 15,
-      "goals_for": 19,
-      "goals_against": 40,
-      "max_win_point": 23,
-      "matches_left": 1
+      "goals_for": 20,
+      "goals_against": 41,
+      "max_win_point": 21,
+      "matches_left": 0
     },
     {
       "j_name": "徳島",
@@ -28418,15 +28418,15 @@
       "league": "j3",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 3,
-      "win_point": 51,
-      "wins": 14,
+      "rank": 1,
+      "win_point": 54,
+      "wins": 15,
       "draws": 9,
       "loses": 4,
-      "goals_for": 37,
+      "goals_for": 39,
       "goals_against": 20,
       "max_win_point": 54,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "大分",
@@ -28454,7 +28454,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 2,
+      "rank": 3,
       "win_point": 53,
       "wins": 16,
       "draws": 5,
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-12-05T16:20:04+09:00"
+  "updated_at": "2021-12-05T16:30:05+09:00"
 }
