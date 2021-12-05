@@ -14844,13 +14844,13 @@
         {
           "sec": 42,
           "date": "12/05(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "120510"
         }
@@ -18680,13 +18680,13 @@
         {
           "sec": 42,
           "date": "12/05(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "千葉",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "120510"
         }
@@ -27716,15 +27716,15 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 9,
-      "win_point": 63,
-      "wins": 16,
+      "rank": 8,
+      "win_point": 66,
+      "wins": 17,
       "draws": 15,
       "loses": 10,
-      "goals_for": 45,
-      "goals_against": 35,
+      "goals_for": 48,
+      "goals_against": 36,
       "max_win_point": 66,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "柏",
@@ -28224,11 +28224,11 @@
       "win_point": 59,
       "wins": 15,
       "draws": 14,
-      "loses": 12,
-      "goals_for": 39,
-      "goals_against": 33,
-      "max_win_point": 62,
-      "matches_left": 1
+      "loses": 13,
+      "goals_for": 40,
+      "goals_against": 36,
+      "max_win_point": 59,
+      "matches_left": 0
     },
     {
       "j_name": "広島",
@@ -28490,7 +28490,7 @@
       "league": "j2",
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
-      "rank": 8,
+      "rank": 9,
       "win_point": 65,
       "wins": 18,
       "draws": 11,
@@ -28528,5 +28528,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2021-12-05T15:42:03+09:00"
+  "updated_at": "2021-12-05T15:50:04+09:00"
 }
