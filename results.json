@@ -551,6 +551,19 @@
           "mid": "041601"
         },
         {
+          "sec": 2,
+          "date": "04/20(水)",
+          "time": "19:00",
+          "division": "j1",
+          "score": "vs",
+          "opponent": "名古屋",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "042003"
+        },
+        {
           "sec": 10,
           "date": "04/29(金・祝)",
           "time": "19:00",
@@ -874,15 +887,6 @@
           "point": null,
           "home": true,
           "mid": "110505"
-        },
-        {
-          "sec": 2,
-          "date": "02/26(土)",
-          "time": " ",
-          "opponent": "名古屋",
-          "point": "suspended",
-          "home": true,
-          "mid": "022606"
         }
       ],
       "G大阪": [
@@ -7207,6 +7211,19 @@
           "mid": "041701"
         },
         {
+          "sec": 2,
+          "date": "04/20(水)",
+          "time": "19:00",
+          "division": "j1",
+          "score": "vs",
+          "opponent": "FC東京",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "042003"
+        },
+        {
           "sec": 10,
           "date": "04/28(木)",
           "time": "19:00",
@@ -7530,15 +7547,6 @@
           "point": null,
           "home": false,
           "mid": "110507"
-        },
-        {
-          "sec": 2,
-          "date": "02/26(土)",
-          "time": " ",
-          "opponent": "FC東京",
-          "point": "suspended",
-          "home": false,
-          "mid": "022606"
         }
       ],
       "神戸": [
@@ -29082,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-02-27T17:20:04+09:00"
+  "updated_at": "2022-03-02T20:30:04+09:00"
 }
