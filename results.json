@@ -46,11 +46,11 @@
           "date": "03/02(水)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "030209"
         },
@@ -2266,11 +2266,11 @@
           "date": "03/02(水)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "030209"
         },
@@ -28242,15 +28242,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 16,
+      "rank": 17,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
-      "loses": 2,
-      "goals_for": 2,
-      "goals_against": 4,
-      "max_win_point": 94,
-      "matches_left": 31
+      "loses": 3,
+      "goals_for": 3,
+      "goals_against": 6,
+      "max_win_point": 91,
+      "matches_left": 30
     },
     {
       "j_name": "大宮",
@@ -28296,7 +28296,7 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 1,
+      "rank": 2,
       "win_point": 6,
       "wins": 2,
       "draws": 0,
@@ -28368,15 +28368,15 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 2,
-      "win_point": 6,
-      "wins": 2,
+      "rank": 1,
+      "win_point": 9,
+      "wins": 3,
       "draws": 0,
       "loses": 1,
-      "goals_for": 5,
-      "goals_against": 4,
+      "goals_for": 7,
+      "goals_against": 5,
       "max_win_point": 99,
-      "matches_left": 31
+      "matches_left": 30
     },
     {
       "j_name": "横浜FM",
@@ -28440,7 +28440,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 17,
+      "rank": 16,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-02T21:12:04+09:00"
+  "updated_at": "2022-03-02T21:16:04+09:00"
 }
