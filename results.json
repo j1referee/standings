@@ -1378,11 +1378,11 @@
           "date": "03/11(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "031101"
         },
@@ -7620,11 +7620,11 @@
           "date": "03/11(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "鹿島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "031101"
         },
@@ -28170,15 +28170,15 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 4,
-      "win_point": 6,
-      "wins": 2,
+      "rank": 3,
+      "win_point": 9,
+      "wins": 3,
       "draws": 0,
       "loses": 1,
-      "goals_for": 4,
+      "goals_for": 6,
       "goals_against": 3,
       "max_win_point": 99,
-      "matches_left": 31
+      "matches_left": 30
     },
     {
       "j_name": "水戸",
@@ -28296,7 +28296,7 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 3,
+      "rank": 4,
       "win_point": 6,
       "wins": 2,
       "draws": 0,
@@ -28750,11 +28750,11 @@
       "win_point": 3,
       "wins": 0,
       "draws": 3,
-      "loses": 2,
+      "loses": 3,
       "goals_for": 3,
-      "goals_against": 7,
-      "max_win_point": 90,
-      "matches_left": 29
+      "goals_against": 9,
+      "max_win_point": 87,
+      "matches_left": 28
     },
     {
       "j_name": "鳥取",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-11T21:12:03+09:00"
+  "updated_at": "2022-03-11T21:16:03+09:00"
 }
