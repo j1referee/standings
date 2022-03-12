@@ -5374,11 +5374,11 @@
           "date": "03/12(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "031206"
         },
@@ -6706,11 +6706,11 @@
           "date": "03/12(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "031206"
         },
@@ -28170,7 +28170,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 3,
+      "rank": 4,
       "win_point": 9,
       "wins": 3,
       "draws": 0,
@@ -28296,15 +28296,15 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 4,
-      "win_point": 6,
-      "wins": 2,
+      "rank": 3,
+      "win_point": 9,
+      "wins": 3,
       "draws": 0,
       "loses": 1,
-      "goals_for": 5,
+      "goals_for": 6,
       "goals_against": 2,
       "max_win_point": 99,
-      "matches_left": 31
+      "matches_left": 30
     },
     {
       "j_name": "FC東京",
@@ -28800,7 +28800,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 16,
+      "rank": 15,
       "win_point": 3,
       "wins": 0,
       "draws": 3,
@@ -28908,15 +28908,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 15,
+      "rank": 16,
       "win_point": 3,
       "wins": 0,
       "draws": 3,
-      "loses": 0,
+      "loses": 1,
       "goals_for": 1,
-      "goals_against": 1,
-      "max_win_point": 96,
-      "matches_left": 31
+      "goals_against": 2,
+      "max_win_point": 93,
+      "matches_left": 30
     },
     {
       "j_name": "北九州",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-12T18:02:04+09:00"
+  "updated_at": "2022-03-12T18:06:03+09:00"
 }
