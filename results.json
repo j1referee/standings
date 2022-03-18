@@ -3167,11 +3167,11 @@
           "date": "03/18(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "031801"
         },
@@ -4525,11 +4525,11 @@
           "date": "03/18(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "031801"
         },
@@ -28314,7 +28314,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 5,
+      "rank": 6,
       "win_point": 6,
       "wins": 2,
       "draws": 0,
@@ -28387,14 +28387,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 2,
-      "win_point": 11,
+      "win_point": 12,
       "wins": 3,
-      "draws": 2,
+      "draws": 3,
       "loses": 1,
       "goals_for": 12,
       "goals_against": 8,
-      "max_win_point": 95,
-      "matches_left": 28
+      "max_win_point": 93,
+      "matches_left": 27
     },
     {
       "j_name": "横浜FC",
@@ -28944,15 +28944,15 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 6,
-      "win_point": 6,
+      "rank": 5,
+      "win_point": 7,
       "wins": 1,
-      "draws": 3,
+      "draws": 4,
       "loses": 0,
       "goals_for": 3,
       "goals_against": 2,
-      "max_win_point": 96,
-      "matches_left": 30
+      "max_win_point": 94,
+      "matches_left": 29
     },
     {
       "j_name": "長崎",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-13T17:30:04+09:00"
+  "updated_at": "2022-03-18T21:00:04+09:00"
 }
