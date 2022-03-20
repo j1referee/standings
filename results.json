@@ -11341,11 +11341,11 @@
           "date": "03/20(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "032006"
         },
@@ -15725,11 +15725,11 @@
           "date": "03/20(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "032006"
         },
@@ -28224,7 +28224,7 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 5,
+      "rank": 6,
       "win_point": 8,
       "wins": 2,
       "draws": 2,
@@ -28405,14 +28405,14 @@
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
       "rank": 1,
-      "win_point": 12,
+      "win_point": 13,
       "wins": 4,
-      "draws": 0,
+      "draws": 1,
       "loses": 0,
-      "goals_for": 9,
-      "goals_against": 5,
-      "max_win_point": 126,
-      "matches_left": 38
+      "goals_for": 10,
+      "goals_against": 6,
+      "max_win_point": 124,
+      "matches_left": 37
     },
     {
       "j_name": "YS横浜",
@@ -28782,15 +28782,15 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 6,
-      "win_point": 7,
+      "rank": 5,
+      "win_point": 8,
       "wins": 2,
-      "draws": 1,
+      "draws": 2,
       "loses": 1,
-      "goals_for": 7,
-      "goals_against": 5,
-      "max_win_point": 121,
-      "matches_left": 38
+      "goals_for": 8,
+      "goals_against": 6,
+      "max_win_point": 119,
+      "matches_left": 37
     },
     {
       "j_name": "広島",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-20T16:42:03+09:00"
+  "updated_at": "2022-03-20T16:50:03+09:00"
 }
