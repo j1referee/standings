@@ -21848,11 +21848,11 @@
           "date": "03/20(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "いわき",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "032007"
         },
@@ -24931,11 +24931,11 @@
           "date": "03/20(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "相模原",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "032007"
         },
@@ -28152,15 +28152,15 @@
       "league": "j3",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 8,
-      "win_point": 4,
-      "wins": 1,
+      "rank": 11,
+      "win_point": 1,
+      "wins": 0,
       "draws": 1,
       "loses": 0,
-      "goals_for": 2,
+      "goals_for": 1,
       "goals_against": 1,
       "max_win_point": 100,
-      "matches_left": 32
+      "matches_left": 33
     },
     {
       "j_name": "鹿島",
@@ -28458,15 +28458,15 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 11,
+      "rank": 8,
       "win_point": 3,
       "wins": 1,
       "draws": 0,
-      "loses": 1,
+      "loses": 0,
       "goals_for": 1,
-      "goals_against": 1,
-      "max_win_point": 99,
-      "matches_left": 32
+      "goals_against": 0,
+      "max_win_point": 102,
+      "matches_left": 33
     },
     {
       "j_name": "甲府",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-20T15:36:04+09:00"
+  "updated_at": "2022-03-20T15:42:03+09:00"
 }
