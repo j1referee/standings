@@ -11902,11 +11902,11 @@
           "date": "03/26(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "岡山",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "032610"
         },
@@ -15738,11 +15738,11 @@
           "date": "03/26(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "大宮",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "032610"
         },
@@ -28261,14 +28261,14 @@
       "hash_tag": "#ardija",
       "full_name": "大宮アルディージャ",
       "rank": 22,
-      "win_point": 3,
+      "win_point": 2,
       "wins": 0,
-      "draws": 3,
+      "draws": 2,
       "loses": 3,
-      "goals_for": 7,
-      "goals_against": 11,
-      "max_win_point": 111,
-      "matches_left": 36
+      "goals_for": 6,
+      "goals_against": 10,
+      "max_win_point": 113,
+      "matches_left": 37
     },
     {
       "j_name": "千葉",
@@ -28783,14 +28783,14 @@
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
       "rank": 5,
-      "win_point": 9,
+      "win_point": 8,
       "wins": 2,
-      "draws": 3,
+      "draws": 2,
       "loses": 1,
-      "goals_for": 9,
-      "goals_against": 7,
-      "max_win_point": 117,
-      "matches_left": 36
+      "goals_for": 8,
+      "goals_against": 6,
+      "max_win_point": 119,
+      "matches_left": 37
     },
     {
       "j_name": "広島",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-26T15:16:04+09:00"
+  "updated_at": "2022-03-26T15:20:03+09:00"
 }
