@@ -8625,13 +8625,13 @@
         {
           "sec": 7,
           "date": "03/30(水)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "033001"
         },
@@ -16297,13 +16297,13 @@
         {
           "sec": 7,
           "date": "03/30(水)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "秋田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "033001"
         },
@@ -28062,7 +28062,7 @@
       "league": "j2",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 12,
+      "rank": 13,
       "win_point": 8,
       "wins": 2,
       "draws": 2,
@@ -28098,15 +28098,15 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 16,
-      "win_point": 7,
+      "rank": 12,
+      "win_point": 8,
       "wins": 2,
-      "draws": 1,
+      "draws": 2,
       "loses": 3,
       "goals_for": 4,
       "goals_against": 6,
-      "max_win_point": 115,
-      "matches_left": 36
+      "max_win_point": 113,
+      "matches_left": 35
     },
     {
       "j_name": "山形",
@@ -28188,7 +28188,7 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 14,
+      "rank": 15,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -28278,7 +28278,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 15,
+      "rank": 16,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -28477,14 +28477,14 @@
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
       "rank": 19,
-      "win_point": 5,
+      "win_point": 6,
       "wins": 1,
-      "draws": 2,
+      "draws": 3,
       "loses": 3,
       "goals_for": 6,
       "goals_against": 11,
-      "max_win_point": 113,
-      "matches_left": 36
+      "max_win_point": 111,
+      "matches_left": 35
     },
     {
       "j_name": "松本",
@@ -28818,7 +28818,7 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 13,
+      "rank": 14,
       "win_point": 7,
       "wins": 1,
       "draws": 4,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-30T20:32:04+09:00"
+  "updated_at": "2022-03-30T20:36:03+09:00"
 }
