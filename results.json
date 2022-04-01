@@ -3180,11 +3180,11 @@
           "date": "04/01(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "040101"
         },
@@ -5400,11 +5400,11 @@
           "date": "04/01(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "鳥栖",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "040101"
         },
@@ -28234,7 +28234,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 7,
+      "rank": 6,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -28720,7 +28720,7 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 9,
+      "rank": 8,
       "win_point": 6,
       "wins": 1,
       "draws": 3,
@@ -28900,15 +28900,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 8,
-      "win_point": 7,
+      "rank": 9,
+      "win_point": 6,
       "wins": 1,
-      "draws": 4,
+      "draws": 3,
       "loses": 1,
       "goals_for": 4,
       "goals_against": 4,
-      "max_win_point": 91,
-      "matches_left": 28
+      "max_win_point": 93,
+      "matches_left": 29
     },
     {
       "j_name": "北九州",
@@ -28936,15 +28936,15 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 6,
-      "win_point": 8,
+      "rank": 7,
+      "win_point": 7,
       "wins": 1,
-      "draws": 5,
+      "draws": 4,
       "loses": 0,
       "goals_for": 3,
       "goals_against": 2,
-      "max_win_point": 92,
-      "matches_left": 28
+      "max_win_point": 94,
+      "matches_left": 29
     },
     {
       "j_name": "長崎",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-01T21:12:03+09:00"
+  "updated_at": "2022-04-01T21:16:03+09:00"
 }
