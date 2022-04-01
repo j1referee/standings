@@ -22309,19 +22309,6 @@
           "mid": "032703"
         },
         {
-          "sec": 4,
-          "date": "04/03(日)",
-          "time": "13:00",
-          "division": "j3",
-          "score": "vs",
-          "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": false,
-          "mid": "040312"
-        },
-        {
           "sec": 5,
           "date": "04/10(日)",
           "time": "13:00",
@@ -22697,6 +22684,15 @@
           "point": null,
           "home": true,
           "mid": "112007"
+        },
+        {
+          "sec": 4,
+          "date": "04/03(日)",
+          "time": " ",
+          "opponent": "八戸",
+          "point": "suspended",
+          "home": false,
+          "mid": "040312"
         },
         {
           "sec": 22,
@@ -23192,19 +23188,6 @@
           "mid": "032701"
         },
         {
-          "sec": 4,
-          "date": "04/03(日)",
-          "time": "13:00",
-          "division": "j3",
-          "score": "vs",
-          "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": true,
-          "mid": "040312"
-        },
-        {
           "sec": 5,
           "date": "04/10(日)",
           "time": "13:00",
@@ -23593,6 +23576,15 @@
           "point": null,
           "home": true,
           "mid": "112001"
+        },
+        {
+          "sec": 4,
+          "date": "04/03(日)",
+          "time": " ",
+          "opponent": "沼津",
+          "point": "suspended",
+          "home": true,
+          "mid": "040312"
         }
       ],
       "今治": [
@@ -29090,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-03-30T21:42:04+09:00"
+  "updated_at": "2022-04-01T21:00:04+09:00"
 }
