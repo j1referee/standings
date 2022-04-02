@@ -20096,13 +20096,13 @@
         {
           "sec": 4,
           "date": "04/02(土)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "愛媛",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "040207"
         },
@@ -27154,13 +27154,13 @@
         {
           "sec": 4,
           "date": "04/02(土)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "040207"
         },
@@ -28406,15 +28406,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 16,
+      "rank": 17,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
-      "loses": 2,
+      "loses": 3,
       "goals_for": 2,
-      "goals_against": 4,
-      "max_win_point": 94,
-      "matches_left": 31
+      "goals_against": 5,
+      "max_win_point": 91,
+      "matches_left": 30
     },
     {
       "j_name": "湘南",
@@ -28622,7 +28622,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 15,
+      "rank": 16,
       "win_point": 3,
       "wins": 1,
       "draws": 0,
@@ -28748,7 +28748,7 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 17,
+      "rank": 18,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
@@ -28856,15 +28856,15 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 18,
-      "win_point": 0,
-      "wins": 0,
+      "rank": 15,
+      "win_point": 3,
+      "wins": 1,
       "draws": 0,
       "loses": 3,
-      "goals_for": 2,
+      "goals_for": 3,
       "goals_against": 7,
       "max_win_point": 93,
-      "matches_left": 31
+      "matches_left": 30
     },
     {
       "j_name": "今治",
@@ -29074,5 +29074,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-02T15:20:04+09:00"
+  "updated_at": "2022-04-02T15:30:04+09:00"
 }
