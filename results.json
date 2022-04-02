@@ -503,11 +503,11 @@
           "date": "04/02(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "040206"
         },
@@ -4538,11 +4538,11 @@
           "date": "04/02(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "FC東京",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "040206"
         },
@@ -28154,7 +28154,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 2,
+      "rank": 3,
       "win_point": 15,
       "wins": 5,
       "draws": 0,
@@ -28280,7 +28280,7 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 3,
+      "rank": 4,
       "win_point": 13,
       "wins": 4,
       "draws": 1,
@@ -28302,11 +28302,11 @@
       "win_point": 9,
       "wins": 3,
       "draws": 0,
-      "loses": 1,
-      "goals_for": 4,
-      "goals_against": 2,
-      "max_win_point": 99,
-      "matches_left": 30
+      "loses": 2,
+      "goals_for": 5,
+      "goals_against": 4,
+      "max_win_point": 96,
+      "matches_left": 29
     },
     {
       "j_name": "東京V",
@@ -28370,15 +28370,15 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 4,
-      "win_point": 12,
-      "wins": 3,
+      "rank": 2,
+      "win_point": 15,
+      "wins": 4,
       "draws": 3,
       "loses": 1,
-      "goals_for": 12,
-      "goals_against": 8,
+      "goals_for": 14,
+      "goals_against": 9,
       "max_win_point": 93,
-      "matches_left": 27
+      "matches_left": 26
     },
     {
       "j_name": "横浜FC",
@@ -29074,5 +29074,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-02T21:02:03+09:00"
+  "updated_at": "2022-04-02T21:06:04+09:00"
 }
