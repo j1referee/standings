@@ -13024,11 +13024,11 @@
           "date": "04/03(日)",
           "time": "17:00",
           "division": "j2",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "大分",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "040311"
         },
@@ -19052,11 +19052,11 @@
           "date": "04/03(日)",
           "time": "17:00",
           "division": "j2",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "東京V",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "040311"
         },
@@ -28316,15 +28316,15 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 2,
-      "win_point": 18,
-      "wins": 5,
+      "rank": 3,
+      "win_point": 15,
+      "wins": 4,
       "draws": 3,
       "loses": 0,
-      "goals_for": 17,
+      "goals_for": 16,
       "goals_against": 8,
       "max_win_point": 120,
-      "matches_left": 34
+      "matches_left": 35
     },
     {
       "j_name": "町田",
@@ -28334,7 +28334,7 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 3,
+      "rank": 2,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -28986,11 +28986,11 @@
       "win_point": 9,
       "wins": 2,
       "draws": 3,
-      "loses": 3,
+      "loses": 2,
       "goals_for": 12,
-      "goals_against": 12,
-      "max_win_point": 111,
-      "matches_left": 34
+      "goals_against": 11,
+      "max_win_point": 114,
+      "matches_left": 35
     },
     {
       "j_name": "宮崎",
@@ -29074,5 +29074,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-03T19:06:03+09:00"
+  "updated_at": "2022-04-03T19:12:03+09:00"
 }
