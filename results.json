@@ -4967,13 +4967,13 @@
         {
           "sec": 7,
           "date": "04/05(火)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "040501"
         },
@@ -6743,13 +6743,13 @@
         {
           "sec": 7,
           "date": "04/05(火)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "040501"
         },
@@ -28154,7 +28154,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 3,
+      "rank": 4,
       "win_point": 15,
       "wins": 5,
       "draws": 0,
@@ -28280,15 +28280,15 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 4,
-      "win_point": 13,
-      "wins": 4,
+      "rank": 1,
+      "win_point": 16,
+      "wins": 5,
       "draws": 1,
       "loses": 1,
-      "goals_for": 9,
+      "goals_for": 10,
       "goals_against": 3,
       "max_win_point": 97,
-      "matches_left": 28
+      "matches_left": 27
     },
     {
       "j_name": "FC東京",
@@ -28352,7 +28352,7 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 1,
+      "rank": 2,
       "win_point": 16,
       "wins": 5,
       "draws": 1,
@@ -28370,7 +28370,7 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 2,
+      "rank": 3,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -28716,11 +28716,11 @@
       "win_point": 9,
       "wins": 2,
       "draws": 3,
-      "loses": 1,
+      "loses": 2,
       "goals_for": 12,
-      "goals_against": 8,
-      "max_win_point": 93,
-      "matches_left": 28
+      "goals_against": 9,
+      "max_win_point": 90,
+      "matches_left": 27
     },
     {
       "j_name": "神戸",
@@ -29074,5 +29074,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-05T21:12:04+09:00"
+  "updated_at": "2022-04-05T21:16:03+09:00"
 }
