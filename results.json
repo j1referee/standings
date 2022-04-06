@@ -973,11 +973,11 @@
           "date": "04/06(水)",
           "time": "18:30",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "京都",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "040601"
         },
@@ -1861,11 +1861,11 @@
           "date": "04/06(水)",
           "time": "18:30",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "G大阪",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "040601"
         },
@@ -28226,7 +28226,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 9,
+      "rank": 7,
       "win_point": 8,
       "wins": 2,
       "draws": 2,
@@ -28676,15 +28676,15 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 8,
-      "win_point": 9,
+      "rank": 10,
+      "win_point": 8,
       "wins": 2,
-      "draws": 3,
+      "draws": 2,
       "loses": 2,
-      "goals_for": 8,
-      "goals_against": 9,
-      "max_win_point": 90,
-      "matches_left": 27
+      "goals_for": 7,
+      "goals_against": 8,
+      "max_win_point": 92,
+      "matches_left": 28
     },
     {
       "j_name": "G大阪",
@@ -28694,15 +28694,15 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 7,
-      "win_point": 9,
+      "rank": 9,
+      "win_point": 8,
       "wins": 2,
-      "draws": 3,
+      "draws": 2,
       "loses": 2,
-      "goals_for": 11,
-      "goals_against": 11,
-      "max_win_point": 90,
-      "matches_left": 27
+      "goals_for": 10,
+      "goals_against": 10,
+      "max_win_point": 92,
+      "matches_left": 28
     },
     {
       "j_name": "C大阪",
@@ -28928,7 +28928,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 10,
+      "rank": 8,
       "win_point": 8,
       "wins": 1,
       "draws": 5,
@@ -29074,5 +29074,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-06T20:36:04+09:00"
+  "updated_at": "2022-04-06T20:42:03+09:00"
 }
