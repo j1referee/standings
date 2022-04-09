@@ -124,11 +124,11 @@
           "date": "04/09(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "040901"
         },
@@ -6758,11 +6758,11 @@
           "date": "04/09(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "040901"
         },
@@ -28162,7 +28162,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 1,
+      "rank": 2,
       "win_point": 18,
       "wins": 6,
       "draws": 0,
@@ -28292,11 +28292,11 @@
       "win_point": 16,
       "wins": 5,
       "draws": 1,
-      "loses": 1,
+      "loses": 2,
       "goals_for": 10,
-      "goals_against": 3,
-      "max_win_point": 97,
-      "matches_left": 27
+      "goals_against": 4,
+      "max_win_point": 94,
+      "matches_left": 26
     },
     {
       "j_name": "FC東京",
@@ -28360,15 +28360,15 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 2,
-      "win_point": 17,
-      "wins": 5,
+      "rank": 1,
+      "win_point": 20,
+      "wins": 6,
       "draws": 2,
       "loses": 2,
-      "goals_for": 14,
+      "goals_for": 15,
       "goals_against": 12,
       "max_win_point": 92,
-      "matches_left": 25
+      "matches_left": 24
     },
     {
       "j_name": "横浜FM",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-09T21:12:03+09:00"
+  "updated_at": "2022-04-09T21:16:03+09:00"
 }
