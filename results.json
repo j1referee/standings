@@ -9749,11 +9749,11 @@
           "date": "04/09(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "群馬",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "040902"
         },
@@ -10297,11 +10297,11 @@
           "date": "04/09(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "岩手",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "040902"
         },
@@ -28058,11 +28058,11 @@
       "win_point": 11,
       "wins": 3,
       "draws": 2,
-      "loses": 4,
+      "loses": 3,
       "goals_for": 6,
-      "goals_against": 10,
-      "max_win_point": 110,
-      "matches_left": 33
+      "goals_against": 9,
+      "max_win_point": 113,
+      "matches_left": 34
     },
     {
       "j_name": "仙台",
@@ -28216,15 +28216,15 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 5,
-      "win_point": 14,
-      "wins": 4,
+      "rank": 9,
+      "win_point": 11,
+      "wins": 3,
       "draws": 2,
       "loses": 3,
-      "goals_for": 9,
+      "goals_for": 8,
       "goals_against": 8,
       "max_win_point": 113,
-      "matches_left": 33
+      "matches_left": 34
     },
     {
       "j_name": "浦和",
@@ -28522,7 +28522,7 @@
       "league": "j2",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 7,
+      "rank": 6,
       "win_point": 12,
       "wins": 3,
       "draws": 3,
@@ -28558,7 +28558,7 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 8,
+      "rank": 7,
       "win_point": 12,
       "wins": 3,
       "draws": 3,
@@ -28774,7 +28774,7 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 6,
+      "rank": 5,
       "win_point": 12,
       "wins": 3,
       "draws": 3,
@@ -28810,7 +28810,7 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 9,
+      "rank": 8,
       "win_point": 11,
       "wins": 2,
       "draws": 5,
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-09T15:06:03+09:00"
+  "updated_at": "2022-04-09T15:12:04+09:00"
 }
