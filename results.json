@@ -21877,7 +21877,7 @@
         {
           "sec": 5,
           "date": "04/10(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "2-1",
           "opponent": "愛媛",
@@ -22755,13 +22755,13 @@
         {
           "sec": 5,
           "date": "04/10(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "041022"
         },
@@ -25848,13 +25848,13 @@
         {
           "sec": 5,
           "date": "04/10(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "041022"
         },
@@ -27175,7 +27175,7 @@
         {
           "sec": 5,
           "date": "04/10(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "2-1",
           "opponent": "相模原",
@@ -28450,7 +28450,7 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 11,
+      "rank": 12,
       "win_point": 6,
       "wins": 2,
       "draws": 0,
@@ -28487,14 +28487,14 @@
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
       "rank": 4,
-      "win_point": 9,
+      "win_point": 10,
       "wins": 3,
-      "draws": 0,
+      "draws": 1,
       "loses": 1,
-      "goals_for": 9,
-      "goals_against": 5,
-      "max_win_point": 99,
-      "matches_left": 30
+      "goals_for": 11,
+      "goals_against": 7,
+      "max_win_point": 97,
+      "matches_left": 29
     },
     {
       "j_name": "長野",
@@ -28630,7 +28630,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 10,
+      "rank": 11,
       "win_point": 6,
       "wins": 2,
       "draws": 0,
@@ -28864,7 +28864,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 12,
+      "rank": 13,
       "win_point": 6,
       "wins": 2,
       "draws": 0,
@@ -29008,15 +29008,15 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 13,
-      "win_point": 5,
+      "rank": 10,
+      "win_point": 6,
       "wins": 1,
-      "draws": 2,
+      "draws": 3,
       "loses": 1,
-      "goals_for": 6,
-      "goals_against": 5,
-      "max_win_point": 95,
-      "matches_left": 30
+      "goals_for": 8,
+      "goals_against": 7,
+      "max_win_point": 93,
+      "matches_left": 29
     },
     {
       "j_name": "鹿児島",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-10T17:30:04+09:00"
+  "updated_at": "2022-04-10T17:32:03+09:00"
 }
