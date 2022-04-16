@@ -540,7 +540,7 @@
         {
           "sec": 9,
           "date": "04/16(土)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j1",
           "score": "0-0",
           "opponent": "札幌",
@@ -4105,7 +4105,7 @@
         {
           "sec": 9,
           "date": "04/16(土)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j1",
           "score": "0-0",
           "opponent": "FC東京",
@@ -20122,13 +20122,13 @@
         {
           "sec": 6,
           "date": "04/16(土)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "長野",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "041607"
         },
@@ -26757,13 +26757,13 @@
         {
           "sec": 6,
           "date": "04/16(土)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "041607"
         },
@@ -28426,11 +28426,11 @@
       "win_point": 1,
       "wins": 0,
       "draws": 1,
-      "loses": 4,
+      "loses": 5,
       "goals_for": 2,
-      "goals_against": 8,
-      "max_win_point": 88,
-      "matches_left": 29
+      "goals_against": 9,
+      "max_win_point": 85,
+      "matches_left": 28
     },
     {
       "j_name": "湘南",
@@ -28494,7 +28494,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 10,
       "wins": 3,
       "draws": 1,
@@ -28512,15 +28512,15 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 5,
-      "win_point": 8,
-      "wins": 2,
+      "rank": 4,
+      "win_point": 11,
+      "wins": 3,
       "draws": 2,
       "loses": 1,
-      "goals_for": 7,
+      "goals_for": 8,
       "goals_against": 7,
       "max_win_point": 95,
-      "matches_left": 29
+      "matches_left": 28
     },
     {
       "j_name": "新潟",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-16T15:20:03+09:00"
+  "updated_at": "2022-04-16T15:30:04+09:00"
 }
