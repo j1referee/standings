@@ -10310,11 +10310,11 @@
           "date": "04/16(土)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "琉球",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "041606"
         },
@@ -18530,11 +18530,11 @@
           "date": "04/16(土)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "群馬",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "041606"
         },
@@ -28224,15 +28224,15 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 7,
-      "win_point": 14,
-      "wins": 4,
+      "rank": 5,
+      "win_point": 17,
+      "wins": 5,
       "draws": 2,
       "loses": 3,
-      "goals_for": 9,
+      "goals_for": 10,
       "goals_against": 8,
       "max_win_point": 113,
-      "matches_left": 33
+      "matches_left": 32
     },
     {
       "j_name": "浦和",
@@ -28530,7 +28530,7 @@
       "league": "j2",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 5,
+      "rank": 6,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -28998,7 +28998,7 @@
       "league": "j2",
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
-      "rank": 6,
+      "rank": 7,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -29056,11 +29056,11 @@
       "win_point": 5,
       "wins": 1,
       "draws": 2,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 13,
-      "goals_against": 23,
-      "max_win_point": 104,
-      "matches_left": 33
+      "goals_against": 24,
+      "max_win_point": 101,
+      "matches_left": 32
     },
     {
       "j_name": "F東23",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-16T19:02:03+09:00"
+  "updated_at": "2022-04-16T19:06:04+09:00"
 }
