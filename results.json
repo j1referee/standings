@@ -20555,11 +20555,11 @@
           "date": "04/17(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "041718"
         },
@@ -25871,11 +25871,11 @@
           "date": "04/17(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "041718"
         },
@@ -28152,7 +28152,7 @@
       "league": "j3",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 3,
+      "rank": 4,
       "win_point": 11,
       "wins": 3,
       "draws": 2,
@@ -28494,15 +28494,15 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 5,
-      "win_point": 10,
-      "wins": 3,
+      "rank": 3,
+      "win_point": 13,
+      "wins": 4,
       "draws": 1,
       "loses": 1,
-      "goals_for": 11,
-      "goals_against": 7,
+      "goals_for": 14,
+      "goals_against": 8,
       "max_win_point": 97,
-      "matches_left": 29
+      "matches_left": 28
     },
     {
       "j_name": "長野",
@@ -28512,7 +28512,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 11,
       "wins": 3,
       "draws": 2,
@@ -28678,11 +28678,11 @@
       "win_point": 7,
       "wins": 2,
       "draws": 1,
-      "loses": 1,
-      "goals_for": 6,
-      "goals_against": 3,
-      "max_win_point": 97,
-      "matches_left": 30
+      "loses": 2,
+      "goals_for": 7,
+      "goals_against": 6,
+      "max_win_point": 94,
+      "matches_left": 29
     },
     {
       "j_name": "京都",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-17T16:32:04+09:00"
+  "updated_at": "2022-04-17T16:36:04+09:00"
 }
