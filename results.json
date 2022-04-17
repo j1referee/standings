@@ -22326,11 +22326,11 @@
           "date": "04/17(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "041716"
         },
@@ -22778,11 +22778,11 @@
           "date": "04/17(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "041716"
         },
@@ -28620,7 +28620,7 @@
       "league": "j3",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 8,
+      "rank": 9,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -28642,11 +28642,11 @@
       "win_point": 6,
       "wins": 2,
       "draws": 0,
-      "loses": 2,
-      "goals_for": 6,
-      "goals_against": 6,
-      "max_win_point": 96,
-      "matches_left": 30
+      "loses": 3,
+      "goals_for": 7,
+      "goals_against": 8,
+      "max_win_point": 93,
+      "matches_left": 29
     },
     {
       "j_name": "名古屋",
@@ -28674,7 +28674,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 7,
+      "rank": 8,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -28836,7 +28836,7 @@
       "league": "j3",
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
-      "rank": 9,
+      "rank": 10,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -28926,7 +28926,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 10,
+      "rank": 11,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -29016,15 +29016,15 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 11,
-      "win_point": 6,
-      "wins": 1,
+      "rank": 7,
+      "win_point": 9,
+      "wins": 2,
       "draws": 3,
       "loses": 1,
-      "goals_for": 8,
-      "goals_against": 7,
+      "goals_for": 10,
+      "goals_against": 8,
       "max_win_point": 93,
-      "matches_left": 29
+      "matches_left": 28
     },
     {
       "j_name": "鹿児島",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-17T15:32:03+09:00"
+  "updated_at": "2022-04-17T15:36:08+09:00"
 }
