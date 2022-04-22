@@ -15253,13 +15253,13 @@
         {
           "sec": 11,
           "date": "04/22(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "042201"
         },
@@ -15801,13 +15801,13 @@
         {
           "sec": 11,
           "date": "04/22(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "042201"
         },
@@ -28782,15 +28782,15 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 11,
-      "win_point": 14,
+      "rank": 8,
+      "win_point": 15,
       "wins": 3,
-      "draws": 5,
+      "draws": 6,
       "loses": 2,
-      "goals_for": 14,
-      "goals_against": 12,
-      "max_win_point": 110,
-      "matches_left": 32
+      "goals_for": 15,
+      "goals_against": 13,
+      "max_win_point": 108,
+      "matches_left": 31
     },
     {
       "j_name": "広島",
@@ -28818,7 +28818,7 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 10,
+      "rank": 11,
       "win_point": 14,
       "wins": 3,
       "draws": 5,
@@ -28854,7 +28854,7 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 9,
+      "rank": 10,
       "win_point": 14,
       "wins": 2,
       "draws": 8,
@@ -28981,14 +28981,14 @@
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
       "rank": 13,
-      "win_point": 13,
+      "win_point": 14,
       "wins": 3,
-      "draws": 4,
+      "draws": 5,
       "loses": 3,
-      "goals_for": 14,
-      "goals_against": 16,
-      "max_win_point": 109,
-      "matches_left": 32
+      "goals_for": 15,
+      "goals_against": 17,
+      "max_win_point": 107,
+      "matches_left": 31
     },
     {
       "j_name": "大分",
@@ -28998,7 +28998,7 @@
       "league": "j2",
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
-      "rank": 8,
+      "rank": 9,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-22T21:20:03+09:00"
+  "updated_at": "2022-04-22T21:30:04+09:00"
 }
