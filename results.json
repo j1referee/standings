@@ -14705,13 +14705,13 @@
         {
           "sec": 11,
           "date": "04/23(土)",
-          "time": "16:00",
+          "time": "16:03",
           "division": "j2",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "水戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "042314"
         },
@@ -19637,13 +19637,13 @@
         {
           "sec": 11,
           "date": "04/23(土)",
-          "time": "16:00",
+          "time": "16:03",
           "division": "j2",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "山口",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "042314"
         },
@@ -28062,7 +28062,7 @@
       "league": "j2",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 19,
+      "rank": 20,
       "win_point": 11,
       "wins": 3,
       "draws": 2,
@@ -28098,7 +28098,7 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 18,
+      "rank": 19,
       "win_point": 11,
       "wins": 3,
       "draws": 2,
@@ -28188,15 +28188,15 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 20,
-      "win_point": 9,
-      "wins": 2,
+      "rank": 18,
+      "win_point": 12,
+      "wins": 3,
       "draws": 3,
       "loses": 5,
-      "goals_for": 12,
-      "goals_against": 14,
+      "goals_for": 15,
+      "goals_against": 16,
       "max_win_point": 105,
-      "matches_left": 32
+      "matches_left": 31
     },
     {
       "j_name": "栃木",
@@ -28822,11 +28822,11 @@
       "win_point": 14,
       "wins": 3,
       "draws": 5,
-      "loses": 2,
-      "goals_for": 12,
-      "goals_against": 9,
-      "max_win_point": 110,
-      "matches_left": 32
+      "loses": 3,
+      "goals_for": 14,
+      "goals_against": 12,
+      "max_win_point": 107,
+      "matches_left": 31
     },
     {
       "j_name": "讃岐",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-23T18:20:04+09:00"
+  "updated_at": "2022-04-23T18:30:04+09:00"
 }
