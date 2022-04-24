@@ -8679,11 +8679,11 @@
           "date": "04/24(日)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "群馬",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "042401"
         },
@@ -10323,11 +10323,11 @@
           "date": "04/24(日)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "秋田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "042401"
         },
@@ -28098,15 +28098,15 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 19,
-      "win_point": 11,
-      "wins": 3,
+      "rank": 15,
+      "win_point": 14,
+      "wins": 4,
       "draws": 2,
       "loses": 5,
-      "goals_for": 8,
+      "goals_for": 9,
       "goals_against": 13,
       "max_win_point": 107,
-      "matches_left": 32
+      "matches_left": 31
     },
     {
       "j_name": "山形",
@@ -28116,7 +28116,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 15,
+      "rank": 16,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -28188,7 +28188,7 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 18,
+      "rank": 19,
       "win_point": 12,
       "wins": 3,
       "draws": 3,
@@ -28206,7 +28206,7 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 17,
+      "rank": 18,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -28228,11 +28228,11 @@
       "win_point": 17,
       "wins": 5,
       "draws": 2,
-      "loses": 3,
+      "loses": 4,
       "goals_for": 10,
-      "goals_against": 8,
-      "max_win_point": 113,
-      "matches_left": 32
+      "goals_against": 9,
+      "max_win_point": 110,
+      "matches_left": 31
     },
     {
       "j_name": "浦和",
@@ -28278,7 +28278,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 16,
+      "rank": 17,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-23T18:30:04+09:00"
+  "updated_at": "2022-04-24T19:00:04+09:00"
 }
