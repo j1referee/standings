@@ -16377,11 +16377,11 @@
           "date": "04/30(土)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "水戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "043003"
         },
@@ -19665,11 +19665,11 @@
           "date": "04/30(土)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "043003"
         },
@@ -28090,7 +28090,7 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 17,
+      "rank": 18,
       "win_point": 14,
       "wins": 4,
       "draws": 2,
@@ -28180,15 +28180,15 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 19,
-      "win_point": 12,
-      "wins": 3,
+      "rank": 15,
+      "win_point": 15,
+      "wins": 4,
       "draws": 3,
       "loses": 6,
-      "goals_for": 15,
-      "goals_against": 17,
+      "goals_for": 17,
+      "goals_against": 18,
       "max_win_point": 102,
-      "matches_left": 30
+      "matches_left": 29
     },
     {
       "j_name": "栃木",
@@ -28198,7 +28198,7 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 18,
+      "rank": 19,
       "win_point": 14,
       "wins": 3,
       "draws": 5,
@@ -28472,11 +28472,11 @@
       "win_point": 18,
       "wins": 5,
       "draws": 3,
-      "loses": 4,
-      "goals_for": 17,
-      "goals_against": 17,
-      "max_win_point": 108,
-      "matches_left": 30
+      "loses": 5,
+      "goals_for": 18,
+      "goals_against": 19,
+      "max_win_point": 105,
+      "matches_left": 29
     },
     {
       "j_name": "松本",
@@ -28846,7 +28846,7 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 15,
+      "rank": 16,
       "win_point": 14,
       "wins": 2,
       "draws": 8,
@@ -28972,7 +28972,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 16,
+      "rank": 17,
       "win_point": 14,
       "wins": 3,
       "draws": 5,
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-30T18:12:04+09:00"
+  "updated_at": "2022-04-30T18:16:04+09:00"
 }
