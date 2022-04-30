@@ -22342,13 +22342,13 @@
         {
           "sec": 7,
           "date": "04/30(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "043006"
         },
@@ -25874,13 +25874,13 @@
         {
           "sec": 7,
           "date": "04/30(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "043006"
         },
@@ -28126,7 +28126,7 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 1,
+      "rank": 2,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -28144,7 +28144,7 @@
       "league": "j3",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 2,
+      "rank": 3,
       "win_point": 14,
       "wins": 4,
       "draws": 2,
@@ -28486,15 +28486,15 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 5,
-      "win_point": 13,
-      "wins": 4,
+      "rank": 1,
+      "win_point": 16,
+      "wins": 5,
       "draws": 1,
       "loses": 1,
-      "goals_for": 14,
+      "goals_for": 15,
       "goals_against": 8,
       "max_win_point": 97,
-      "matches_left": 28
+      "matches_left": 27
     },
     {
       "j_name": "長野",
@@ -28504,7 +28504,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 14,
       "wins": 4,
       "draws": 2,
@@ -28634,11 +28634,11 @@
       "win_point": 9,
       "wins": 3,
       "draws": 0,
-      "loses": 3,
+      "loses": 4,
       "goals_for": 9,
-      "goals_against": 8,
-      "max_win_point": 93,
-      "matches_left": 28
+      "goals_against": 9,
+      "max_win_point": 90,
+      "matches_left": 27
     },
     {
       "j_name": "名古屋",
@@ -29026,7 +29026,7 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 3,
+      "rank": 4,
       "win_point": 14,
       "wins": 4,
       "draws": 2,
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-04-30T21:20:04+09:00"
+  "updated_at": "2022-04-30T21:30:04+09:00"
 }
