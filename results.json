@@ -8705,11 +8705,11 @@
           "date": "05/01(日)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "仙台",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "050107"
         },
@@ -16925,11 +16925,11 @@
           "date": "05/01(日)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "秋田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "050107"
         },
@@ -28072,15 +28072,15 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 3,
-      "win_point": 23,
-      "wins": 7,
+      "rank": 2,
+      "win_point": 26,
+      "wins": 8,
       "draws": 2,
       "loses": 3,
-      "goals_for": 20,
-      "goals_against": 15,
+      "goals_for": 23,
+      "goals_against": 16,
       "max_win_point": 113,
-      "matches_left": 30
+      "matches_left": 29
     },
     {
       "j_name": "秋田",
@@ -28090,15 +28090,15 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 18,
+      "rank": 19,
       "win_point": 14,
       "wins": 4,
       "draws": 2,
-      "loses": 6,
-      "goals_for": 9,
-      "goals_against": 14,
-      "max_win_point": 104,
-      "matches_left": 30
+      "loses": 7,
+      "goals_for": 10,
+      "goals_against": 17,
+      "max_win_point": 101,
+      "matches_left": 29
     },
     {
       "j_name": "山形",
@@ -28198,7 +28198,7 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 19,
+      "rank": 18,
       "win_point": 14,
       "wins": 3,
       "draws": 5,
@@ -28522,7 +28522,7 @@
       "league": "j2",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 2,
+      "rank": 3,
       "win_point": 23,
       "wins": 6,
       "draws": 5,
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-01T18:12:03+09:00"
+  "updated_at": "2022-05-01T18:16:04+09:00"
 }
