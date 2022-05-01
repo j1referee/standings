@@ -9801,11 +9801,11 @@
           "date": "05/01(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "熊本",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "050101"
         },
@@ -15281,11 +15281,11 @@
           "date": "05/01(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "岩手",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "050101"
         },
@@ -28058,11 +28058,11 @@
       "win_point": 11,
       "wins": 3,
       "draws": 2,
-      "loses": 8,
-      "goals_for": 8,
-      "goals_against": 21,
-      "max_win_point": 98,
-      "matches_left": 29
+      "loses": 7,
+      "goals_for": 7,
+      "goals_against": 19,
+      "max_win_point": 101,
+      "matches_left": 30
     },
     {
       "j_name": "仙台",
@@ -28108,7 +28108,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 14,
+      "rank": 13,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -28180,7 +28180,7 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 16,
+      "rank": 15,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -28270,7 +28270,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 15,
+      "rank": 14,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -28846,7 +28846,7 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 17,
+      "rank": 16,
       "win_point": 14,
       "wins": 2,
       "draws": 8,
@@ -28972,15 +28972,15 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 13,
-      "win_point": 17,
-      "wins": 4,
+      "rank": 17,
+      "win_point": 14,
+      "wins": 3,
       "draws": 5,
       "loses": 4,
-      "goals_for": 17,
-      "goals_against": 20,
+      "goals_for": 15,
+      "goals_against": 19,
       "max_win_point": 104,
-      "matches_left": 29
+      "matches_left": 30
     },
     {
       "j_name": "大分",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-01T15:30:03+09:00"
+  "updated_at": "2022-05-01T15:32:04+09:00"
 }
