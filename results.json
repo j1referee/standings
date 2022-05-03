@@ -1913,11 +1913,11 @@
           "date": "05/03(火・祝)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "050301"
         },
@@ -2801,11 +2801,11 @@
           "date": "05/03(火・祝)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "050302"
         },
@@ -6797,11 +6797,11 @@
           "date": "05/03(火・祝)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "広島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "050302"
         },
@@ -7241,11 +7241,11 @@
           "date": "05/03(火・祝)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "京都",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "050301"
         },
@@ -21461,19 +21461,6 @@
           "mid": "042908"
         },
         {
-          "sec": 8,
-          "date": "05/05(木・祝)",
-          "time": "13:00",
-          "division": "j3",
-          "score": "vs",
-          "opponent": "愛媛",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": true,
-          "mid": "050502"
-        },
-        {
           "sec": 9,
           "date": "05/15(日)",
           "time": "13:00",
@@ -21823,6 +21810,15 @@
           "point": null,
           "home": true,
           "mid": "112009"
+        },
+        {
+          "sec": 8,
+          "date": "05/05(木・祝)",
+          "time": " ",
+          "opponent": "愛媛",
+          "point": "suspended",
+          "home": true,
+          "mid": "050502"
         }
       ],
       "相模原": [
@@ -21903,19 +21899,6 @@
           "point": 0,
           "home": false,
           "mid": "041714"
-        },
-        {
-          "sec": 8,
-          "date": "05/04(水・祝)",
-          "time": "14:00",
-          "division": "j3",
-          "score": "vs",
-          "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": false,
-          "mid": "050414"
         },
         {
           "sec": 9,
@@ -22250,6 +22233,15 @@
           "point": "suspended",
           "home": true,
           "mid": "042911"
+        },
+        {
+          "sec": 8,
+          "date": "05/04(水・祝)",
+          "time": " ",
+          "opponent": "八戸",
+          "point": "suspended",
+          "home": false,
+          "mid": "050414"
         },
         {
           "sec": 22,
@@ -23236,19 +23228,6 @@
           "mid": "042906"
         },
         {
-          "sec": 8,
-          "date": "05/04(水・祝)",
-          "time": "14:00",
-          "division": "j3",
-          "score": "vs",
-          "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": true,
-          "mid": "050414"
-        },
-        {
           "sec": 9,
           "date": "05/15(日)",
           "time": "14:00",
@@ -23585,6 +23564,15 @@
           "point": null,
           "home": true,
           "mid": "112001"
+        },
+        {
+          "sec": 8,
+          "date": "05/04(水・祝)",
+          "time": " ",
+          "opponent": "相模原",
+          "point": "suspended",
+          "home": true,
+          "mid": "050414"
         }
       ],
       "今治": [
@@ -27212,19 +27200,6 @@
           "mid": "042909"
         },
         {
-          "sec": 8,
-          "date": "05/05(木・祝)",
-          "time": "13:00",
-          "division": "j3",
-          "score": "vs",
-          "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": false,
-          "mid": "050502"
-        },
-        {
           "sec": 9,
           "date": "05/15(日)",
           "time": "13:00",
@@ -27561,6 +27536,15 @@
           "point": null,
           "home": false,
           "mid": "112002"
+        },
+        {
+          "sec": 8,
+          "date": "05/05(木・祝)",
+          "time": " ",
+          "opponent": "鳥取",
+          "point": "suspended",
+          "home": false,
+          "mid": "050502"
         }
       ],
       "富山": [
@@ -28234,7 +28218,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 13,
+      "rank": 14,
       "win_point": 10,
       "wins": 2,
       "draws": 4,
@@ -28288,15 +28272,15 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 5,
-      "win_point": 16,
-      "wins": 5,
+      "rank": 3,
+      "win_point": 19,
+      "wins": 6,
       "draws": 1,
       "loses": 4,
-      "goals_for": 11,
-      "goals_against": 10,
+      "goals_for": 13,
+      "goals_against": 11,
       "max_win_point": 88,
-      "matches_left": 24
+      "matches_left": 23
     },
     {
       "j_name": "FC東京",
@@ -28306,7 +28290,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 4,
+      "rank": 5,
       "win_point": 18,
       "wins": 5,
       "draws": 3,
@@ -28378,7 +28362,7 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 3,
+      "rank": 4,
       "win_point": 18,
       "wins": 5,
       "draws": 3,
@@ -28648,15 +28632,15 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 15,
-      "win_point": 10,
+      "rank": 13,
+      "win_point": 11,
       "wins": 2,
-      "draws": 4,
+      "draws": 5,
       "loses": 4,
-      "goals_for": 8,
-      "goals_against": 11,
-      "max_win_point": 82,
-      "matches_left": 24
+      "goals_for": 9,
+      "goals_against": 12,
+      "max_win_point": 80,
+      "matches_left": 23
     },
     {
       "j_name": "岐阜",
@@ -28684,15 +28668,15 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 7,
-      "win_point": 15,
+      "rank": 6,
+      "win_point": 16,
       "wins": 4,
-      "draws": 3,
+      "draws": 4,
       "loses": 3,
-      "goals_for": 13,
-      "goals_against": 11,
-      "max_win_point": 87,
-      "matches_left": 24
+      "goals_for": 14,
+      "goals_against": 12,
+      "max_win_point": 85,
+      "matches_left": 23
     },
     {
       "j_name": "G大阪",
@@ -28702,7 +28686,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 14,
+      "rank": 15,
       "win_point": 10,
       "wins": 2,
       "draws": 4,
@@ -28796,11 +28780,11 @@
       "win_point": 14,
       "wins": 3,
       "draws": 5,
-      "loses": 2,
-      "goals_for": 11,
-      "goals_against": 10,
-      "max_win_point": 86,
-      "matches_left": 24
+      "loses": 3,
+      "goals_for": 12,
+      "goals_against": 12,
+      "max_win_point": 83,
+      "matches_left": 23
     },
     {
       "j_name": "山口",
@@ -28936,7 +28920,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 6,
+      "rank": 7,
       "win_point": 15,
       "wins": 3,
       "draws": 6,
@@ -29082,5 +29066,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-01T18:30:04+09:00"
+  "updated_at": "2022-05-03T16:00:05+09:00"
 }
