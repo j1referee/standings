@@ -4577,11 +4577,11 @@
           "date": "05/07(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "050703"
         },
@@ -7254,11 +7254,11 @@
           "date": "05/07(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "050703"
         },
@@ -28256,7 +28256,7 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 3,
+      "rank": 4,
       "win_point": 19,
       "wins": 6,
       "draws": 1,
@@ -28346,15 +28346,15 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 4,
-      "win_point": 18,
-      "wins": 5,
+      "rank": 3,
+      "win_point": 21,
+      "wins": 6,
       "draws": 3,
       "loses": 2,
-      "goals_for": 17,
-      "goals_against": 11,
+      "goals_for": 19,
+      "goals_against": 12,
       "max_win_point": 90,
-      "matches_left": 24
+      "matches_left": 23
     },
     {
       "j_name": "横浜FC",
@@ -28620,11 +28620,11 @@
       "win_point": 11,
       "wins": 2,
       "draws": 5,
-      "loses": 4,
-      "goals_for": 9,
-      "goals_against": 12,
-      "max_win_point": 80,
-      "matches_left": 23
+      "loses": 5,
+      "goals_for": 10,
+      "goals_against": 14,
+      "max_win_point": 77,
+      "matches_left": 22
     },
     {
       "j_name": "岐阜",
@@ -29050,5 +29050,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-07T17:16:03+09:00"
+  "updated_at": "2022-05-07T17:20:04+09:00"
 }
