@@ -1482,11 +1482,11 @@
           "date": "05/07(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "広島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "050702"
         },
@@ -2814,11 +2814,11 @@
           "date": "05/07(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "鹿島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "050702"
         },
@@ -28134,11 +28134,11 @@
       "win_point": 25,
       "wins": 8,
       "draws": 1,
-      "loses": 2,
+      "loses": 3,
       "goals_for": 17,
-      "goals_against": 9,
-      "max_win_point": 94,
-      "matches_left": 23
+      "goals_against": 12,
+      "max_win_point": 91,
+      "matches_left": 22
     },
     {
       "j_name": "水戸",
@@ -28652,7 +28652,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 8,
+      "rank": 9,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -28688,7 +28688,7 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 6,
+      "rank": 7,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
@@ -28760,15 +28760,15 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 10,
-      "win_point": 14,
-      "wins": 3,
+      "rank": 6,
+      "win_point": 17,
+      "wins": 4,
       "draws": 5,
       "loses": 3,
-      "goals_for": 12,
+      "goals_for": 15,
       "goals_against": 12,
       "max_win_point": 83,
-      "matches_left": 23
+      "matches_left": 22
     },
     {
       "j_name": "山口",
@@ -28868,7 +28868,7 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 9,
+      "rank": 10,
       "win_point": 14,
       "wins": 3,
       "draws": 5,
@@ -28904,7 +28904,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 7,
+      "rank": 8,
       "win_point": 16,
       "wins": 3,
       "draws": 7,
@@ -29050,5 +29050,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-07T16:12:03+09:00"
+  "updated_at": "2022-05-07T16:16:03+09:00"
 }
