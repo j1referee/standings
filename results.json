@@ -5478,11 +5478,11 @@
           "date": "05/07(土)",
           "time": "17:00",
           "division": "j1",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "湘南",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "050705"
         },
@@ -6366,11 +6366,11 @@
           "date": "05/07(土)",
           "time": "17:00",
           "division": "j1",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "050705"
         },
@@ -28401,14 +28401,14 @@
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
       "rank": 17,
-      "win_point": 7,
+      "win_point": 6,
       "wins": 1,
-      "draws": 4,
+      "draws": 3,
       "loses": 7,
       "goals_for": 6,
       "goals_against": 16,
-      "max_win_point": 73,
-      "matches_left": 22
+      "max_win_point": 75,
+      "matches_left": 23
     },
     {
       "j_name": "相模原",
@@ -28869,14 +28869,14 @@
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
       "rank": 11,
-      "win_point": 15,
+      "win_point": 14,
       "wins": 3,
-      "draws": 6,
+      "draws": 5,
       "loses": 3,
       "goals_for": 10,
       "goals_against": 7,
-      "max_win_point": 81,
-      "matches_left": 22
+      "max_win_point": 83,
+      "matches_left": 23
     },
     {
       "j_name": "北九州",
@@ -29050,5 +29050,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-07T19:06:04+09:00"
+  "updated_at": "2022-05-07T19:12:03+09:00"
 }
