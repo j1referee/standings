@@ -8729,13 +8729,13 @@
         {
           "sec": 15,
           "date": "05/08(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "050804"
         },
@@ -11457,13 +11457,13 @@
         {
           "sec": 15,
           "date": "05/08(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "秋田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "050804"
         },
@@ -28058,15 +28058,15 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 16,
-      "win_point": 17,
-      "wins": 5,
+      "rank": 13,
+      "win_point": 20,
+      "wins": 6,
       "draws": 2,
       "loses": 7,
-      "goals_for": 12,
+      "goals_for": 13,
       "goals_against": 18,
       "max_win_point": 101,
-      "matches_left": 28
+      "matches_left": 27
     },
     {
       "j_name": "山形",
@@ -28184,7 +28184,7 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 14,
+      "rank": 15,
       "win_point": 18,
       "wins": 5,
       "draws": 3,
@@ -28310,7 +28310,7 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 13,
+      "rank": 14,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -28368,11 +28368,11 @@
       "win_point": 29,
       "wins": 8,
       "draws": 5,
-      "loses": 1,
+      "loses": 2,
       "goals_for": 24,
-      "goals_against": 16,
-      "max_win_point": 113,
-      "matches_left": 28
+      "goals_against": 17,
+      "max_win_point": 110,
+      "matches_left": 27
     },
     {
       "j_name": "YS横浜",
@@ -28526,7 +28526,7 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 15,
+      "rank": 16,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
@@ -29050,5 +29050,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-08T15:20:04+09:00"
+  "updated_at": "2022-05-08T15:30:04+09:00"
 }
