@@ -2357,11 +2357,11 @@
           "date": "05/08(日)",
           "time": "16:00",
           "division": "j1",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "050803"
         },
@@ -6810,11 +6810,11 @@
           "date": "05/08(日)",
           "time": "16:00",
           "division": "j1",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "050803"
         },
@@ -8181,7 +8181,7 @@
         {
           "sec": 15,
           "date": "05/08(日)",
-          "time": "16:00",
+          "time": "16:03",
           "division": "j2",
           "score": "0-0",
           "opponent": "甲府",
@@ -16385,7 +16385,7 @@
         {
           "sec": 15,
           "date": "05/08(日)",
-          "time": "16:00",
+          "time": "16:03",
           "division": "j2",
           "score": "0-0",
           "opponent": "栃木",
@@ -28202,15 +28202,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 14,
-      "win_point": 11,
+      "rank": 16,
+      "win_point": 10,
       "wins": 2,
-      "draws": 5,
+      "draws": 4,
       "loses": 4,
       "goals_for": 11,
       "goals_against": 10,
-      "max_win_point": 80,
-      "matches_left": 23
+      "max_win_point": 82,
+      "matches_left": 24
     },
     {
       "j_name": "大宮",
@@ -28256,15 +28256,15 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 4,
-      "win_point": 20,
+      "rank": 5,
+      "win_point": 19,
       "wins": 6,
-      "draws": 2,
+      "draws": 1,
       "loses": 4,
       "goals_for": 13,
       "goals_against": 11,
-      "max_win_point": 86,
-      "matches_left": 22
+      "max_win_point": 88,
+      "matches_left": 23
     },
     {
       "j_name": "FC東京",
@@ -28562,7 +28562,7 @@
       "league": "j1",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 16,
+      "rank": 15,
       "win_point": 11,
       "wins": 2,
       "draws": 5,
@@ -28616,7 +28616,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 15,
+      "rank": 14,
       "win_point": 11,
       "wins": 2,
       "draws": 5,
@@ -28904,7 +28904,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 5,
+      "rank": 4,
       "win_point": 19,
       "wins": 4,
       "draws": 7,
@@ -29050,5 +29050,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-08T18:06:03+09:00"
+  "updated_at": "2022-05-08T18:12:03+09:00"
 }
