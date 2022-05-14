@@ -1049,7 +1049,7 @@
         {
           "sec": 13,
           "date": "05/14(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "0-1",
           "opponent": "柏",
@@ -6821,7 +6821,7 @@
         {
           "sec": 13,
           "date": "05/14(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "0-1",
           "opponent": "G大阪",
@@ -8196,11 +8196,11 @@
           "date": "05/14(土)",
           "time": "19:00",
           "division": "j2",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "琉球",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "051414"
         },
@@ -18608,11 +18608,11 @@
           "date": "05/14(土)",
           "time": "19:00",
           "division": "j2",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "栃木",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "051414"
         },
@@ -28062,7 +28062,7 @@
       "league": "j2",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 22,
+      "rank": 21,
       "win_point": 11,
       "wins": 3,
       "draws": 2,
@@ -28210,11 +28210,11 @@
       "win_point": 15,
       "wins": 3,
       "draws": 6,
-      "loses": 7,
+      "loses": 6,
       "goals_for": 9,
-      "goals_against": 17,
-      "max_win_point": 93,
-      "matches_left": 26
+      "goals_against": 16,
+      "max_win_point": 96,
+      "matches_left": 27
     },
     {
       "j_name": "群馬",
@@ -29052,15 +29052,15 @@
       "league": "j2",
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
-      "rank": 21,
-      "win_point": 13,
-      "wins": 3,
+      "rank": 22,
+      "win_point": 10,
+      "wins": 2,
       "draws": 4,
       "loses": 9,
-      "goals_for": 19,
+      "goals_for": 18,
       "goals_against": 30,
       "max_win_point": 91,
-      "matches_left": 26
+      "matches_left": 27
     },
     {
       "j_name": "F東23",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-14T21:06:04+09:00"
+  "updated_at": "2022-05-14T21:12:03+09:00"
 }
