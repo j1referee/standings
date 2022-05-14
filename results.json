@@ -150,11 +150,11 @@
           "date": "05/14(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "051406"
         },
@@ -4590,11 +4590,11 @@
           "date": "05/14(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-4",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "051407"
         },
@@ -5491,11 +5491,11 @@
           "date": "05/14(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "川崎F",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "051406"
         },
@@ -6379,11 +6379,11 @@
           "date": "05/14(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-4",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "051407"
         },
@@ -28368,15 +28368,15 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 2,
-      "win_point": 26,
-      "wins": 8,
+      "rank": 3,
+      "win_point": 23,
+      "wins": 7,
       "draws": 2,
       "loses": 2,
-      "goals_for": 19,
+      "goals_for": 17,
       "goals_against": 12,
       "max_win_point": 92,
-      "matches_left": 22
+      "matches_left": 23
     },
     {
       "j_name": "横浜FM",
@@ -28386,15 +28386,15 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 3,
-      "win_point": 21,
-      "wins": 6,
+      "rank": 2,
+      "win_point": 24,
+      "wins": 7,
       "draws": 3,
       "loses": 2,
-      "goals_for": 19,
-      "goals_against": 12,
+      "goals_for": 23,
+      "goals_against": 13,
       "max_win_point": 90,
-      "matches_left": 23
+      "matches_left": 22
     },
     {
       "j_name": "横浜FC",
@@ -28444,11 +28444,11 @@
       "win_point": 7,
       "wins": 1,
       "draws": 4,
-      "loses": 7,
-      "goals_for": 6,
-      "goals_against": 16,
-      "max_win_point": 73,
-      "matches_left": 22
+      "loses": 8,
+      "goals_for": 7,
+      "goals_against": 20,
+      "max_win_point": 70,
+      "matches_left": 21
     },
     {
       "j_name": "相模原",
@@ -28912,11 +28912,11 @@
       "win_point": 15,
       "wins": 3,
       "draws": 6,
-      "loses": 4,
+      "loses": 3,
       "goals_for": 10,
-      "goals_against": 9,
-      "max_win_point": 78,
-      "matches_left": 21
+      "goals_against": 7,
+      "max_win_point": 81,
+      "matches_left": 22
     },
     {
       "j_name": "北九州",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-14T18:00:04+09:00"
+  "updated_at": "2022-05-14T18:02:03+09:00"
 }
