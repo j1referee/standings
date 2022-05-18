@@ -2383,11 +2383,11 @@
           "date": "05/18(水)",
           "time": "19:30",
           "division": "j1",
-          "score": "vs",
+          "score": "3-3",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 3,
+          "point": 1,
           "home": true,
           "mid": "051810"
         },
@@ -4603,11 +4603,11 @@
           "date": "05/18(水)",
           "time": "19:30",
           "division": "j1",
-          "score": "vs",
+          "score": "3-3",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 3,
+          "point": 1,
           "home": false,
           "mid": "051810"
         },
@@ -28242,15 +28242,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 16,
-      "win_point": 12,
+      "rank": 15,
+      "win_point": 13,
       "wins": 2,
-      "draws": 6,
+      "draws": 7,
       "loses": 4,
-      "goals_for": 11,
-      "goals_against": 10,
-      "max_win_point": 78,
-      "matches_left": 22
+      "goals_for": 14,
+      "goals_against": 13,
+      "max_win_point": 76,
+      "matches_left": 21
     },
     {
       "j_name": "大宮",
@@ -28387,14 +28387,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 3,
-      "win_point": 24,
+      "win_point": 25,
       "wins": 7,
-      "draws": 3,
+      "draws": 4,
       "loses": 2,
-      "goals_for": 23,
-      "goals_against": 13,
-      "max_win_point": 90,
-      "matches_left": 22
+      "goals_for": 26,
+      "goals_against": 16,
+      "max_win_point": 88,
+      "matches_left": 21
     },
     {
       "j_name": "横浜FC",
@@ -28584,7 +28584,7 @@
       "league": "j1",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 15,
+      "rank": 16,
       "win_point": 13,
       "wins": 2,
       "draws": 7,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-18T21:32:03+09:00"
+  "updated_at": "2022-05-18T21:36:04+09:00"
 }
