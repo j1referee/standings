@@ -618,13 +618,13 @@
         {
           "sec": 14,
           "date": "05/21(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "052104"
         },
@@ -6390,13 +6390,13 @@
         {
           "sec": 14,
           "date": "05/21(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "052105"
         },
@@ -6834,13 +6834,13 @@
         {
           "sec": 14,
           "date": "05/21(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "FC東京",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "052104"
         },
@@ -7722,13 +7722,13 @@
         {
           "sec": 14,
           "date": "05/21(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "052105"
         },
@@ -28296,15 +28296,15 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 6,
-      "win_point": 20,
+      "rank": 5,
+      "win_point": 21,
       "wins": 6,
-      "draws": 2,
+      "draws": 3,
       "loses": 5,
       "goals_for": 13,
       "goals_against": 12,
-      "max_win_point": 83,
-      "matches_left": 21
+      "max_win_point": 81,
+      "matches_left": 20
     },
     {
       "j_name": "FC東京",
@@ -28315,14 +28315,14 @@
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
       "rank": 8,
-      "win_point": 18,
+      "win_point": 19,
       "wins": 5,
-      "draws": 3,
+      "draws": 4,
       "loses": 5,
       "goals_for": 12,
       "goals_against": 13,
-      "max_win_point": 81,
-      "matches_left": 21
+      "max_win_point": 79,
+      "matches_left": 20
     },
     {
       "j_name": "東京V",
@@ -28440,15 +28440,15 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 18,
-      "win_point": 7,
-      "wins": 1,
+      "rank": 17,
+      "win_point": 10,
+      "wins": 2,
       "draws": 4,
       "loses": 8,
-      "goals_for": 7,
-      "goals_against": 20,
+      "goals_for": 9,
+      "goals_against": 21,
       "max_win_point": 70,
-      "matches_left": 21
+      "matches_left": 20
     },
     {
       "j_name": "相模原",
@@ -28728,7 +28728,7 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 5,
+      "rank": 6,
       "win_point": 20,
       "wins": 5,
       "draws": 5,
@@ -28746,15 +28746,15 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 17,
+      "rank": 18,
       "win_point": 7,
       "wins": 1,
       "draws": 4,
-      "loses": 8,
-      "goals_for": 9,
-      "goals_against": 19,
-      "max_win_point": 70,
-      "matches_left": 21
+      "loses": 9,
+      "goals_for": 10,
+      "goals_against": 21,
+      "max_win_point": 67,
+      "matches_left": 20
     },
     {
       "j_name": "鳥取",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-21T17:20:03+09:00"
+  "updated_at": "2022-05-21T17:30:03+09:00"
 }
