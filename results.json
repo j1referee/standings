@@ -2418,11 +2418,11 @@
           "date": "05/28(土)",
           "time": "17:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "052802"
         },
@@ -5522,11 +5522,11 @@
           "date": "05/28(土)",
           "time": "17:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "052802"
         },
@@ -28234,15 +28234,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 15,
-      "win_point": 14,
+      "rank": 14,
+      "win_point": 15,
       "wins": 2,
-      "draws": 8,
+      "draws": 9,
       "loses": 5,
       "goals_for": 15,
       "goals_against": 16,
-      "max_win_point": 71,
-      "matches_left": 19
+      "max_win_point": 69,
+      "matches_left": 18
     },
     {
       "j_name": "大宮",
@@ -28594,7 +28594,7 @@
       "league": "j1",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 14,
+      "rank": 15,
       "win_point": 15,
       "wins": 3,
       "draws": 6,
@@ -28901,14 +28901,14 @@
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
       "rank": 11,
-      "win_point": 18,
+      "win_point": 19,
       "wins": 4,
-      "draws": 6,
+      "draws": 7,
       "loses": 5,
       "goals_for": 11,
       "goals_against": 10,
-      "max_win_point": 75,
-      "matches_left": 19
+      "max_win_point": 73,
+      "matches_left": 18
     },
     {
       "j_name": "北九州",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-28T19:12:03+09:00"
+  "updated_at": "2022-05-28T19:16:03+09:00"
 }
