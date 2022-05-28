@@ -15351,11 +15351,11 @@
           "date": "05/28(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "甲府",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "052803"
         },
@@ -16447,11 +16447,11 @@
           "date": "05/28(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "熊本",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "052803"
         },
@@ -28108,7 +28108,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 6,
+      "rank": 5,
       "win_point": 27,
       "wins": 7,
       "draws": 6,
@@ -28469,14 +28469,14 @@
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
       "rank": 8,
-      "win_point": 26,
+      "win_point": 25,
       "wins": 6,
-      "draws": 8,
+      "draws": 7,
       "loses": 5,
-      "goals_for": 23,
-      "goals_against": 23,
-      "max_win_point": 95,
-      "matches_left": 23
+      "goals_for": 22,
+      "goals_against": 22,
+      "max_win_point": 97,
+      "matches_left": 24
     },
     {
       "j_name": "松本",
@@ -28972,15 +28972,15 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 5,
-      "win_point": 28,
+      "rank": 6,
+      "win_point": 27,
       "wins": 7,
-      "draws": 7,
+      "draws": 6,
       "loses": 5,
-      "goals_for": 25,
-      "goals_against": 27,
-      "max_win_point": 97,
-      "matches_left": 23
+      "goals_for": 24,
+      "goals_against": 26,
+      "max_win_point": 99,
+      "matches_left": 24
     },
     {
       "j_name": "大分",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-28T15:30:04+09:00"
+  "updated_at": "2022-05-28T15:32:03+09:00"
 }
