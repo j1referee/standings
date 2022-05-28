@@ -20166,13 +20166,13 @@
         {
           "sec": 10,
           "date": "05/28(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "北九州",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "052805"
         },
@@ -26357,13 +26357,13 @@
         {
           "sec": 10,
           "date": "05/28(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "052805"
         },
@@ -28414,15 +28414,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 18,
-      "win_point": 2,
-      "wins": 0,
+      "rank": 17,
+      "win_point": 5,
+      "wins": 1,
       "draws": 2,
       "loses": 7,
-      "goals_for": 3,
+      "goals_for": 4,
       "goals_against": 18,
       "max_win_point": 77,
-      "matches_left": 25
+      "matches_left": 24
     },
     {
       "j_name": "湘南",
@@ -28756,7 +28756,7 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 17,
+      "rank": 18,
       "win_point": 4,
       "wins": 1,
       "draws": 1,
@@ -28922,11 +28922,11 @@
       "win_point": 9,
       "wins": 2,
       "draws": 3,
-      "loses": 4,
+      "loses": 5,
       "goals_for": 7,
-      "goals_against": 11,
-      "max_win_point": 84,
-      "matches_left": 25
+      "goals_against": 12,
+      "max_win_point": 81,
+      "matches_left": 24
     },
     {
       "j_name": "鳥栖",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-28T16:36:04+09:00"
+  "updated_at": "2022-05-28T16:42:04+09:00"
 }
