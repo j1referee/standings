@@ -2849,11 +2849,11 @@
           "date": "05/28(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "052801"
         },
@@ -7298,11 +7298,11 @@
           "date": "05/28(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "広島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "052801"
         },
@@ -28288,7 +28288,7 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 4,
+      "rank": 5,
       "win_point": 24,
       "wins": 7,
       "draws": 3,
@@ -28306,7 +28306,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 6,
+      "rank": 7,
       "win_point": 22,
       "wins": 6,
       "draws": 4,
@@ -28652,11 +28652,11 @@
       "win_point": 20,
       "wins": 5,
       "draws": 5,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 14,
-      "goals_against": 15,
-      "max_win_point": 77,
-      "matches_left": 19
+      "goals_against": 16,
+      "max_win_point": 74,
+      "matches_left": 18
     },
     {
       "j_name": "岐阜",
@@ -28720,7 +28720,7 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 5,
+      "rank": 6,
       "win_point": 23,
       "wins": 6,
       "draws": 5,
@@ -28792,15 +28792,15 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 7,
-      "win_point": 21,
-      "wins": 5,
+      "rank": 4,
+      "win_point": 24,
+      "wins": 6,
       "draws": 6,
       "loses": 3,
-      "goals_for": 18,
+      "goals_for": 19,
       "goals_against": 13,
       "max_win_point": 81,
-      "matches_left": 20
+      "matches_left": 19
     },
     {
       "j_name": "山口",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-28T15:50:04+09:00"
+  "updated_at": "2022-05-28T16:00:05+09:00"
 }
