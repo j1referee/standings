@@ -21056,11 +21056,11 @@
           "date": "05/29(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "3-1",
+          "score": "vs",
           "opponent": "沼津",
-          "goals_for": 3,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "052922"
         },
@@ -22383,11 +22383,11 @@
           "date": "05/29(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "3-1",
+          "score": "vs",
           "opponent": "藤枝",
-          "goals_for": 1,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "052922"
         },
@@ -28504,7 +28504,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 7,
+      "rank": 6,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -28540,7 +28540,7 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 6,
+      "rank": 5,
       "win_point": 16,
       "wins": 5,
       "draws": 1,
@@ -28612,15 +28612,15 @@
       "league": "j3",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 5,
-      "win_point": 17,
-      "wins": 5,
+      "rank": 9,
+      "win_point": 14,
+      "wins": 4,
       "draws": 2,
       "loses": 3,
-      "goals_for": 15,
-      "goals_against": 12,
+      "goals_for": 12,
+      "goals_against": 11,
       "max_win_point": 89,
-      "matches_left": 24
+      "matches_left": 25
     },
     {
       "j_name": "沼津",
@@ -28634,11 +28634,11 @@
       "win_point": 13,
       "wins": 4,
       "draws": 1,
-      "loses": 5,
-      "goals_for": 12,
-      "goals_against": 13,
-      "max_win_point": 85,
-      "matches_left": 24
+      "loses": 4,
+      "goals_for": 11,
+      "goals_against": 10,
+      "max_win_point": 88,
+      "matches_left": 25
     },
     {
       "j_name": "名古屋",
@@ -28666,7 +28666,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 9,
+      "rank": 8,
       "win_point": 14,
       "wins": 4,
       "draws": 2,
@@ -29008,7 +29008,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 8,
+      "rank": 7,
       "win_point": 15,
       "wins": 3,
       "draws": 6,
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-29T16:30:04+09:00"
+  "updated_at": "2022-05-29T16:32:03+09:00"
 }
