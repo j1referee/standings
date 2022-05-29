@@ -13707,11 +13707,11 @@
           "date": "05/29(日)",
           "time": "18:30",
           "division": "j2",
-          "score": "3-3",
+          "score": "vs",
           "opponent": "琉球",
-          "goals_for": 3,
-          "goals_against": 3,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "052915"
         },
@@ -18639,11 +18639,11 @@
           "date": "05/29(日)",
           "time": "18:30",
           "division": "j2",
-          "score": "3-3",
+          "score": "vs",
           "opponent": "徳島",
-          "goals_for": 3,
-          "goals_against": 3,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "052915"
         },
@@ -28847,14 +28847,14 @@
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
       "rank": 15,
-      "win_point": 23,
+      "win_point": 22,
       "wins": 4,
-      "draws": 11,
+      "draws": 10,
       "loses": 4,
-      "goals_for": 20,
-      "goals_against": 14,
-      "max_win_point": 92,
-      "matches_left": 23
+      "goals_for": 17,
+      "goals_against": 11,
+      "max_win_point": 94,
+      "matches_left": 24
     },
     {
       "j_name": "愛媛",
@@ -29045,14 +29045,14 @@
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
       "rank": 21,
-      "win_point": 15,
+      "win_point": 14,
       "wins": 3,
-      "draws": 6,
+      "draws": 5,
       "loses": 10,
-      "goals_for": 23,
-      "goals_against": 35,
-      "max_win_point": 84,
-      "matches_left": 23
+      "goals_for": 20,
+      "goals_against": 32,
+      "max_win_point": 86,
+      "matches_left": 24
     },
     {
       "j_name": "F東23",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-29T20:36:03+09:00"
+  "updated_at": "2022-05-29T20:42:03+09:00"
 }
