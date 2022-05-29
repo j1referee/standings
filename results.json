@@ -4190,11 +4190,11 @@
           "date": "05/29(日)",
           "time": "13:05",
           "division": "j1",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "052901"
         },
@@ -7742,11 +7742,11 @@
           "date": "05/29(日)",
           "time": "13:05",
           "division": "j1",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "052901"
         },
@@ -28022,11 +28022,11 @@
       "win_point": 20,
       "wins": 4,
       "draws": 8,
-      "loses": 3,
-      "goals_for": 14,
-      "goals_against": 22,
-      "max_win_point": 77,
-      "matches_left": 19
+      "loses": 4,
+      "goals_for": 15,
+      "goals_against": 26,
+      "max_win_point": 74,
+      "matches_left": 18
     },
     {
       "j_name": "八戸",
@@ -28739,14 +28739,14 @@
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
       "rank": 18,
-      "win_point": 8,
-      "wins": 1,
+      "win_point": 11,
+      "wins": 2,
       "draws": 5,
       "loses": 9,
-      "goals_for": 10,
-      "goals_against": 21,
+      "goals_for": 14,
+      "goals_against": 22,
       "max_win_point": 65,
-      "matches_left": 19
+      "matches_left": 18
     },
     {
       "j_name": "鳥取",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-29T15:32:03+09:00"
+  "updated_at": "2022-05-29T15:36:03+09:00"
 }
