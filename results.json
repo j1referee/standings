@@ -1077,11 +1077,11 @@
           "date": "05/29(日)",
           "time": "17:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "052906"
         },
@@ -3302,11 +3302,11 @@
           "date": "05/29(日)",
           "time": "17:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "052906"
         },
@@ -28706,11 +28706,11 @@
       "win_point": 17,
       "wins": 4,
       "draws": 5,
-      "loses": 5,
-      "goals_for": 16,
-      "goals_against": 18,
-      "max_win_point": 77,
-      "matches_left": 20
+      "loses": 6,
+      "goals_for": 17,
+      "goals_against": 20,
+      "max_win_point": 74,
+      "matches_left": 19
     },
     {
       "j_name": "C大阪",
@@ -28937,14 +28937,14 @@
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
       "rank": 8,
-      "win_point": 21,
-      "wins": 4,
+      "win_point": 24,
+      "wins": 5,
       "draws": 9,
       "loses": 2,
-      "goals_for": 19,
-      "goals_against": 15,
+      "goals_for": 21,
+      "goals_against": 16,
       "max_win_point": 78,
-      "matches_left": 19
+      "matches_left": 18
     },
     {
       "j_name": "長崎",
@@ -29082,5 +29082,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-29T19:12:03+09:00"
+  "updated_at": "2022-05-29T19:16:03+09:00"
 }
