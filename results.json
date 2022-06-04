@@ -1112,6 +1112,19 @@
           "mid": "062601"
         },
         {
+          "sec": 15,
+          "date": "06/29(水)",
+          "time": "19:00",
+          "division": "j1",
+          "score": "vs",
+          "opponent": "広島",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "062901"
+        },
+        {
           "sec": 19,
           "date": "07/02(土)",
           "time": "19:00",
@@ -1318,15 +1331,6 @@
           "point": null,
           "home": false,
           "mid": "110502"
-        },
-        {
-          "sec": 15,
-          "date": "05/25(水)",
-          "time": " ",
-          "opponent": "広島",
-          "point": "suspended",
-          "home": true,
-          "mid": "052502"
         }
       ],
       "鹿島": [
@@ -2884,6 +2888,19 @@
           "mid": "062503"
         },
         {
+          "sec": 15,
+          "date": "06/29(水)",
+          "time": "19:00",
+          "division": "j1",
+          "score": "vs",
+          "opponent": "G大阪",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "062901"
+        },
+        {
           "sec": 19,
           "date": "07/02(土)",
           "time": "18:30",
@@ -3090,15 +3107,6 @@
           "point": null,
           "home": false,
           "mid": "110509"
-        },
-        {
-          "sec": 15,
-          "date": "05/25(水)",
-          "time": " ",
-          "opponent": "G大阪",
-          "point": "suspended",
-          "home": false,
-          "mid": "052502"
         }
       ],
       "鳥栖": [
@@ -10820,19 +10828,6 @@
           "mid": "033007"
         },
         {
-          "sec": 8,
-          "date": "04/03(日)",
-          "time": "14:03",
-          "division": "j2",
-          "score": "0-1",
-          "opponent": "岡山",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
-          "home": true,
-          "mid": "040303"
-        },
-        {
           "sec": 9,
           "date": "04/10(日)",
           "time": "14:03",
@@ -11273,6 +11268,14 @@
           "point": null,
           "home": true,
           "mid": "102302"
+        },
+        {
+          "sec": 8,
+          "date": "未定",
+          "time": "",
+          "opponent": "岡山",
+          "point": "suspended",
+          "home": true
         }
       ],
       "横浜FC": [
@@ -15752,19 +15755,6 @@
           "mid": "033009"
         },
         {
-          "sec": 8,
-          "date": "04/03(日)",
-          "time": "14:03",
-          "division": "j2",
-          "score": "0-1",
-          "opponent": "山形",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
-          "home": false,
-          "mid": "040303"
-        },
-        {
           "sec": 9,
           "date": "04/09(土)",
           "time": "17:03",
@@ -16205,6 +16195,14 @@
           "point": null,
           "home": false,
           "mid": "102305"
+        },
+        {
+          "sec": 8,
+          "date": "未定",
+          "time": "",
+          "opponent": "山形",
+          "point": "suspended",
+          "home": false
         }
       ],
       "甲府": [
@@ -20181,11 +20179,11 @@
           "date": "06/04(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-6",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 6,
+          "point": 0,
           "home": true,
           "mid": "060402"
         },
@@ -21944,11 +21942,11 @@
           "date": "06/04(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "北九州",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "060403"
         },
@@ -25040,11 +25038,11 @@
           "date": "06/04(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-6",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 6,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "060402"
         },
@@ -26372,11 +26370,11 @@
           "date": "06/04(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "060403"
         },
@@ -28108,15 +28106,15 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 7,
+      "rank": 6,
       "win_point": 27,
       "wins": 7,
       "draws": 6,
-      "loses": 5,
+      "loses": 4,
       "goals_for": 26,
-      "goals_against": 19,
-      "max_win_point": 99,
-      "matches_left": 24
+      "goals_against": 18,
+      "max_win_point": 102,
+      "matches_left": 25
     },
     {
       "j_name": "福島",
@@ -28144,15 +28142,15 @@
       "league": "j3",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 2,
-      "win_point": 21,
-      "wins": 6,
+      "rank": 1,
+      "win_point": 24,
+      "wins": 7,
       "draws": 3,
       "loses": 1,
-      "goals_for": 17,
+      "goals_for": 23,
       "goals_against": 7,
       "max_win_point": 93,
-      "matches_left": 24
+      "matches_left": 23
     },
     {
       "j_name": "鹿島",
@@ -28418,11 +28416,11 @@
       "win_point": 5,
       "wins": 1,
       "draws": 2,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 4,
-      "goals_against": 18,
-      "max_win_point": 77,
-      "matches_left": 24
+      "goals_against": 24,
+      "max_win_point": 74,
+      "matches_left": 23
     },
     {
       "j_name": "湘南",
@@ -28450,15 +28448,15 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 15,
-      "win_point": 7,
-      "wins": 2,
+      "rank": 14,
+      "win_point": 10,
+      "wins": 3,
       "draws": 1,
       "loses": 6,
-      "goals_for": 5,
-      "goals_against": 12,
+      "goals_for": 8,
+      "goals_against": 14,
       "max_win_point": 82,
-      "matches_left": 25
+      "matches_left": 24
     },
     {
       "j_name": "甲府",
@@ -28558,7 +28556,7 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 8,
+      "rank": 7,
       "win_point": 27,
       "wins": 7,
       "draws": 6,
@@ -28774,15 +28772,15 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 5,
-      "win_point": 29,
-      "wins": 7,
+      "rank": 8,
+      "win_point": 26,
+      "wins": 6,
       "draws": 8,
       "loses": 4,
-      "goals_for": 21,
+      "goals_for": 20,
       "goals_against": 17,
       "max_win_point": 98,
-      "matches_left": 23
+      "matches_left": 24
     },
     {
       "j_name": "広島",
@@ -28918,15 +28916,15 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 14,
+      "rank": 15,
       "win_point": 9,
       "wins": 2,
       "draws": 3,
-      "loses": 5,
-      "goals_for": 7,
-      "goals_against": 12,
-      "max_win_point": 81,
-      "matches_left": 24
+      "loses": 6,
+      "goals_for": 9,
+      "goals_against": 15,
+      "max_win_point": 78,
+      "matches_left": 23
     },
     {
       "j_name": "鳥栖",
@@ -28972,7 +28970,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 6,
+      "rank": 5,
       "win_point": 28,
       "wins": 7,
       "draws": 7,
@@ -29026,7 +29024,7 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 1,
+      "rank": 2,
       "win_point": 23,
       "wins": 7,
       "draws": 2,
@@ -29082,5 +29080,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-05-29T21:36:04+09:00"
+  "updated_at": "2022-06-04T15:00:04+09:00"
 }
