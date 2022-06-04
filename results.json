@@ -13723,11 +13723,11 @@
           "date": "06/04(土)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "新潟",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "060408"
         },
@@ -17554,11 +17554,11 @@
           "date": "06/04(土)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "徳島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "060408"
         },
@@ -28070,7 +28070,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 1,
+      "rank": 2,
       "win_point": 39,
       "wins": 12,
       "draws": 3,
@@ -28322,7 +28322,7 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 14,
+      "rank": 15,
       "win_point": 24,
       "wins": 6,
       "draws": 6,
@@ -28520,15 +28520,15 @@
       "league": "j2",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 2,
-      "win_point": 38,
+      "rank": 1,
+      "win_point": 39,
       "wins": 11,
-      "draws": 5,
+      "draws": 6,
       "loses": 3,
-      "goals_for": 33,
-      "goals_against": 16,
-      "max_win_point": 107,
-      "matches_left": 23
+      "goals_for": 34,
+      "goals_against": 17,
+      "max_win_point": 105,
+      "matches_left": 22
     },
     {
       "j_name": "富山",
@@ -28844,15 +28844,15 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 15,
-      "win_point": 23,
+      "rank": 14,
+      "win_point": 24,
       "wins": 4,
-      "draws": 11,
+      "draws": 12,
       "loses": 4,
-      "goals_for": 20,
-      "goals_against": 14,
-      "max_win_point": 92,
-      "matches_left": 23
+      "goals_for": 21,
+      "goals_against": 15,
+      "max_win_point": 90,
+      "matches_left": 22
     },
     {
       "j_name": "愛媛",
@@ -29080,5 +29080,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-04T18:12:03+09:00"
+  "updated_at": "2022-06-04T18:16:03+09:00"
 }
