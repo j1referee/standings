@@ -8246,7 +8246,7 @@
         {
           "sec": 20,
           "date": "06/05(日)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
           "score": "2-3",
           "opponent": "長崎",
@@ -9879,11 +9879,11 @@
           "date": "06/05(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "060507"
         },
@@ -12625,7 +12625,7 @@
         {
           "sec": 20,
           "date": "06/05(日)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
           "score": "2-3",
           "opponent": "栃木",
@@ -16458,11 +16458,11 @@
           "date": "06/05(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "岩手",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "060507"
         },
@@ -28052,15 +28052,15 @@
       "league": "j2",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 22,
-      "win_point": 14,
-      "wins": 4,
+      "rank": 21,
+      "win_point": 17,
+      "wins": 5,
       "draws": 2,
       "loses": 12,
-      "goals_for": 11,
+      "goals_for": 12,
       "goals_against": 33,
       "max_win_point": 86,
-      "matches_left": 24
+      "matches_left": 23
     },
     {
       "j_name": "仙台",
@@ -28470,11 +28470,11 @@
       "win_point": 26,
       "wins": 6,
       "draws": 8,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 23,
-      "goals_against": 23,
-      "max_win_point": 95,
-      "matches_left": 23
+      "goals_against": 24,
+      "max_win_point": 92,
+      "matches_left": 22
     },
     {
       "j_name": "松本",
@@ -29042,7 +29042,7 @@
       "league": "j2",
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
-      "rank": 21,
+      "rank": 22,
       "win_point": 15,
       "wins": 3,
       "draws": 6,
@@ -29080,5 +29080,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-05T20:16:04+09:00"
+  "updated_at": "2022-06-05T20:20:04+09:00"
 }
