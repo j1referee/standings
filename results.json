@@ -20623,11 +20623,11 @@
           "date": "06/05(日)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "060515"
         },
@@ -23264,11 +23264,11 @@
           "date": "06/05(日)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "060515"
         },
@@ -28035,14 +28035,14 @@
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
       "rank": 16,
-      "win_point": 6,
+      "win_point": 7,
       "wins": 2,
-      "draws": 0,
+      "draws": 1,
       "loses": 7,
       "goals_for": 6,
       "goals_against": 15,
-      "max_win_point": 81,
-      "matches_left": 25
+      "max_win_point": 79,
+      "matches_left": 24
     },
     {
       "j_name": "岩手",
@@ -28664,15 +28664,15 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 11,
-      "win_point": 14,
+      "rank": 10,
+      "win_point": 15,
       "wins": 4,
-      "draws": 2,
+      "draws": 3,
       "loses": 4,
       "goals_for": 18,
       "goals_against": 14,
-      "max_win_point": 86,
-      "matches_left": 24
+      "max_win_point": 84,
+      "matches_left": 23
     },
     {
       "j_name": "京都",
@@ -28862,7 +28862,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 10,
+      "rank": 11,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -29080,5 +29080,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-05T21:02:03+09:00"
+  "updated_at": "2022-06-05T21:06:03+09:00"
 }
