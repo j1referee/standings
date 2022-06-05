@@ -21067,11 +21067,11 @@
           "date": "06/05(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "0-6",
+          "score": "vs",
           "opponent": "福島",
-          "goals_for": 6,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "060509"
         },
@@ -24165,11 +24165,11 @@
           "date": "06/05(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "0-6",
+          "score": "vs",
           "opponent": "藤枝",
-          "goals_for": 0,
-          "goals_against": 6,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "060509"
         },
@@ -28124,15 +28124,15 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 5,
+      "rank": 4,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
-      "loses": 2,
+      "loses": 1,
       "goals_for": 14,
-      "goals_against": 9,
-      "max_win_point": 88,
-      "matches_left": 23
+      "goals_against": 3,
+      "max_win_point": 91,
+      "matches_left": 24
     },
     {
       "j_name": "いわき",
@@ -28610,15 +28610,15 @@
       "league": "j3",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 4,
-      "win_point": 20,
-      "wins": 6,
+      "rank": 6,
+      "win_point": 17,
+      "wins": 5,
       "draws": 2,
       "loses": 3,
-      "goals_for": 21,
+      "goals_for": 15,
       "goals_against": 12,
       "max_win_point": 89,
-      "matches_left": 23
+      "matches_left": 24
     },
     {
       "j_name": "沼津",
@@ -29006,7 +29006,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 6,
+      "rank": 5,
       "win_point": 18,
       "wins": 4,
       "draws": 6,
@@ -29080,5 +29080,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-05T15:30:03+09:00"
+  "updated_at": "2022-06-05T15:32:04+09:00"
 }
