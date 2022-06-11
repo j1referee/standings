@@ -21078,13 +21078,13 @@
         {
           "sec": 12,
           "date": "06/11(土)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j3",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "061104"
         },
@@ -25947,13 +25947,13 @@
         {
           "sec": 12,
           "date": "06/11(土)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j3",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "061104"
         },
@@ -28152,7 +28152,7 @@
       "league": "j3",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 2,
+      "rank": 3,
       "win_point": 24,
       "wins": 7,
       "draws": 3,
@@ -28494,15 +28494,15 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 3,
-      "win_point": 22,
-      "wins": 6,
+      "rank": 2,
+      "win_point": 25,
+      "wins": 7,
       "draws": 4,
       "loses": 1,
-      "goals_for": 17,
+      "goals_for": 19,
       "goals_against": 9,
       "max_win_point": 91,
-      "matches_left": 23
+      "matches_left": 22
     },
     {
       "j_name": "長野",
@@ -28624,11 +28624,11 @@
       "win_point": 20,
       "wins": 6,
       "draws": 2,
-      "loses": 3,
+      "loses": 4,
       "goals_for": 21,
-      "goals_against": 12,
-      "max_win_point": 89,
-      "matches_left": 23
+      "goals_against": 14,
+      "max_win_point": 86,
+      "matches_left": 22
     },
     {
       "j_name": "沼津",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-11T16:00:04+09:00"
+  "updated_at": "2022-06-11T18:00:05+09:00"
 }
