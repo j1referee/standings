@@ -17567,11 +17567,11 @@
           "date": "06/11(土)",
           "time": "19:00",
           "division": "j2",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "大分",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "061117"
         },
@@ -19211,11 +19211,11 @@
           "date": "06/11(土)",
           "time": "19:00",
           "division": "j2",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "新潟",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "061117"
         },
@@ -28080,7 +28080,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 2,
+      "rank": 1,
       "win_point": 40,
       "wins": 12,
       "draws": 4,
@@ -28404,7 +28404,7 @@
       "league": "j2",
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
-      "rank": 3,
+      "rank": 2,
       "win_point": 40,
       "wins": 11,
       "draws": 7,
@@ -28530,15 +28530,15 @@
       "league": "j2",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 1,
-      "win_point": 42,
-      "wins": 12,
+      "rank": 3,
+      "win_point": 39,
+      "wins": 11,
       "draws": 6,
       "loses": 3,
-      "goals_for": 36,
-      "goals_against": 18,
+      "goals_for": 34,
+      "goals_against": 17,
       "max_win_point": 105,
-      "matches_left": 21
+      "matches_left": 22
     },
     {
       "j_name": "富山",
@@ -29002,11 +29002,11 @@
       "win_point": 28,
       "wins": 7,
       "draws": 7,
-      "loses": 7,
-      "goals_for": 28,
-      "goals_against": 25,
-      "max_win_point": 91,
-      "matches_left": 21
+      "loses": 6,
+      "goals_for": 27,
+      "goals_against": 23,
+      "max_win_point": 94,
+      "matches_left": 22
     },
     {
       "j_name": "宮崎",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-11T21:06:04+09:00"
+  "updated_at": "2022-06-11T21:12:04+09:00"
 }
