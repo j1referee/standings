@@ -22094,6 +22094,19 @@
           "mid": "082015"
         },
         {
+          "sec": 22,
+          "date": "08/27(土)",
+          "time": "16:00",
+          "division": "j3",
+          "score": "vs",
+          "opponent": "沼津",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "082719"
+        },
+        {
           "sec": 23,
           "date": "09/03(土)",
           "time": "",
@@ -22248,14 +22261,6 @@
           "point": null,
           "home": false,
           "mid": "112004"
-        },
-        {
-          "sec": 22,
-          "date": "未定",
-          "time": "",
-          "opponent": "沼津",
-          "point": "suspended",
-          "home": false
         }
       ],
       "沼津": [
@@ -22533,6 +22538,19 @@
           "mid": "082105"
         },
         {
+          "sec": 22,
+          "date": "08/27(土)",
+          "time": "16:00",
+          "division": "j3",
+          "score": "vs",
+          "opponent": "相模原",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "082719"
+        },
+        {
           "sec": 23,
           "date": "09/03(土)",
           "time": "",
@@ -22687,14 +22705,6 @@
           "point": null,
           "home": true,
           "mid": "112007"
-        },
-        {
-          "sec": 22,
-          "date": "未定",
-          "time": "",
-          "opponent": "相模原",
-          "point": "suspended",
-          "home": true
         }
       ],
       "宮崎": [
@@ -29080,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-05T21:16:03+09:00"
+  "updated_at": "2022-06-11T16:00:04+09:00"
 }
