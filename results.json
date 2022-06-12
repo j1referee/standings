@@ -14830,7 +14830,7 @@
         {
           "sec": 21,
           "date": "06/12(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j2",
           "score": "0-1",
           "opponent": "岡山",
@@ -15913,7 +15913,7 @@
         {
           "sec": 21,
           "date": "06/12(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j2",
           "score": "0-1",
           "opponent": "山口",
@@ -20192,11 +20192,11 @@
           "date": "06/12(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "沼津",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "061207"
         },
@@ -22412,11 +22412,11 @@
           "date": "06/12(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "061207"
         },
@@ -28426,11 +28426,11 @@
       "win_point": 5,
       "wins": 1,
       "draws": 2,
-      "loses": 9,
-      "goals_for": 5,
-      "goals_against": 26,
-      "max_win_point": 71,
-      "matches_left": 22
+      "loses": 8,
+      "goals_for": 4,
+      "goals_against": 24,
+      "max_win_point": 74,
+      "matches_left": 23
     },
     {
       "j_name": "湘南",
@@ -28638,15 +28638,15 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 10,
-      "win_point": 16,
-      "wins": 5,
+      "rank": 12,
+      "win_point": 13,
+      "wins": 4,
       "draws": 1,
       "loses": 6,
-      "goals_for": 14,
-      "goals_against": 15,
+      "goals_for": 12,
+      "goals_against": 14,
       "max_win_point": 82,
-      "matches_left": 22
+      "matches_left": 23
     },
     {
       "j_name": "名古屋",
@@ -28674,7 +28674,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 11,
+      "rank": 10,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -28872,7 +28872,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 12,
+      "rank": 11,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-12T15:16:04+09:00"
+  "updated_at": "2022-06-12T15:20:04+09:00"
 }
