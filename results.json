@@ -26837,11 +26837,11 @@
           "date": "06/12(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "愛媛",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "061213"
         },
@@ -27276,11 +27276,11 @@
           "date": "06/12(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "長野",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "061213"
         },
@@ -28512,15 +28512,15 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 10,
-      "win_point": 16,
+      "rank": 9,
+      "win_point": 17,
       "wins": 4,
-      "draws": 4,
+      "draws": 5,
       "loses": 3,
-      "goals_for": 12,
-      "goals_against": 12,
-      "max_win_point": 85,
-      "matches_left": 23
+      "goals_for": 13,
+      "goals_against": 13,
+      "max_win_point": 83,
+      "matches_left": 22
     },
     {
       "j_name": "新潟",
@@ -28873,14 +28873,14 @@
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
       "rank": 12,
-      "win_point": 15,
+      "win_point": 16,
       "wins": 4,
-      "draws": 3,
+      "draws": 4,
       "loses": 4,
-      "goals_for": 11,
-      "goals_against": 13,
-      "max_win_point": 84,
-      "matches_left": 23
+      "goals_for": 12,
+      "goals_against": 14,
+      "max_win_point": 82,
+      "matches_left": 22
     },
     {
       "j_name": "今治",
@@ -28890,7 +28890,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 9,
+      "rank": 10,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-12T18:12:03+09:00"
+  "updated_at": "2022-06-12T18:16:03+09:00"
 }
