@@ -9903,13 +9903,13 @@
         {
           "sec": 16,
           "date": "06/15(水)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
-          "score": "vs",
+          "score": "3-3",
           "opponent": "山形",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 3,
+          "point": 1,
           "home": true,
           "mid": "061512"
         },
@@ -10986,13 +10986,13 @@
         {
           "sec": 16,
           "date": "06/15(水)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
-          "score": "vs",
+          "score": "3-3",
           "opponent": "岩手",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 3,
+          "point": 1,
           "home": false,
           "mid": "061512"
         },
@@ -28063,14 +28063,14 @@
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
       "rank": 21,
-      "win_point": 18,
+      "win_point": 19,
       "wins": 5,
-      "draws": 3,
+      "draws": 4,
       "loses": 12,
-      "goals_for": 14,
-      "goals_against": 35,
-      "max_win_point": 84,
-      "matches_left": 22
+      "goals_for": 17,
+      "goals_against": 38,
+      "max_win_point": 82,
+      "matches_left": 21
     },
     {
       "j_name": "仙台",
@@ -28116,15 +28116,15 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 6,
-      "win_point": 30,
+      "rank": 5,
+      "win_point": 31,
       "wins": 8,
-      "draws": 6,
+      "draws": 7,
       "loses": 5,
-      "goals_for": 30,
-      "goals_against": 19,
-      "max_win_point": 99,
-      "matches_left": 23
+      "goals_for": 33,
+      "goals_against": 22,
+      "max_win_point": 97,
+      "matches_left": 22
     },
     {
       "j_name": "福島",
@@ -28962,7 +28962,7 @@
       "league": "j2",
       "hash_tag": "#vvaren",
       "full_name": "Ｖ・ファーレン長崎",
-      "rank": 5,
+      "rank": 6,
       "win_point": 31,
       "wins": 9,
       "draws": 4,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-15T20:20:04+09:00"
+  "updated_at": "2022-06-15T20:30:04+09:00"
 }
