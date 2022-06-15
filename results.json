@@ -9905,11 +9905,11 @@
           "date": "06/15(水)",
           "time": "18:00",
           "division": "j2",
-          "score": "3-3",
+          "score": "vs",
           "opponent": "山形",
-          "goals_for": 3,
-          "goals_against": 3,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "061512"
         },
@@ -10988,11 +10988,11 @@
           "date": "06/15(水)",
           "time": "18:00",
           "division": "j2",
-          "score": "3-3",
+          "score": "vs",
           "opponent": "岩手",
-          "goals_for": 3,
-          "goals_against": 3,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "061512"
         },
@@ -28063,14 +28063,14 @@
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
       "rank": 21,
-      "win_point": 19,
+      "win_point": 18,
       "wins": 5,
-      "draws": 4,
+      "draws": 3,
       "loses": 12,
-      "goals_for": 17,
-      "goals_against": 38,
-      "max_win_point": 82,
-      "matches_left": 21
+      "goals_for": 14,
+      "goals_against": 35,
+      "max_win_point": 84,
+      "matches_left": 22
     },
     {
       "j_name": "仙台",
@@ -28116,15 +28116,15 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 5,
-      "win_point": 31,
+      "rank": 6,
+      "win_point": 30,
       "wins": 8,
-      "draws": 7,
+      "draws": 6,
       "loses": 5,
-      "goals_for": 33,
-      "goals_against": 22,
-      "max_win_point": 97,
-      "matches_left": 22
+      "goals_for": 30,
+      "goals_against": 19,
+      "max_win_point": 99,
+      "matches_left": 23
     },
     {
       "j_name": "福島",
@@ -28962,7 +28962,7 @@
       "league": "j2",
       "hash_tag": "#vvaren",
       "full_name": "Ｖ・ファーレン長崎",
-      "rank": 6,
+      "rank": 5,
       "win_point": 31,
       "wins": 9,
       "draws": 4,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-15T20:06:03+09:00"
+  "updated_at": "2022-06-15T20:12:04+09:00"
 }
