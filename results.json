@@ -21968,11 +21968,11 @@
           "date": "06/15(水)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "061511"
         },
@@ -23300,11 +23300,11 @@
           "date": "06/15(水)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "061511"
         },
@@ -28044,15 +28044,15 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 17,
-      "win_point": 7,
-      "wins": 2,
+      "rank": 16,
+      "win_point": 10,
+      "wins": 3,
       "draws": 1,
       "loses": 8,
-      "goals_for": 6,
-      "goals_against": 18,
+      "goals_for": 8,
+      "goals_against": 19,
       "max_win_point": 76,
-      "matches_left": 23
+      "matches_left": 22
     },
     {
       "j_name": "岩手",
@@ -28462,11 +28462,11 @@
       "win_point": 13,
       "wins": 4,
       "draws": 1,
-      "loses": 6,
-      "goals_for": 11,
-      "goals_against": 15,
-      "max_win_point": 82,
-      "matches_left": 23
+      "loses": 7,
+      "goals_for": 12,
+      "goals_against": 17,
+      "max_win_point": 79,
+      "matches_left": 22
     },
     {
       "j_name": "甲府",
@@ -28764,7 +28764,7 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 16,
+      "rank": 17,
       "win_point": 8,
       "wins": 2,
       "draws": 2,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-15T21:02:03+09:00"
+  "updated_at": "2022-06-15T21:06:04+09:00"
 }
