@@ -20649,11 +20649,11 @@
           "date": "06/18(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "福島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "061819"
         },
@@ -24201,11 +24201,11 @@
           "date": "06/18(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "061819"
         },
@@ -28134,15 +28134,15 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 6,
+      "rank": 7,
       "win_point": 20,
       "wins": 5,
       "draws": 5,
-      "loses": 2,
+      "loses": 3,
       "goals_for": 15,
-      "goals_against": 10,
-      "max_win_point": 86,
-      "matches_left": 22
+      "goals_against": 11,
+      "max_win_point": 83,
+      "matches_left": 21
     },
     {
       "j_name": "いわき",
@@ -28620,7 +28620,7 @@
       "league": "j3",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 5,
+      "rank": 6,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -28674,15 +28674,15 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 8,
-      "win_point": 18,
-      "wins": 5,
+      "rank": 5,
+      "win_point": 21,
+      "wins": 6,
       "draws": 3,
       "loses": 4,
-      "goals_for": 20,
+      "goals_for": 21,
       "goals_against": 15,
       "max_win_point": 84,
-      "matches_left": 22
+      "matches_left": 21
     },
     {
       "j_name": "京都",
@@ -29016,7 +29016,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 7,
+      "rank": 8,
       "win_point": 18,
       "wins": 4,
       "draws": 6,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-18T16:16:03+09:00"
+  "updated_at": "2022-06-18T19:00:04+09:00"
 }
