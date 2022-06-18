@@ -215,11 +215,11 @@
           "date": "06/18(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "5-2",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 5,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "061807"
         },
@@ -4211,11 +4211,11 @@
           "date": "06/18(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "5-2",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 5,
+          "point": 0,
           "home": false,
           "mid": "061807"
         },
@@ -28030,11 +28030,11 @@
       "win_point": 20,
       "wins": 4,
       "draws": 8,
-      "loses": 4,
-      "goals_for": 15,
-      "goals_against": 26,
-      "max_win_point": 74,
-      "matches_left": 18
+      "loses": 5,
+      "goals_for": 17,
+      "goals_against": 31,
+      "max_win_point": 71,
+      "matches_left": 17
     },
     {
       "j_name": "八戸",
@@ -28296,7 +28296,7 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 3,
+      "rank": 4,
       "win_point": 30,
       "wins": 9,
       "draws": 3,
@@ -28368,15 +28368,15 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 4,
-      "win_point": 30,
-      "wins": 9,
+      "rank": 3,
+      "win_point": 33,
+      "wins": 10,
       "draws": 3,
       "loses": 4,
-      "goals_for": 20,
-      "goals_against": 17,
+      "goals_for": 25,
+      "goals_against": 19,
       "max_win_point": 84,
-      "matches_left": 18
+      "matches_left": 17
     },
     {
       "j_name": "横浜FM",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-18T21:32:03+09:00"
+  "updated_at": "2022-06-18T21:36:03+09:00"
 }
