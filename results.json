@@ -14295,13 +14295,13 @@
         {
           "sec": 22,
           "date": "06/19(日)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "町田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "061902"
         },
@@ -18126,13 +18126,13 @@
         {
           "sec": 22,
           "date": "06/19(日)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "金沢",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "061902"
         },
@@ -22423,13 +22423,13 @@
         {
           "sec": 13,
           "date": "06/19(日)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "富山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "061907"
         },
@@ -27731,13 +27731,13 @@
         {
           "sec": 13,
           "date": "06/19(日)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "061907"
         },
@@ -28116,7 +28116,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 6,
+      "rank": 7,
       "win_point": 31,
       "wins": 8,
       "draws": 7,
@@ -28278,7 +28278,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 7,
+      "rank": 8,
       "win_point": 31,
       "wins": 8,
       "draws": 7,
@@ -28350,15 +28350,15 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 9,
-      "win_point": 30,
-      "wins": 8,
+      "rank": 6,
+      "win_point": 33,
+      "wins": 9,
       "draws": 6,
       "loses": 7,
-      "goals_for": 25,
-      "goals_against": 20,
+      "goals_for": 28,
+      "goals_against": 22,
       "max_win_point": 93,
-      "matches_left": 21
+      "matches_left": 20
     },
     {
       "j_name": "川崎F",
@@ -28549,14 +28549,14 @@
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
       "rank": 4,
-      "win_point": 22,
-      "wins": 7,
+      "win_point": 25,
+      "wins": 8,
       "draws": 1,
       "loses": 4,
-      "goals_for": 20,
+      "goals_for": 21,
       "goals_against": 16,
       "max_win_point": 88,
-      "matches_left": 22
+      "matches_left": 21
     },
     {
       "j_name": "金沢",
@@ -28570,11 +28570,11 @@
       "win_point": 28,
       "wins": 7,
       "draws": 7,
-      "loses": 7,
-      "goals_for": 27,
-      "goals_against": 29,
-      "max_win_point": 91,
-      "matches_left": 21
+      "loses": 8,
+      "goals_for": 29,
+      "goals_against": 32,
+      "max_win_point": 88,
+      "matches_left": 20
     },
     {
       "j_name": "清水",
@@ -28642,11 +28642,11 @@
       "win_point": 16,
       "wins": 5,
       "draws": 1,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 14,
-      "goals_against": 15,
-      "max_win_point": 82,
-      "matches_left": 22
+      "goals_against": 16,
+      "max_win_point": 79,
+      "matches_left": 21
     },
     {
       "j_name": "名古屋",
@@ -28980,7 +28980,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 8,
+      "rank": 9,
       "win_point": 31,
       "wins": 7,
       "draws": 10,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-19T20:42:03+09:00"
+  "updated_at": "2022-06-19T20:50:03+09:00"
 }
