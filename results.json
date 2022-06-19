@@ -23313,11 +23313,11 @@
           "date": "06/19(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "長野",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "061906"
         },
@@ -26850,11 +26850,11 @@
           "date": "06/19(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "061906"
         },
@@ -28048,11 +28048,11 @@
       "win_point": 10,
       "wins": 3,
       "draws": 1,
-      "loses": 8,
-      "goals_for": 8,
-      "goals_against": 19,
-      "max_win_point": 76,
-      "matches_left": 22
+      "loses": 9,
+      "goals_for": 9,
+      "goals_against": 21,
+      "max_win_point": 73,
+      "matches_left": 21
     },
     {
       "j_name": "岩手",
@@ -28512,15 +28512,15 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 11,
-      "win_point": 17,
-      "wins": 4,
+      "rank": 8,
+      "win_point": 20,
+      "wins": 5,
       "draws": 5,
       "loses": 3,
-      "goals_for": 13,
-      "goals_against": 13,
+      "goals_for": 15,
+      "goals_against": 14,
       "max_win_point": 83,
-      "matches_left": 22
+      "matches_left": 21
     },
     {
       "j_name": "新潟",
@@ -28872,7 +28872,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 9,
+      "rank": 10,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -28890,7 +28890,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 8,
+      "rank": 9,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -29016,7 +29016,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 10,
+      "rank": 11,
       "win_point": 18,
       "wins": 4,
       "draws": 6,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-19T16:30:03+09:00"
+  "updated_at": "2022-06-19T18:42:04+09:00"
 }
