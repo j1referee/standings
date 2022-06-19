@@ -21537,11 +21537,11 @@
           "date": "06/19(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "宮崎",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "061904"
         },
@@ -22869,11 +22869,11 @@
           "date": "06/19(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "鳥取",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "061904"
         },
@@ -25074,11 +25074,11 @@
           "date": "06/19(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "北九州",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "061903"
         },
@@ -26406,11 +26406,11 @@
           "date": "06/19(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "いわき",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "061903"
         },
@@ -28044,7 +28044,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 17,
+      "rank": 16,
       "win_point": 10,
       "wins": 3,
       "draws": 1,
@@ -28153,14 +28153,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 2,
-      "win_point": 28,
+      "win_point": 27,
       "wins": 8,
-      "draws": 4,
+      "draws": 3,
       "loses": 1,
-      "goals_for": 27,
-      "goals_against": 10,
-      "max_win_point": 91,
-      "matches_left": 21
+      "goals_for": 25,
+      "goals_against": 8,
+      "max_win_point": 93,
+      "matches_left": 22
     },
     {
       "j_name": "鹿島",
@@ -28764,15 +28764,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 16,
-      "win_point": 11,
-      "wins": 3,
+      "rank": 17,
+      "win_point": 8,
+      "wins": 2,
       "draws": 2,
       "loses": 8,
-      "goals_for": 13,
+      "goals_for": 11,
       "goals_against": 23,
       "max_win_point": 74,
-      "matches_left": 21
+      "matches_left": 22
     },
     {
       "j_name": "岡山",
@@ -28927,14 +28927,14 @@
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
       "rank": 15,
-      "win_point": 11,
+      "win_point": 10,
       "wins": 2,
-      "draws": 5,
+      "draws": 4,
       "loses": 6,
-      "goals_for": 12,
-      "goals_against": 18,
-      "max_win_point": 74,
-      "matches_left": 21
+      "goals_for": 10,
+      "goals_against": 16,
+      "max_win_point": 76,
+      "matches_left": 22
     },
     {
       "j_name": "鳥栖",
@@ -29020,11 +29020,11 @@
       "win_point": 18,
       "wins": 4,
       "draws": 6,
-      "loses": 3,
+      "loses": 2,
       "goals_for": 15,
-      "goals_against": 11,
-      "max_win_point": 81,
-      "matches_left": 21
+      "goals_against": 9,
+      "max_win_point": 84,
+      "matches_left": 22
     },
     {
       "j_name": "鹿児島",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-19T15:00:04+09:00"
+  "updated_at": "2022-06-19T15:02:03+09:00"
 }
