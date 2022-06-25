@@ -20218,11 +20218,11 @@
           "date": "06/25(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "藤枝",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "062508"
         },
@@ -21106,11 +21106,11 @@
           "date": "06/25(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "062508"
         },
@@ -28426,11 +28426,11 @@
       "win_point": 5,
       "wins": 1,
       "draws": 2,
-      "loses": 11,
+      "loses": 10,
       "goals_for": 5,
-      "goals_against": 32,
-      "max_win_point": 65,
-      "matches_left": 20
+      "goals_against": 29,
+      "max_win_point": 68,
+      "matches_left": 21
     },
     {
       "j_name": "湘南",
@@ -28620,15 +28620,15 @@
       "league": "j3",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 5,
-      "win_point": 23,
-      "wins": 7,
+      "rank": 6,
+      "win_point": 20,
+      "wins": 6,
       "draws": 2,
       "loses": 5,
-      "goals_for": 25,
+      "goals_for": 22,
       "goals_against": 16,
       "max_win_point": 83,
-      "matches_left": 20
+      "matches_left": 21
     },
     {
       "j_name": "沼津",
@@ -28674,7 +28674,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 6,
+      "rank": 5,
       "win_point": 21,
       "wins": 6,
       "draws": 3,
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-25T19:06:04+09:00"
+  "updated_at": "2022-06-25T19:12:03+09:00"
 }
