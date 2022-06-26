@@ -2002,13 +2002,13 @@
         {
           "sec": 18,
           "date": "06/26(日)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "062605"
         },
@@ -6442,13 +6442,13 @@
         {
           "sec": 18,
           "date": "06/26(日)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "京都",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "062605"
         },
@@ -18139,13 +18139,13 @@
         {
           "sec": 23,
           "date": "06/26(日)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "琉球",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "062611"
         },
@@ -18687,13 +18687,13 @@
         {
           "sec": 23,
           "date": "06/26(日)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "町田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "062611"
         },
@@ -28278,7 +28278,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 6,
+      "rank": 7,
       "win_point": 34,
       "wins": 9,
       "draws": 7,
@@ -28350,15 +28350,15 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 7,
-      "win_point": 33,
-      "wins": 9,
+      "rank": 5,
+      "win_point": 36,
+      "wins": 10,
       "draws": 6,
       "loses": 7,
-      "goals_for": 28,
+      "goals_for": 29,
       "goals_against": 22,
       "max_win_point": 93,
-      "matches_left": 20
+      "matches_left": 19
     },
     {
       "j_name": "川崎F",
@@ -28440,15 +28440,15 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 17,
-      "win_point": 16,
-      "wins": 4,
+      "rank": 15,
+      "win_point": 19,
+      "wins": 5,
       "draws": 4,
       "loses": 9,
-      "goals_for": 15,
+      "goals_for": 16,
       "goals_against": 23,
       "max_win_point": 67,
-      "matches_left": 17
+      "matches_left": 16
     },
     {
       "j_name": "相模原",
@@ -28584,7 +28584,7 @@
       "league": "j1",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 16,
+      "rank": 17,
       "win_point": 17,
       "wins": 3,
       "draws": 8,
@@ -28696,11 +28696,11 @@
       "win_point": 20,
       "wins": 5,
       "draws": 5,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 16,
-      "goals_against": 19,
-      "max_win_point": 71,
-      "matches_left": 17
+      "goals_against": 20,
+      "max_win_point": 68,
+      "matches_left": 16
     },
     {
       "j_name": "G大阪",
@@ -28710,7 +28710,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 15,
+      "rank": 16,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
@@ -28962,7 +28962,7 @@
       "league": "j2",
       "hash_tag": "#vvaren",
       "full_name": "Ｖ・ファーレン長崎",
-      "rank": 5,
+      "rank": 6,
       "win_point": 35,
       "wins": 10,
       "draws": 5,
@@ -29056,11 +29056,11 @@
       "win_point": 15,
       "wins": 3,
       "draws": 6,
-      "loses": 13,
+      "loses": 14,
       "goals_for": 24,
-      "goals_against": 42,
-      "max_win_point": 75,
-      "matches_left": 20
+      "goals_against": 43,
+      "max_win_point": 72,
+      "matches_left": 19
     },
     {
       "j_name": "F東23",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-26T20:42:03+09:00"
+  "updated_at": "2022-06-26T20:50:04+09:00"
 }
