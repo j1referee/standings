@@ -22438,11 +22438,11 @@
           "date": "06/26(日)",
           "time": "16:30",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "062616"
         },
@@ -23770,11 +23770,11 @@
           "date": "06/26(日)",
           "time": "16:30",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "062616"
         },
@@ -28134,7 +28134,7 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 8,
+      "rank": 9,
       "win_point": 20,
       "wins": 5,
       "draws": 5,
@@ -28512,7 +28512,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 9,
+      "rank": 10,
       "win_point": 20,
       "wins": 5,
       "draws": 5,
@@ -28639,14 +28639,14 @@
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
       "rank": 12,
-      "win_point": 16,
+      "win_point": 17,
       "wins": 5,
-      "draws": 1,
+      "draws": 2,
       "loses": 7,
       "goals_for": 14,
       "goals_against": 16,
-      "max_win_point": 79,
-      "matches_left": 21
+      "max_win_point": 77,
+      "matches_left": 20
     },
     {
       "j_name": "名古屋",
@@ -28890,15 +28890,15 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 10,
-      "win_point": 20,
+      "rank": 8,
+      "win_point": 21,
       "wins": 6,
-      "draws": 2,
+      "draws": 3,
       "loses": 5,
       "goals_for": 12,
       "goals_against": 13,
-      "max_win_point": 83,
-      "matches_left": 21
+      "max_win_point": 81,
+      "matches_left": 20
     },
     {
       "j_name": "福岡",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-26T17:42:04+09:00"
+  "updated_at": "2022-06-26T18:30:04+09:00"
 }
