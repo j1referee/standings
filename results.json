@@ -20662,11 +20662,11 @@
           "date": "06/26(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-4",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "062615"
         },
@@ -22882,11 +22882,11 @@
           "date": "06/26(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-4",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "062615"
         },
@@ -28620,7 +28620,7 @@
       "league": "j3",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 5,
+      "rank": 6,
       "win_point": 23,
       "wins": 7,
       "draws": 2,
@@ -28674,15 +28674,15 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 7,
-      "win_point": 21,
-      "wins": 6,
+      "rank": 5,
+      "win_point": 24,
+      "wins": 7,
       "draws": 3,
       "loses": 4,
-      "goals_for": 21,
-      "goals_against": 15,
+      "goals_for": 25,
+      "goals_against": 16,
       "max_win_point": 84,
-      "matches_left": 21
+      "matches_left": 20
     },
     {
       "j_name": "京都",
@@ -28872,7 +28872,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 6,
+      "rank": 7,
       "win_point": 22,
       "wins": 6,
       "draws": 4,
@@ -29020,11 +29020,11 @@
       "win_point": 18,
       "wins": 4,
       "draws": 6,
-      "loses": 3,
-      "goals_for": 15,
-      "goals_against": 11,
-      "max_win_point": 81,
-      "matches_left": 21
+      "loses": 4,
+      "goals_for": 16,
+      "goals_against": 15,
+      "max_win_point": 78,
+      "matches_left": 20
     },
     {
       "j_name": "鹿児島",
@@ -29090,5 +29090,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-26T17:12:03+09:00"
+  "updated_at": "2022-06-26T17:16:03+09:00"
 }
