@@ -1116,11 +1116,11 @@
           "date": "06/29(水)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "広島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "062901"
         },
@@ -2892,11 +2892,11 @@
           "date": "06/29(水)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "062901"
         },
@@ -11153,6 +11153,19 @@
           "mid": "082709"
         },
         {
+          "sec": 8,
+          "date": "08/31(水)",
+          "time": "19:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "岡山",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "083101"
+        },
+        {
           "sec": 34,
           "date": "09/03(土)",
           "time": "",
@@ -11268,14 +11281,6 @@
           "point": null,
           "home": true,
           "mid": "102302"
-        },
-        {
-          "sec": 8,
-          "date": "未定",
-          "time": "",
-          "opponent": "岡山",
-          "point": "suspended",
-          "home": true
         }
       ],
       "横浜FC": [
@@ -16080,6 +16085,19 @@
           "mid": "082803"
         },
         {
+          "sec": 8,
+          "date": "08/31(水)",
+          "time": "19:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "山形",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "083101"
+        },
+        {
           "sec": 34,
           "date": "09/04(日)",
           "time": "",
@@ -16195,14 +16213,6 @@
           "point": null,
           "home": false,
           "mid": "102305"
-        },
-        {
-          "sec": 8,
-          "date": "未定",
-          "time": "",
-          "opponent": "山形",
-          "point": "suspended",
-          "home": false
         }
       ],
       "甲府": [
@@ -28440,7 +28450,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 15,
+      "rank": 16,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -28602,7 +28612,7 @@
       "league": "j1",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 14,
+      "rank": 15,
       "win_point": 19,
       "wins": 4,
       "draws": 7,
@@ -28692,7 +28702,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 12,
+      "rank": 13,
       "win_point": 20,
       "wins": 5,
       "draws": 5,
@@ -28710,15 +28720,15 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 16,
-      "win_point": 17,
-      "wins": 4,
+      "rank": 12,
+      "win_point": 20,
+      "wins": 5,
       "draws": 5,
       "loses": 8,
-      "goals_for": 18,
+      "goals_for": 20,
       "goals_against": 23,
       "max_win_point": 68,
-      "matches_left": 17
+      "matches_left": 16
     },
     {
       "j_name": "C大阪",
@@ -28804,11 +28814,11 @@
       "win_point": 30,
       "wins": 8,
       "draws": 6,
-      "loses": 3,
+      "loses": 4,
       "goals_for": 24,
-      "goals_against": 15,
-      "max_win_point": 81,
-      "matches_left": 17
+      "goals_against": 17,
+      "max_win_point": 78,
+      "matches_left": 16
     },
     {
       "j_name": "山口",
@@ -28908,7 +28918,7 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 13,
+      "rank": 14,
       "win_point": 19,
       "wins": 4,
       "draws": 7,
@@ -29090,5 +29100,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-06-26T21:42:03+09:00"
+  "updated_at": "2022-06-29T21:00:03+09:00"
 }
