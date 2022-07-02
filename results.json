@@ -22905,11 +22905,11 @@
           "date": "07/02(土)",
           "time": "16:30",
           "division": "j3",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "いわき",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "070221"
         },
@@ -25115,11 +25115,11 @@
           "date": "07/02(土)",
           "time": "16:30",
           "division": "j3",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "宮崎",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "070221"
         },
@@ -28172,15 +28172,15 @@
       "league": "j3",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 1,
-      "win_point": 31,
-      "wins": 9,
+      "rank": 2,
+      "win_point": 28,
+      "wins": 8,
       "draws": 4,
       "loses": 2,
-      "goals_for": 30,
+      "goals_for": 28,
       "goals_against": 12,
       "max_win_point": 88,
-      "matches_left": 19
+      "matches_left": 20
     },
     {
       "j_name": "鹿島",
@@ -29040,11 +29040,11 @@
       "win_point": 18,
       "wins": 4,
       "draws": 6,
-      "loses": 5,
+      "loses": 4,
       "goals_for": 16,
-      "goals_against": 17,
-      "max_win_point": 75,
-      "matches_left": 19
+      "goals_against": 15,
+      "max_win_point": 78,
+      "matches_left": 20
     },
     {
       "j_name": "鹿児島",
@@ -29054,7 +29054,7 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 2,
+      "rank": 1,
       "win_point": 29,
       "wins": 9,
       "draws": 2,
@@ -29110,5 +29110,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-02T18:36:03+09:00"
+  "updated_at": "2022-07-02T18:42:04+09:00"
 }
