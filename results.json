@@ -21573,11 +21573,11 @@
           "date": "07/02(土)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "070220"
         },
@@ -22461,11 +22461,11 @@
           "date": "07/02(土)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "070220"
         },
@@ -28532,7 +28532,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 10,
+      "rank": 11,
       "win_point": 20,
       "wins": 5,
       "draws": 5,
@@ -28658,15 +28658,15 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 12,
-      "win_point": 17,
-      "wins": 5,
+      "rank": 10,
+      "win_point": 20,
+      "wins": 6,
       "draws": 2,
       "loses": 7,
-      "goals_for": 14,
+      "goals_for": 17,
       "goals_against": 16,
       "max_win_point": 77,
-      "matches_left": 20
+      "matches_left": 19
     },
     {
       "j_name": "名古屋",
@@ -28788,11 +28788,11 @@
       "win_point": 12,
       "wins": 3,
       "draws": 3,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 15,
-      "goals_against": 25,
-      "max_win_point": 72,
-      "matches_left": 20
+      "goals_against": 28,
+      "max_win_point": 69,
+      "matches_left": 19
     },
     {
       "j_name": "岡山",
@@ -29036,7 +29036,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 11,
+      "rank": 12,
       "win_point": 18,
       "wins": 4,
       "draws": 6,
@@ -29110,5 +29110,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-02T17:12:03+09:00"
+  "updated_at": "2022-07-02T17:16:03+09:00"
 }
