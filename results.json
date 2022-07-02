@@ -8848,11 +8848,11 @@
           "date": "07/02(土)",
           "time": "14:00",
           "division": "j2",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "山口",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "070210"
         },
@@ -14876,11 +14876,11 @@
           "date": "07/02(土)",
           "time": "14:00",
           "division": "j2",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "秋田",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "070210"
         },
@@ -28122,11 +28122,11 @@
       "win_point": 27,
       "wins": 7,
       "draws": 6,
-      "loses": 11,
+      "loses": 10,
       "goals_for": 20,
-      "goals_against": 31,
-      "max_win_point": 81,
-      "matches_left": 18
+      "goals_against": 30,
+      "max_win_point": 84,
+      "matches_left": 19
     },
     {
       "j_name": "山形",
@@ -28352,7 +28352,7 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 15,
+      "rank": 14,
       "win_point": 29,
       "wins": 7,
       "draws": 8,
@@ -28838,15 +28838,15 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 14,
-      "win_point": 30,
-      "wins": 8,
+      "rank": 16,
+      "win_point": 27,
+      "wins": 7,
       "draws": 6,
       "loses": 10,
-      "goals_for": 26,
+      "goals_for": 25,
       "goals_against": 28,
       "max_win_point": 84,
-      "matches_left": 18
+      "matches_left": 19
     },
     {
       "j_name": "讃岐",
@@ -28874,7 +28874,7 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 16,
+      "rank": 15,
       "win_point": 28,
       "wins": 5,
       "draws": 13,
@@ -29110,5 +29110,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-02T16:00:04+09:00"
+  "updated_at": "2022-07-02T16:02:03+09:00"
 }
