@@ -20241,11 +20241,11 @@
           "date": "07/03(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "070302"
         },
@@ -25559,11 +25559,11 @@
           "date": "07/03(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "070302"
         },
@@ -28446,11 +28446,11 @@
       "win_point": 5,
       "wins": 1,
       "draws": 2,
-      "loses": 11,
+      "loses": 12,
       "goals_for": 5,
-      "goals_against": 32,
-      "max_win_point": 65,
-      "matches_left": 20
+      "goals_against": 33,
+      "max_win_point": 62,
+      "matches_left": 19
     },
     {
       "j_name": "湘南",
@@ -28856,15 +28856,15 @@
       "league": "j3",
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
-      "rank": 14,
-      "win_point": 14,
-      "wins": 4,
+      "rank": 13,
+      "win_point": 17,
+      "wins": 5,
       "draws": 2,
       "loses": 8,
-      "goals_for": 12,
+      "goals_for": 13,
       "goals_against": 18,
       "max_win_point": 74,
-      "matches_left": 20
+      "matches_left": 19
     },
     {
       "j_name": "徳島",
@@ -28946,7 +28946,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 13,
+      "rank": 14,
       "win_point": 14,
       "wins": 3,
       "draws": 5,
@@ -29110,5 +29110,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-03T18:02:04+09:00"
+  "updated_at": "2022-07-03T18:06:04+09:00"
 }
