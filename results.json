@@ -1136,13 +1136,13 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "070619"
         },
@@ -2024,7 +2024,7 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:30",
+          "time": "19:33",
           "division": "j1",
           "score": "2-2",
           "opponent": "浦和",
@@ -2468,7 +2468,7 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:30",
+          "time": "19:33",
           "division": "j1",
           "score": "2-2",
           "opponent": "京都",
@@ -2912,7 +2912,7 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "3-0",
           "opponent": "横浜FM",
@@ -3796,7 +3796,7 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "2-1",
           "opponent": "神戸",
@@ -4684,7 +4684,7 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "3-0",
           "opponent": "広島",
@@ -5572,7 +5572,7 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "0-1",
           "opponent": "磐田",
@@ -6016,7 +6016,7 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "0-1",
           "opponent": "福岡",
@@ -6460,13 +6460,13 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "070619"
         },
@@ -7792,7 +7792,7 @@
         {
           "sec": 20,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "2-1",
           "opponent": "清水",
@@ -9399,7 +9399,7 @@
         {
           "sec": 25,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "1-2",
           "opponent": "新潟",
@@ -10495,7 +10495,7 @@
         {
           "sec": 25,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "2-1",
           "opponent": "金沢",
@@ -12139,7 +12139,7 @@
         {
           "sec": 25,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "4-2",
           "opponent": "岡山",
@@ -14331,7 +14331,7 @@
         {
           "sec": 25,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "2-1",
           "opponent": "群馬",
@@ -15962,7 +15962,7 @@
         {
           "sec": 25,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "4-2",
           "opponent": "大宮",
@@ -17619,7 +17619,7 @@
         {
           "sec": 25,
           "date": "07/06(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "1-2",
           "opponent": "千葉",
@@ -28038,7 +28038,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 13,
+      "rank": 14,
       "win_point": 23,
       "wins": 5,
       "draws": 8,
@@ -28452,15 +28452,15 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 15,
-      "win_point": 20,
-      "wins": 5,
+      "rank": 13,
+      "win_point": 23,
+      "wins": 6,
       "draws": 5,
       "loses": 9,
-      "goals_for": 16,
+      "goals_for": 17,
       "goals_against": 23,
       "max_win_point": 65,
-      "matches_left": 15
+      "matches_left": 14
     },
     {
       "j_name": "相模原",
@@ -28722,15 +28722,15 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 14,
+      "rank": 15,
       "win_point": 21,
       "wins": 5,
       "draws": 6,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 21,
-      "goals_against": 24,
-      "max_win_point": 66,
-      "matches_left": 15
+      "goals_against": 25,
+      "max_win_point": 63,
+      "matches_left": 14
     },
     {
       "j_name": "C大阪",
@@ -29102,5 +29102,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-06T21:50:04+09:00"
+  "updated_at": "2022-07-06T22:00:04+09:00"
 }
