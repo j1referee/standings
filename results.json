@@ -9949,11 +9949,11 @@
           "date": "07/06(水)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "琉球",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "070608"
         },
@@ -18717,11 +18717,11 @@
           "date": "07/06(水)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "岩手",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "070608"
         },
@@ -28078,11 +28078,11 @@
       "win_point": 26,
       "wins": 7,
       "draws": 5,
-      "loses": 12,
+      "loses": 13,
       "goals_for": 20,
-      "goals_against": 39,
-      "max_win_point": 80,
-      "matches_left": 18
+      "goals_against": 40,
+      "max_win_point": 77,
+      "matches_left": 17
     },
     {
       "j_name": "仙台",
@@ -29065,14 +29065,14 @@
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
       "rank": 22,
-      "win_point": 15,
-      "wins": 3,
+      "win_point": 18,
+      "wins": 4,
       "draws": 6,
       "loses": 15,
-      "goals_for": 25,
+      "goals_for": 26,
       "goals_against": 45,
       "max_win_point": 69,
-      "matches_left": 18
+      "matches_left": 17
     },
     {
       "j_name": "F東23",
@@ -29102,5 +29102,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-06T20:12:03+09:00"
+  "updated_at": "2022-07-06T20:16:03+09:00"
 }
