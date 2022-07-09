@@ -22474,11 +22474,11 @@
           "date": "07/09(土)",
           "time": "16:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "讃岐",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "070903"
         },
@@ -25572,11 +25572,11 @@
           "date": "07/09(土)",
           "time": "16:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "沼津",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "070903"
         },
@@ -28154,7 +28154,7 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 11,
+      "rank": 10,
       "win_point": 21,
       "wins": 5,
       "draws": 6,
@@ -28532,7 +28532,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 9,
+      "rank": 8,
       "win_point": 23,
       "wins": 6,
       "draws": 5,
@@ -28658,15 +28658,15 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 8,
-      "win_point": 23,
-      "wins": 7,
+      "rank": 11,
+      "win_point": 20,
+      "wins": 6,
       "draws": 2,
       "loses": 7,
-      "goals_for": 18,
+      "goals_for": 17,
       "goals_against": 16,
       "max_win_point": 77,
-      "matches_left": 18
+      "matches_left": 19
     },
     {
       "j_name": "名古屋",
@@ -28860,11 +28860,11 @@
       "win_point": 17,
       "wins": 5,
       "draws": 2,
-      "loses": 9,
+      "loses": 8,
       "goals_for": 13,
-      "goals_against": 19,
-      "max_win_point": 71,
-      "matches_left": 18
+      "goals_against": 18,
+      "max_win_point": 74,
+      "matches_left": 19
     },
     {
       "j_name": "徳島",
@@ -28892,7 +28892,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 10,
+      "rank": 9,
       "win_point": 22,
       "wins": 6,
       "draws": 4,
@@ -29110,5 +29110,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-09T18:06:04+09:00"
+  "updated_at": "2022-07-09T18:12:03+09:00"
 }
