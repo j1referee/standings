@@ -1597,13 +1597,13 @@
         {
           "sec": 21,
           "date": "07/10(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "071021"
         },
@@ -4261,13 +4261,13 @@
         {
           "sec": 21,
           "date": "07/10(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "鹿島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "071021"
         },
@@ -28046,15 +28046,15 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 14,
-      "win_point": 23,
+      "rank": 11,
+      "win_point": 24,
       "wins": 5,
-      "draws": 8,
+      "draws": 9,
       "loses": 7,
       "goals_for": 19,
       "goals_against": 36,
-      "max_win_point": 65,
-      "matches_left": 14
+      "max_win_point": 63,
+      "matches_left": 13
     },
     {
       "j_name": "八戸",
@@ -28191,14 +28191,14 @@
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
       "rank": 2,
-      "win_point": 38,
+      "win_point": 39,
       "wins": 11,
-      "draws": 5,
+      "draws": 6,
       "loses": 4,
       "goals_for": 34,
       "goals_against": 26,
-      "max_win_point": 80,
-      "matches_left": 14
+      "max_win_point": 78,
+      "matches_left": 13
     },
     {
       "j_name": "水戸",
@@ -28262,7 +28262,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 11,
+      "rank": 12,
       "win_point": 23,
       "wins": 4,
       "draws": 11,
@@ -28460,7 +28460,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 13,
+      "rank": 14,
       "win_point": 23,
       "wins": 6,
       "draws": 5,
@@ -28928,7 +28928,7 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 12,
+      "rank": 13,
       "win_point": 23,
       "wins": 5,
       "draws": 8,
@@ -29110,5 +29110,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-10T16:20:03+09:00"
+  "updated_at": "2022-07-10T16:30:04+09:00"
 }
