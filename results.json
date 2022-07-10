@@ -2041,7 +2041,7 @@
         {
           "sec": 21,
           "date": "07/10(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "福岡",
@@ -5593,7 +5593,7 @@
         {
           "sec": 21,
           "date": "07/10(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "京都",
@@ -12160,7 +12160,7 @@
         {
           "sec": 26,
           "date": "07/10(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "2-2",
           "opponent": "東京V",
@@ -13256,7 +13256,7 @@
         {
           "sec": 26,
           "date": "07/10(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "2-2",
           "opponent": "大宮",
@@ -20696,13 +20696,13 @@
         {
           "sec": 16,
           "date": "07/10(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "071019"
         },
@@ -25126,13 +25126,13 @@
         {
           "sec": 16,
           "date": "07/10(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "071019"
         },
@@ -28172,15 +28172,15 @@
       "league": "j3",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 3,
-      "win_point": 31,
-      "wins": 9,
+      "rank": 2,
+      "win_point": 34,
+      "wins": 10,
       "draws": 4,
       "loses": 2,
-      "goals_for": 30,
-      "goals_against": 12,
+      "goals_for": 32,
+      "goals_against": 13,
       "max_win_point": 88,
-      "matches_left": 19
+      "matches_left": 18
     },
     {
       "j_name": "鹿島",
@@ -28514,7 +28514,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 2,
+      "rank": 3,
       "win_point": 34,
       "wins": 10,
       "draws": 4,
@@ -28698,11 +28698,11 @@
       "win_point": 24,
       "wins": 7,
       "draws": 3,
-      "loses": 5,
-      "goals_for": 25,
-      "goals_against": 21,
-      "max_win_point": 81,
-      "matches_left": 19
+      "loses": 6,
+      "goals_for": 26,
+      "goals_against": 23,
+      "max_win_point": 78,
+      "matches_left": 18
     },
     {
       "j_name": "京都",
@@ -29110,5 +29110,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-10T21:36:04+09:00"
+  "updated_at": "2022-07-10T21:42:03+09:00"
 }
