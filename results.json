@@ -21579,11 +21579,11 @@
           "date": "07/16(土)",
           "time": "18:30",
           "division": "j3",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "長野",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "071608"
         },
@@ -26893,11 +26893,11 @@
           "date": "07/16(土)",
           "time": "18:30",
           "division": "j3",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "鳥取",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "071608"
         },
@@ -28508,15 +28508,15 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 6,
-      "win_point": 27,
-      "wins": 7,
+      "rank": 9,
+      "win_point": 24,
+      "wins": 6,
       "draws": 6,
       "loses": 4,
-      "goals_for": 19,
+      "goals_for": 18,
       "goals_against": 17,
       "max_win_point": 78,
-      "matches_left": 17
+      "matches_left": 18
     },
     {
       "j_name": "新潟",
@@ -28670,7 +28670,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 9,
+      "rank": 8,
       "win_point": 24,
       "wins": 7,
       "draws": 3,
@@ -28764,11 +28764,11 @@
       "win_point": 12,
       "wins": 3,
       "draws": 3,
-      "loses": 11,
+      "loses": 10,
       "goals_for": 16,
-      "goals_against": 31,
-      "max_win_point": 63,
-      "matches_left": 17
+      "goals_against": 30,
+      "max_win_point": 66,
+      "matches_left": 18
     },
     {
       "j_name": "岡山",
@@ -28868,7 +28868,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 8,
+      "rank": 7,
       "win_point": 25,
       "wins": 7,
       "draws": 4,
@@ -28886,7 +28886,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 7,
+      "rank": 6,
       "win_point": 25,
       "wins": 7,
       "draws": 4,
@@ -29086,5 +29086,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-16T20:30:03+09:00"
+  "updated_at": "2022-07-16T20:32:04+09:00"
 }
