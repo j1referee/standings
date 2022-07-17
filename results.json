@@ -21135,11 +21135,11 @@
           "date": "07/17(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "1-3",
+          "score": "vs",
           "opponent": "宮崎",
-          "goals_for": 3,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "071714"
         },
@@ -22911,11 +22911,11 @@
           "date": "07/17(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "1-3",
+          "score": "vs",
           "opponent": "藤枝",
-          "goals_for": 1,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "071714"
         },
@@ -28544,7 +28544,7 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 5,
+      "rank": 4,
       "win_point": 32,
       "wins": 10,
       "draws": 2,
@@ -28616,15 +28616,15 @@
       "league": "j3",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 4,
-      "win_point": 32,
-      "wins": 10,
+      "rank": 5,
+      "win_point": 29,
+      "wins": 9,
       "draws": 2,
       "loses": 5,
-      "goals_for": 31,
-      "goals_against": 17,
+      "goals_for": 28,
+      "goals_against": 16,
       "max_win_point": 83,
-      "matches_left": 17
+      "matches_left": 18
     },
     {
       "j_name": "沼津",
@@ -29016,11 +29016,11 @@
       "win_point": 18,
       "wins": 4,
       "draws": 6,
-      "loses": 7,
-      "goals_for": 17,
-      "goals_against": 22,
-      "max_win_point": 69,
-      "matches_left": 17
+      "loses": 6,
+      "goals_for": 16,
+      "goals_against": 19,
+      "max_win_point": 72,
+      "matches_left": 18
     },
     {
       "j_name": "鹿児島",
@@ -29086,5 +29086,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-17T17:06:03+09:00"
+  "updated_at": "2022-07-17T17:12:04+09:00"
 }
