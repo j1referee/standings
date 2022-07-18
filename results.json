@@ -14897,13 +14897,13 @@
         {
           "sec": 27,
           "date": "07/18(月・祝)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "071801"
         },
@@ -15445,13 +15445,13 @@
         {
           "sec": 27,
           "date": "07/18(月・祝)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "山口",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "071801"
         },
@@ -28346,7 +28346,7 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 7,
+      "rank": 8,
       "win_point": 39,
       "wins": 11,
       "draws": 6,
@@ -28818,11 +28818,11 @@
       "win_point": 31,
       "wins": 8,
       "draws": 7,
-      "loses": 11,
+      "loses": 12,
       "goals_for": 27,
-      "goals_against": 31,
-      "max_win_point": 79,
-      "matches_left": 16
+      "goals_against": 32,
+      "max_win_point": 76,
+      "matches_left": 15
     },
     {
       "j_name": "讃岐",
@@ -28976,15 +28976,15 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 8,
-      "win_point": 38,
-      "wins": 9,
+      "rank": 6,
+      "win_point": 41,
+      "wins": 10,
       "draws": 11,
       "loses": 6,
-      "goals_for": 33,
+      "goals_for": 34,
       "goals_against": 33,
       "max_win_point": 86,
-      "matches_left": 16
+      "matches_left": 15
     },
     {
       "j_name": "大分",
@@ -28994,7 +28994,7 @@
       "league": "j2",
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
-      "rank": 6,
+      "rank": 7,
       "win_point": 40,
       "wins": 10,
       "draws": 10,
@@ -29086,5 +29086,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-18T21:20:04+09:00"
+  "updated_at": "2022-07-18T21:30:03+09:00"
 }
