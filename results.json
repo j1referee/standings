@@ -20235,11 +20235,11 @@
           "date": "07/24(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "富山",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "072403"
         },
@@ -27778,11 +27778,11 @@
           "date": "07/24(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "072403"
         },
@@ -28406,11 +28406,11 @@
       "win_point": 8,
       "wins": 2,
       "draws": 2,
-      "loses": 13,
-      "goals_for": 9,
-      "goals_against": 36,
-      "max_win_point": 59,
-      "matches_left": 17
+      "loses": 12,
+      "goals_for": 8,
+      "goals_against": 34,
+      "max_win_point": 62,
+      "matches_left": 18
     },
     {
       "j_name": "湘南",
@@ -28529,14 +28529,14 @@
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
       "rank": 5,
-      "win_point": 35,
-      "wins": 11,
+      "win_point": 32,
+      "wins": 10,
       "draws": 2,
       "loses": 5,
-      "goals_for": 27,
-      "goals_against": 20,
+      "goals_for": 25,
+      "goals_against": 19,
       "max_win_point": 83,
-      "matches_left": 16
+      "matches_left": 17
     },
     {
       "j_name": "金沢",
@@ -29070,5 +29070,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-24T19:00:05+09:00"
+  "updated_at": "2022-07-24T19:02:04+09:00"
 }
