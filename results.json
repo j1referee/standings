@@ -1179,13 +1179,13 @@
         {
           "sec": 23,
           "date": "07/30(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "京都",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "073004"
         },
@@ -2067,13 +2067,13 @@
         {
           "sec": 23,
           "date": "07/30(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "073004"
         },
@@ -14939,7 +14939,7 @@
         {
           "sec": 29,
           "date": "07/30(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "2-2",
           "opponent": "仙台",
@@ -17131,7 +17131,7 @@
         {
           "sec": 29,
           "date": "07/30(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "2-2",
           "opponent": "山口",
@@ -28624,7 +28624,7 @@
       "league": "j1",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 15,
+      "rank": 16,
       "win_point": 22,
       "wins": 5,
       "draws": 7,
@@ -28678,7 +28678,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 11,
+      "rank": 12,
       "win_point": 26,
       "wins": 6,
       "draws": 8,
@@ -28714,15 +28714,15 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 12,
-      "win_point": 25,
+      "rank": 11,
+      "win_point": 26,
       "wins": 6,
-      "draws": 7,
+      "draws": 8,
       "loses": 9,
-      "goals_for": 21,
-      "goals_against": 25,
-      "max_win_point": 61,
-      "matches_left": 12
+      "goals_for": 22,
+      "goals_against": 26,
+      "max_win_point": 59,
+      "matches_left": 11
     },
     {
       "j_name": "G大阪",
@@ -28732,15 +28732,15 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 17,
-      "win_point": 21,
+      "rank": 15,
+      "win_point": 22,
       "wins": 5,
-      "draws": 6,
+      "draws": 7,
       "loses": 11,
-      "goals_for": 22,
-      "goals_against": 31,
-      "max_win_point": 57,
-      "matches_left": 12
+      "goals_for": 23,
+      "goals_against": 32,
+      "max_win_point": 55,
+      "matches_left": 11
     },
     {
       "j_name": "C大阪",
@@ -28768,7 +28768,7 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 16,
+      "rank": 17,
       "win_point": 21,
       "wins": 5,
       "draws": 6,
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-30T21:36:03+09:00"
+  "updated_at": "2022-07-30T21:42:04+09:00"
 }
