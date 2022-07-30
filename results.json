@@ -4289,11 +4289,11 @@
           "date": "07/30(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "073001"
         },
@@ -7384,11 +7384,11 @@
           "date": "07/30(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "073001"
         },
@@ -28049,14 +28049,14 @@
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
       "rank": 14,
-      "win_point": 24,
+      "win_point": 25,
       "wins": 5,
-      "draws": 9,
+      "draws": 10,
       "loses": 8,
-      "goals_for": 19,
-      "goals_against": 37,
-      "max_win_point": 60,
-      "matches_left": 12
+      "goals_for": 21,
+      "goals_against": 39,
+      "max_win_point": 58,
+      "matches_left": 11
     },
     {
       "j_name": "八戸",
@@ -28462,7 +28462,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 12,
+      "rank": 13,
       "win_point": 25,
       "wins": 6,
       "draws": 7,
@@ -28678,15 +28678,15 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 13,
-      "win_point": 25,
+      "rank": 11,
+      "win_point": 26,
       "wins": 6,
-      "draws": 7,
+      "draws": 8,
       "loses": 8,
-      "goals_for": 16,
-      "goals_against": 22,
-      "max_win_point": 64,
-      "matches_left": 13
+      "goals_for": 18,
+      "goals_against": 24,
+      "max_win_point": 62,
+      "matches_left": 12
     },
     {
       "j_name": "岐阜",
@@ -28714,7 +28714,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 11,
+      "rank": 12,
       "win_point": 25,
       "wins": 6,
       "draws": 7,
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-30T16:06:04+09:00"
+  "updated_at": "2022-07-30T16:12:04+09:00"
 }
