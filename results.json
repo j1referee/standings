@@ -3386,13 +3386,13 @@
         {
           "sec": 23,
           "date": "07/31(日)",
-          "time": "18:00",
+          "time": "18:04",
           "division": "j1",
-          "score": "vs",
+          "score": "3-3",
           "opponent": "清水",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 3,
+          "point": 1,
           "home": false,
           "mid": "073101"
         },
@@ -3843,13 +3843,13 @@
         {
           "sec": 23,
           "date": "07/31(日)",
-          "time": "18:00",
+          "time": "18:04",
           "division": "j1",
-          "score": "vs",
+          "score": "3-3",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 3,
+          "point": 1,
           "home": true,
           "mid": "073101"
         },
@@ -28607,14 +28607,14 @@
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
       "rank": 18,
-      "win_point": 20,
+      "win_point": 21,
       "wins": 4,
-      "draws": 8,
+      "draws": 9,
       "loses": 10,
-      "goals_for": 26,
-      "goals_against": 35,
-      "max_win_point": 56,
-      "matches_left": 12
+      "goals_for": 29,
+      "goals_against": 38,
+      "max_win_point": 54,
+      "matches_left": 11
     },
     {
       "j_name": "磐田",
@@ -28967,14 +28967,14 @@
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
       "rank": 9,
-      "win_point": 28,
+      "win_point": 29,
       "wins": 6,
-      "draws": 10,
+      "draws": 11,
       "loses": 5,
-      "goals_for": 29,
-      "goals_against": 24,
-      "max_win_point": 67,
-      "matches_left": 13
+      "goals_for": 32,
+      "goals_against": 27,
+      "max_win_point": 65,
+      "matches_left": 12
     },
     {
       "j_name": "長崎",
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-31T20:20:03+09:00"
+  "updated_at": "2022-07-31T20:30:03+09:00"
 }
