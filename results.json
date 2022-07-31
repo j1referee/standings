@@ -8913,11 +8913,11 @@
           "date": "07/31(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "金沢",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "073102"
         },
@@ -14393,11 +14393,11 @@
           "date": "07/31(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "秋田",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "073102"
         },
@@ -28084,7 +28084,7 @@
       "league": "j2",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 19,
+      "rank": 18,
       "win_point": 30,
       "wins": 8,
       "draws": 6,
@@ -28120,15 +28120,15 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 18,
-      "win_point": 32,
-      "wins": 8,
+      "rank": 19,
+      "win_point": 29,
+      "wins": 7,
       "draws": 8,
       "loses": 13,
-      "goals_for": 25,
+      "goals_for": 22,
       "goals_against": 37,
       "max_win_point": 71,
-      "matches_left": 13
+      "matches_left": 14
     },
     {
       "j_name": "山形",
@@ -28592,11 +28592,11 @@
       "win_point": 35,
       "wins": 9,
       "draws": 8,
-      "loses": 12,
+      "loses": 11,
       "goals_for": 33,
-      "goals_against": 44,
-      "max_win_point": 74,
-      "matches_left": 13
+      "goals_against": 41,
+      "max_win_point": 77,
+      "matches_left": 14
     },
     {
       "j_name": "清水",
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-31T21:00:03+09:00"
+  "updated_at": "2022-07-31T21:02:03+09:00"
 }
