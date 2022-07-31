@@ -22061,11 +22061,11 @@
           "date": "07/31(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "073103"
         },
@@ -22949,11 +22949,11 @@
           "date": "07/31(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "073103"
         },
@@ -28481,14 +28481,14 @@
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
       "rank": 14,
-      "win_point": 17,
+      "win_point": 18,
       "wins": 5,
-      "draws": 2,
+      "draws": 3,
       "loses": 11,
       "goals_for": 18,
       "goals_against": 26,
-      "max_win_point": 65,
-      "matches_left": 16
+      "max_win_point": 63,
+      "matches_left": 15
     },
     {
       "j_name": "甲府",
@@ -29039,14 +29039,14 @@
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
       "rank": 13,
-      "win_point": 18,
+      "win_point": 19,
       "wins": 4,
-      "draws": 6,
+      "draws": 7,
       "loses": 8,
       "goals_for": 19,
       "goals_against": 25,
-      "max_win_point": 66,
-      "matches_left": 16
+      "max_win_point": 64,
+      "matches_left": 15
     },
     {
       "j_name": "鹿児島",
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-07-30T21:42:04+09:00"
+  "updated_at": "2022-07-31T17:00:04+09:00"
 }
