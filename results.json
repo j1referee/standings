@@ -2078,11 +2078,11 @@
           "date": "08/06(土)",
           "time": "18:30",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "080602"
         },
@@ -6958,11 +6958,11 @@
           "date": "08/06(土)",
           "time": "18:30",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "京都",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "080602"
         },
@@ -28192,7 +28192,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 3,
+      "rank": 2,
       "win_point": 40,
       "wins": 11,
       "draws": 7,
@@ -28318,15 +28318,15 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 2,
-      "win_point": 42,
-      "wins": 13,
+      "rank": 3,
+      "win_point": 39,
+      "wins": 12,
       "draws": 3,
       "loses": 8,
-      "goals_for": 31,
-      "goals_against": 23,
+      "goals_for": 29,
+      "goals_against": 22,
       "max_win_point": 72,
-      "matches_left": 10
+      "matches_left": 11
     },
     {
       "j_name": "FC東京",
@@ -28718,11 +28718,11 @@
       "win_point": 26,
       "wins": 6,
       "draws": 8,
-      "loses": 10,
-      "goals_for": 23,
-      "goals_against": 28,
-      "max_win_point": 56,
-      "matches_left": 10
+      "loses": 9,
+      "goals_for": 22,
+      "goals_against": 26,
+      "max_win_point": 59,
+      "matches_left": 11
     },
     {
       "j_name": "G大阪",
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-06T20:30:04+09:00"
+  "updated_at": "2022-08-06T20:32:04+09:00"
 }
