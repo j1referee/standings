@@ -1190,19 +1190,6 @@
           "mid": "073004"
         },
         {
-          "sec": 24,
-          "date": "08/06(土)",
-          "time": "19:00",
-          "division": "j1",
-          "score": "vs",
-          "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": false,
-          "mid": "080605"
-        },
-        {
           "sec": 25,
           "date": "08/14(日)",
           "time": "19:00",
@@ -1331,6 +1318,15 @@
           "point": null,
           "home": false,
           "mid": "110502"
+        },
+        {
+          "sec": 24,
+          "date": "08/06(土)",
+          "time": " ",
+          "opponent": "福岡",
+          "point": "suspended",
+          "home": false,
+          "mid": "080605"
         }
       ],
       "鹿島": [
@@ -5630,19 +5626,6 @@
           "mid": "073005"
         },
         {
-          "sec": 24,
-          "date": "08/06(土)",
-          "time": "19:00",
-          "division": "j1",
-          "score": "vs",
-          "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": true,
-          "mid": "080605"
-        },
-        {
           "sec": 25,
           "date": "08/14(日)",
           "time": "18:00",
@@ -5771,6 +5754,15 @@
           "point": null,
           "home": false,
           "mid": "110503"
+        },
+        {
+          "sec": 24,
+          "date": "08/06(土)",
+          "time": " ",
+          "opponent": "G大阪",
+          "point": "suspended",
+          "home": true,
+          "mid": "080605"
         }
       ],
       "磐田": [
@@ -20293,11 +20285,11 @@
           "date": "08/06(土)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "5-2",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 5,
+          "point": 0,
           "home": false,
           "mid": "080620"
         },
@@ -23845,11 +23837,11 @@
           "date": "08/06(土)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "5-2",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 5,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "080620"
         },
@@ -28456,11 +28448,11 @@
       "win_point": 8,
       "wins": 2,
       "draws": 2,
-      "loses": 14,
-      "goals_for": 9,
-      "goals_against": 38,
-      "max_win_point": 56,
-      "matches_left": 16
+      "loses": 15,
+      "goals_for": 11,
+      "goals_against": 43,
+      "max_win_point": 53,
+      "matches_left": 15
     },
     {
       "j_name": "湘南",
@@ -28921,14 +28913,14 @@
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
       "rank": 8,
-      "win_point": 29,
-      "wins": 8,
+      "win_point": 32,
+      "wins": 9,
       "draws": 5,
       "loses": 5,
-      "goals_for": 20,
-      "goals_against": 15,
+      "goals_for": 25,
+      "goals_against": 17,
       "max_win_point": 77,
-      "matches_left": 16
+      "matches_left": 15
     },
     {
       "j_name": "福岡",
@@ -29120,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-03T21:00:03+09:00"
+  "updated_at": "2022-08-06T18:00:04+09:00"
 }
