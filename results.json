@@ -2522,11 +2522,11 @@
           "date": "08/06(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "080603"
         },
@@ -7389,11 +7389,11 @@
           "date": "08/06(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "080603"
         },
@@ -28268,11 +28268,11 @@
       "win_point": 32,
       "wins": 7,
       "draws": 11,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 30,
-      "goals_against": 21,
-      "max_win_point": 65,
-      "matches_left": 11
+      "goals_against": 24,
+      "max_win_point": 62,
+      "matches_left": 10
     },
     {
       "j_name": "大宮",
@@ -28678,15 +28678,15 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 12,
-      "win_point": 26,
-      "wins": 6,
+      "rank": 10,
+      "win_point": 29,
+      "wins": 7,
       "draws": 8,
       "loses": 8,
-      "goals_for": 18,
+      "goals_for": 21,
       "goals_against": 24,
       "max_win_point": 62,
-      "matches_left": 12
+      "matches_left": 11
     },
     {
       "j_name": "岐阜",
@@ -28714,7 +28714,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 11,
+      "rank": 12,
       "win_point": 26,
       "wins": 6,
       "draws": 8,
@@ -28930,7 +28930,7 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 10,
+      "rank": 11,
       "win_point": 27,
       "wins": 6,
       "draws": 9,
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-06T21:30:04+09:00"
+  "updated_at": "2022-08-06T21:32:03+09:00"
 }
