@@ -280,11 +280,11 @@
           "date": "08/07(日)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "080702"
         },
@@ -4742,11 +4742,11 @@
           "date": "08/07(日)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "080702"
         },
@@ -28192,7 +28192,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 40,
       "wins": 11,
       "draws": 7,
@@ -28390,15 +28390,15 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 6,
-      "win_point": 37,
-      "wins": 11,
+      "rank": 4,
+      "win_point": 40,
+      "wins": 12,
       "draws": 4,
       "loses": 6,
-      "goals_for": 32,
-      "goals_against": 25,
+      "goals_for": 34,
+      "goals_against": 26,
       "max_win_point": 76,
-      "matches_left": 13
+      "matches_left": 12
     },
     {
       "j_name": "横浜FM",
@@ -28412,11 +28412,11 @@
       "win_point": 48,
       "wins": 14,
       "draws": 6,
-      "loses": 3,
-      "goals_for": 50,
-      "goals_against": 25,
-      "max_win_point": 81,
-      "matches_left": 11
+      "loses": 4,
+      "goals_for": 51,
+      "goals_against": 27,
+      "max_win_point": 78,
+      "matches_left": 10
     },
     {
       "j_name": "横浜FC",
@@ -28822,7 +28822,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 5,
+      "rank": 6,
       "win_point": 38,
       "wins": 10,
       "draws": 8,
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-07T21:32:03+09:00"
+  "updated_at": "2022-08-07T21:36:04+09:00"
 }
