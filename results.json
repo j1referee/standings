@@ -25169,11 +25169,11 @@
           "date": "08/07(日)",
           "time": "16:30",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "080708"
         },
@@ -26057,11 +26057,11 @@
           "date": "08/07(日)",
           "time": "16:30",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "080708"
         },
@@ -28175,14 +28175,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 1,
-      "win_point": 38,
+      "win_point": 39,
       "wins": 11,
-      "draws": 5,
+      "draws": 6,
       "loses": 2,
       "goals_for": 37,
       "goals_against": 14,
-      "max_win_point": 86,
-      "matches_left": 16
+      "max_win_point": 84,
+      "matches_left": 15
     },
     {
       "j_name": "鹿島",
@@ -28517,14 +28517,14 @@
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
       "rank": 4,
-      "win_point": 37,
+      "win_point": 38,
       "wins": 11,
-      "draws": 4,
+      "draws": 5,
       "loses": 3,
       "goals_for": 26,
       "goals_against": 14,
-      "max_win_point": 85,
-      "matches_left": 16
+      "max_win_point": 83,
+      "matches_left": 15
     },
     {
       "j_name": "長野",
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-07T18:32:03+09:00"
+  "updated_at": "2022-08-07T18:36:03+09:00"
 }
