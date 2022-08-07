@@ -750,11 +750,11 @@
           "date": "08/07(日)",
           "time": "18:00",
           "division": "j1",
-          "score": "0-2",
+          "score": "vs",
           "opponent": "清水",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "080701"
         },
@@ -3854,11 +3854,11 @@
           "date": "08/07(日)",
           "time": "18:00",
           "division": "j1",
-          "score": "0-2",
+          "score": "vs",
           "opponent": "FC東京",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "080701"
         },
@@ -28340,11 +28340,11 @@
       "win_point": 35,
       "wins": 10,
       "draws": 5,
-      "loses": 9,
+      "loses": 8,
       "goals_for": 27,
-      "goals_against": 29,
-      "max_win_point": 65,
-      "matches_left": 10
+      "goals_against": 27,
+      "max_win_point": 68,
+      "matches_left": 11
     },
     {
       "j_name": "東京V",
@@ -28606,15 +28606,15 @@
       "league": "j1",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 15,
-      "win_point": 24,
-      "wins": 5,
+      "rank": 17,
+      "win_point": 21,
+      "wins": 4,
       "draws": 9,
       "loses": 10,
-      "goals_for": 31,
+      "goals_for": 29,
       "goals_against": 38,
       "max_win_point": 54,
-      "matches_left": 10
+      "matches_left": 11
     },
     {
       "j_name": "磐田",
@@ -28624,7 +28624,7 @@
       "league": "j1",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 17,
+      "rank": 16,
       "win_point": 22,
       "wins": 5,
       "draws": 7,
@@ -28732,7 +28732,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 16,
+      "rank": 15,
       "win_point": 22,
       "wins": 5,
       "draws": 7,
@@ -29112,5 +29112,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-07T20:16:03+09:00"
+  "updated_at": "2022-08-07T20:20:04+09:00"
 }
