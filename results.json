@@ -4297,13 +4297,13 @@
         {
           "sec": 25,
           "date": "08/13(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "081301"
         },
@@ -7833,13 +7833,13 @@
         {
           "sec": 25,
           "date": "08/13(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "081301"
         },
@@ -27996,11 +27996,11 @@
       "win_point": 28,
       "wins": 6,
       "draws": 10,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 26,
-      "goals_against": 40,
-      "max_win_point": 58,
-      "matches_left": 10
+      "goals_against": 42,
+      "max_win_point": 55,
+      "matches_left": 9
     },
     {
       "j_name": "八戸",
@@ -28568,7 +28568,7 @@
       "league": "j1",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 17,
+      "rank": 18,
       "win_point": 22,
       "wins": 5,
       "draws": 7,
@@ -28676,7 +28676,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 16,
+      "rank": 17,
       "win_point": 22,
       "wins": 5,
       "draws": 7,
@@ -28712,15 +28712,15 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 18,
-      "win_point": 21,
-      "wins": 5,
+      "rank": 16,
+      "win_point": 24,
+      "wins": 6,
       "draws": 6,
       "loses": 13,
-      "goals_for": 21,
+      "goals_for": 23,
       "goals_against": 32,
       "max_win_point": 51,
-      "matches_left": 10
+      "matches_left": 9
     },
     {
       "j_name": "鳥取",
@@ -29056,5 +29056,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-13T16:32:04+09:00"
+  "updated_at": "2022-08-13T16:36:04+09:00"
 }
