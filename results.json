@@ -2967,11 +2967,11 @@
           "date": "08/14(日)",
           "time": "18:30",
           "division": "j1",
-          "score": "2-3",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 3,
-          "goals_against": 2,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "081402"
         },
@@ -6947,11 +6947,11 @@
           "date": "08/14(日)",
           "time": "18:30",
           "division": "j1",
-          "score": "2-3",
+          "score": "vs",
           "opponent": "広島",
-          "goals_for": 2,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "081402"
         },
@@ -28274,11 +28274,11 @@
       "win_point": 42,
       "wins": 13,
       "draws": 3,
-      "loses": 9,
-      "goals_for": 33,
-      "goals_against": 26,
-      "max_win_point": 69,
-      "matches_left": 9
+      "loses": 8,
+      "goals_for": 31,
+      "goals_against": 23,
+      "max_win_point": 72,
+      "matches_left": 10
     },
     {
       "j_name": "FC東京",
@@ -28342,7 +28342,7 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 6,
+      "rank": 5,
       "win_point": 40,
       "wins": 12,
       "draws": 4,
@@ -28774,15 +28774,15 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 5,
-      "win_point": 41,
-      "wins": 11,
+      "rank": 6,
+      "win_point": 38,
+      "wins": 10,
       "draws": 8,
       "loses": 6,
-      "goals_for": 35,
-      "goals_against": 26,
+      "goals_for": 32,
+      "goals_against": 24,
       "max_win_point": 68,
-      "matches_left": 9
+      "matches_left": 10
     },
     {
       "j_name": "山口",
@@ -29064,5 +29064,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-14T20:36:04+09:00"
+  "updated_at": "2022-08-14T20:42:03+09:00"
 }
