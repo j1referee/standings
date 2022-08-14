@@ -20710,11 +20710,11 @@
           "date": "08/14(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "081408"
         },
@@ -23806,11 +23806,11 @@
           "date": "08/14(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "081408"
         },
@@ -28486,7 +28486,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 7,
+      "rank": 8,
       "win_point": 33,
       "wins": 9,
       "draws": 6,
@@ -28652,11 +28652,11 @@
       "win_point": 27,
       "wins": 8,
       "draws": 3,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 29,
-      "goals_against": 30,
-      "max_win_point": 72,
-      "matches_left": 15
+      "goals_against": 31,
+      "max_win_point": 69,
+      "matches_left": 14
     },
     {
       "j_name": "京都",
@@ -28846,7 +28846,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 6,
+      "rank": 7,
       "win_point": 34,
       "wins": 10,
       "draws": 4,
@@ -28864,15 +28864,15 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 8,
-      "win_point": 32,
-      "wins": 9,
+      "rank": 6,
+      "win_point": 35,
+      "wins": 10,
       "draws": 5,
       "loses": 5,
-      "goals_for": 25,
+      "goals_for": 26,
       "goals_against": 17,
       "max_win_point": 77,
-      "matches_left": 15
+      "matches_left": 14
     },
     {
       "j_name": "福岡",
@@ -29064,5 +29064,5 @@
       "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
-  "updated_at": "2022-08-14T18:12:04+09:00"
+  "updated_at": "2022-08-14T18:16:04+09:00"
 }
