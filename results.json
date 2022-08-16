@@ -29035,33 +29035,6 @@
       "goals_against": 54,
       "max_win_point": 60,
       "matches_left": 11
-    },
-    {
-      "j_name": "F東23",
-      "name": "ftokyo_u23",
-      "bgcolor": "#13338a",
-      "color": "#ffffff",
-      "league": "j3",
-      "hash_tag": "#fctokyo",
-      "full_name": "ＦＣ東京Ｕ－２３"
-    },
-    {
-      "j_name": "G大23",
-      "name": "gamba_u23",
-      "bgcolor": "#1d4f9c",
-      "color": "#ffffff",
-      "league": "j3",
-      "hash_tag": "#gamba",
-      "full_name": "ガンバ大阪Ｕ－２３"
-    },
-    {
-      "j_name": "C大23",
-      "name": "cosaka_u23",
-      "bgcolor": "#c82b5d",
-      "color": "#ffffff",
-      "league": "j3",
-      "hash_tag": "#cerezo",
-      "full_name": "セレッソ大阪Ｕ－２３"
     }
   ],
   "updated_at": "2022-08-14T21:32:03+09:00"
