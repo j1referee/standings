@@ -10551,11 +10551,11 @@
           "date": "08/16(火)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "081601"
         },
@@ -11647,11 +11647,11 @@
           "date": "08/16(火)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "群馬",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "081601"
         },
@@ -28202,11 +28202,11 @@
       "win_point": 27,
       "wins": 7,
       "draws": 6,
-      "loses": 17,
+      "loses": 18,
       "goals_for": 23,
-      "goals_against": 39,
-      "max_win_point": 63,
-      "matches_left": 12
+      "goals_against": 40,
+      "max_win_point": 60,
+      "matches_left": 11
     },
     {
       "j_name": "浦和",
@@ -28378,15 +28378,15 @@
       "league": "j2",
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
-      "rank": 2,
-      "win_point": 57,
-      "wins": 16,
+      "rank": 1,
+      "win_point": 60,
+      "wins": 17,
       "draws": 9,
       "loses": 5,
-      "goals_for": 48,
+      "goals_for": 49,
       "goals_against": 35,
       "max_win_point": 93,
-      "matches_left": 12
+      "matches_left": 11
     },
     {
       "j_name": "YS横浜",
@@ -28504,7 +28504,7 @@
       "league": "j2",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 1,
+      "rank": 2,
       "win_point": 59,
       "wins": 17,
       "draws": 8,
@@ -29037,5 +29037,5 @@
       "matches_left": 11
     }
   ],
-  "updated_at": "2022-08-16T21:12:03+09:00"
+  "updated_at": "2022-08-16T21:16:04+09:00"
 }
