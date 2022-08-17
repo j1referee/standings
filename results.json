@@ -9453,13 +9453,13 @@
         {
           "sec": 28,
           "date": "08/17(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "081701"
         },
@@ -16573,13 +16573,13 @@
         {
           "sec": 28,
           "date": "08/17(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "千葉",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "081701"
         },
@@ -28162,7 +28162,7 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 12,
+      "rank": 13,
       "win_point": 39,
       "wins": 10,
       "draws": 9,
@@ -28253,14 +28253,14 @@
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
       "rank": 10,
-      "win_point": 41,
+      "win_point": 42,
       "wins": 11,
-      "draws": 8,
+      "draws": 9,
       "loses": 11,
       "goals_for": 33,
       "goals_against": 32,
-      "max_win_point": 77,
-      "matches_left": 12
+      "max_win_point": 75,
+      "matches_left": 11
     },
     {
       "j_name": "柏",
@@ -28450,15 +28450,15 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 13,
-      "win_point": 39,
+      "rank": 12,
+      "win_point": 40,
       "wins": 9,
-      "draws": 12,
+      "draws": 13,
       "loses": 9,
       "goals_for": 38,
       "goals_against": 38,
-      "max_win_point": 75,
-      "matches_left": 12
+      "max_win_point": 73,
+      "matches_left": 11
     },
     {
       "j_name": "松本",
@@ -29037,5 +29037,5 @@
       "matches_left": 11
     }
   ],
-  "updated_at": "2022-08-17T21:20:04+09:00"
+  "updated_at": "2022-08-17T21:30:04+09:00"
 }
