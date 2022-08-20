@@ -3419,11 +3419,11 @@
           "date": "08/20(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "札幌",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "082001"
         },
@@ -4320,11 +4320,11 @@
           "date": "08/20(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "鳥栖",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "082001"
         },
@@ -28028,11 +28028,11 @@
       "win_point": 28,
       "wins": 6,
       "draws": 10,
-      "loses": 10,
-      "goals_for": 27,
-      "goals_against": 44,
-      "max_win_point": 52,
-      "matches_left": 8
+      "loses": 9,
+      "goals_for": 26,
+      "goals_against": 42,
+      "max_win_point": 55,
+      "matches_left": 9
     },
     {
       "j_name": "八戸",
@@ -28240,7 +28240,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 8,
+      "rank": 7,
       "win_point": 35,
       "wins": 8,
       "draws": 11,
@@ -28312,7 +28312,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 9,
+      "rank": 8,
       "win_point": 35,
       "wins": 10,
       "draws": 5,
@@ -28942,15 +28942,15 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 7,
-      "win_point": 36,
-      "wins": 8,
+      "rank": 9,
+      "win_point": 33,
+      "wins": 7,
       "draws": 12,
       "loses": 5,
-      "goals_for": 36,
-      "goals_against": 28,
+      "goals_for": 34,
+      "goals_against": 27,
       "max_win_point": 63,
-      "matches_left": 9
+      "matches_left": 10
     },
     {
       "j_name": "長崎",
@@ -29061,5 +29061,5 @@
       "matches_left": 11
     }
   ],
-  "updated_at": "2022-08-20T16:16:04+09:00"
+  "updated_at": "2022-08-20T16:20:03+09:00"
 }
