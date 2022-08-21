@@ -13298,11 +13298,11 @@
           "date": "08/21(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "082102"
         },
@@ -16604,11 +16604,11 @@
           "date": "08/21(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "082102"
         },
@@ -28323,14 +28323,14 @@
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
       "rank": 11,
-      "win_point": 40,
+      "win_point": 41,
       "wins": 10,
-      "draws": 10,
+      "draws": 11,
       "loses": 9,
       "goals_for": 48,
       "goals_against": 45,
-      "max_win_point": 79,
-      "matches_left": 13
+      "max_win_point": 77,
+      "matches_left": 12
     },
     {
       "j_name": "町田",
@@ -28467,14 +28467,14 @@
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
       "rank": 12,
-      "win_point": 40,
+      "win_point": 41,
       "wins": 9,
-      "draws": 13,
+      "draws": 14,
       "loses": 9,
       "goals_for": 38,
       "goals_against": 38,
-      "max_win_point": 73,
-      "matches_left": 11
+      "max_win_point": 71,
+      "matches_left": 10
     },
     {
       "j_name": "松本",
@@ -29053,5 +29053,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2022-08-21T19:30:04+09:00"
+  "updated_at": "2022-08-21T20:00:04+09:00"
 }
