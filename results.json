@@ -23831,11 +23831,11 @@
           "date": "08/21(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "讃岐",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "082104"
         },
@@ -25607,11 +25607,11 @@
           "date": "08/21(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "今治",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "082104"
         },
@@ -28484,7 +28484,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 6,
+      "rank": 5,
       "win_point": 38,
       "wins": 11,
       "draws": 5,
@@ -28502,7 +28502,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 8,
+      "rank": 7,
       "win_point": 36,
       "wins": 10,
       "draws": 6,
@@ -28830,11 +28830,11 @@
       "win_point": 18,
       "wins": 5,
       "draws": 3,
-      "loses": 13,
-      "goals_for": 16,
-      "goals_against": 27,
-      "max_win_point": 57,
-      "matches_left": 13
+      "loses": 12,
+      "goals_for": 15,
+      "goals_against": 25,
+      "max_win_point": 60,
+      "matches_left": 14
     },
     {
       "j_name": "徳島",
@@ -28862,7 +28862,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 7,
+      "rank": 6,
       "win_point": 37,
       "wins": 11,
       "draws": 4,
@@ -28880,15 +28880,15 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 5,
-      "win_point": 38,
-      "wins": 11,
+      "rank": 8,
+      "win_point": 35,
+      "wins": 10,
       "draws": 5,
       "loses": 5,
-      "goals_for": 28,
-      "goals_against": 18,
+      "goals_for": 26,
+      "goals_against": 17,
       "max_win_point": 77,
-      "matches_left": 13
+      "matches_left": 14
     },
     {
       "j_name": "福岡",
@@ -29053,5 +29053,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2022-08-21T18:02:04+09:00"
+  "updated_at": "2022-08-21T18:06:04+09:00"
 }
