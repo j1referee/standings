@@ -21615,11 +21615,11 @@
           "date": "08/21(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "082103"
         },
@@ -22943,11 +22943,11 @@
           "date": "08/21(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "082103"
         },
@@ -28755,14 +28755,14 @@
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
       "rank": 17,
-      "win_point": 15,
-      "wins": 4,
+      "win_point": 18,
+      "wins": 5,
       "draws": 3,
       "loses": 13,
-      "goals_for": 24,
+      "goals_for": 26,
       "goals_against": 41,
       "max_win_point": 57,
-      "matches_left": 14
+      "matches_left": 13
     },
     {
       "j_name": "岡山",
@@ -29010,11 +29010,11 @@
       "win_point": 20,
       "wins": 4,
       "draws": 8,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 20,
-      "goals_against": 26,
-      "max_win_point": 62,
-      "matches_left": 14
+      "goals_against": 28,
+      "max_win_point": 59,
+      "matches_left": 13
     },
     {
       "j_name": "鹿児島",
@@ -29053,5 +29053,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2022-08-21T17:02:03+09:00"
+  "updated_at": "2022-08-21T17:06:03+09:00"
 }
