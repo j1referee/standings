@@ -13319,11 +13319,11 @@
           "date": "08/24(水)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "徳島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "082401"
         },
@@ -13876,11 +13876,11 @@
           "date": "08/24(水)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "082401"
         },
@@ -28330,15 +28330,15 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 12,
+      "rank": 13,
       "win_point": 41,
       "wins": 10,
       "draws": 11,
-      "loses": 9,
+      "loses": 10,
       "goals_for": 48,
-      "goals_against": 45,
-      "max_win_point": 77,
-      "matches_left": 12
+      "goals_against": 46,
+      "max_win_point": 74,
+      "matches_left": 11
     },
     {
       "j_name": "町田",
@@ -28474,7 +28474,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 13,
+      "rank": 14,
       "win_point": 41,
       "wins": 9,
       "draws": 14,
@@ -28852,15 +28852,15 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 14,
-      "win_point": 38,
-      "wins": 6,
+      "rank": 12,
+      "win_point": 41,
+      "wins": 7,
       "draws": 20,
       "loses": 5,
-      "goals_for": 32,
+      "goals_for": 33,
       "goals_against": 25,
       "max_win_point": 71,
-      "matches_left": 11
+      "matches_left": 10
     },
     {
       "j_name": "愛媛",
@@ -29061,5 +29061,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2022-08-24T21:02:04+09:00"
+  "updated_at": "2022-08-24T21:06:04+09:00"
 }
