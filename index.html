@@ -15,6 +15,7 @@
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content="@j1referee">
     <title></title>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script> -->
     <script src="./vue.min.js"></script>
     <script src="https://unpkg.com/v-tooltip"></script>
     <style>
@@ -300,7 +301,7 @@ div.point > div {
 }
 
 #help {
-  width: 40em;
+  width: 45em;
   border: solid 1px black;
   margin: 3em 0 0 0;
   font-size: 16px;
@@ -346,6 +347,20 @@ div.point > div {
 .col.axis div:nth-child(2) {border-bottom: 1px solid black;}
 .col.axis {width: 18px;}
 .desc.axis {margin-top: -22px; }
+
+/* 残留・降格確定ライン */
+#safe-out-line {
+  width: 1000px;
+  position:  absolute;
+  top: 479px;
+  height: 80px;
+  boder: none;
+  z-index: 99;
+  display: block;
+}
+#safe-caption { display: none; position: absolute; color: green; font-size: 12px;}
+#out-caption { display: none;  position: absolute; color: red; font-size: 12px;}
+
 </style>
   </head>
   <body>
@@ -371,6 +386,8 @@ div.point > div {
           <div class="row caption axis"><a>点</a></div>
           <div v-for="wp in axis_win_point_array" v-if="wp <= bottom_max_win_point" class="row win axis"><div class="desc axis">{{wp}}</div></div>
         </div>
+        <!-- 残留・降格確定ライン -->
+        <table id="safe-out-line"></table><div id="safe-caption">残留確定</div><div id="out-caption">降格圏内</div>
         <div v-for="(team_results, club_name) in results[division]" :key="club_name" class="col" :style="{order: rank(club_name)}">
           <div class="row caption"><a :href="`https://www.jleague.jp/club/${e_name(club_name)}/`">{{club_name}}</a></div>
           <div v-for="(match, idx) in team_results" :key="club_name + match.opponent + home_or_away(match)"
@@ -392,7 +409,9 @@ div.point > div {
        ◆ タイトルをタップするとリーグを切り替えられます</br>
        ◆ セルをタップすると前後の日程・結果を表示します</br>
        ◆ 勝ち点をタップすると詳細な成績を表示します<br/>
-       ◆ 太い枠線はリーグ連戦（中３日以内）を表しています（※他大会は考慮外です）
+       ◆ 太い枠線はリーグ連戦（中３日以内）を表しています（※他大会は考慮外です）<br/>
+       ※ 現在の勝ち点が緑色の「残留確定」ラインに到達していれば残留確定です。<br/>
+       ※ 最大勝ち点が朱色の「降格圏内」ラインまで降りてきてしまうと降格圏内が確定です。
     </div>
     <script>
   // Vue.config.devtools = true;
@@ -551,9 +570,63 @@ function mmddw2date(str)
   return new Date( (new Date()).getFullYear(), arr[0] - 1, arr[1]);
 }
 
+// 勝ち点から y 座標を算出する
+function point2y(point)
+{
+  const rows = document.querySelectorAll("div.col:first-child > div.row");
+  const base_row = Array.from(rows).find( row => row.className.match(/win|draw/) );
+  const clientRect = base_row.getBoundingClientRect();
+  const base_y = clientRect.bottom + window.pageYOffset;
+  return base_y - point * 13 - 1;
+}
+
+// 描画エリアの Rect を取得する
+function getTableAreaRect()
+{
+  const tableArea = document.getElementById("table-area")
+  const tableAreaRect = tableArea.getBoundingClientRect();
+  return tableAreaRect;
+}
+
+function draw_safe_out_line(safe_point, out_point)
+{
+  const tableAreaRect = getTableAreaRect();
+
+  const $table = document.getElementById("safe-out-line");
+  const $safeCaption = document.getElementById("safe-caption");
+  const $outCaption = document.getElementById("out-caption");
+  const paddingRight = 154;
+  let topY, bottomY;
+  if (safe_point){
+    topY = point2y(safe_point);
+    $table.style.borderTop = "solid 2px limegreen";
+    $table.style.top = `${topY}px`;
+    $table.style.width = `${tableAreaRect.width - paddingRight}px`;
+
+    $safeCaption.style.left = `${tableAreaRect.right - paddingRight + 4}px`;
+    $safeCaption.style.top = `${topY - 10}px`;
+    $safeCaption.style.display = "block";
+  } else {
+    $table.style.borderTop = "none";
+  }
+  if (safe_point && out_point){
+    bottomY = point2y(out_point);
+    $table.style.borderBottom = "solid 2px deeppink";
+    $table.style.height = `${bottomY - topY + 1}px`;
+
+    $outCaption.style.left = `${tableAreaRect.right - paddingRight + 4}px`;
+    $outCaption.style.top = `${bottomY - 10}px`;
+    $outCaption.style.display = "block";
+
+  } else {
+    $table.style.borderBottom = "none";
+  }
+}
+
 /*************************
   main
 **************************/
+
 fetch("./results.json", {
     method: "GET",
     credentials: "same-origin",
@@ -566,9 +639,10 @@ fetch("./results.json", {
   return response.json()
 })
 .then(json => {
-  // console.log("get results.json")
-  createVue(json)
-  document.getElementById("app").style = "display: block"
+  // console.log("get results.json");
+  createVue(json);
+  document.getElementById("app").style = "display: block";
+  draw_safe_out_line(json.safe_point, json.out_point);
   document.body.onclick = function(){
     let tooltips = document.getElementsByClassName("tooltip");
     for(let i=0; i < tooltips.length; i++){ tooltips[i].setAttribute("aria-hidden", true); }
