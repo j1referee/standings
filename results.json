@@ -21174,11 +21174,11 @@
           "date": "08/27(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "いわき",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "082714"
         },
@@ -23416,11 +23416,11 @@
           "date": "08/27(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "福島",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "082713"
         },
@@ -24291,11 +24291,11 @@
           "date": "08/27(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "八戸",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "082713"
         },
@@ -25192,11 +25192,11 @@
           "date": "08/27(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "藤枝",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "082714"
         },
@@ -28054,11 +28054,11 @@
       "win_point": 19,
       "wins": 6,
       "draws": 1,
-      "loses": 15,
+      "loses": 14,
       "goals_for": 16,
-      "goals_against": 35,
-      "max_win_point": 55,
-      "matches_left": 12
+      "goals_against": 34,
+      "max_win_point": 58,
+      "matches_left": 13
     },
     {
       "j_name": "岩手",
@@ -28140,15 +28140,15 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 9,
-      "win_point": 28,
-      "wins": 7,
+      "rank": 10,
+      "win_point": 25,
+      "wins": 6,
       "draws": 7,
       "loses": 7,
-      "goals_for": 23,
+      "goals_for": 22,
       "goals_against": 23,
       "max_win_point": 67,
-      "matches_left": 13
+      "matches_left": 14
     },
     {
       "j_name": "いわき",
@@ -28159,14 +28159,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 1,
-      "win_point": 48,
-      "wins": 14,
+      "win_point": 45,
+      "wins": 13,
       "draws": 6,
       "loses": 2,
-      "goals_for": 49,
+      "goals_for": 46,
       "goals_against": 15,
       "max_win_point": 84,
-      "matches_left": 12
+      "matches_left": 13
     },
     {
       "j_name": "鹿島",
@@ -28630,11 +28630,11 @@
       "win_point": 38,
       "wins": 12,
       "draws": 2,
-      "loses": 6,
+      "loses": 5,
       "goals_for": 36,
-      "goals_against": 22,
-      "max_win_point": 80,
-      "matches_left": 14
+      "goals_against": 19,
+      "max_win_point": 83,
+      "matches_left": 15
     },
     {
       "j_name": "沼津",
@@ -28680,7 +28680,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 10,
+      "rank": 9,
       "win_point": 27,
       "wins": 8,
       "draws": 3,
@@ -29069,5 +29069,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2022-08-27T19:00:04+09:00"
+  "updated_at": "2022-08-27T19:02:04+09:00"
 }
