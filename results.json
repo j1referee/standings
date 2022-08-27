@@ -3438,13 +3438,13 @@
         {
           "sec": 27,
           "date": "08/26(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "082601"
         },
@@ -5658,13 +5658,13 @@
         {
           "sec": 27,
           "date": "08/26(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "082601"
         },
@@ -8413,19 +8413,6 @@
           "mid": "082008"
         },
         {
-          "sec": 33,
-          "date": "08/27(土)",
-          "time": "19:00",
-          "division": "j2",
-          "score": "vs",
-          "opponent": "長崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": false,
-          "mid": "082712"
-        },
-        {
           "sec": 34,
           "date": "09/04(日)",
           "time": "18:00",
@@ -8541,6 +8528,15 @@
           "point": null,
           "home": false,
           "mid": "102308"
+        },
+        {
+          "sec": 33,
+          "date": "08/27(土)",
+          "time": " ",
+          "opponent": "長崎",
+          "point": "suspended",
+          "home": false,
+          "mid": "082712"
         }
       ],
       "秋田": [
@@ -11140,19 +11136,6 @@
           "mid": "082007"
         },
         {
-          "sec": 33,
-          "date": "08/27(土)",
-          "time": "19:00",
-          "division": "j2",
-          "score": "vs",
-          "opponent": "大宮",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": false,
-          "mid": "082709"
-        },
-        {
           "sec": 8,
           "date": "08/31(水)",
           "time": "19:00",
@@ -11281,6 +11264,15 @@
           "point": null,
           "home": true,
           "mid": "102302"
+        },
+        {
+          "sec": 33,
+          "date": "08/27(土)",
+          "time": " ",
+          "opponent": "大宮",
+          "point": "suspended",
+          "home": false,
+          "mid": "082709"
         }
       ],
       "横浜FC": [
@@ -12249,19 +12241,6 @@
           "mid": "082010"
         },
         {
-          "sec": 33,
-          "date": "08/27(土)",
-          "time": "19:00",
-          "division": "j2",
-          "score": "vs",
-          "opponent": "山形",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": true,
-          "mid": "082709"
-        },
-        {
           "sec": 34,
           "date": "09/04(日)",
           "time": "19:00",
@@ -12377,6 +12356,15 @@
           "point": null,
           "home": true,
           "mid": "102304"
+        },
+        {
+          "sec": 33,
+          "date": "08/27(土)",
+          "time": " ",
+          "opponent": "山形",
+          "point": "suspended",
+          "home": true,
+          "mid": "082709"
         }
       ],
       "長崎": [
@@ -12784,19 +12772,6 @@
           "mid": "081313"
         },
         {
-          "sec": 33,
-          "date": "08/27(土)",
-          "time": "19:00",
-          "division": "j2",
-          "score": "vs",
-          "opponent": "栃木",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": true,
-          "mid": "082712"
-        },
-        {
           "sec": 34,
           "date": "09/03(土)",
           "time": "18:00",
@@ -12808,6 +12783,19 @@
           "point": null,
           "home": false,
           "mid": "090311"
+        },
+        {
+          "sec": 32,
+          "date": "09/06(火)",
+          "time": "19:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "金沢",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "090601"
         },
         {
           "sec": 35,
@@ -12914,13 +12902,13 @@
           "mid": "102304"
         },
         {
-          "sec": 32,
-          "date": "08/20(土)",
+          "sec": 33,
+          "date": "08/27(土)",
           "time": " ",
-          "opponent": "金沢",
+          "opponent": "栃木",
           "point": "suspended",
-          "home": false,
-          "mid": "082011"
+          "home": true,
+          "mid": "082712"
         }
       ],
       "東京V": [
@@ -13393,6 +13381,19 @@
           "mid": "091805"
         },
         {
+          "sec": 31,
+          "date": "09/21(水)",
+          "time": "19:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "水戸",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "092104"
+        },
+        {
           "sec": 38,
           "date": "09/24(土)",
           "time": "16:00",
@@ -13456,15 +13457,6 @@
           "point": null,
           "home": true,
           "mid": "102305"
-        },
-        {
-          "sec": 31,
-          "date": "08/13(土)",
-          "time": " ",
-          "opponent": "水戸",
-          "point": "suspended",
-          "home": false,
-          "mid": "081307"
         }
       ],
       "徳島": [
@@ -14446,6 +14438,19 @@
           "mid": "090313"
         },
         {
+          "sec": 32,
+          "date": "09/06(火)",
+          "time": "19:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "長崎",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "090601"
+        },
+        {
           "sec": 35,
           "date": "09/10(土)",
           "time": "18:00",
@@ -14548,15 +14553,6 @@
           "point": null,
           "home": true,
           "mid": "102308"
-        },
-        {
-          "sec": 32,
-          "date": "08/20(土)",
-          "time": " ",
-          "opponent": "長崎",
-          "point": "suspended",
-          "home": true,
-          "mid": "082011"
         }
       ],
       "山口": [
@@ -19961,6 +19957,19 @@
           "mid": "091807"
         },
         {
+          "sec": 31,
+          "date": "09/21(水)",
+          "time": "19:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "東京V",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "092104"
+        },
+        {
           "sec": 38,
           "date": "09/25(日)",
           "time": "17:00",
@@ -20024,15 +20033,6 @@
           "point": null,
           "home": true,
           "mid": "102303"
-        },
-        {
-          "sec": 31,
-          "date": "08/13(土)",
-          "time": " ",
-          "opponent": "東京V",
-          "point": "suspended",
-          "home": true,
-          "mid": "081307"
         }
       ]
     },
@@ -21222,6 +21222,19 @@
           "mid": "091812"
         },
         {
+          "sec": 20,
+          "date": "09/21(水)",
+          "time": "15:00",
+          "division": "j3",
+          "score": "vs",
+          "opponent": "沼津",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "092103"
+        },
+        {
           "sec": 26,
           "date": "09/24(土)",
           "time": "19:00",
@@ -21337,15 +21350,6 @@
           "point": null,
           "home": false,
           "mid": "112005"
-        },
-        {
-          "sec": 20,
-          "date": "08/13(土)",
-          "time": " ",
-          "opponent": "沼津",
-          "point": "suspended",
-          "home": false,
-          "mid": "081314"
         },
         {
           "sec": 21,
@@ -22067,11 +22071,11 @@
           "date": "08/27(土)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "082719"
         },
@@ -22511,11 +22515,11 @@
           "date": "08/27(土)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "082719"
         },
@@ -22557,6 +22561,19 @@
           "point": null,
           "home": true,
           "mid": "091713"
+        },
+        {
+          "sec": 20,
+          "date": "09/21(水)",
+          "time": "15:00",
+          "division": "j3",
+          "score": "vs",
+          "opponent": "藤枝",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "092103"
         },
         {
           "sec": 26,
@@ -22674,15 +22691,6 @@
           "point": null,
           "home": true,
           "mid": "112007"
-        },
-        {
-          "sec": 20,
-          "date": "08/13(土)",
-          "time": " ",
-          "opponent": "藤枝",
-          "point": "suspended",
-          "home": true,
-          "mid": "081314"
         }
       ],
       "宮崎": [
@@ -28024,7 +28032,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 12,
+      "rank": 13,
       "win_point": 28,
       "wins": 6,
       "draws": 10,
@@ -28042,7 +28050,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 14,
+      "rank": 15,
       "win_point": 19,
       "wins": 6,
       "draws": 1,
@@ -28456,15 +28464,15 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 15,
-      "win_point": 18,
+      "rank": 14,
+      "win_point": 19,
       "wins": 5,
-      "draws": 3,
+      "draws": 4,
       "loses": 12,
-      "goals_for": 18,
-      "goals_against": 27,
-      "max_win_point": 60,
-      "matches_left": 14
+      "goals_for": 19,
+      "goals_against": 28,
+      "max_win_point": 58,
+      "matches_left": 13
     },
     {
       "j_name": "甲府",
@@ -28637,14 +28645,14 @@
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
       "rank": 11,
-      "win_point": 23,
+      "win_point": 24,
       "wins": 7,
-      "draws": 2,
+      "draws": 3,
       "loses": 11,
-      "goals_for": 20,
-      "goals_against": 26,
-      "max_win_point": 65,
-      "matches_left": 14
+      "goals_for": 21,
+      "goals_against": 27,
+      "max_win_point": 63,
+      "matches_left": 13
     },
     {
       "j_name": "名古屋",
@@ -28906,15 +28914,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 13,
-      "win_point": 27,
+      "rank": 12,
+      "win_point": 28,
       "wins": 6,
-      "draws": 9,
+      "draws": 10,
       "loses": 10,
-      "goals_for": 18,
-      "goals_against": 26,
-      "max_win_point": 54,
-      "matches_left": 9
+      "goals_for": 19,
+      "goals_against": 27,
+      "max_win_point": 52,
+      "matches_left": 8
     },
     {
       "j_name": "北九州",
@@ -28943,14 +28951,14 @@
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
       "rank": 7,
-      "win_point": 36,
+      "win_point": 37,
       "wins": 8,
-      "draws": 12,
+      "draws": 13,
       "loses": 5,
-      "goals_for": 36,
-      "goals_against": 28,
-      "max_win_point": 63,
-      "matches_left": 9
+      "goals_for": 37,
+      "goals_against": 29,
+      "max_win_point": 61,
+      "matches_left": 8
     },
     {
       "j_name": "長崎",
@@ -29061,5 +29069,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2022-08-24T21:42:04+09:00"
+  "updated_at": "2022-08-27T18:00:04+09:00"
 }
