@@ -21640,11 +21640,11 @@
           "date": "08/27(土)",
           "time": "18:30",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "富山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "082717"
         },
@@ -27856,11 +27856,11 @@
           "date": "08/27(土)",
           "time": "18:30",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "082717"
         },
@@ -28050,7 +28050,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 15,
+      "rank": 16,
       "win_point": 19,
       "wins": 6,
       "draws": 1,
@@ -28464,7 +28464,7 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 14,
+      "rank": 15,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -28558,11 +28558,11 @@
       "win_point": 39,
       "wins": 12,
       "draws": 3,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 30,
-      "goals_against": 23,
-      "max_win_point": 78,
-      "matches_left": 13
+      "goals_against": 26,
+      "max_win_point": 75,
+      "matches_left": 12
     },
     {
       "j_name": "金沢",
@@ -28770,15 +28770,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 17,
-      "win_point": 18,
-      "wins": 5,
+      "rank": 13,
+      "win_point": 21,
+      "wins": 6,
       "draws": 3,
       "loses": 13,
-      "goals_for": 26,
+      "goals_for": 29,
       "goals_against": 41,
       "max_win_point": 57,
-      "matches_left": 13
+      "matches_left": 12
     },
     {
       "j_name": "岡山",
@@ -28842,7 +28842,7 @@
       "league": "j3",
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
-      "rank": 16,
+      "rank": 17,
       "win_point": 18,
       "wins": 5,
       "draws": 3,
@@ -29022,7 +29022,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 13,
+      "rank": 14,
       "win_point": 20,
       "wins": 4,
       "draws": 8,
@@ -29069,5 +29069,5 @@
       "matches_left": 9
     }
   ],
-  "updated_at": "2022-08-27T20:42:04+09:00"
+  "updated_at": "2022-08-27T20:50:04+09:00"
 }
