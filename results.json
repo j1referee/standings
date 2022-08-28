@@ -20316,11 +20316,11 @@
           "date": "08/28(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "宮崎",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "082804"
         },
@@ -22972,11 +22972,11 @@
           "date": "08/28(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "082804"
         },
@@ -28432,11 +28432,11 @@
       "win_point": 14,
       "wins": 4,
       "draws": 2,
-      "loses": 16,
+      "loses": 15,
       "goals_for": 16,
-      "goals_against": 46,
-      "max_win_point": 50,
-      "matches_left": 12
+      "goals_against": 45,
+      "max_win_point": 53,
+      "matches_left": 13
     },
     {
       "j_name": "湘南",
@@ -28770,7 +28770,7 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 14,
+      "rank": 13,
       "win_point": 21,
       "wins": 6,
       "draws": 3,
@@ -28932,7 +28932,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 13,
+      "rank": 12,
       "win_point": 23,
       "wins": 6,
       "draws": 5,
@@ -29022,15 +29022,15 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 12,
-      "win_point": 23,
-      "wins": 5,
+      "rank": 14,
+      "win_point": 20,
+      "wins": 4,
       "draws": 8,
       "loses": 9,
-      "goals_for": 21,
+      "goals_for": 20,
       "goals_against": 28,
       "max_win_point": 59,
-      "matches_left": 12
+      "matches_left": 13
     },
     {
       "j_name": "鹿児島",
@@ -29069,5 +29069,5 @@
       "matches_left": 9
     }
   ],
-  "updated_at": "2022-08-28T17:12:03+09:00"
+  "updated_at": "2022-08-28T17:16:03+09:00"
 }
