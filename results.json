@@ -13320,11 +13320,11 @@
           "date": "08/28(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "熊本",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "082802"
         },
@@ -15525,11 +15525,11 @@
           "date": "08/28(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "東京V",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "082802"
         },
@@ -28342,11 +28342,11 @@
       "win_point": 41,
       "wins": 10,
       "draws": 11,
-      "loses": 11,
+      "loses": 10,
       "goals_for": 48,
-      "goals_against": 47,
-      "max_win_point": 71,
-      "matches_left": 10
+      "goals_against": 46,
+      "max_win_point": 74,
+      "matches_left": 11
     },
     {
       "j_name": "町田",
@@ -28356,7 +28356,7 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 6,
+      "rank": 5,
       "win_point": 49,
       "wins": 14,
       "draws": 7,
@@ -28986,15 +28986,15 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 5,
-      "win_point": 51,
-      "wins": 13,
+      "rank": 7,
+      "win_point": 48,
+      "wins": 12,
       "draws": 12,
       "loses": 8,
-      "goals_for": 42,
+      "goals_for": 41,
       "goals_against": 38,
       "max_win_point": 78,
-      "matches_left": 9
+      "matches_left": 10
     },
     {
       "j_name": "大分",
@@ -29004,7 +29004,7 @@
       "league": "j2",
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
-      "rank": 7,
+      "rank": 6,
       "win_point": 49,
       "wins": 12,
       "draws": 13,
@@ -29069,5 +29069,5 @@
       "matches_left": 9
     }
   ],
-  "updated_at": "2022-08-28T21:06:03+09:00"
+  "updated_at": "2022-08-28T21:12:03+09:00"
 }
