@@ -5686,11 +5686,11 @@
           "date": "09/03(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "090308"
         },
@@ -7449,11 +7449,11 @@
           "date": "09/03(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "090308"
         },
@@ -28687,14 +28687,14 @@
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
       "rank": 10,
-      "win_point": 33,
-      "wins": 8,
+      "win_point": 36,
+      "wins": 9,
       "draws": 9,
       "loses": 9,
-      "goals_for": 22,
-      "goals_against": 26,
+      "goals_for": 25,
+      "goals_against": 28,
       "max_win_point": 57,
-      "matches_left": 8
+      "matches_left": 7
     },
     {
       "j_name": "岐阜",
@@ -28942,11 +28942,11 @@
       "win_point": 28,
       "wins": 6,
       "draws": 10,
-      "loses": 11,
-      "goals_for": 19,
-      "goals_against": 28,
-      "max_win_point": 49,
-      "matches_left": 7
+      "loses": 12,
+      "goals_for": 21,
+      "goals_against": 31,
+      "max_win_point": 46,
+      "matches_left": 6
     },
     {
       "j_name": "北九州",
@@ -29093,5 +29093,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2022-09-03T21:36:03+09:00"
+  "updated_at": "2022-09-03T21:42:04+09:00"
 }
