@@ -8978,11 +8978,11 @@
           "date": "09/03(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "琉球",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "090316"
         },
@@ -18842,11 +18842,11 @@
           "date": "09/03(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "秋田",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "090316"
         },
@@ -28128,15 +28128,15 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 15,
-      "win_point": 39,
-      "wins": 10,
+      "rank": 16,
+      "win_point": 36,
+      "wins": 9,
       "draws": 9,
       "loses": 15,
-      "goals_for": 28,
+      "goals_for": 27,
       "goals_against": 42,
       "max_win_point": 63,
-      "matches_left": 8
+      "matches_left": 9
     },
     {
       "j_name": "山形",
@@ -28236,7 +28236,7 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 16,
+      "rank": 15,
       "win_point": 38,
       "wins": 9,
       "draws": 11,
@@ -29086,12 +29086,12 @@
       "win_point": 29,
       "wins": 6,
       "draws": 11,
-      "loses": 17,
+      "loses": 16,
       "goals_for": 37,
-      "goals_against": 57,
-      "max_win_point": 53,
-      "matches_left": 8
+      "goals_against": 56,
+      "max_win_point": 56,
+      "matches_left": 9
     }
   ],
-  "updated_at": "2022-09-03T15:00:04+09:00"
+  "updated_at": "2022-09-03T15:02:03+09:00"
 }
