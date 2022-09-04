@@ -23897,11 +23897,11 @@
           "date": "09/04(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "北九州",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "090405"
         },
@@ -26561,11 +26561,11 @@
           "date": "09/04(日)",
           "time": "16:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "090405"
         },
@@ -28668,7 +28668,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 12,
+      "rank": 13,
       "win_point": 24,
       "wins": 7,
       "draws": 3,
@@ -28924,11 +28924,11 @@
       "win_point": 41,
       "wins": 12,
       "draws": 5,
-      "loses": 5,
-      "goals_for": 32,
-      "goals_against": 21,
-      "max_win_point": 77,
-      "matches_left": 12
+      "loses": 6,
+      "goals_for": 34,
+      "goals_against": 24,
+      "max_win_point": 74,
+      "matches_left": 11
     },
     {
       "j_name": "福岡",
@@ -28956,15 +28956,15 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 13,
-      "win_point": 23,
-      "wins": 6,
+      "rank": 12,
+      "win_point": 26,
+      "wins": 7,
       "draws": 5,
       "loses": 11,
-      "goals_for": 20,
-      "goals_against": 28,
+      "goals_for": 23,
+      "goals_against": 30,
       "max_win_point": 59,
-      "matches_left": 12
+      "matches_left": 11
     },
     {
       "j_name": "鳥栖",
@@ -29093,5 +29093,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2022-09-04T18:12:04+09:00"
+  "updated_at": "2022-09-04T18:16:03+09:00"
 }
