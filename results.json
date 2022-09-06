@@ -12801,11 +12801,11 @@
           "date": "09/06(火)",
           "time": "19:00",
           "division": "j2",
-          "score": "3-3",
+          "score": "vs",
           "opponent": "金沢",
-          "goals_for": 3,
-          "goals_against": 3,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "090601"
         },
@@ -14458,11 +14458,11 @@
           "date": "09/06(火)",
           "time": "19:00",
           "division": "j2",
-          "score": "3-3",
+          "score": "vs",
           "opponent": "長崎",
-          "goals_for": 3,
-          "goals_against": 3,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "090601"
         },
@@ -28128,7 +28128,7 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 17,
+      "rank": 16,
       "win_point": 39,
       "wins": 10,
       "draws": 9,
@@ -28236,7 +28236,7 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 16,
+      "rank": 15,
       "win_point": 39,
       "wins": 9,
       "draws": 12,
@@ -28596,15 +28596,15 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 15,
-      "win_point": 40,
+      "rank": 17,
+      "win_point": 39,
       "wins": 10,
-      "draws": 10,
+      "draws": 9,
       "loses": 14,
-      "goals_for": 42,
-      "goals_against": 58,
-      "max_win_point": 64,
-      "matches_left": 8
+      "goals_for": 39,
+      "goals_against": 55,
+      "max_win_point": 66,
+      "matches_left": 9
     },
     {
       "j_name": "清水",
@@ -28993,14 +28993,14 @@
       "hash_tag": "#vvaren",
       "full_name": "Ｖ・ファーレン長崎",
       "rank": 7,
-      "win_point": 51,
+      "win_point": 50,
       "wins": 14,
-      "draws": 9,
+      "draws": 8,
       "loses": 10,
-      "goals_for": 42,
-      "goals_against": 36,
-      "max_win_point": 78,
-      "matches_left": 9
+      "goals_for": 39,
+      "goals_against": 33,
+      "max_win_point": 80,
+      "matches_left": 10
     },
     {
       "j_name": "熊本",
@@ -29093,5 +29093,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2022-09-06T21:06:04+09:00"
+  "updated_at": "2022-09-06T21:12:04+09:00"
 }
