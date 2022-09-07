@@ -4772,11 +4772,11 @@
           "date": "09/07(水)",
           "time": "19:00",
           "division": "j1",
-          "score": "3-0",
+          "score": "vs",
           "opponent": "湘南",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "090705"
         },
@@ -6561,11 +6561,11 @@
           "date": "09/07(水)",
           "time": "19:00",
           "division": "j1",
-          "score": "3-0",
+          "score": "vs",
           "opponent": "横浜FM",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "090705"
         },
@@ -28416,15 +28416,15 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 1,
-      "win_point": 52,
-      "wins": 15,
+      "rank": 2,
+      "win_point": 49,
+      "wins": 14,
       "draws": 7,
       "loses": 4,
-      "goals_for": 56,
+      "goals_for": 53,
       "goals_against": 29,
       "max_win_point": 76,
-      "matches_left": 8
+      "matches_left": 9
     },
     {
       "j_name": "横浜FC",
@@ -28474,11 +28474,11 @@
       "win_point": 29,
       "wins": 7,
       "draws": 8,
-      "loses": 12,
+      "loses": 11,
       "goals_for": 22,
-      "goals_against": 35,
-      "max_win_point": 50,
-      "matches_left": 7
+      "goals_against": 32,
+      "max_win_point": 53,
+      "matches_left": 8
     },
     {
       "j_name": "相模原",
@@ -28830,7 +28830,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 2,
+      "rank": 1,
       "win_point": 50,
       "wins": 14,
       "draws": 8,
@@ -29093,5 +29093,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2022-09-07T21:06:04+09:00"
+  "updated_at": "2022-09-07T21:12:04+09:00"
 }
