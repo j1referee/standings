@@ -29093,5 +29093,12 @@
       "matches_left": 8
     }
   ],
+  "divisions": {
+    "j1": {
+      "safe_point": 47,
+      "out_point": 28
+    },
+    "j2": null
+  },
   "updated_at": "2022-09-07T21:30:04+09:00"
 }
