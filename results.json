@@ -2565,11 +2565,11 @@
           "date": "09/10(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "091002"
         },
@@ -4785,11 +4785,11 @@
           "date": "09/10(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "091004"
         },
@@ -5699,11 +5699,11 @@
           "date": "09/10(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "091004"
         },
@@ -7031,11 +7031,11 @@
           "date": "09/10(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "091002"
         },
@@ -28272,15 +28272,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 10,
-      "win_point": 36,
-      "wins": 8,
+      "rank": 9,
+      "win_point": 39,
+      "wins": 9,
       "draws": 12,
       "loses": 6,
-      "goals_for": 38,
-      "goals_against": 26,
+      "goals_for": 42,
+      "goals_against": 27,
       "max_win_point": 60,
-      "matches_left": 8
+      "matches_left": 7
     },
     {
       "j_name": "大宮",
@@ -28330,11 +28330,11 @@
       "win_point": 44,
       "wins": 13,
       "draws": 5,
-      "loses": 10,
-      "goals_for": 39,
-      "goals_against": 35,
-      "max_win_point": 62,
-      "matches_left": 6
+      "loses": 11,
+      "goals_for": 40,
+      "goals_against": 39,
+      "max_win_point": 59,
+      "matches_left": 5
     },
     {
       "j_name": "FC東京",
@@ -28417,14 +28417,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 1,
-      "win_point": 52,
-      "wins": 15,
+      "win_point": 55,
+      "wins": 16,
       "draws": 7,
       "loses": 4,
-      "goals_for": 56,
+      "goals_for": 57,
       "goals_against": 29,
       "max_win_point": 76,
-      "matches_left": 8
+      "matches_left": 7
     },
     {
       "j_name": "横浜FC",
@@ -28686,7 +28686,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 9,
+      "rank": 10,
       "win_point": 37,
       "wins": 9,
       "draws": 10,
@@ -28942,11 +28942,11 @@
       "win_point": 28,
       "wins": 6,
       "draws": 10,
-      "loses": 12,
+      "loses": 13,
       "goals_for": 21,
-      "goals_against": 31,
-      "max_win_point": 46,
-      "matches_left": 6
+      "goals_against": 32,
+      "max_win_point": 43,
+      "matches_left": 5
     },
     {
       "j_name": "北九州",
@@ -29093,5 +29093,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2022-09-10T21:32:03+09:00"
+  "updated_at": "2022-09-10T21:36:04+09:00"
 }
