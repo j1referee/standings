@@ -345,11 +345,11 @@
           "date": "09/10(土)",
           "time": "18:30",
           "division": "j1",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "広島",
-          "goals_for": 4,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "091003"
         },
@@ -3035,11 +3035,11 @@
           "date": "09/10(土)",
           "time": "18:30",
           "division": "j1",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "川崎F",
-          "goals_for": 0,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "091003"
         },
@@ -8989,7 +8989,7 @@
         {
           "sec": 35,
           "date": "09/10(土)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j2",
           "score": "0-0",
           "opponent": "徳島",
@@ -13921,7 +13921,7 @@
         {
           "sec": 35,
           "date": "09/10(土)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j2",
           "score": "0-0",
           "opponent": "秋田",
@@ -21690,11 +21690,11 @@
           "date": "09/10(土)",
           "time": "18:30",
           "division": "j3",
-          "score": "3-0",
+          "score": "vs",
           "opponent": "沼津",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "091025"
         },
@@ -22565,11 +22565,11 @@
           "date": "09/10(土)",
           "time": "18:30",
           "division": "j3",
-          "score": "3-0",
+          "score": "vs",
           "opponent": "鳥取",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "091025"
         },
@@ -28398,15 +28398,15 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 2,
-      "win_point": 52,
-      "wins": 16,
+      "rank": 3,
+      "win_point": 49,
+      "wins": 15,
       "draws": 4,
       "loses": 7,
-      "goals_for": 49,
+      "goals_for": 45,
       "goals_against": 30,
       "max_win_point": 73,
-      "matches_left": 7
+      "matches_left": 8
     },
     {
       "j_name": "横浜FM",
@@ -28668,15 +28668,15 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 14,
+      "rank": 13,
       "win_point": 24,
       "wins": 7,
       "draws": 3,
-      "loses": 13,
+      "loses": 12,
       "goals_for": 21,
-      "goals_against": 31,
-      "max_win_point": 57,
-      "matches_left": 11
+      "goals_against": 28,
+      "max_win_point": 60,
+      "matches_left": 12
     },
     {
       "j_name": "名古屋",
@@ -28794,15 +28794,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 13,
-      "win_point": 25,
-      "wins": 7,
+      "rank": 14,
+      "win_point": 22,
+      "wins": 6,
       "draws": 4,
       "loses": 13,
-      "goals_for": 34,
+      "goals_for": 31,
       "goals_against": 43,
       "max_win_point": 55,
-      "matches_left": 10
+      "matches_left": 11
     },
     {
       "j_name": "岡山",
@@ -28830,15 +28830,15 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 3,
+      "rank": 2,
       "win_point": 50,
       "wins": 14,
       "draws": 8,
-      "loses": 7,
+      "loses": 6,
       "goals_for": 45,
-      "goals_against": 32,
-      "max_win_point": 65,
-      "matches_left": 5
+      "goals_against": 28,
+      "max_win_point": 68,
+      "matches_left": 6
     },
     {
       "j_name": "山口",
@@ -29093,5 +29093,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2022-09-10T20:36:04+09:00"
+  "updated_at": "2022-09-10T20:42:03+09:00"
 }
