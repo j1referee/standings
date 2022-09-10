@@ -21218,7 +21218,7 @@
         {
           "sec": 24,
           "date": "09/10(土)",
-          "time": "17:00",
+          "time": "17:03",
           "division": "j3",
           "score": "2-0",
           "opponent": "八戸",
@@ -23464,7 +23464,7 @@
         {
           "sec": 24,
           "date": "09/10(土)",
-          "time": "17:00",
+          "time": "17:03",
           "division": "j3",
           "score": "2-0",
           "opponent": "藤枝",
@@ -24354,11 +24354,11 @@
           "date": "09/10(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "松本",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "091021"
         },
@@ -26130,11 +26130,11 @@
           "date": "09/10(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "福島",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "091021"
         },
@@ -28168,11 +28168,11 @@
       "win_point": 31,
       "wins": 8,
       "draws": 7,
-      "loses": 9,
+      "loses": 8,
       "goals_for": 28,
-      "goals_against": 28,
-      "max_win_point": 61,
-      "matches_left": 10
+      "goals_against": 27,
+      "max_win_point": 64,
+      "matches_left": 11
     },
     {
       "j_name": "いわき",
@@ -28524,15 +28524,15 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 2,
-      "win_point": 50,
-      "wins": 15,
+      "rank": 3,
+      "win_point": 47,
+      "wins": 14,
       "draws": 5,
       "loses": 4,
-      "goals_for": 33,
+      "goals_for": 32,
       "goals_against": 19,
       "max_win_point": 80,
-      "matches_left": 10
+      "matches_left": 11
     },
     {
       "j_name": "長野",
@@ -29064,7 +29064,7 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 3,
+      "rank": 2,
       "win_point": 47,
       "wins": 15,
       "draws": 2,
@@ -29093,5 +29093,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2022-09-10T19:06:04+09:00"
+  "updated_at": "2022-09-10T19:12:04+09:00"
 }
