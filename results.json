@@ -4354,11 +4354,11 @@
           "date": "09/11(日)",
           "time": "13:05",
           "division": "j1",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "磐田",
-          "goals_for": 4,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "091105"
         },
@@ -6130,11 +6130,11 @@
           "date": "09/11(日)",
           "time": "13:05",
           "division": "j1",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "札幌",
-          "goals_for": 0,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "091105"
         },
@@ -28056,15 +28056,15 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 11,
-      "win_point": 34,
-      "wins": 8,
+      "rank": 12,
+      "win_point": 31,
+      "wins": 7,
       "draws": 10,
       "loses": 10,
-      "goals_for": 33,
+      "goals_for": 29,
       "goals_against": 45,
       "max_win_point": 52,
-      "matches_left": 6
+      "matches_left": 7
     },
     {
       "j_name": "八戸",
@@ -28614,7 +28614,7 @@
       "league": "j1",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 12,
+      "rank": 11,
       "win_point": 32,
       "wins": 7,
       "draws": 11,
@@ -28636,11 +28636,11 @@
       "win_point": 23,
       "wins": 5,
       "draws": 8,
-      "loses": 15,
+      "loses": 14,
       "goals_for": 25,
-      "goals_against": 49,
-      "max_win_point": 41,
-      "matches_left": 6
+      "goals_against": 45,
+      "max_win_point": 44,
+      "matches_left": 7
     },
     {
       "j_name": "藤枝",
@@ -29093,5 +29093,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2022-09-11T15:16:04+09:00"
+  "updated_at": "2022-09-11T15:20:03+09:00"
 }
