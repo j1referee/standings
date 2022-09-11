@@ -24798,11 +24798,11 @@
           "date": "09/11(日)",
           "time": "18:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "091103"
         },
@@ -25242,11 +25242,11 @@
           "date": "09/11(日)",
           "time": "18:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "北九州",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "091102"
         },
@@ -25686,11 +25686,11 @@
           "date": "09/11(日)",
           "time": "18:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "鹿児島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "091103"
         },
@@ -26574,11 +26574,11 @@
           "date": "09/11(日)",
           "time": "18:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "091102"
         },
@@ -28183,14 +28183,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 1,
-      "win_point": 51,
-      "wins": 15,
+      "win_point": 54,
+      "wins": 16,
       "draws": 6,
       "loses": 2,
-      "goals_for": 50,
+      "goals_for": 51,
       "goals_against": 15,
       "max_win_point": 84,
-      "matches_left": 11
+      "matches_left": 10
     },
     {
       "j_name": "鹿島",
@@ -28524,7 +28524,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 2,
+      "rank": 3,
       "win_point": 50,
       "wins": 15,
       "draws": 5,
@@ -28870,11 +28870,11 @@
       "win_point": 19,
       "wins": 5,
       "draws": 4,
-      "loses": 14,
-      "goals_for": 17,
-      "goals_against": 29,
-      "max_win_point": 52,
-      "matches_left": 11
+      "loses": 15,
+      "goals_for": 19,
+      "goals_against": 32,
+      "max_win_point": 49,
+      "matches_left": 10
     },
     {
       "j_name": "徳島",
@@ -28960,11 +28960,11 @@
       "win_point": 26,
       "wins": 7,
       "draws": 5,
-      "loses": 11,
+      "loses": 12,
       "goals_for": 23,
-      "goals_against": 30,
-      "max_win_point": 59,
-      "matches_left": 11
+      "goals_against": 31,
+      "max_win_point": 56,
+      "matches_left": 10
     },
     {
       "j_name": "鳥栖",
@@ -29064,15 +29064,15 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 3,
-      "win_point": 47,
-      "wins": 15,
+      "rank": 2,
+      "win_point": 50,
+      "wins": 16,
       "draws": 2,
       "loses": 6,
-      "goals_for": 39,
-      "goals_against": 21,
+      "goals_for": 42,
+      "goals_against": 23,
       "max_win_point": 80,
-      "matches_left": 11
+      "matches_left": 10
     },
     {
       "j_name": "琉球",
@@ -29093,5 +29093,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2022-09-11T20:32:04+09:00"
+  "updated_at": "2022-09-11T20:36:03+09:00"
 }
