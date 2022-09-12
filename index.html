@@ -414,7 +414,7 @@ div.point > div {
        ※ 最大勝ち点が朱色の「降格圏内」ラインまで降りてきてしまうと降格圏内が確定です。
     </div>
     <script>
-  // Vue.config.devtools = true;
+  Vue.config.devtools = true;
   Vue.use(VTooltip);
 
   function createVue(json_data)
@@ -424,7 +424,7 @@ div.point > div {
     data: {
       results: json_data.results,
       clubs: json_data.clubs,
-      division: getDivision(),
+      division: getDivisionByUrl(),
       updated_at: json_data.updated_at,
       ts: (new Date(json_data.updated_at)).toLocaleString().replace(/:\d\d$/, ''),
     },
@@ -539,7 +539,7 @@ function setTweetButton(divU, updated_at)
   $a.setAttribute("href", href);
 }
 
-function getDivision()
+function getDivisionByUrl()
 {
   var  params = new URLSearchParams(window.location.search.slice(1));
   var division = params.get("division");
