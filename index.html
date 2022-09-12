@@ -387,7 +387,10 @@ div.point > div {
           <div v-for="wp in axis_win_point_array" v-if="wp <= bottom_max_win_point" class="row win axis"><div class="desc axis">{{wp}}</div></div>
         </div>
         <!-- 残留・降格確定ライン -->
-        <table id="safe-out-line"></table><div id="safe-caption">残留確定</div><div id="out-caption">降格圏内</div>
+        <table id="safe-out-line" :style="safe_out_style.line"></table>
+        <div id="safe-caption" :style="safe_out_style.safe_caption">残留確定</div>
+        <div id="out-caption" :style="safe_out_style.out_caption">降格圏内</div>
+        <!-- メインの表 -->
         <div v-for="(team_results, club_name) in results[division]" :key="club_name" class="col" :style="{order: rank(club_name)}">
           <div class="row caption"><a :href="`https://www.jleague.jp/club/${e_name(club_name)}/`">{{club_name}}</a></div>
           <div v-for="(match, idx) in team_results" :key="club_name + match.opponent + home_or_away(match)"
@@ -427,6 +430,12 @@ div.point > div {
       division: getDivisionByUrl(),
       updated_at: json_data.updated_at,
       ts: (new Date(json_data.updated_at)).toLocaleString().replace(/:\d\d$/, ''),
+      divisions_data: json_data.divisions,
+      safe_out_style: {},
+    },
+    mounted: async function(){
+      await this.$nextTick();
+      this.safe_out_style = setSafeOutLineStyle(this.divisions_data, this.division);
     },
     computed: {
       clubs_in_this_division: function(){ return this.clubs.filter(c => c.league == this.division); },
@@ -437,6 +446,10 @@ div.point > div {
       axis_win_point_array: function(){ return Array(50).fill(1).map((_,idx) => (idx+1) * 3) },
     },
     methods: {
+      set_safe_out_style: async function(){
+        await this.$nextTick();
+        this.safe_out_style = setSafeOutLineStyle(this.divisions_data, this.division);
+      },
       match_result: function(match){
         if ( match.point == 0 ) return 'lose';
         if ( match.point == 3 ) return 'win';
@@ -463,15 +476,15 @@ div.point > div {
         switch(this.division){
         case "j1":
           this.division = "j2";
-          if (window.history && window.history.pushState) { setDivision(this); }
+          if (window.history && window.history.pushState) { setDivision(this); this.set_safe_out_style(); }
           break;
         case "j2":
           this.division = "j3";
-          if (window.history && window.history.pushState) { setDivision(this); }
+          if (window.history && window.history.pushState) { setDivision(this); this.set_safe_out_style(); }
           break;
         case "j3":
           this.division = "j1";
-          if (window.history && window.history.pushState) { setDivision(this); }
+          if (window.history && window.history.pushState) { setDivision(this); this.set_safe_out_style(); }
           break;
         }
       },
@@ -577,50 +590,58 @@ function point2y(point)
   const base_row = Array.from(rows).find( row => row.className.match(/win|draw/) );
   const clientRect = base_row.getBoundingClientRect();
   const base_y = clientRect.bottom + window.pageYOffset;
-  return base_y - point * 13 - 1;
+  const y = base_y - point * 13 - 1;
+  return y;
 }
 
-// 描画エリアの Rect を取得する
-function getTableAreaRect()
+// 残留確定・降格確定ラインのスタイルを求める
+function setSafeOutLineStyle(divisions_data, division)
 {
-  const tableArea = document.getElementById("table-area")
-  const tableAreaRect = tableArea.getBoundingClientRect();
-  return tableAreaRect;
-}
+  const division_data = divisions_data?.[division];
+  const safe_point = division_data?.safe_point;
+  const out_point = division_data?.out_point;
+  console.log(`safe_point=${safe_point}`);
+  console.log(`out_point=${out_point}`);
 
-function draw_safe_out_line(safe_point, out_point)
-{
-  const tableAreaRect = getTableAreaRect();
+  const styles = {
+    line: {display: "none"},
+    safe_caption: {display: "none"},
+    out_caption: {display: "none"}
+  };
+  if (safe_point === undefined ) return styles;
 
-  const $table = document.getElementById("safe-out-line");
-  const $safeCaption = document.getElementById("safe-caption");
-  const $outCaption = document.getElementById("out-caption");
-  const paddingRight = 154;
-  let topY, bottomY;
-  if (safe_point){
-    topY = point2y(safe_point);
-    $table.style.borderTop = "solid 2px limegreen";
-    $table.style.top = `${topY}px`;
-    $table.style.width = `${tableAreaRect.width - paddingRight}px`;
+  let table_width = 0;
+  document.querySelectorAll("div.col").forEach( (d) => {
+   const r = d.getBoundingClientRect();
+   table_width += r.width;
+  });
+  console.log(`table width=${table_width}`);
 
-    $safeCaption.style.left = `${tableAreaRect.right - paddingRight + 4}px`;
-    $safeCaption.style.top = `${topY - 10}px`;
-    $safeCaption.style.display = "block";
-  } else {
-    $table.style.borderTop = "none";
+  const paddingRight = 14;
+  const topY = point2y(safe_point);
+  styles.line = {
+   top: `${point2y(safe_point)}px`,
+   borderTop: "solid 2px limegreen",
+   width: `${table_width}px`,
+  display: "block",
+  };
+  styles.safe_caption = {
+    left: `${table_width + paddingRight}px`,
+    top: `${topY - 10}px`,
+    display: "block",
+  };
+  if (out_point === undefined ) return styles;
+
+  const bottomY = point2y(out_point);
+  styles.line.borderBottom = "solid 2px deeppink";
+  styles.line.height = `${bottomY - topY + 1}px`;
+  styles.out_caption = {
+    left: `${table_width + paddingRight}px`,
+    top: `${bottomY - 10}px`,
+    display: "block",
   }
-  if (safe_point && out_point){
-    bottomY = point2y(out_point);
-    $table.style.borderBottom = "solid 2px deeppink";
-    $table.style.height = `${bottomY - topY + 1}px`;
-
-    $outCaption.style.left = `${tableAreaRect.right - paddingRight + 4}px`;
-    $outCaption.style.top = `${bottomY - 10}px`;
-    $outCaption.style.display = "block";
-
-  } else {
-    $table.style.borderBottom = "none";
-  }
+  console.log(styles);
+  return styles;
 }
 
 /*************************
@@ -642,7 +663,6 @@ fetch("./results.json", {
   // console.log("get results.json");
   createVue(json);
   document.getElementById("app").style = "display: block";
-  draw_safe_out_line(json.safe_point, json.out_point);
   document.body.onclick = function(){
     let tooltips = document.getElementsByClassName("tooltip");
     for(let i=0; i < tooltips.length; i++){ tooltips[i].setAttribute("aria-hidden", true); }
