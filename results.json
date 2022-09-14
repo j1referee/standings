@@ -2578,11 +2578,11 @@
           "date": "09/14(水)",
           "time": "19:30",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "091401"
         },
@@ -5242,11 +5242,11 @@
           "date": "09/14(水)",
           "time": "19:30",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "091401"
         },
@@ -28200,7 +28200,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 46,
       "wins": 12,
       "draws": 10,
@@ -28276,11 +28276,11 @@
       "win_point": 39,
       "wins": 9,
       "draws": 12,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 42,
-      "goals_against": 27,
-      "max_win_point": 60,
-      "matches_left": 7
+      "goals_against": 28,
+      "max_win_point": 57,
+      "matches_left": 6
     },
     {
       "j_name": "大宮",
@@ -28758,15 +28758,15 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 5,
-      "win_point": 44,
-      "wins": 12,
+      "rank": 4,
+      "win_point": 47,
+      "wins": 13,
       "draws": 8,
       "loses": 7,
-      "goals_for": 42,
+      "goals_for": 43,
       "goals_against": 32,
       "max_win_point": 65,
-      "matches_left": 7
+      "matches_left": 6
     },
     {
       "j_name": "神戸",
@@ -29093,5 +29093,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2022-09-14T22:00:04+09:00"
+  "updated_at": "2022-09-14T22:02:03+09:00"
 }
