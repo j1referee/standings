@@ -9550,13 +9550,13 @@
         {
           "sec": 36,
           "date": "09/14(水)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "岩手",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "091405"
         },
@@ -10098,13 +10098,13 @@
         {
           "sec": 36,
           "date": "09/14(水)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "千葉",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "091405"
         },
@@ -28096,11 +28096,11 @@
       "win_point": 33,
       "wins": 9,
       "draws": 6,
-      "loses": 20,
-      "goals_for": 30,
-      "goals_against": 63,
-      "max_win_point": 54,
-      "matches_left": 7
+      "loses": 21,
+      "goals_for": 31,
+      "goals_against": 65,
+      "max_win_point": 51,
+      "matches_left": 6
     },
     {
       "j_name": "仙台",
@@ -28146,7 +28146,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 8,
+      "rank": 9,
       "win_point": 49,
       "wins": 13,
       "draws": 10,
@@ -28308,15 +28308,15 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 10,
-      "win_point": 49,
-      "wins": 13,
+      "rank": 7,
+      "win_point": 52,
+      "wins": 14,
       "draws": 10,
       "loses": 12,
-      "goals_for": 36,
-      "goals_against": 33,
+      "goals_for": 38,
+      "goals_against": 34,
       "max_win_point": 70,
-      "matches_left": 7
+      "matches_left": 6
     },
     {
       "j_name": "柏",
@@ -28380,7 +28380,7 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 9,
+      "rank": 10,
       "win_point": 49,
       "wins": 14,
       "draws": 7,
@@ -28992,7 +28992,7 @@
       "league": "j2",
       "hash_tag": "#vvaren",
       "full_name": "Ｖ・ファーレン長崎",
-      "rank": 7,
+      "rank": 8,
       "win_point": 51,
       "wins": 14,
       "draws": 9,
@@ -29093,5 +29093,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2022-09-14T20:12:04+09:00"
+  "updated_at": "2022-09-14T20:16:04+09:00"
 }
