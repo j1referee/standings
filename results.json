@@ -3934,7 +3934,7 @@
         {
           "sec": 30,
           "date": "09/17(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "3-2",
           "opponent": "福岡",
@@ -5710,7 +5710,7 @@
         {
           "sec": 30,
           "date": "09/17(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "3-2",
           "opponent": "清水",
@@ -29085,15 +29085,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2022-09-17T21:50:03+09:00",
-  "divisions": {
-    "j1": {
-      "safe_point": 44,
-      "out_point": 29
-    },
-    "j2": {
-      "safe_point": 50,
-      "out_point": 33
-    }
-  }
+  "updated_at": "2022-09-17T22:00:04+09:00"
 }
