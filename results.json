@@ -3936,11 +3936,11 @@
           "date": "09/17(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "3-2",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 2,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "091708"
         },
@@ -5712,11 +5712,11 @@
           "date": "09/17(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "3-2",
+          "score": "vs",
           "opponent": "清水",
-          "goals_for": 3,
-          "goals_against": 2,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "091708"
         },
@@ -28462,7 +28462,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 14,
+      "rank": 13,
       "win_point": 31,
       "wins": 7,
       "draws": 10,
@@ -28610,11 +28610,11 @@
       "win_point": 32,
       "wins": 7,
       "draws": 11,
-      "loses": 12,
-      "goals_for": 38,
-      "goals_against": 45,
-      "max_win_point": 44,
-      "matches_left": 4
+      "loses": 11,
+      "goals_for": 36,
+      "goals_against": 42,
+      "max_win_point": 47,
+      "matches_left": 5
     },
     {
       "j_name": "磐田",
@@ -28714,7 +28714,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 15,
+      "rank": 14,
       "win_point": 30,
       "wins": 7,
       "draws": 9,
@@ -28732,7 +28732,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 16,
+      "rank": 15,
       "win_point": 29,
       "wins": 7,
       "draws": 8,
@@ -28768,7 +28768,7 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 17,
+      "rank": 16,
       "win_point": 28,
       "wins": 7,
       "draws": 7,
@@ -28930,15 +28930,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 13,
-      "win_point": 31,
-      "wins": 7,
+      "rank": 17,
+      "win_point": 28,
+      "wins": 6,
       "draws": 10,
       "loses": 13,
-      "goals_for": 24,
-      "goals_against": 34,
+      "goals_for": 21,
+      "goals_against": 32,
       "max_win_point": 43,
-      "matches_left": 4
+      "matches_left": 5
     },
     {
       "j_name": "北九州",
@@ -29085,5 +29085,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2022-09-17T21:36:04+09:00"
+  "updated_at": "2022-09-17T21:42:03+09:00"
 }
