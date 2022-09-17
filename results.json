@@ -5255,11 +5255,11 @@
           "date": "09/17(土)",
           "time": "18:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "091705"
         },
@@ -6143,11 +6143,11 @@
           "date": "09/17(土)",
           "time": "18:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "091705"
         },
@@ -28625,14 +28625,14 @@
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
       "rank": 18,
-      "win_point": 23,
+      "win_point": 24,
       "wins": 5,
-      "draws": 8,
+      "draws": 9,
       "loses": 15,
-      "goals_for": 25,
-      "goals_against": 49,
-      "max_win_point": 41,
-      "matches_left": 6
+      "goals_for": 27,
+      "goals_against": 51,
+      "max_win_point": 39,
+      "matches_left": 5
     },
     {
       "j_name": "藤枝",
@@ -28751,14 +28751,14 @@
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
       "rank": 4,
-      "win_point": 47,
+      "win_point": 48,
       "wins": 13,
-      "draws": 8,
+      "draws": 9,
       "loses": 7,
-      "goals_for": 43,
-      "goals_against": 32,
-      "max_win_point": 65,
-      "matches_left": 6
+      "goals_for": 45,
+      "goals_against": 34,
+      "max_win_point": 63,
+      "matches_left": 5
     },
     {
       "j_name": "神戸",
@@ -29085,5 +29085,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2022-09-17T20:02:04+09:00"
+  "updated_at": "2022-09-17T20:06:03+09:00"
 }
