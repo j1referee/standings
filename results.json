@@ -20371,11 +20371,11 @@
           "date": "09/17(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "091712"
         },
@@ -25695,11 +25695,11 @@
           "date": "09/17(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "091712"
         },
@@ -28445,14 +28445,14 @@
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
       "rank": 18,
-      "win_point": 14,
+      "win_point": 15,
       "wins": 4,
-      "draws": 2,
+      "draws": 3,
       "loses": 18,
       "goals_for": 16,
       "goals_against": 53,
-      "max_win_point": 44,
-      "matches_left": 10
+      "max_win_point": 42,
+      "matches_left": 9
     },
     {
       "j_name": "湘南",
@@ -28859,14 +28859,14 @@
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
       "rank": 16,
-      "win_point": 19,
+      "win_point": 20,
       "wins": 5,
-      "draws": 4,
+      "draws": 5,
       "loses": 15,
       "goals_for": 19,
       "goals_against": 32,
-      "max_win_point": 49,
-      "matches_left": 10
+      "max_win_point": 47,
+      "matches_left": 9
     },
     {
       "j_name": "徳島",
@@ -29085,5 +29085,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2022-09-17T15:02:03+09:00"
+  "updated_at": "2022-09-17T15:06:03+09:00"
 }
