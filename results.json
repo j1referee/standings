@@ -23919,11 +23919,11 @@
           "date": "09/18(日)",
           "time": "15:30",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "091813"
         },
@@ -25251,11 +25251,11 @@
           "date": "09/18(日)",
           "time": "15:30",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "091813"
         },
@@ -28178,11 +28178,11 @@
       "win_point": 54,
       "wins": 16,
       "draws": 6,
-      "loses": 2,
+      "loses": 3,
       "goals_for": 51,
-      "goals_against": 15,
-      "max_win_point": 84,
-      "matches_left": 10
+      "goals_against": 16,
+      "max_win_point": 81,
+      "matches_left": 9
     },
     {
       "j_name": "鹿島",
@@ -28894,7 +28894,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 6,
+      "rank": 7,
       "win_point": 41,
       "wins": 12,
       "draws": 5,
@@ -28912,15 +28912,15 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 7,
-      "win_point": 41,
-      "wins": 12,
+      "rank": 6,
+      "win_point": 44,
+      "wins": 13,
       "draws": 5,
       "loses": 7,
-      "goals_for": 36,
+      "goals_for": 37,
       "goals_against": 27,
       "max_win_point": 71,
-      "matches_left": 10
+      "matches_left": 9
     },
     {
       "j_name": "福岡",
@@ -29085,5 +29085,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2022-09-18T17:34:15+09:00"
+  "updated_at": "2022-09-18T17:36:04+09:00"
 }
