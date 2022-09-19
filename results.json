@@ -24807,11 +24807,11 @@
           "date": "09/19(月・祝)",
           "time": "18:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "北九州",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "091905"
         },
@@ -26583,11 +26583,11 @@
           "date": "09/19(月・祝)",
           "time": "18:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "鹿児島",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "091905"
         },
@@ -28516,7 +28516,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 3,
+      "rank": 2,
       "win_point": 53,
       "wins": 16,
       "draws": 5,
@@ -28952,11 +28952,11 @@
       "win_point": 26,
       "wins": 7,
       "draws": 5,
-      "loses": 13,
+      "loses": 12,
       "goals_for": 23,
-      "goals_against": 32,
-      "max_win_point": 53,
-      "matches_left": 9
+      "goals_against": 31,
+      "max_win_point": 56,
+      "matches_left": 10
     },
     {
       "j_name": "鳥栖",
@@ -29056,15 +29056,15 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 2,
-      "win_point": 53,
-      "wins": 17,
+      "rank": 3,
+      "win_point": 50,
+      "wins": 16,
       "draws": 2,
       "loses": 6,
-      "goals_for": 43,
+      "goals_for": 42,
       "goals_against": 23,
       "max_win_point": 80,
-      "matches_left": 9
+      "matches_left": 10
     },
     {
       "j_name": "琉球",
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-19T20:02:04+09:00",
+  "updated_at": "2022-09-19T20:06:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
