@@ -10111,7 +10111,7 @@
         {
           "sec": 37,
           "date": "09/20(火)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "1-0",
           "opponent": "熊本",
@@ -15591,7 +15591,7 @@
         {
           "sec": 37,
           "date": "09/20(火)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "1-0",
           "opponent": "岩手",
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-20T21:36:04+09:00",
+  "updated_at": "2022-09-20T21:42:03+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
