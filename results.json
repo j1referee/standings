@@ -21257,13 +21257,13 @@
         {
           "sec": 20,
           "date": "09/21(水)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "092103"
         },
@@ -22589,13 +22589,13 @@
         {
           "sec": 20,
           "date": "09/21(水)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "092103"
         },
@@ -28643,14 +28643,14 @@
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
       "rank": 4,
-      "win_point": 48,
+      "win_point": 49,
       "wins": 15,
-      "draws": 3,
+      "draws": 4,
       "loses": 6,
       "goals_for": 43,
       "goals_against": 23,
-      "max_win_point": 78,
-      "matches_left": 10
+      "max_win_point": 76,
+      "matches_left": 9
     },
     {
       "j_name": "沼津",
@@ -28661,14 +28661,14 @@
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
       "rank": 11,
-      "win_point": 27,
+      "win_point": 28,
       "wins": 8,
-      "draws": 3,
+      "draws": 4,
       "loses": 13,
       "goals_for": 22,
       "goals_against": 31,
-      "max_win_point": 57,
-      "matches_left": 10
+      "max_win_point": 55,
+      "matches_left": 9
     },
     {
       "j_name": "名古屋",
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-21T17:32:03+09:00",
+  "updated_at": "2022-09-21T17:36:03+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
