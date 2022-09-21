@@ -8467,7 +8467,7 @@
         {
           "sec": 33,
           "date": "09/21(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "1-1",
           "opponent": "長崎",
@@ -12851,7 +12851,7 @@
         {
           "sec": 33,
           "date": "09/21(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "1-1",
           "opponent": "栃木",
@@ -13399,7 +13399,7 @@
         {
           "sec": 31,
           "date": "09/21(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "1-2",
           "opponent": "水戸",
@@ -19975,7 +19975,7 @@
         {
           "sec": 31,
           "date": "09/21(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
           "score": "1-2",
           "opponent": "東京V",
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-21T21:50:04+09:00",
+  "updated_at": "2022-09-21T22:00:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
