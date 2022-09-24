@@ -10672,7 +10672,7 @@
         {
           "sec": 38,
           "date": "09/24(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "1-6",
           "opponent": "山口",
@@ -15056,7 +15056,7 @@
         {
           "sec": 38,
           "date": "09/24(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "1-6",
           "opponent": "群馬",
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-24T16:50:04+09:00",
+  "updated_at": "2022-09-24T17:00:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
