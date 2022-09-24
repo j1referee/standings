@@ -11770,11 +11770,11 @@
           "date": "09/24(土)",
           "time": "19:00",
           "division": "j2",
-          "score": "0-2",
+          "score": "vs",
           "opponent": "長崎",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "092403"
         },
@@ -12866,11 +12866,11 @@
           "date": "09/24(土)",
           "time": "19:00",
           "division": "j2",
-          "score": "0-2",
+          "score": "vs",
           "opponent": "横浜FC",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "092403"
         },
@@ -28427,14 +28427,14 @@
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
       "rank": 2,
-      "win_point": 74,
-      "wins": 21,
+      "win_point": 71,
+      "wins": 20,
       "draws": 11,
       "loses": 6,
-      "goals_for": 57,
+      "goals_for": 55,
       "goals_against": 40,
       "max_win_point": 86,
-      "matches_left": 4
+      "matches_left": 5
     },
     {
       "j_name": "YS横浜",
@@ -28988,11 +28988,11 @@
       "win_point": 55,
       "wins": 15,
       "draws": 10,
-      "loses": 13,
+      "loses": 12,
       "goals_for": 45,
-      "goals_against": 45,
-      "max_win_point": 67,
-      "matches_left": 4
+      "goals_against": 43,
+      "max_win_point": 70,
+      "matches_left": 5
     },
     {
       "j_name": "熊本",
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-24T21:20:04+09:00",
+  "updated_at": "2022-09-24T21:30:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
