@@ -13962,11 +13962,11 @@
           "date": "09/25(日)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "水戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "092516"
         },
@@ -19990,11 +19990,11 @@
           "date": "09/25(日)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "徳島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "092516"
         },
@@ -28211,14 +28211,14 @@
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
       "rank": 13,
-      "win_point": 46,
+      "win_point": 47,
       "wins": 12,
-      "draws": 10,
+      "draws": 11,
       "loses": 15,
-      "goals_for": 41,
-      "goals_against": 41,
-      "max_win_point": 61,
-      "matches_left": 5
+      "goals_for": 42,
+      "goals_against": 42,
+      "max_win_point": 59,
+      "matches_left": 4
     },
     {
       "j_name": "栃木",
@@ -28877,14 +28877,14 @@
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
       "rank": 9,
-      "win_point": 52,
+      "win_point": 53,
       "wins": 10,
-      "draws": 22,
+      "draws": 23,
       "loses": 5,
-      "goals_for": 39,
-      "goals_against": 27,
-      "max_win_point": 67,
-      "matches_left": 5
+      "goals_for": 40,
+      "goals_against": 28,
+      "max_win_point": 65,
+      "matches_left": 4
     },
     {
       "j_name": "愛媛",
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-25T17:32:04+09:00",
+  "updated_at": "2022-09-25T19:00:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
