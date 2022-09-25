@@ -16154,11 +16154,11 @@
           "date": "09/25(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "仙台",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "092506"
         },
@@ -17250,11 +17250,11 @@
           "date": "09/25(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "092506"
         },
@@ -20826,13 +20826,13 @@
         {
           "sec": 26,
           "date": "09/25(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "092508"
         },
@@ -25262,13 +25262,13 @@
         {
           "sec": 26,
           "date": "09/25(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "092508"
         },
@@ -28106,11 +28106,11 @@
       "win_point": 59,
       "wins": 17,
       "draws": 8,
-      "loses": 12,
+      "loses": 13,
       "goals_for": 65,
-      "goals_against": 50,
-      "max_win_point": 74,
-      "matches_left": 5
+      "goals_against": 53,
+      "max_win_point": 71,
+      "matches_left": 4
     },
     {
       "j_name": "秋田",
@@ -28175,14 +28175,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 1,
-      "win_point": 54,
-      "wins": 16,
+      "win_point": 57,
+      "wins": 17,
       "draws": 6,
       "loses": 3,
-      "goals_for": 51,
-      "goals_against": 16,
+      "goals_for": 53,
+      "goals_against": 17,
       "max_win_point": 81,
-      "matches_left": 9
+      "matches_left": 8
     },
     {
       "j_name": "鹿島",
@@ -28700,11 +28700,11 @@
       "win_point": 32,
       "wins": 9,
       "draws": 5,
-      "loses": 11,
-      "goals_for": 35,
-      "goals_against": 39,
-      "max_win_point": 59,
-      "matches_left": 9
+      "loses": 12,
+      "goals_for": 36,
+      "goals_against": 41,
+      "max_win_point": 56,
+      "matches_left": 8
     },
     {
       "j_name": "京都",
@@ -28805,14 +28805,14 @@
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
       "rank": 3,
-      "win_point": 66,
-      "wins": 18,
+      "win_point": 69,
+      "wins": 19,
       "draws": 12,
       "loses": 7,
-      "goals_for": 54,
+      "goals_for": 57,
       "goals_against": 34,
       "max_win_point": 81,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "広島",
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-25T15:20:03+09:00",
+  "updated_at": "2022-09-25T15:30:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
