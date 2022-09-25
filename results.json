@@ -25708,11 +25708,11 @@
           "date": "09/25(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-4",
           "opponent": "富山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "092512"
         },
@@ -27924,11 +27924,11 @@
           "date": "09/25(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-4",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "092512"
         },
@@ -28570,15 +28570,15 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 6,
-      "win_point": 45,
-      "wins": 14,
+      "rank": 5,
+      "win_point": 48,
+      "wins": 15,
       "draws": 3,
       "loses": 8,
-      "goals_for": 35,
+      "goals_for": 39,
       "goals_against": 30,
       "max_win_point": 72,
-      "matches_left": 9
+      "matches_left": 8
     },
     {
       "j_name": "金沢",
@@ -28862,11 +28862,11 @@
       "win_point": 20,
       "wins": 5,
       "draws": 5,
-      "loses": 15,
+      "loses": 16,
       "goals_for": 19,
-      "goals_against": 32,
-      "max_win_point": 47,
-      "matches_left": 9
+      "goals_against": 36,
+      "max_win_point": 44,
+      "matches_left": 8
     },
     {
       "j_name": "徳島",
@@ -28912,7 +28912,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 5,
+      "rank": 6,
       "win_point": 47,
       "wins": 14,
       "draws": 5,
@@ -29085,7 +29085,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2022-09-25T16:32:04+09:00",
+  "updated_at": "2022-09-25T16:36:03+09:00",
   "divisions": {
     "j1": {
       "safe_point": 44,
