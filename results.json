@@ -11781,13 +11781,13 @@
         {
           "sec": 39,
           "date": "10/01(土)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "琉球",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "100115"
         },
@@ -18905,13 +18905,13 @@
         {
           "sec": 39,
           "date": "10/01(土)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "100115"
         },
@@ -28427,14 +28427,14 @@
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
       "rank": 2,
-      "win_point": 74,
-      "wins": 21,
+      "win_point": 77,
+      "wins": 22,
       "draws": 11,
       "loses": 6,
-      "goals_for": 57,
+      "goals_for": 58,
       "goals_against": 40,
       "max_win_point": 86,
-      "matches_left": 4
+      "matches_left": 3
     },
     {
       "j_name": "YS横浜",
@@ -29078,14 +29078,14 @@
       "win_point": 31,
       "wins": 6,
       "draws": 13,
-      "loses": 19,
+      "loses": 20,
       "goals_for": 37,
-      "goals_against": 61,
-      "max_win_point": 43,
-      "matches_left": 4
+      "goals_against": 62,
+      "max_win_point": 40,
+      "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-01T20:42:04+09:00",
+  "updated_at": "2022-10-01T20:50:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
