@@ -20397,11 +20397,11 @@
           "date": "10/01(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "4-1",
+          "score": "vs",
           "opponent": "藤枝",
-          "goals_for": 1,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "100116"
         },
@@ -21285,11 +21285,11 @@
           "date": "10/01(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "4-1",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 4,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "100116"
         },
@@ -28448,11 +28448,11 @@
       "win_point": 18,
       "wins": 5,
       "draws": 3,
-      "loses": 19,
-      "goals_for": 18,
-      "goals_against": 57,
-      "max_win_point": 39,
-      "matches_left": 7
+      "loses": 18,
+      "goals_for": 17,
+      "goals_against": 53,
+      "max_win_point": 42,
+      "matches_left": 8
     },
     {
       "j_name": "湘南",
@@ -28516,7 +28516,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 4,
+      "rank": 3,
       "win_point": 53,
       "wins": 16,
       "draws": 5,
@@ -28642,15 +28642,15 @@
       "league": "j3",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 2,
-      "win_point": 55,
-      "wins": 17,
+      "rank": 4,
+      "win_point": 52,
+      "wins": 16,
       "draws": 4,
       "loses": 6,
-      "goals_for": 48,
-      "goals_against": 24,
+      "goals_for": 44,
+      "goals_against": 23,
       "max_win_point": 76,
-      "matches_left": 7
+      "matches_left": 8
     },
     {
       "j_name": "沼津",
@@ -29056,7 +29056,7 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 3,
+      "rank": 2,
       "win_point": 53,
       "wins": 17,
       "draws": 2,
@@ -29085,7 +29085,7 @@
       "matches_left": 4
     }
   ],
-  "updated_at": "2022-10-01T16:36:03+09:00",
+  "updated_at": "2022-10-01T16:42:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 42,
