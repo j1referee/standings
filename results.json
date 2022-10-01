@@ -384,11 +384,11 @@
           "date": "10/01(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "4-3",
+          "score": "vs",
           "opponent": "札幌",
-          "goals_for": 3,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "100101"
         },
@@ -4380,11 +4380,11 @@
           "date": "10/01(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "4-3",
+          "score": "vs",
           "opponent": "川崎F",
-          "goals_for": 4,
-          "goals_against": 3,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "100101"
         },
@@ -28049,14 +28049,14 @@
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
       "rank": 11,
-      "win_point": 38,
-      "wins": 9,
+      "win_point": 35,
+      "wins": 8,
       "draws": 11,
       "loses": 10,
-      "goals_for": 37,
-      "goals_against": 48,
+      "goals_for": 33,
+      "goals_against": 45,
       "max_win_point": 50,
-      "matches_left": 4
+      "matches_left": 5
     },
     {
       "j_name": "八戸",
@@ -28394,11 +28394,11 @@
       "win_point": 54,
       "wins": 16,
       "draws": 6,
-      "loses": 8,
-      "goals_for": 54,
-      "goals_against": 36,
-      "max_win_point": 66,
-      "matches_left": 4
+      "loses": 7,
+      "goals_for": 51,
+      "goals_against": 32,
+      "max_win_point": 69,
+      "matches_left": 5
     },
     {
       "j_name": "横浜FM",
@@ -29085,7 +29085,7 @@
       "matches_left": 4
     }
   ],
-  "updated_at": "2022-10-01T18:42:03+09:00",
+  "updated_at": "2022-10-01T18:50:03+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
