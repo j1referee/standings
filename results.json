@@ -11235,11 +11235,11 @@
           "date": "10/05(水)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "大宮",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "100505"
         },
@@ -12331,11 +12331,11 @@
           "date": "10/05(水)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "山形",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "100505"
         },
@@ -28139,14 +28139,14 @@
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
       "rank": 7,
-      "win_point": 56,
+      "win_point": 57,
       "wins": 15,
-      "draws": 11,
+      "draws": 12,
       "loses": 12,
-      "goals_for": 55,
-      "goals_against": 39,
-      "max_win_point": 68,
-      "matches_left": 4
+      "goals_for": 56,
+      "goals_against": 40,
+      "max_win_point": 66,
+      "matches_left": 3
     },
     {
       "j_name": "福島",
@@ -28246,7 +28246,7 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 19,
+      "rank": 20,
       "win_point": 39,
       "wins": 10,
       "draws": 9,
@@ -28282,15 +28282,15 @@
       "league": "j2",
       "hash_tag": "#ardija",
       "full_name": "大宮アルディージャ",
-      "rank": 20,
-      "win_point": 38,
+      "rank": 19,
+      "win_point": 39,
       "wins": 9,
-      "draws": 11,
+      "draws": 12,
       "loses": 18,
-      "goals_for": 41,
-      "goals_against": 56,
-      "max_win_point": 50,
-      "matches_left": 4
+      "goals_for": 42,
+      "goals_against": 57,
+      "max_win_point": 48,
+      "matches_left": 3
     },
     {
       "j_name": "千葉",
@@ -29085,7 +29085,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-05T21:12:04+09:00",
+  "updated_at": "2022-10-05T21:16:03+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
@@ -29093,7 +29093,7 @@
     },
     "j2": {
       "safe_point": 44,
-      "out_point": 37
+      "out_point": 38
     }
   }
 }
