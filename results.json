@@ -10150,13 +10150,13 @@
         {
           "sec": 40,
           "date": "10/08(土)",
-          "time": "17:00",
+          "time": "17:03",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "100810"
         },
@@ -13438,13 +13438,13 @@
         {
           "sec": 40,
           "date": "10/08(土)",
-          "time": "17:00",
+          "time": "17:03",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "岩手",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "100810"
         },
@@ -28096,11 +28096,11 @@
       "win_point": 34,
       "wins": 9,
       "draws": 7,
-      "loses": 23,
+      "loses": 24,
       "goals_for": 34,
-      "goals_against": 71,
-      "max_win_point": 43,
-      "matches_left": 3
+      "goals_against": 73,
+      "max_win_point": 40,
+      "matches_left": 2
     },
     {
       "j_name": "仙台",
@@ -28308,7 +28308,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 9,
+      "rank": 10,
       "win_point": 55,
       "wins": 15,
       "draws": 10,
@@ -28362,15 +28362,15 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 11,
-      "win_point": 52,
-      "wins": 13,
+      "rank": 9,
+      "win_point": 55,
+      "wins": 14,
       "draws": 13,
       "loses": 13,
-      "goals_for": 57,
+      "goals_for": 59,
       "goals_against": 55,
       "max_win_point": 61,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "町田",
@@ -28992,7 +28992,7 @@
       "league": "j2",
       "hash_tag": "#vvaren",
       "full_name": "Ｖ・ファーレン長崎",
-      "rank": 10,
+      "rank": 11,
       "win_point": 55,
       "wins": 15,
       "draws": 10,
@@ -29093,14 +29093,14 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-08T19:20:04+09:00",
+  "updated_at": "2022-10-08T19:30:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
       "out_point": 33
     },
     "j2": {
-      "safe_point": 43,
+      "safe_point": 41,
       "out_point": 38
     }
   }
