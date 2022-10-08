@@ -3074,11 +3074,11 @@
           "date": "10/08(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "神戸",
-          "goals_for": 0,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "100809"
         },
@@ -7945,11 +7945,11 @@
           "date": "10/08(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "広島",
-          "goals_for": 4,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "100809"
         },
@@ -28722,7 +28722,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 13,
+      "rank": 12,
       "win_point": 34,
       "wins": 8,
       "draws": 10,
@@ -28776,15 +28776,15 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 12,
-      "win_point": 37,
-      "wins": 10,
+      "rank": 13,
+      "win_point": 34,
+      "wins": 9,
       "draws": 7,
       "loses": 14,
-      "goals_for": 32,
+      "goals_for": 28,
       "goals_against": 36,
       "max_win_point": 46,
-      "matches_left": 3
+      "matches_left": 4
     },
     {
       "j_name": "鳥取",
@@ -28834,11 +28834,11 @@
       "win_point": 54,
       "wins": 15,
       "draws": 9,
-      "loses": 8,
+      "loses": 7,
       "goals_for": 49,
-      "goals_against": 37,
-      "max_win_point": 60,
-      "matches_left": 2
+      "goals_against": 33,
+      "max_win_point": 63,
+      "matches_left": 3
     },
     {
       "j_name": "山口",
@@ -29093,7 +29093,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-08T16:36:03+09:00",
+  "updated_at": "2022-10-08T16:42:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
