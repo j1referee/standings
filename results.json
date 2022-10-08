@@ -27070,11 +27070,11 @@
           "date": "10/08(土)",
           "time": "19:00",
           "division": "j3",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "愛媛",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "100817"
         },
@@ -27501,11 +27501,11 @@
           "date": "10/08(土)",
           "time": "19:00",
           "division": "j3",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "長野",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "100817"
         },
@@ -28543,14 +28543,14 @@
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
       "rank": 7,
-      "win_point": 44,
+      "win_point": 43,
       "wins": 12,
-      "draws": 8,
+      "draws": 7,
       "loses": 8,
-      "goals_for": 32,
-      "goals_against": 32,
-      "max_win_point": 62,
-      "matches_left": 6
+      "goals_for": 30,
+      "goals_against": 30,
+      "max_win_point": 64,
+      "matches_left": 7
     },
     {
       "j_name": "新潟",
@@ -28903,14 +28903,14 @@
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
       "rank": 8,
-      "win_point": 42,
+      "win_point": 41,
       "wins": 12,
-      "draws": 6,
+      "draws": 5,
       "loses": 9,
-      "goals_for": 40,
-      "goals_against": 33,
-      "max_win_point": 63,
-      "matches_left": 7
+      "goals_for": 38,
+      "goals_against": 31,
+      "max_win_point": 65,
+      "matches_left": 8
     },
     {
       "j_name": "今治",
@@ -29093,7 +29093,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-08T21:06:04+09:00",
+  "updated_at": "2022-10-08T21:12:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
