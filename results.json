@@ -2617,11 +2617,11 @@
           "date": "10/08(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "100802"
         },
@@ -3072,7 +3072,7 @@
         {
           "sec": 32,
           "date": "10/08(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "4-0",
           "opponent": "神戸",
@@ -3518,11 +3518,11 @@
           "date": "10/08(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "100802"
         },
@@ -7943,7 +7943,7 @@
         {
           "sec": 32,
           "date": "10/08(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "4-0",
           "opponent": "広島",
@@ -28272,15 +28272,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 9,
-      "win_point": 40,
-      "wins": 9,
+      "rank": 8,
+      "win_point": 43,
+      "wins": 10,
       "draws": 13,
       "loses": 8,
-      "goals_for": 43,
-      "goals_against": 32,
+      "goals_for": 45,
+      "goals_against": 33,
       "max_win_point": 52,
-      "matches_left": 4
+      "matches_left": 3
     },
     {
       "j_name": "大宮",
@@ -28974,15 +28974,15 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 8,
+      "rank": 9,
       "win_point": 41,
       "wins": 9,
       "draws": 14,
-      "loses": 8,
-      "goals_for": 42,
-      "goals_against": 37,
-      "max_win_point": 50,
-      "matches_left": 3
+      "loses": 9,
+      "goals_for": 43,
+      "goals_against": 39,
+      "max_win_point": 47,
+      "matches_left": 2
     },
     {
       "j_name": "長崎",
@@ -29093,7 +29093,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-08T16:50:04+09:00",
+  "updated_at": "2022-10-08T17:00:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
