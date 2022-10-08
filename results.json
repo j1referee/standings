@@ -5279,7 +5279,7 @@
         {
           "sec": 32,
           "date": "10/08(土)",
-          "time": "16:00",
+          "time": "16:04",
           "division": "j1",
           "score": "0-0",
           "opponent": "柏",
@@ -7068,7 +7068,7 @@
         {
           "sec": 32,
           "date": "10/08(土)",
-          "time": "16:00",
+          "time": "16:04",
           "division": "j1",
           "score": "0-0",
           "opponent": "C大阪",
@@ -29093,7 +29093,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-08T18:06:04+09:00",
+  "updated_at": "2022-10-08T18:12:03+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
