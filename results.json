@@ -5281,11 +5281,11 @@
           "date": "10/08(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "100803"
         },
@@ -7070,11 +7070,11 @@
           "date": "10/08(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "100803"
         },
@@ -28327,14 +28327,14 @@
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
       "rank": 6,
-      "win_point": 46,
+      "win_point": 47,
       "wins": 13,
-      "draws": 7,
+      "draws": 8,
       "loses": 11,
       "goals_for": 41,
       "goals_against": 40,
-      "max_win_point": 55,
-      "matches_left": 3
+      "max_win_point": 53,
+      "matches_left": 2
     },
     {
       "j_name": "FC東京",
@@ -28759,14 +28759,14 @@
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
       "rank": 4,
-      "win_point": 49,
+      "win_point": 50,
       "wins": 13,
-      "draws": 10,
+      "draws": 11,
       "loses": 7,
       "goals_for": 46,
       "goals_against": 35,
-      "max_win_point": 61,
-      "matches_left": 4
+      "max_win_point": 59,
+      "matches_left": 3
     },
     {
       "j_name": "神戸",
@@ -29093,7 +29093,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-08T18:02:03+09:00",
+  "updated_at": "2022-10-08T18:06:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
