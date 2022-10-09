@@ -11796,11 +11796,11 @@
           "date": "10/09(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "2-3",
+          "score": "vs",
           "opponent": "大分",
-          "goals_for": 2,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "100905"
         },
@@ -19468,11 +19468,11 @@
           "date": "10/09(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "2-3",
+          "score": "vs",
           "opponent": "横浜FC",
-          "goals_for": 3,
-          "goals_against": 2,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "100905"
         },
@@ -28438,11 +28438,11 @@
       "win_point": 77,
       "wins": 22,
       "draws": 11,
-      "loses": 7,
-      "goals_for": 60,
-      "goals_against": 43,
-      "max_win_point": 83,
-      "matches_left": 2
+      "loses": 6,
+      "goals_for": 58,
+      "goals_against": 40,
+      "max_win_point": 86,
+      "matches_left": 3
     },
     {
       "j_name": "YS横浜",
@@ -29029,14 +29029,14 @@
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
       "rank": 5,
-      "win_point": 66,
-      "wins": 17,
+      "win_point": 63,
+      "wins": 16,
       "draws": 15,
       "loses": 8,
-      "goals_for": 62,
-      "goals_against": 48,
+      "goals_for": 59,
+      "goals_against": 46,
       "max_win_point": 72,
-      "matches_left": 2
+      "matches_left": 3
     },
     {
       "j_name": "宮崎",
@@ -29093,7 +29093,7 @@
       "matches_left": 2
     }
   ],
-  "updated_at": "2022-10-09T20:32:03+09:00",
+  "updated_at": "2022-10-09T20:36:03+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
