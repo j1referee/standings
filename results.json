@@ -11794,7 +11794,7 @@
         {
           "sec": 40,
           "date": "10/09(日)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
           "score": "2-3",
           "opponent": "大分",
@@ -19466,7 +19466,7 @@
         {
           "sec": 40,
           "date": "10/09(日)",
-          "time": "18:00",
+          "time": "18:03",
           "division": "j2",
           "score": "2-3",
           "opponent": "横浜FC",
@@ -29093,7 +29093,7 @@
       "matches_left": 2
     }
   ],
-  "updated_at": "2022-10-09T20:42:04+09:00",
+  "updated_at": "2022-10-09T20:50:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
