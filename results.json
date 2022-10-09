@@ -21742,11 +21742,11 @@
           "date": "10/09(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "1-3",
+          "score": "vs",
           "opponent": "いわき",
-          "goals_for": 1,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "100910"
         },
@@ -25294,11 +25294,11 @@
           "date": "10/09(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "1-3",
+          "score": "vs",
           "opponent": "鳥取",
-          "goals_for": 3,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "100910"
         },
@@ -28183,14 +28183,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 1,
-      "win_point": 63,
-      "wins": 19,
+      "win_point": 60,
+      "wins": 18,
       "draws": 6,
       "loses": 3,
-      "goals_for": 60,
-      "goals_against": 19,
+      "goals_for": 57,
+      "goals_against": 18,
       "max_win_point": 81,
-      "matches_left": 6
+      "matches_left": 7
     },
     {
       "j_name": "鹿島",
@@ -28798,11 +28798,11 @@
       "win_point": 28,
       "wins": 8,
       "draws": 4,
-      "loses": 16,
-      "goals_for": 42,
-      "goals_against": 51,
-      "max_win_point": 46,
-      "matches_left": 6
+      "loses": 15,
+      "goals_for": 41,
+      "goals_against": 48,
+      "max_win_point": 49,
+      "matches_left": 7
     },
     {
       "j_name": "岡山",
@@ -29093,7 +29093,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-09T15:36:03+09:00",
+  "updated_at": "2022-10-09T15:42:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
