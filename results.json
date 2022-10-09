@@ -16178,7 +16178,7 @@
         {
           "sec": 40,
           "date": "10/09(日)",
-          "time": "13:05",
+          "time": "13:08",
           "division": "j2",
           "score": "1-2",
           "opponent": "甲府",
@@ -16726,7 +16726,7 @@
         {
           "sec": 40,
           "date": "10/09(日)",
-          "time": "13:05",
+          "time": "13:08",
           "division": "j2",
           "score": "1-2",
           "opponent": "岡山",
@@ -21296,13 +21296,13 @@
         {
           "sec": 28,
           "date": "10/09(日)",
-          "time": "13:00",
+          "time": "13:04",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "100908"
         },
@@ -21742,11 +21742,11 @@
           "date": "10/09(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "100910"
         },
@@ -25294,11 +25294,11 @@
           "date": "10/09(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "100910"
         },
@@ -26180,13 +26180,13 @@
         {
           "sec": 28,
           "date": "10/09(日)",
-          "time": "13:00",
+          "time": "13:04",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "100908"
         },
@@ -28183,14 +28183,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 1,
-      "win_point": 60,
-      "wins": 18,
+      "win_point": 63,
+      "wins": 19,
       "draws": 6,
       "loses": 3,
-      "goals_for": 57,
-      "goals_against": 18,
+      "goals_for": 60,
+      "goals_against": 19,
       "max_win_point": 81,
-      "matches_left": 7
+      "matches_left": 6
     },
     {
       "j_name": "鹿島",
@@ -28528,11 +28528,11 @@
       "win_point": 54,
       "wins": 16,
       "draws": 6,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 35,
-      "goals_against": 21,
-      "max_win_point": 75,
-      "matches_left": 7
+      "goals_against": 22,
+      "max_win_point": 72,
+      "matches_left": 6
     },
     {
       "j_name": "長野",
@@ -28651,14 +28651,14 @@
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
       "rank": 3,
-      "win_point": 55,
-      "wins": 17,
+      "win_point": 58,
+      "wins": 18,
       "draws": 4,
       "loses": 6,
-      "goals_for": 48,
+      "goals_for": 49,
       "goals_against": 24,
       "max_win_point": 76,
-      "matches_left": 7
+      "matches_left": 6
     },
     {
       "j_name": "沼津",
@@ -28798,11 +28798,11 @@
       "win_point": 28,
       "wins": 8,
       "draws": 4,
-      "loses": 15,
-      "goals_for": 41,
-      "goals_against": 48,
-      "max_win_point": 49,
-      "matches_left": 7
+      "loses": 16,
+      "goals_for": 42,
+      "goals_against": 51,
+      "max_win_point": 46,
+      "matches_left": 6
     },
     {
       "j_name": "岡山",
@@ -29093,7 +29093,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2022-10-09T15:20:04+09:00",
+  "updated_at": "2022-10-09T15:30:05+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
