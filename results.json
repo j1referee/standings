@@ -2628,7 +2628,7 @@
         {
           "sec": 27,
           "date": "10/12(水)",
-          "time": "19:30",
+          "time": "19:34",
           "division": "j1",
           "score": "1-1",
           "opponent": "札幌",
@@ -4404,7 +4404,7 @@
         {
           "sec": 27,
           "date": "10/12(水)",
-          "time": "19:30",
+          "time": "19:34",
           "division": "j1",
           "score": "1-1",
           "opponent": "浦和",
@@ -29093,7 +29093,7 @@
       "matches_left": 2
     }
   ],
-  "updated_at": "2022-10-12T22:16:03+09:00",
+  "updated_at": "2022-10-12T22:20:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
