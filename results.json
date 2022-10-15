@@ -12903,7 +12903,7 @@
         {
           "sec": 41,
           "date": "10/15(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "0-1",
           "opponent": "山口",
@@ -15095,7 +15095,7 @@
         {
           "sec": 41,
           "date": "10/15(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "0-1",
           "opponent": "長崎",
@@ -20867,11 +20867,11 @@
           "date": "10/15(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "松本",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "101504"
         },
@@ -26195,11 +26195,11 @@
           "date": "10/15(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "岐阜",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "101504"
         },
@@ -28525,14 +28525,14 @@
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
       "rank": 4,
-      "win_point": 57,
-      "wins": 17,
+      "win_point": 54,
+      "wins": 16,
       "draws": 6,
       "loses": 6,
-      "goals_for": 37,
-      "goals_against": 23,
+      "goals_for": 35,
+      "goals_against": 22,
       "max_win_point": 72,
-      "matches_left": 5
+      "matches_left": 6
     },
     {
       "j_name": "長野",
@@ -28708,11 +28708,11 @@
       "win_point": 33,
       "wins": 9,
       "draws": 6,
-      "loses": 14,
-      "goals_for": 39,
-      "goals_against": 47,
-      "max_win_point": 48,
-      "matches_left": 5
+      "loses": 13,
+      "goals_for": 38,
+      "goals_against": 45,
+      "max_win_point": 51,
+      "matches_left": 6
     },
     {
       "j_name": "京都",
@@ -29093,7 +29093,7 @@
       "matches_left": 2
     }
   ],
-  "updated_at": "2022-10-15T16:16:04+09:00",
+  "updated_at": "2022-10-15T16:20:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
