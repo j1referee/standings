@@ -11809,11 +11809,11 @@
           "date": "10/16(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "金沢",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "101606"
         },
@@ -14549,11 +14549,11 @@
           "date": "10/16(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "101606"
         },
@@ -28236,7 +28236,7 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 16,
+      "rank": 17,
       "win_point": 48,
       "wins": 11,
       "draws": 15,
@@ -28438,11 +28438,11 @@
       "win_point": 77,
       "wins": 22,
       "draws": 11,
-      "loses": 7,
-      "goals_for": 60,
-      "goals_against": 43,
-      "max_win_point": 83,
-      "matches_left": 2
+      "loses": 8,
+      "goals_for": 62,
+      "goals_against": 46,
+      "max_win_point": 80,
+      "matches_left": 1
     },
     {
       "j_name": "YS横浜",
@@ -28596,15 +28596,15 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 17,
-      "win_point": 48,
-      "wins": 12,
+      "rank": 15,
+      "win_point": 51,
+      "wins": 13,
       "draws": 12,
       "loses": 16,
-      "goals_for": 53,
-      "goals_against": 67,
+      "goals_for": 56,
+      "goals_against": 69,
       "max_win_point": 54,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "清水",
@@ -28848,7 +28848,7 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 15,
+      "rank": 16,
       "win_point": 50,
       "wins": 13,
       "draws": 11,
@@ -29093,7 +29093,7 @@
       "matches_left": 1
     }
   ],
-  "updated_at": "2022-10-16T20:02:03+09:00",
+  "updated_at": "2022-10-16T20:06:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
