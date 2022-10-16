@@ -12357,11 +12357,11 @@
           "date": "10/16(日)",
           "time": "18:30",
           "division": "j2",
-          "score": "3-1",
+          "score": "vs",
           "opponent": "徳島",
-          "goals_for": 1,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "101608"
         },
@@ -14001,11 +14001,11 @@
           "date": "10/16(日)",
           "time": "18:30",
           "division": "j2",
-          "score": "3-1",
+          "score": "vs",
           "opponent": "大宮",
-          "goals_for": 3,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "101608"
         },
@@ -28110,7 +28110,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 7,
+      "rank": 6,
       "win_point": 62,
       "wins": 18,
       "draws": 8,
@@ -28146,7 +28146,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 8,
+      "rank": 7,
       "win_point": 61,
       "wins": 16,
       "draws": 13,
@@ -28294,11 +28294,11 @@
       "win_point": 42,
       "wins": 10,
       "draws": 12,
-      "loses": 19,
-      "goals_for": 45,
-      "goals_against": 61,
-      "max_win_point": 45,
-      "matches_left": 1
+      "loses": 18,
+      "goals_for": 44,
+      "goals_against": 58,
+      "max_win_point": 48,
+      "matches_left": 2
     },
     {
       "j_name": "千葉",
@@ -28884,15 +28884,15 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 6,
-      "win_point": 62,
-      "wins": 13,
+      "rank": 8,
+      "win_point": 59,
+      "wins": 12,
       "draws": 23,
       "loses": 5,
-      "goals_for": 48,
-      "goals_against": 32,
+      "goals_for": 45,
+      "goals_against": 31,
       "max_win_point": 65,
-      "matches_left": 1
+      "matches_left": 2
     },
     {
       "j_name": "愛媛",
@@ -29093,7 +29093,7 @@
       "matches_left": 1
     }
   ],
-  "updated_at": "2022-10-16T20:50:04+09:00",
+  "updated_at": "2022-10-16T21:00:05+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
