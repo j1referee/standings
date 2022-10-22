@@ -3960,13 +3960,13 @@
         {
           "sec": 31,
           "date": "10/22(土)",
-          "time": "16:00",
+          "time": "16:05",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "102211"
         },
@@ -6180,13 +6180,13 @@
         {
           "sec": 31,
           "date": "10/22(土)",
-          "time": "16:00",
+          "time": "16:05",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "清水",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "102211"
         },
@@ -28614,15 +28614,15 @@
       "league": "j1",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 17,
-      "win_point": 32,
+      "rank": 16,
+      "win_point": 33,
       "wins": 7,
-      "draws": 11,
+      "draws": 12,
       "loses": 13,
-      "goals_for": 40,
-      "goals_against": 48,
-      "max_win_point": 41,
-      "matches_left": 3
+      "goals_for": 41,
+      "goals_against": 49,
+      "max_win_point": 39,
+      "matches_left": 2
     },
     {
       "j_name": "磐田",
@@ -28633,14 +28633,14 @@
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
       "rank": 18,
-      "win_point": 28,
+      "win_point": 29,
       "wins": 6,
-      "draws": 10,
+      "draws": 11,
       "loses": 15,
-      "goals_for": 31,
-      "goals_against": 54,
-      "max_win_point": 37,
-      "matches_left": 3
+      "goals_for": 32,
+      "goals_against": 55,
+      "max_win_point": 35,
+      "matches_left": 2
     },
     {
       "j_name": "藤枝",
@@ -28740,7 +28740,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 16,
+      "rank": 17,
       "win_point": 33,
       "wins": 8,
       "draws": 9,
@@ -29093,10 +29093,10 @@
       "matches_left": 1
     }
   ],
-  "updated_at": "2022-10-22T18:30:04+09:00",
+  "updated_at": "2022-10-22T18:32:03+09:00",
   "divisions": {
     "j1": {
-      "safe_point": 41,
+      "safe_point": 40,
       "out_point": 33
     },
     "j2": {
