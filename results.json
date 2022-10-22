@@ -21322,13 +21322,13 @@
         {
           "sec": 30,
           "date": "10/22(土)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "102201"
         },
@@ -23085,13 +23085,13 @@
         {
           "sec": 30,
           "date": "10/22(土)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "102201"
         },
@@ -28651,14 +28651,14 @@
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
       "rank": 2,
-      "win_point": 61,
+      "win_point": 62,
       "wins": 19,
-      "draws": 4,
+      "draws": 5,
       "loses": 6,
-      "goals_for": 53,
-      "goals_against": 25,
-      "max_win_point": 76,
-      "matches_left": 5
+      "goals_for": 54,
+      "goals_against": 26,
+      "max_win_point": 74,
+      "matches_left": 4
     },
     {
       "j_name": "沼津",
@@ -29047,14 +29047,14 @@
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
       "rank": 12,
-      "win_point": 32,
+      "win_point": 33,
       "wins": 8,
-      "draws": 8,
+      "draws": 9,
       "loses": 12,
-      "goals_for": 32,
-      "goals_against": 40,
-      "max_win_point": 50,
-      "matches_left": 6
+      "goals_for": 33,
+      "goals_against": 41,
+      "max_win_point": 48,
+      "matches_left": 5
     },
     {
       "j_name": "鹿児島",
@@ -29093,7 +29093,7 @@
       "matches_left": 1
     }
   ],
-  "updated_at": "2022-10-22T15:20:04+09:00",
+  "updated_at": "2022-10-22T15:30:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 41,
