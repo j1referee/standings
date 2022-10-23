@@ -20880,11 +20880,11 @@
           "date": "10/23(日)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "102315"
         },
@@ -22656,11 +22656,11 @@
           "date": "10/23(日)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "102315"
         },
@@ -28074,7 +28074,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 10,
+      "rank": 11,
       "win_point": 34,
       "wins": 11,
       "draws": 1,
@@ -28672,11 +28672,11 @@
       "win_point": 30,
       "wins": 8,
       "draws": 6,
-      "loses": 15,
-      "goals_for": 23,
-      "goals_against": 37,
-      "max_win_point": 45,
-      "matches_left": 5
+      "loses": 16,
+      "goals_for": 24,
+      "goals_against": 39,
+      "max_win_point": 42,
+      "matches_left": 4
     },
     {
       "j_name": "名古屋",
@@ -28704,15 +28704,15 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 12,
-      "win_point": 33,
-      "wins": 9,
+      "rank": 10,
+      "win_point": 36,
+      "wins": 10,
       "draws": 6,
       "loses": 14,
-      "goals_for": 39,
-      "goals_against": 47,
+      "goals_for": 41,
+      "goals_against": 48,
       "max_win_point": 48,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "京都",
@@ -28956,7 +28956,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 11,
+      "rank": 12,
       "win_point": 33,
       "wins": 9,
       "draws": 6,
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-10-23T17:00:04+09:00"
+  "updated_at": "2022-10-23T21:06:04+09:00"
 }
