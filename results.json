@@ -8534,11 +8534,11 @@
           "date": "10/23(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "金沢",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "102308"
         }
@@ -11820,13 +11820,13 @@
         {
           "sec": 42,
           "date": "10/23(日)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j2",
-          "score": "vs",
+          "score": "3-4",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 3,
+          "point": 3,
           "home": false,
           "mid": "102310"
         }
@@ -14562,11 +14562,11 @@
           "date": "10/23(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "栃木",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "102308"
         }
@@ -15656,13 +15656,13 @@
         {
           "sec": 42,
           "date": "10/23(日)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j2",
-          "score": "vs",
+          "score": "3-4",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "102310"
         }
@@ -21768,11 +21768,11 @@
           "date": "10/23(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "北九州",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "102318"
         },
@@ -26652,11 +26652,11 @@
           "date": "10/23(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "102318"
         },
@@ -28236,15 +28236,15 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 18,
-      "win_point": 48,
+      "rank": 17,
+      "win_point": 49,
       "wins": 11,
-      "draws": 15,
+      "draws": 16,
       "loses": 15,
       "goals_for": 32,
       "goals_against": 40,
-      "max_win_point": 51,
-      "matches_left": 1
+      "max_win_point": 49,
+      "matches_left": 0
     },
     {
       "j_name": "群馬",
@@ -28380,7 +28380,7 @@
       "league": "j2",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 14,
+      "rank": 15,
       "win_point": 51,
       "wins": 14,
       "draws": 9,
@@ -28435,14 +28435,14 @@
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
       "rank": 2,
-      "win_point": 77,
-      "wins": 22,
+      "win_point": 80,
+      "wins": 23,
       "draws": 11,
       "loses": 8,
-      "goals_for": 62,
-      "goals_against": 46,
+      "goals_for": 66,
+      "goals_against": 49,
       "max_win_point": 80,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "YS横浜",
@@ -28506,7 +28506,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 17,
+      "rank": 18,
       "win_point": 48,
       "wins": 11,
       "draws": 15,
@@ -28596,15 +28596,15 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 15,
-      "win_point": 51,
+      "rank": 14,
+      "win_point": 52,
       "wins": 13,
-      "draws": 12,
+      "draws": 13,
       "loses": 16,
       "goals_for": 56,
       "goals_against": 69,
-      "max_win_point": 54,
-      "matches_left": 1
+      "max_win_point": 52,
+      "matches_left": 0
     },
     {
       "j_name": "清水",
@@ -28668,7 +28668,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 14,
+      "rank": 15,
       "win_point": 30,
       "wins": 8,
       "draws": 6,
@@ -28794,15 +28794,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 15,
-      "win_point": 28,
-      "wins": 8,
+      "rank": 14,
+      "win_point": 31,
+      "wins": 9,
       "draws": 4,
       "loses": 17,
-      "goals_for": 42,
-      "goals_against": 52,
+      "goals_for": 45,
+      "goals_against": 54,
       "max_win_point": 43,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "岡山",
@@ -28960,11 +28960,11 @@
       "win_point": 33,
       "wins": 9,
       "draws": 6,
-      "loses": 14,
-      "goals_for": 31,
-      "goals_against": 36,
-      "max_win_point": 48,
-      "matches_left": 5
+      "loses": 15,
+      "goals_for": 33,
+      "goals_against": 39,
+      "max_win_point": 45,
+      "matches_left": 4
     },
     {
       "j_name": "鳥栖",
@@ -29014,11 +29014,11 @@
       "win_point": 67,
       "wins": 18,
       "draws": 13,
-      "loses": 10,
-      "goals_for": 55,
-      "goals_against": 44,
-      "max_win_point": 70,
-      "matches_left": 1
+      "loses": 11,
+      "goals_for": 58,
+      "goals_against": 48,
+      "max_win_point": 67,
+      "matches_left": 0
     },
     {
       "j_name": "大分",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-10-23T16:42:04+09:00"
+  "updated_at": "2022-10-23T16:50:04+09:00"
 }
