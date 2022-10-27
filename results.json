@@ -23100,11 +23100,11 @@
           "date": "10/27(木)",
           "time": "13:30",
           "division": "j3",
-          "score": "3-3",
+          "score": "vs",
           "opponent": "愛媛",
-          "goals_for": 3,
-          "goals_against": 3,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102701"
         },
@@ -27540,11 +27540,11 @@
           "date": "10/27(木)",
           "time": "13:30",
           "division": "j3",
-          "score": "3-3",
+          "score": "vs",
           "opponent": "宮崎",
-          "goals_for": 3,
-          "goals_against": 3,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102701"
         },
@@ -28074,7 +28074,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 12,
+      "rank": 11,
       "win_point": 34,
       "wins": 11,
       "draws": 1,
@@ -28903,14 +28903,14 @@
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
       "rank": 8,
-      "win_point": 44,
+      "win_point": 43,
       "wins": 12,
-      "draws": 8,
+      "draws": 7,
       "loses": 10,
-      "goals_for": 45,
-      "goals_against": 39,
-      "max_win_point": 56,
-      "matches_left": 4
+      "goals_for": 42,
+      "goals_against": 36,
+      "max_win_point": 58,
+      "matches_left": 5
     },
     {
       "j_name": "今治",
@@ -28956,7 +28956,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 13,
+      "rank": 12,
       "win_point": 33,
       "wins": 9,
       "draws": 6,
@@ -29046,15 +29046,15 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 11,
-      "win_point": 34,
+      "rank": 13,
+      "win_point": 33,
       "wins": 8,
-      "draws": 10,
+      "draws": 9,
       "loses": 12,
-      "goals_for": 36,
-      "goals_against": 44,
-      "max_win_point": 46,
-      "matches_left": 4
+      "goals_for": 33,
+      "goals_against": 41,
+      "max_win_point": 48,
+      "matches_left": 5
     },
     {
       "j_name": "鹿児島",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-10-27T15:36:04+09:00"
+  "updated_at": "2022-10-27T15:42:04+09:00"
 }
