@@ -20449,11 +20449,11 @@
           "date": "10/29(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "福島",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102910"
         },
@@ -24445,11 +24445,11 @@
           "date": "10/29(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102910"
         },
@@ -28168,11 +28168,11 @@
       "win_point": 39,
       "wins": 10,
       "draws": 9,
-      "loses": 12,
+      "loses": 11,
       "goals_for": 34,
-      "goals_against": 39,
-      "max_win_point": 48,
-      "matches_left": 3
+      "goals_against": 37,
+      "max_win_point": 51,
+      "matches_left": 4
     },
     {
       "j_name": "いわき",
@@ -28453,14 +28453,14 @@
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
       "rank": 18,
-      "win_point": 24,
-      "wins": 7,
+      "win_point": 21,
+      "wins": 6,
       "draws": 3,
       "loses": 21,
-      "goals_for": 23,
+      "goals_for": 21,
       "goals_against": 61,
       "max_win_point": 33,
-      "matches_left": 3
+      "matches_left": 4
     },
     {
       "j_name": "湘南",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-10-29T15:06:04+09:00"
+  "updated_at": "2022-10-29T15:12:03+09:00"
 }
