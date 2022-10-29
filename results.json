@@ -5751,11 +5751,11 @@
           "date": "10/29(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102909"
         },
@@ -7083,11 +7083,11 @@
           "date": "10/29(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102909"
         },
@@ -28330,11 +28330,11 @@
       "win_point": 47,
       "wins": 13,
       "draws": 8,
-      "loses": 12,
-      "goals_for": 42,
-      "goals_against": 42,
-      "max_win_point": 50,
-      "matches_left": 1
+      "loses": 11,
+      "goals_for": 41,
+      "goals_against": 40,
+      "max_win_point": 53,
+      "matches_left": 2
     },
     {
       "j_name": "FC東京",
@@ -28722,7 +28722,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 16,
+      "rank": 15,
       "win_point": 35,
       "wins": 8,
       "draws": 11,
@@ -28740,7 +28740,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 15,
+      "rank": 14,
       "win_point": 36,
       "wins": 9,
       "draws": 9,
@@ -28938,15 +28938,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 14,
-      "win_point": 37,
-      "wins": 9,
+      "rank": 16,
+      "win_point": 34,
+      "wins": 8,
       "draws": 10,
       "loses": 14,
-      "goals_for": 28,
-      "goals_against": 37,
+      "goals_for": 26,
+      "goals_against": 36,
       "max_win_point": 40,
-      "matches_left": 1
+      "matches_left": 2
     },
     {
       "j_name": "北九州",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-10-29T17:30:04+09:00"
+  "updated_at": "2022-10-29T17:32:03+09:00"
 }
