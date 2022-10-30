@@ -24001,11 +24001,11 @@
           "date": "10/30(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "富山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "103003"
         },
@@ -27997,11 +27997,11 @@
           "date": "10/30(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "103003"
         },
@@ -28578,15 +28578,15 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 5,
+      "rank": 6,
       "win_point": 54,
       "wins": 17,
       "draws": 3,
-      "loses": 10,
-      "goals_for": 45,
-      "goals_against": 37,
-      "max_win_point": 66,
-      "matches_left": 4
+      "loses": 11,
+      "goals_for": 47,
+      "goals_against": 40,
+      "max_win_point": 63,
+      "matches_left": 3
     },
     {
       "j_name": "金沢",
@@ -28920,15 +28920,15 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 6,
-      "win_point": 53,
-      "wins": 16,
+      "rank": 5,
+      "win_point": 56,
+      "wins": 17,
       "draws": 5,
       "loses": 9,
-      "goals_for": 47,
-      "goals_against": 33,
+      "goals_for": 50,
+      "goals_against": 35,
       "max_win_point": 65,
-      "matches_left": 4
+      "matches_left": 3
     },
     {
       "j_name": "福岡",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-10-30T15:32:04+09:00"
+  "updated_at": "2022-10-30T15:36:03+09:00"
 }
