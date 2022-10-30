@@ -20891,13 +20891,13 @@
         {
           "sec": 31,
           "date": "10/30(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "103001"
         },
@@ -22223,13 +22223,13 @@
         {
           "sec": 31,
           "date": "10/30(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "103001"
         },
@@ -25775,13 +25775,13 @@
         {
           "sec": 31,
           "date": "10/30(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "北九州",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "103006"
         },
@@ -26663,13 +26663,13 @@
         {
           "sec": 31,
           "date": "10/30(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "103006"
         },
@@ -28074,7 +28074,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 11,
+      "rank": 12,
       "win_point": 37,
       "wins": 12,
       "draws": 1,
@@ -28489,14 +28489,14 @@
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
       "rank": 17,
-      "win_point": 24,
+      "win_point": 25,
       "wins": 6,
-      "draws": 6,
+      "draws": 7,
       "loses": 18,
       "goals_for": 29,
       "goals_against": 44,
-      "max_win_point": 36,
-      "matches_left": 4
+      "max_win_point": 34,
+      "matches_left": 3
     },
     {
       "j_name": "甲府",
@@ -28704,15 +28704,15 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 12,
-      "win_point": 36,
+      "rank": 10,
+      "win_point": 37,
       "wins": 10,
-      "draws": 6,
+      "draws": 7,
       "loses": 14,
       "goals_for": 41,
       "goals_against": 48,
-      "max_win_point": 48,
-      "matches_left": 4
+      "max_win_point": 46,
+      "matches_left": 3
     },
     {
       "j_name": "京都",
@@ -28867,14 +28867,14 @@
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
       "rank": 16,
-      "win_point": 25,
+      "win_point": 26,
       "wins": 6,
-      "draws": 7,
+      "draws": 8,
       "loses": 17,
-      "goals_for": 24,
-      "goals_against": 42,
-      "max_win_point": 37,
-      "matches_left": 4
+      "goals_for": 26,
+      "goals_against": 44,
+      "max_win_point": 35,
+      "matches_left": 3
     },
     {
       "j_name": "徳島",
@@ -28957,14 +28957,14 @@
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
       "rank": 13,
-      "win_point": 33,
+      "win_point": 34,
       "wins": 9,
-      "draws": 6,
+      "draws": 7,
       "loses": 15,
-      "goals_for": 33,
-      "goals_against": 39,
-      "max_win_point": 45,
-      "matches_left": 4
+      "goals_for": 35,
+      "goals_against": 41,
+      "max_win_point": 43,
+      "matches_left": 3
     },
     {
       "j_name": "鳥栖",
@@ -29046,7 +29046,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 10,
+      "rank": 11,
       "win_point": 37,
       "wins": 9,
       "draws": 10,
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-10-30T16:20:04+09:00"
+  "updated_at": "2022-10-30T16:30:04+09:00"
 }
