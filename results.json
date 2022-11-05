@@ -2654,13 +2654,13 @@
         {
           "sec": 34,
           "date": "11/05(土)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "110503"
         }
@@ -5762,13 +5762,13 @@
         {
           "sec": 34,
           "date": "11/05(土)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "110503"
         }
@@ -28056,7 +28056,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 9,
+      "rank": 10,
       "win_point": 45,
       "wins": 11,
       "draws": 12,
@@ -28272,15 +28272,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 10,
-      "win_point": 44,
+      "rank": 9,
+      "win_point": 45,
       "wins": 10,
-      "draws": 14,
+      "draws": 15,
       "loses": 9,
-      "goals_for": 47,
-      "goals_against": 38,
-      "max_win_point": 47,
-      "matches_left": 1
+      "goals_for": 48,
+      "goals_against": 39,
+      "max_win_point": 45,
+      "matches_left": 0
     },
     {
       "j_name": "大宮",
@@ -28939,14 +28939,14 @@
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
       "rank": 14,
-      "win_point": 37,
+      "win_point": 38,
       "wins": 9,
-      "draws": 10,
+      "draws": 11,
       "loses": 14,
-      "goals_for": 28,
-      "goals_against": 37,
-      "max_win_point": 40,
-      "matches_left": 1
+      "goals_for": 29,
+      "goals_against": 38,
+      "max_win_point": 38,
+      "matches_left": 0
     },
     {
       "j_name": "北九州",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-05T16:50:04+09:00"
+  "updated_at": "2022-11-05T17:00:04+09:00"
 }
