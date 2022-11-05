@@ -2656,11 +2656,11 @@
           "date": "11/05(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110503"
         }
@@ -3988,11 +3988,11 @@
           "date": "11/05(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "4-3",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "110501"
         }
@@ -4432,11 +4432,11 @@
           "date": "11/05(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "4-3",
           "opponent": "清水",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 3,
+          "point": 3,
           "home": true,
           "mid": "110501"
         }
@@ -4876,11 +4876,11 @@
           "date": "11/05(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "110508"
         }
@@ -5764,11 +5764,11 @@
           "date": "11/05(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110503"
         }
@@ -7984,11 +7984,11 @@
           "date": "11/05(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "110508"
         }
@@ -28056,15 +28056,15 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 11,
-      "win_point": 42,
-      "wins": 10,
+      "rank": 9,
+      "win_point": 45,
+      "wins": 11,
       "draws": 12,
       "loses": 11,
-      "goals_for": 41,
-      "goals_against": 52,
+      "goals_for": 45,
+      "goals_against": 55,
       "max_win_point": 45,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "八戸",
@@ -28272,15 +28272,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 9,
-      "win_point": 45,
+      "rank": 10,
+      "win_point": 44,
       "wins": 10,
-      "draws": 15,
+      "draws": 14,
       "loses": 9,
-      "goals_for": 48,
-      "goals_against": 39,
-      "max_win_point": 45,
-      "matches_left": 0
+      "goals_for": 47,
+      "goals_against": 38,
+      "max_win_point": 47,
+      "matches_left": 1
     },
     {
       "j_name": "大宮",
@@ -28398,7 +28398,7 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 1,
+      "rank": 2,
       "win_point": 66,
       "wins": 20,
       "draws": 6,
@@ -28416,15 +28416,15 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 2,
-      "win_point": 65,
-      "wins": 19,
+      "rank": 1,
+      "win_point": 68,
+      "wins": 20,
       "draws": 8,
       "loses": 6,
-      "goals_for": 67,
-      "goals_against": 34,
+      "goals_for": 70,
+      "goals_against": 35,
       "max_win_point": 68,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "横浜FC",
@@ -28618,11 +28618,11 @@
       "win_point": 33,
       "wins": 7,
       "draws": 12,
-      "loses": 14,
-      "goals_for": 41,
-      "goals_against": 50,
-      "max_win_point": 36,
-      "matches_left": 1
+      "loses": 15,
+      "goals_for": 44,
+      "goals_against": 54,
+      "max_win_point": 33,
+      "matches_left": 0
     },
     {
       "j_name": "磐田",
@@ -28780,11 +28780,11 @@
       "win_point": 40,
       "wins": 11,
       "draws": 7,
-      "loses": 15,
-      "goals_for": 34,
-      "goals_against": 38,
-      "max_win_point": 43,
-      "matches_left": 1
+      "loses": 16,
+      "goals_for": 35,
+      "goals_against": 41,
+      "max_win_point": 40,
+      "matches_left": 0
     },
     {
       "j_name": "鳥取",
@@ -28939,14 +28939,14 @@
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
       "rank": 14,
-      "win_point": 38,
+      "win_point": 37,
       "wins": 9,
-      "draws": 11,
+      "draws": 10,
       "loses": 14,
-      "goals_for": 29,
-      "goals_against": 38,
-      "max_win_point": 38,
-      "matches_left": 0
+      "goals_for": 28,
+      "goals_against": 37,
+      "max_win_point": 40,
+      "matches_left": 1
     },
     {
       "j_name": "北九州",
@@ -28974,7 +28974,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 10,
+      "rank": 11,
       "win_point": 42,
       "wins": 9,
       "draws": 15,
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-05T16:32:04+09:00"
+  "updated_at": "2022-11-05T16:36:04+09:00"
 }
