@@ -25790,11 +25790,11 @@
           "date": "11/06(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "愛媛",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110607"
         },
@@ -27566,11 +27566,11 @@
           "date": "11/06(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "讃岐",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110607"
         },
@@ -28452,7 +28452,7 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 17,
+      "rank": 16,
       "win_point": 27,
       "wins": 8,
       "draws": 3,
@@ -28866,15 +28866,15 @@
       "league": "j3",
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
-      "rank": 16,
-      "win_point": 27,
+      "rank": 17,
+      "win_point": 26,
       "wins": 6,
-      "draws": 9,
+      "draws": 8,
       "loses": 17,
-      "goals_for": 27,
-      "goals_against": 45,
-      "max_win_point": 33,
-      "matches_left": 2
+      "goals_for": 26,
+      "goals_against": 44,
+      "max_win_point": 35,
+      "matches_left": 3
     },
     {
       "j_name": "徳島",
@@ -28903,14 +28903,14 @@
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
       "rank": 8,
-      "win_point": 48,
+      "win_point": 47,
       "wins": 13,
-      "draws": 9,
+      "draws": 8,
       "loses": 10,
-      "goals_for": 47,
-      "goals_against": 40,
-      "max_win_point": 54,
-      "matches_left": 2
+      "goals_for": 46,
+      "goals_against": 39,
+      "max_win_point": 56,
+      "matches_left": 3
     },
     {
       "j_name": "今治",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-06T17:00:04+09:00"
+  "updated_at": "2022-11-06T17:02:04+09:00"
 }
