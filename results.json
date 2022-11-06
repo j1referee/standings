@@ -26234,11 +26234,11 @@
           "date": "11/06(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "4-3",
+          "score": "vs",
           "opponent": "富山",
-          "goals_for": 3,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110605"
         },
@@ -28010,11 +28010,11 @@
           "date": "11/06(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "4-3",
+          "score": "vs",
           "opponent": "松本",
-          "goals_for": 4,
-          "goals_against": 3,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110605"
         },
@@ -28528,11 +28528,11 @@
       "win_point": 63,
       "wins": 19,
       "draws": 6,
-      "loses": 7,
-      "goals_for": 44,
-      "goals_against": 29,
-      "max_win_point": 69,
-      "matches_left": 2
+      "loses": 6,
+      "goals_for": 41,
+      "goals_against": 25,
+      "max_win_point": 72,
+      "matches_left": 3
     },
     {
       "j_name": "長野",
@@ -28579,14 +28579,14 @@
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
       "rank": 6,
-      "win_point": 57,
-      "wins": 18,
+      "win_point": 54,
+      "wins": 17,
       "draws": 3,
       "loses": 11,
-      "goals_for": 51,
-      "goals_against": 43,
+      "goals_for": 47,
+      "goals_against": 40,
       "max_win_point": 63,
-      "matches_left": 2
+      "matches_left": 3
     },
     {
       "j_name": "金沢",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-06T16:36:04+09:00"
+  "updated_at": "2022-11-06T16:42:03+09:00"
 }
