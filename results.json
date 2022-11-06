@@ -20462,11 +20462,11 @@
           "date": "11/06(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "八戸",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110601"
         },
@@ -21792,7 +21792,7 @@
         {
           "sec": 32,
           "date": "11/06(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "長野",
@@ -23570,11 +23570,11 @@
           "date": "11/06(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110601"
         },
@@ -24902,11 +24902,11 @@
           "date": "11/06(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "3-0",
+          "score": "vs",
           "opponent": "いわき",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110603"
         },
@@ -25346,11 +25346,11 @@
           "date": "11/06(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "3-0",
+          "score": "vs",
           "opponent": "鹿児島",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110603"
         },
@@ -27120,7 +27120,7 @@
         {
           "sec": 32,
           "date": "11/06(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "鳥取",
@@ -28078,11 +28078,11 @@
       "win_point": 37,
       "wins": 12,
       "draws": 1,
-      "loses": 19,
+      "loses": 18,
       "goals_for": 29,
-      "goals_against": 45,
-      "max_win_point": 43,
-      "matches_left": 2
+      "goals_against": 44,
+      "max_win_point": 46,
+      "matches_left": 3
     },
     {
       "j_name": "岩手",
@@ -28183,14 +28183,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 1,
-      "win_point": 72,
-      "wins": 22,
+      "win_point": 69,
+      "wins": 21,
       "draws": 6,
       "loses": 4,
-      "goals_for": 69,
+      "goals_for": 66,
       "goals_against": 21,
       "max_win_point": 78,
-      "matches_left": 2
+      "matches_left": 3
     },
     {
       "j_name": "鹿島",
@@ -28452,15 +28452,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 16,
-      "win_point": 27,
-      "wins": 8,
+      "rank": 18,
+      "win_point": 24,
+      "wins": 7,
       "draws": 3,
       "loses": 21,
-      "goals_for": 24,
+      "goals_for": 23,
       "goals_against": 61,
       "max_win_point": 33,
-      "matches_left": 2
+      "matches_left": 3
     },
     {
       "j_name": "湘南",
@@ -28488,7 +28488,7 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 18,
+      "rank": 17,
       "win_point": 25,
       "wins": 6,
       "draws": 7,
@@ -28866,7 +28866,7 @@
       "league": "j3",
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
-      "rank": 17,
+      "rank": 16,
       "win_point": 26,
       "wins": 6,
       "draws": 8,
@@ -29068,11 +29068,11 @@
       "win_point": 60,
       "wins": 19,
       "draws": 3,
-      "loses": 10,
+      "loses": 9,
       "goals_for": 50,
-      "goals_against": 37,
-      "max_win_point": 66,
-      "matches_left": 2
+      "goals_against": 34,
+      "max_win_point": 69,
+      "matches_left": 3
     },
     {
       "j_name": "琉球",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-06T15:30:05+09:00"
+  "updated_at": "2022-11-06T15:32:04+09:00"
 }
