@@ -23581,13 +23581,13 @@
         {
           "sec": 33,
           "date": "11/13(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "111303"
         },
@@ -25801,13 +25801,13 @@
         {
           "sec": 33,
           "date": "11/13(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "111303"
         },
@@ -26689,7 +26689,7 @@
         {
           "sec": 33,
           "date": "11/13(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "富山",
@@ -28021,7 +28021,7 @@
         {
           "sec": 33,
           "date": "11/13(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "北九州",
@@ -28074,15 +28074,15 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 14,
-      "win_point": 37,
-      "wins": 12,
+      "rank": 11,
+      "win_point": 40,
+      "wins": 13,
       "draws": 1,
       "loses": 19,
-      "goals_for": 29,
+      "goals_for": 30,
       "goals_against": 45,
       "max_win_point": 43,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "岩手",
@@ -28704,7 +28704,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 13,
+      "rank": 14,
       "win_point": 37,
       "wins": 10,
       "draws": 7,
@@ -28794,7 +28794,7 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 11,
+      "rank": 12,
       "win_point": 38,
       "wins": 11,
       "draws": 5,
@@ -28870,11 +28870,11 @@
       "win_point": 27,
       "wins": 6,
       "draws": 9,
-      "loses": 17,
+      "loses": 18,
       "goals_for": 27,
-      "goals_against": 45,
-      "max_win_point": 33,
-      "matches_left": 2
+      "goals_against": 46,
+      "max_win_point": 30,
+      "matches_left": 1
     },
     {
       "j_name": "徳島",
@@ -28956,7 +28956,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 12,
+      "rank": 13,
       "win_point": 37,
       "wins": 10,
       "draws": 7,
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-13T16:20:04+09:00"
+  "updated_at": "2022-11-13T16:30:04+09:00"
 }
