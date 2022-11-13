@@ -20919,11 +20919,11 @@
           "date": "11/13(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "鹿児島",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "111307"
         },
@@ -21361,13 +21361,13 @@
         {
           "sec": 33,
           "date": "11/13(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "福島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "111302"
         },
@@ -23137,7 +23137,7 @@
         {
           "sec": 33,
           "date": "11/13(日)",
-          "time": "13:05",
+          "time": "13:08",
           "division": "j3",
           "score": "4-1",
           "opponent": "松本",
@@ -24469,13 +24469,13 @@
         {
           "sec": 33,
           "date": "11/13(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "111302"
         },
@@ -24915,11 +24915,11 @@
           "date": "11/13(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "岐阜",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "111307"
         },
@@ -26245,7 +26245,7 @@
         {
           "sec": 33,
           "date": "11/13(日)",
-          "time": "13:05",
+          "time": "13:08",
           "division": "j3",
           "score": "4-1",
           "opponent": "宮崎",
@@ -28168,11 +28168,11 @@
       "win_point": 42,
       "wins": 11,
       "draws": 9,
-      "loses": 12,
-      "goals_for": 36,
-      "goals_against": 39,
-      "max_win_point": 48,
-      "matches_left": 2
+      "loses": 13,
+      "goals_for": 37,
+      "goals_against": 42,
+      "max_win_point": 45,
+      "matches_left": 1
     },
     {
       "j_name": "いわき",
@@ -28524,7 +28524,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 4,
+      "rank": 3,
       "win_point": 63,
       "wins": 19,
       "draws": 6,
@@ -28651,14 +28651,14 @@
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
       "rank": 2,
-      "win_point": 63,
-      "wins": 19,
+      "win_point": 66,
+      "wins": 20,
       "draws": 6,
       "loses": 7,
-      "goals_for": 55,
-      "goals_against": 28,
+      "goals_for": 58,
+      "goals_against": 29,
       "max_win_point": 69,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "沼津",
@@ -28708,11 +28708,11 @@
       "win_point": 37,
       "wins": 10,
       "draws": 7,
-      "loses": 16,
+      "loses": 15,
       "goals_for": 42,
-      "goals_against": 51,
-      "max_win_point": 40,
-      "matches_left": 1
+      "goals_against": 50,
+      "max_win_point": 43,
+      "matches_left": 2
     },
     {
       "j_name": "京都",
@@ -28920,7 +28920,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 5,
+      "rank": 4,
       "win_point": 60,
       "wins": 18,
       "draws": 6,
@@ -29064,15 +29064,15 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 3,
-      "win_point": 63,
-      "wins": 20,
+      "rank": 5,
+      "win_point": 60,
+      "wins": 19,
       "draws": 3,
       "loses": 10,
-      "goals_for": 51,
+      "goals_for": 50,
       "goals_against": 37,
       "max_win_point": 66,
-      "matches_left": 1
+      "matches_left": 2
     },
     {
       "j_name": "琉球",
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-13T15:32:04+09:00"
+  "updated_at": "2022-11-13T15:36:04+09:00"
 }
