@@ -20486,7 +20486,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-1",
           "opponent": "いわき",
@@ -20930,7 +20930,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "北九州",
@@ -21374,7 +21374,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "0-0",
           "opponent": "長野",
@@ -21820,11 +21820,11 @@
           "date": "11/20(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "3-0",
+          "score": "vs",
           "opponent": "讃岐",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "112009"
         }
@@ -22262,7 +22262,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-0",
           "opponent": "松本",
@@ -22706,7 +22706,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "宮崎",
@@ -23150,7 +23150,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "沼津",
@@ -23594,7 +23594,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "2-1",
           "opponent": "今治",
@@ -24038,7 +24038,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "2-1",
           "opponent": "八戸",
@@ -24482,7 +24482,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "0-3",
           "opponent": "愛媛",
@@ -24926,7 +24926,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "2-4",
           "opponent": "富山",
@@ -25370,7 +25370,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-1",
           "opponent": "YS横浜",
@@ -25816,11 +25816,11 @@
           "date": "11/20(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "3-0",
+          "score": "vs",
           "opponent": "鳥取",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "112009"
         }
@@ -26258,7 +26258,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-0",
           "opponent": "相模原",
@@ -26702,7 +26702,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "岐阜",
@@ -27146,7 +27146,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "0-0",
           "opponent": "藤枝",
@@ -27590,7 +27590,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "0-3",
           "opponent": "福島",
@@ -28034,7 +28034,7 @@
         {
           "sec": 34,
           "date": "11/20(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "2-4",
           "opponent": "鹿児島",
@@ -28794,15 +28794,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 12,
-      "win_point": 41,
-      "wins": 12,
+      "rank": 13,
+      "win_point": 38,
+      "wins": 11,
       "draws": 5,
       "loses": 17,
-      "goals_for": 55,
+      "goals_for": 52,
       "goals_against": 56,
       "max_win_point": 41,
-      "matches_left": 0
+      "matches_left": 1
     },
     {
       "j_name": "岡山",
@@ -28870,11 +28870,11 @@
       "win_point": 27,
       "wins": 6,
       "draws": 9,
-      "loses": 19,
+      "loses": 18,
       "goals_for": 27,
-      "goals_against": 49,
-      "max_win_point": 27,
-      "matches_left": 0
+      "goals_against": 46,
+      "max_win_point": 30,
+      "matches_left": 1
     },
     {
       "j_name": "徳島",
@@ -28956,7 +28956,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 13,
+      "rank": 12,
       "win_point": 40,
       "wins": 11,
       "draws": 7,
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-20T16:30:05+09:00"
+  "updated_at": "2022-11-20T16:32:04+09:00"
 }
