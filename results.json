@@ -21820,11 +21820,11 @@
           "date": "11/20(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "112009"
         }
@@ -25816,11 +25816,11 @@
           "date": "11/20(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "112009"
         }
@@ -28794,15 +28794,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 13,
-      "win_point": 38,
-      "wins": 11,
+      "rank": 12,
+      "win_point": 41,
+      "wins": 12,
       "draws": 5,
       "loses": 17,
-      "goals_for": 52,
+      "goals_for": 55,
       "goals_against": 56,
       "max_win_point": 41,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "岡山",
@@ -28870,11 +28870,11 @@
       "win_point": 27,
       "wins": 6,
       "draws": 9,
-      "loses": 18,
+      "loses": 19,
       "goals_for": 27,
-      "goals_against": 46,
-      "max_win_point": 30,
-      "matches_left": 1
+      "goals_against": 49,
+      "max_win_point": 27,
+      "matches_left": 0
     },
     {
       "j_name": "徳島",
@@ -28956,7 +28956,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 12,
+      "rank": 13,
       "win_point": 40,
       "wins": 11,
       "draws": 7,
@@ -29093,5 +29093,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2022-11-20T16:42:04+09:00"
+  "updated_at": "2022-11-20T16:50:04+09:00"
 }
