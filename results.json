@@ -6223,11 +6223,11 @@
           "date": "02/18(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "G大阪",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "021807"
         },
@@ -6667,11 +6667,11 @@
           "date": "02/18(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "021807"
         },
@@ -29964,7 +29964,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 11,
+      "rank": 9,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
@@ -30234,15 +30234,15 @@
       "league": "j1",
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
-      "rank": 8,
-      "win_point": 1,
+      "rank": 10,
+      "win_point": 0,
       "wins": 0,
-      "draws": 1,
+      "draws": 0,
       "loses": 0,
-      "goals_for": 2,
-      "goals_against": 2,
-      "max_win_point": 100,
-      "matches_left": 33
+      "goals_for": 0,
+      "goals_against": 0,
+      "max_win_point": 102,
+      "matches_left": 34
     },
     {
       "j_name": "FC東京",
@@ -30648,15 +30648,15 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 9,
-      "win_point": 1,
+      "rank": 11,
+      "win_point": 0,
       "wins": 0,
-      "draws": 1,
+      "draws": 0,
       "loses": 0,
-      "goals_for": 2,
-      "goals_against": 2,
-      "max_win_point": 100,
-      "matches_left": 33
+      "goals_for": 0,
+      "goals_against": 0,
+      "max_win_point": 102,
+      "matches_left": 34
     },
     {
       "j_name": "C大阪",
@@ -30774,7 +30774,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 10,
+      "rank": 8,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
@@ -31037,5 +31037,5 @@
       "matches_left": 38
     }
   ],
-  "updated_at": "2023-02-18T17:02:04+09:00"
+  "updated_at": "2023-02-18T17:06:04+09:00"
 }
