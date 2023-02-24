@@ -906,13 +906,13 @@
         {
           "sec": 2,
           "date": "02/24(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "022401"
         },
@@ -7566,13 +7566,13 @@
         {
           "sec": 2,
           "date": "02/24(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "022401"
         },
@@ -30306,7 +30306,7 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 13,
+      "rank": 14,
       "win_point": 0,
       "wins": 0,
       "draws": 0,
@@ -30342,15 +30342,15 @@
       "league": "j1",
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
-      "rank": 14,
-      "win_point": 0,
+      "rank": 13,
+      "win_point": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "loses": 1,
-      "goals_for": 0,
-      "goals_against": 1,
-      "max_win_point": 99,
-      "matches_left": 33
+      "goals_for": 2,
+      "goals_against": 3,
+      "max_win_point": 97,
+      "matches_left": 32
     },
     {
       "j_name": "YS横浜",
@@ -30379,14 +30379,14 @@
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
       "rank": 1,
-      "win_point": 3,
+      "win_point": 4,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "loses": 0,
-      "goals_for": 5,
-      "goals_against": 1,
-      "max_win_point": 102,
-      "matches_left": 33
+      "goals_for": 7,
+      "goals_against": 3,
+      "max_win_point": 100,
+      "matches_left": 32
     },
     {
       "j_name": "相模原",
@@ -31037,5 +31037,5 @@
       "matches_left": 38
     }
   ],
-  "updated_at": "2023-02-24T21:30:04+09:00"
+  "updated_at": "2023-02-24T21:32:04+09:00"
 }
