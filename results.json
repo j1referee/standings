@@ -10204,13 +10204,13 @@
         {
           "sec": 2,
           "date": "02/25(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "022510"
         },
@@ -12944,13 +12944,13 @@
         {
           "sec": 2,
           "date": "02/25(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "長崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "022510"
         },
@@ -30559,14 +30559,14 @@
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
       "rank": 2,
-      "win_point": 3,
-      "wins": 1,
+      "win_point": 6,
+      "wins": 2,
       "draws": 0,
       "loses": 0,
-      "goals_for": 3,
+      "goals_for": 5,
       "goals_against": 2,
       "max_win_point": 126,
-      "matches_left": 41
+      "matches_left": 40
     },
     {
       "j_name": "沼津",
@@ -30940,11 +30940,11 @@
       "win_point": 0,
       "wins": 0,
       "draws": 0,
-      "loses": 1,
+      "loses": 2,
       "goals_for": 0,
-      "goals_against": 1,
-      "max_win_point": 123,
-      "matches_left": 41
+      "goals_against": 3,
+      "max_win_point": 120,
+      "matches_left": 40
     },
     {
       "j_name": "熊本",
@@ -31037,5 +31037,5 @@
       "matches_left": 38
     }
   ],
-  "updated_at": "2023-02-25T16:32:04+09:00"
+  "updated_at": "2023-02-25T16:36:04+09:00"
 }
