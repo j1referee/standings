@@ -4904,11 +4904,11 @@
           "date": "02/25(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "022504"
         },
@@ -5348,11 +5348,11 @@
           "date": "02/25(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "022504"
         },
@@ -30306,7 +30306,7 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 14,
+      "rank": 15,
       "win_point": 0,
       "wins": 0,
       "draws": 0,
@@ -30342,7 +30342,7 @@
       "league": "j1",
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
-      "rank": 13,
+      "rank": 14,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
@@ -30666,15 +30666,15 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 7,
+      "rank": 13,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
-      "loses": 0,
-      "goals_for": 2,
-      "goals_against": 2,
-      "max_win_point": 100,
-      "matches_left": 33
+      "loses": 1,
+      "goals_for": 3,
+      "goals_against": 4,
+      "max_win_point": 97,
+      "matches_left": 32
     },
     {
       "j_name": "FC大阪",
@@ -30882,15 +30882,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 15,
-      "win_point": 0,
-      "wins": 0,
+      "rank": 7,
+      "win_point": 3,
+      "wins": 1,
       "draws": 0,
       "loses": 1,
-      "goals_for": 0,
-      "goals_against": 1,
+      "goals_for": 2,
+      "goals_against": 2,
       "max_win_point": 99,
-      "matches_left": 33
+      "matches_left": 32
     },
     {
       "j_name": "北九州",
@@ -31037,5 +31037,5 @@
       "matches_left": 38
     }
   ],
-  "updated_at": "2023-02-25T16:36:04+09:00"
+  "updated_at": "2023-02-25T17:00:05+09:00"
 }
