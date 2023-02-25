@@ -18,7 +18,7 @@
         {
           "sec": 2,
           "date": "02/25(土)",
-          "time": "16:00",
+          "time": "16:03",
           "division": "j1",
           "score": "1-2",
           "opponent": "鹿島",
@@ -1350,13 +1350,13 @@
         {
           "sec": 2,
           "date": "02/25(土)",
-          "time": "16:00",
+          "time": "16:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "京都",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "022506"
         },
@@ -1794,13 +1794,13 @@
         {
           "sec": 2,
           "date": "02/25(土)",
-          "time": "16:00",
+          "time": "16:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "022506"
         },
@@ -2238,7 +2238,7 @@
         {
           "sec": 2,
           "date": "02/25(土)",
-          "time": "16:00",
+          "time": "16:03",
           "division": "j1",
           "score": "1-2",
           "opponent": "川崎F",
@@ -30108,7 +30108,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 5,
+      "rank": 6,
       "win_point": 3,
       "wins": 1,
       "draws": 0,
@@ -30252,7 +30252,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 4,
+      "rank": 5,
       "win_point": 3,
       "wins": 1,
       "draws": 0,
@@ -30378,7 +30378,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 3,
+      "rank": 4,
       "win_point": 4,
       "wins": 1,
       "draws": 1,
@@ -30594,15 +30594,15 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 6,
-      "win_point": 3,
-      "wins": 1,
+      "rank": 3,
+      "win_point": 6,
+      "wins": 2,
       "draws": 0,
       "loses": 0,
-      "goals_for": 1,
+      "goals_for": 2,
       "goals_against": 0,
       "max_win_point": 102,
-      "matches_left": 33
+      "matches_left": 32
     },
     {
       "j_name": "岐阜",
@@ -30634,11 +30634,11 @@
       "win_point": 0,
       "wins": 0,
       "draws": 0,
-      "loses": 1,
+      "loses": 2,
       "goals_for": 0,
-      "goals_against": 2,
-      "max_win_point": 99,
-      "matches_left": 33
+      "goals_against": 3,
+      "max_win_point": 96,
+      "matches_left": 32
     },
     {
       "j_name": "G大阪",
@@ -31037,5 +31037,5 @@
       "matches_left": 38
     }
   ],
-  "updated_at": "2023-02-25T18:20:04+09:00"
+  "updated_at": "2023-02-25T18:30:05+09:00"
 }
