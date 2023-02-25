@@ -8014,11 +8014,11 @@
           "date": "02/25(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "徳島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "022507"
         },
@@ -15686,11 +15686,11 @@
           "date": "02/25(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "022507"
         },
@@ -30090,7 +30090,7 @@
       "league": "j2",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 16,
+      "rank": 18,
       "win_point": 0,
       "wins": 0,
       "draws": 0,
@@ -30414,15 +30414,15 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 18,
-      "win_point": 0,
+      "rank": 16,
+      "win_point": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "loses": 1,
-      "goals_for": 1,
-      "goals_against": 2,
-      "max_win_point": 123,
-      "matches_left": 41
+      "goals_for": 2,
+      "goals_against": 3,
+      "max_win_point": 121,
+      "matches_left": 40
     },
     {
       "j_name": "松本",
@@ -30540,7 +30540,7 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 17,
+      "rank": 19,
       "win_point": 0,
       "wins": 0,
       "draws": 0,
@@ -30828,15 +30828,15 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 19,
-      "win_point": 0,
+      "rank": 17,
+      "win_point": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "loses": 1,
-      "goals_for": 1,
-      "goals_against": 2,
-      "max_win_point": 123,
-      "matches_left": 41
+      "goals_for": 2,
+      "goals_against": 3,
+      "max_win_point": 121,
+      "matches_left": 40
     },
     {
       "j_name": "愛媛",
@@ -31037,5 +31037,5 @@
       "matches_left": 38
     }
   ],
-  "updated_at": "2023-02-24T21:32:04+09:00"
+  "updated_at": "2023-02-25T15:02:04+09:00"
 }
