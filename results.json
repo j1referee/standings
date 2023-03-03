@@ -477,11 +477,11 @@
           "date": "03/03(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "広島",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "030301"
         },
@@ -2697,11 +2697,11 @@
           "date": "03/03(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "横浜FM",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "030301"
         },
@@ -30325,14 +30325,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 1,
-      "win_point": 7,
+      "win_point": 6,
       "wins": 2,
-      "draws": 1,
+      "draws": 0,
       "loses": 0,
-      "goals_for": 5,
-      "goals_against": 2,
-      "max_win_point": 100,
-      "matches_left": 31
+      "goals_for": 4,
+      "goals_against": 1,
+      "max_win_point": 102,
+      "matches_left": 32
     },
     {
       "j_name": "横浜FC",
@@ -30342,7 +30342,7 @@
       "league": "j1",
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
-      "rank": 14,
+      "rank": 13,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
@@ -30666,7 +30666,7 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 13,
+      "rank": 12,
       "win_point": 1,
       "wins": 0,
       "draws": 1,
@@ -30774,15 +30774,15 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 12,
-      "win_point": 2,
+      "rank": 14,
+      "win_point": 1,
       "wins": 0,
-      "draws": 2,
+      "draws": 1,
       "loses": 1,
-      "goals_for": 2,
-      "goals_against": 3,
-      "max_win_point": 95,
-      "matches_left": 31
+      "goals_for": 1,
+      "goals_against": 2,
+      "max_win_point": 97,
+      "matches_left": 32
     },
     {
       "j_name": "山口",
@@ -31037,5 +31037,5 @@
       "matches_left": 38
     }
   ],
-  "updated_at": "2023-03-03T21:00:04+09:00"
+  "updated_at": "2023-03-03T21:02:03+09:00"
 }
