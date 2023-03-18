@@ -59,11 +59,11 @@
           "date": "03/18(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "031807"
         },
@@ -5387,11 +5387,11 @@
           "date": "03/18(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "031807"
         },
@@ -30307,14 +30307,14 @@
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
       "rank": 14,
-      "win_point": 4,
+      "win_point": 5,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "loses": 2,
       "goals_for": 4,
       "goals_against": 5,
-      "max_win_point": 94,
-      "matches_left": 30
+      "max_win_point": 92,
+      "matches_left": 29
     },
     {
       "j_name": "横浜FM",
@@ -30667,14 +30667,14 @@
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
       "rank": 13,
-      "win_point": 4,
+      "win_point": 5,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "loses": 2,
       "goals_for": 6,
       "goals_against": 7,
-      "max_win_point": 94,
-      "matches_left": 30
+      "max_win_point": 92,
+      "matches_left": 29
     },
     {
       "j_name": "FC大阪",
@@ -31037,5 +31037,5 @@
       "matches_left": 36
     }
   ],
-  "updated_at": "2023-03-18T18:12:04+09:00"
+  "updated_at": "2023-03-18T18:16:03+09:00"
 }
