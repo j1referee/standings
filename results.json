@@ -3165,7 +3165,7 @@
         {
           "sec": 5,
           "date": "03/18(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "2-2",
           "opponent": "G大阪",
@@ -4055,11 +4055,11 @@
           "date": "03/18(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "新潟",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "031804"
         },
@@ -4497,7 +4497,7 @@
         {
           "sec": 5,
           "date": "03/18(土)",
-          "time": "15:00",
+          "time": "15:04",
           "division": "j1",
           "score": "0-1",
           "opponent": "鳥栖",
@@ -5831,11 +5831,11 @@
           "date": "03/18(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "031804"
         },
@@ -6717,7 +6717,7 @@
         {
           "sec": 5,
           "date": "03/18(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "2-2",
           "opponent": "札幌",
@@ -7161,7 +7161,7 @@
         {
           "sec": 5,
           "date": "03/18(土)",
-          "time": "15:00",
+          "time": "15:04",
           "division": "j1",
           "score": "0-1",
           "opponent": "神戸",
@@ -21065,7 +21065,7 @@
         {
           "sec": 3,
           "date": "03/18(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "1-0",
           "opponent": "岐阜",
@@ -27503,7 +27503,7 @@
         {
           "sec": 3,
           "date": "03/18(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "1-0",
           "opponent": "鹿児島",
@@ -29964,7 +29964,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 10,
+      "rank": 9,
       "win_point": 6,
       "wins": 1,
       "draws": 3,
@@ -30108,7 +30108,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 8,
+      "rank": 7,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -30180,15 +30180,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 5,
-      "win_point": 9,
-      "wins": 3,
+      "rank": 10,
+      "win_point": 6,
+      "wins": 2,
       "draws": 0,
       "loses": 2,
-      "goals_for": 5,
-      "goals_against": 6,
+      "goals_for": 3,
+      "goals_against": 5,
       "max_win_point": 96,
-      "matches_left": 29
+      "matches_left": 30
     },
     {
       "j_name": "大宮",
@@ -30468,15 +30468,15 @@
       "league": "j1",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 7,
+      "rank": 5,
       "win_point": 8,
       "wins": 2,
       "draws": 2,
-      "loses": 1,
-      "goals_for": 8,
-      "goals_against": 7,
-      "max_win_point": 95,
-      "matches_left": 29
+      "loses": 0,
+      "goals_for": 7,
+      "goals_against": 5,
+      "max_win_point": 98,
+      "matches_left": 30
     },
     {
       "j_name": "富山",
@@ -30882,7 +30882,7 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 9,
+      "rank": 8,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -31037,5 +31037,5 @@
       "matches_left": 36
     }
   ],
-  "updated_at": "2023-03-18T17:16:04+09:00"
+  "updated_at": "2023-03-18T17:20:04+09:00"
 }
