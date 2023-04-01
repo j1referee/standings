@@ -516,11 +516,11 @@
           "date": "04/01(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "C大阪",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "040107"
         },
@@ -5400,11 +5400,11 @@
           "date": "04/01(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "横浜FM",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "040107"
         },
@@ -29974,7 +29974,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 14,
+      "rank": 13,
       "win_point": 6,
       "wins": 1,
       "draws": 3,
@@ -30118,7 +30118,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 12,
+      "rank": 11,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -30338,11 +30338,11 @@
       "win_point": 10,
       "wins": 3,
       "draws": 1,
-      "loses": 2,
-      "goals_for": 8,
-      "goals_against": 7,
-      "max_win_point": 94,
-      "matches_left": 28
+      "loses": 1,
+      "goals_for": 7,
+      "goals_against": 5,
+      "max_win_point": 97,
+      "matches_left": 29
     },
     {
       "j_name": "横浜FC",
@@ -30478,7 +30478,7 @@
       "league": "j1",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 11,
+      "rank": 10,
       "win_point": 8,
       "wins": 2,
       "draws": 2,
@@ -30676,15 +30676,15 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 10,
-      "win_point": 8,
-      "wins": 2,
+      "rank": 14,
+      "win_point": 5,
+      "wins": 1,
       "draws": 2,
       "loses": 2,
-      "goals_for": 8,
-      "goals_against": 8,
+      "goals_for": 6,
+      "goals_against": 7,
       "max_win_point": 92,
-      "matches_left": 28
+      "matches_left": 29
     },
     {
       "j_name": "FC大阪",
@@ -30928,7 +30928,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 13,
+      "rank": 12,
       "win_point": 7,
       "wins": 2,
       "draws": 1,
@@ -31047,5 +31047,5 @@
       "matches_left": 33
     }
   ],
-  "updated_at": "2023-04-01T18:00:04+09:00"
+  "updated_at": "2023-04-01T18:02:03+09:00"
 }
