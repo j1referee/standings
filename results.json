@@ -20618,13 +20618,13 @@
         {
           "sec": 6,
           "date": "04/09(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "3-3",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 3,
+          "point": 1,
           "home": true,
           "mid": "040911"
         },
@@ -22592,13 +22592,13 @@
         {
           "sec": 6,
           "date": "04/09(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "3-3",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 3,
+          "point": 1,
           "home": false,
           "mid": "040911"
         },
@@ -29992,15 +29992,15 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 10,
-      "win_point": 8,
+      "rank": 8,
+      "win_point": 9,
       "wins": 2,
-      "draws": 2,
+      "draws": 3,
       "loses": 1,
-      "goals_for": 4,
-      "goals_against": 3,
-      "max_win_point": 107,
-      "matches_left": 33
+      "goals_for": 7,
+      "goals_against": 6,
+      "max_win_point": 105,
+      "matches_left": 32
     },
     {
       "j_name": "岩手",
@@ -30622,7 +30622,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 9,
+      "rank": 10,
       "win_point": 8,
       "wins": 2,
       "draws": 2,
@@ -30748,15 +30748,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 8,
-      "win_point": 8,
+      "rank": 7,
+      "win_point": 9,
       "wins": 2,
-      "draws": 2,
+      "draws": 3,
       "loses": 1,
-      "goals_for": 10,
-      "goals_against": 8,
-      "max_win_point": 107,
-      "matches_left": 33
+      "goals_for": 13,
+      "goals_against": 11,
+      "max_win_point": 105,
+      "matches_left": 32
     },
     {
       "j_name": "岡山",
@@ -30874,7 +30874,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 7,
+      "rank": 9,
       "win_point": 9,
       "wins": 2,
       "draws": 3,
@@ -31047,5 +31047,5 @@
       "matches_left": 32
     }
   ],
-  "updated_at": "2023-04-09T15:42:04+09:00"
+  "updated_at": "2023-04-09T15:50:04+09:00"
 }
