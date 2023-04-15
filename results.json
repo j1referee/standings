@@ -3650,11 +3650,11 @@
           "date": "04/15(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "C大阪",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "041507"
         },
@@ -5426,11 +5426,11 @@
           "date": "04/15(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "FC東京",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "041507"
         },
@@ -29974,7 +29974,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 12,
+      "rank": 11,
       "win_point": 9,
       "wins": 2,
       "draws": 3,
@@ -30262,15 +30262,15 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 11,
+      "rank": 10,
       "win_point": 9,
       "wins": 2,
       "draws": 3,
-      "loses": 3,
-      "goals_for": 9,
-      "goals_against": 9,
-      "max_win_point": 87,
-      "matches_left": 26
+      "loses": 2,
+      "goals_for": 8,
+      "goals_against": 7,
+      "max_win_point": 90,
+      "matches_left": 27
     },
     {
       "j_name": "東京V",
@@ -30388,7 +30388,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 10,
+      "rank": 9,
       "win_point": 10,
       "wins": 2,
       "draws": 4,
@@ -30676,15 +30676,15 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 9,
-      "win_point": 11,
-      "wins": 3,
+      "rank": 12,
+      "win_point": 8,
+      "wins": 2,
       "draws": 2,
       "loses": 3,
-      "goals_for": 12,
-      "goals_against": 12,
+      "goals_for": 10,
+      "goals_against": 11,
       "max_win_point": 89,
-      "matches_left": 26
+      "matches_left": 27
     },
     {
       "j_name": "FC大阪",
@@ -31047,5 +31047,5 @@
       "matches_left": 32
     }
   ],
-  "updated_at": "2023-04-15T18:30:04+09:00"
+  "updated_at": "2023-04-15T18:32:04+09:00"
 }
