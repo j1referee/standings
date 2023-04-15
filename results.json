@@ -20633,11 +20633,11 @@
           "date": "04/15(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "福島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "041510"
         },
@@ -26575,11 +26575,11 @@
           "date": "04/15(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "041510"
         },
@@ -30082,15 +30082,15 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 19,
-      "win_point": 4,
+      "rank": 18,
+      "win_point": 5,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "loses": 4,
       "goals_for": 3,
       "goals_against": 7,
-      "max_win_point": 100,
-      "matches_left": 32
+      "max_win_point": 98,
+      "matches_left": 31
     },
     {
       "j_name": "いわき",
@@ -30712,7 +30712,7 @@
       "league": "j3",
       "hash_tag": "#naraclub",
       "full_name": "奈良クラブ",
-      "rank": 7,
+      "rank": 8,
       "win_point": 9,
       "wins": 2,
       "draws": 3,
@@ -30748,15 +30748,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 8,
-      "win_point": 9,
+      "rank": 6,
+      "win_point": 10,
       "wins": 2,
-      "draws": 3,
+      "draws": 4,
       "loses": 1,
       "goals_for": 13,
       "goals_against": 11,
-      "max_win_point": 105,
-      "matches_left": 32
+      "max_win_point": 103,
+      "matches_left": 31
     },
     {
       "j_name": "岡山",
@@ -30820,7 +30820,7 @@
       "league": "j3",
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
-      "rank": 6,
+      "rank": 7,
       "win_point": 10,
       "wins": 3,
       "draws": 1,
@@ -31000,7 +31000,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 18,
+      "rank": 19,
       "win_point": 5,
       "wins": 1,
       "draws": 2,
@@ -31047,5 +31047,5 @@
       "matches_left": 32
     }
   ],
-  "updated_at": "2023-04-15T15:12:04+09:00"
+  "updated_at": "2023-04-15T15:16:04+09:00"
 }
