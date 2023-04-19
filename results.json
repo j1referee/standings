@@ -9760,13 +9760,13 @@
         {
           "sec": 10,
           "date": "04/16(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-4",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "041610"
         },
@@ -13048,13 +13048,13 @@
         {
           "sec": 10,
           "date": "04/16(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-4",
           "opponent": "水戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "041610"
         },
@@ -30028,7 +30028,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 11,
+      "rank": 12,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -30140,11 +30140,11 @@
       "win_point": 10,
       "wins": 2,
       "draws": 4,
-      "loses": 3,
-      "goals_for": 10,
-      "goals_against": 16,
-      "max_win_point": 109,
-      "matches_left": 33
+      "loses": 4,
+      "goals_for": 11,
+      "goals_against": 20,
+      "max_win_point": 106,
+      "matches_left": 32
     },
     {
       "j_name": "栃木",
@@ -30514,7 +30514,7 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 8,
+      "rank": 9,
       "win_point": 15,
       "wins": 5,
       "draws": 0,
@@ -30550,7 +30550,7 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 9,
+      "rank": 10,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -30568,15 +30568,15 @@
       "league": "j2",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 13,
-      "win_point": 13,
-      "wins": 4,
+      "rank": 8,
+      "win_point": 16,
+      "wins": 5,
       "draws": 1,
       "loses": 4,
-      "goals_for": 14,
-      "goals_against": 14,
+      "goals_for": 18,
+      "goals_against": 15,
       "max_win_point": 112,
-      "matches_left": 33
+      "matches_left": 32
     },
     {
       "j_name": "沼津",
@@ -30766,7 +30766,7 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 10,
+      "rank": 11,
       "win_point": 13,
       "wins": 2,
       "draws": 7,
@@ -30964,7 +30964,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 12,
+      "rank": 13,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -31047,5 +31047,5 @@
       "matches_left": 31
     }
   ],
-  "updated_at": "2023-04-16T18:16:04+09:00"
+  "updated_at": "2023-04-19T21:00:04+09:00"
 }
