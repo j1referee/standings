@@ -8679,11 +8679,11 @@
           "date": "04/22(土)",
           "time": "15:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "042207"
         },
@@ -16899,11 +16899,11 @@
           "date": "04/22(土)",
           "time": "15:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "山形",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "042207"
         },
@@ -30065,14 +30065,14 @@
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
       "rank": 21,
-      "win_point": 6,
-      "wins": 2,
+      "win_point": 9,
+      "wins": 3,
       "draws": 0,
       "loses": 8,
-      "goals_for": 10,
-      "goals_against": 17,
+      "goals_for": 12,
+      "goals_against": 18,
       "max_win_point": 102,
-      "matches_left": 32
+      "matches_left": 31
     },
     {
       "j_name": "福島",
@@ -30284,11 +30284,11 @@
       "win_point": 19,
       "wins": 6,
       "draws": 1,
-      "loses": 3,
-      "goals_for": 15,
-      "goals_against": 5,
-      "max_win_point": 115,
-      "matches_left": 32
+      "loses": 4,
+      "goals_for": 16,
+      "goals_against": 7,
+      "max_win_point": 112,
+      "matches_left": 31
     },
     {
       "j_name": "町田",
@@ -31047,5 +31047,5 @@
       "matches_left": 31
     }
   ],
-  "updated_at": "2023-04-22T16:30:04+09:00"
+  "updated_at": "2023-04-22T17:00:04+09:00"
 }
