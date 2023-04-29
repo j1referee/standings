@@ -9788,11 +9788,11 @@
           "date": "04/29(土・祝)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "042924"
         },
@@ -16912,11 +16912,11 @@
           "date": "04/29(土・祝)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "水戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "042924"
         },
@@ -30140,11 +30140,11 @@
       "win_point": 13,
       "wins": 3,
       "draws": 4,
-      "loses": 4,
+      "loses": 5,
       "goals_for": 12,
-      "goals_against": 20,
-      "max_win_point": 106,
-      "matches_left": 31
+      "goals_against": 22,
+      "max_win_point": 103,
+      "matches_left": 30
     },
     {
       "j_name": "栃木",
@@ -30172,7 +30172,7 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 4,
+      "rank": 5,
       "win_point": 21,
       "wins": 6,
       "draws": 3,
@@ -30280,15 +30280,15 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 6,
-      "win_point": 19,
-      "wins": 6,
+      "rank": 3,
+      "win_point": 22,
+      "wins": 7,
       "draws": 1,
       "loses": 4,
-      "goals_for": 16,
+      "goals_for": 18,
       "goals_against": 7,
       "max_win_point": 112,
-      "matches_left": 31
+      "matches_left": 30
     },
     {
       "j_name": "町田",
@@ -30424,7 +30424,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 5,
+      "rank": 6,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -30982,7 +30982,7 @@
       "league": "j2",
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
-      "rank": 3,
+      "rank": 4,
       "win_point": 22,
       "wins": 7,
       "draws": 1,
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-04-29T17:36:03+09:00"
+  "updated_at": "2023-04-29T19:00:04+09:00"
 }
