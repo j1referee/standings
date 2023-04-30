@@ -13076,11 +13076,11 @@
           "date": "04/30(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "金沢",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "043001"
         },
@@ -17460,11 +17460,11 @@
           "date": "04/30(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "043001"
         },
@@ -23114,7 +23114,7 @@
         {
           "sec": 8,
           "date": "04/30(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
           "score": "4-2",
           "opponent": "今治",
@@ -26090,7 +26090,7 @@
         {
           "sec": 8,
           "date": "04/30(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
           "score": "4-2",
           "opponent": "YS横浜",
@@ -30424,7 +30424,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 6,
+      "rank": 7,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -30515,14 +30515,14 @@
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
       "rank": 13,
-      "win_point": 15,
+      "win_point": 16,
       "wins": 5,
-      "draws": 0,
+      "draws": 1,
       "loses": 6,
-      "goals_for": 17,
-      "goals_against": 17,
-      "max_win_point": 108,
-      "matches_left": 31
+      "goals_for": 18,
+      "goals_against": 18,
+      "max_win_point": 106,
+      "matches_left": 30
     },
     {
       "j_name": "清水",
@@ -30568,15 +30568,15 @@
       "league": "j2",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 7,
-      "win_point": 19,
+      "rank": 6,
+      "win_point": 20,
       "wins": 6,
-      "draws": 1,
+      "draws": 2,
       "loses": 4,
-      "goals_for": 21,
-      "goals_against": 17,
-      "max_win_point": 112,
-      "matches_left": 31
+      "goals_for": 22,
+      "goals_against": 18,
+      "max_win_point": 110,
+      "matches_left": 30
     },
     {
       "j_name": "沼津",
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-04-30T15:50:04+09:00"
+  "updated_at": "2023-04-30T16:00:04+09:00"
 }
