@@ -23116,11 +23116,11 @@
           "date": "04/30(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "4-2",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "043002"
         },
@@ -26092,11 +26092,11 @@
           "date": "04/30(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "4-2",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "043002"
         },
@@ -30082,7 +30082,7 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 19,
+      "rank": 20,
       "win_point": 5,
       "wins": 1,
       "draws": 2,
@@ -30370,15 +30370,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 20,
-      "win_point": 3,
-      "wins": 0,
+      "rank": 19,
+      "win_point": 6,
+      "wins": 1,
       "draws": 3,
       "loses": 4,
-      "goals_for": 6,
-      "goals_against": 13,
+      "goals_for": 10,
+      "goals_against": 15,
       "max_win_point": 96,
-      "matches_left": 31
+      "matches_left": 30
     },
     {
       "j_name": "湘南",
@@ -30586,7 +30586,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 9,
+      "rank": 8,
       "win_point": 12,
       "wins": 3,
       "draws": 3,
@@ -30874,15 +30874,15 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 8,
+      "rank": 9,
       "win_point": 12,
       "wins": 3,
       "draws": 3,
-      "loses": 1,
-      "goals_for": 10,
-      "goals_against": 9,
-      "max_win_point": 105,
-      "matches_left": 31
+      "loses": 2,
+      "goals_for": 12,
+      "goals_against": 13,
+      "max_win_point": 102,
+      "matches_left": 30
     },
     {
       "j_name": "福岡",
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-04-30T15:32:04+09:00"
+  "updated_at": "2023-04-30T15:36:04+09:00"
 }
