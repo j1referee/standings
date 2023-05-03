@@ -17473,11 +17473,11 @@
           "date": "05/03(水・祝)",
           "time": "16:00",
           "division": "j2",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "栃木",
-          "goals_for": 0,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "050322"
         },
@@ -19117,11 +19117,11 @@
           "date": "05/03(水・祝)",
           "time": "16:00",
           "division": "j2",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "金沢",
-          "goals_for": 4,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "050322"
         },
@@ -30136,7 +30136,7 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 18,
+      "rank": 17,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -30154,15 +30154,15 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 15,
-      "win_point": 15,
-      "wins": 4,
+      "rank": 18,
+      "win_point": 12,
+      "wins": 3,
       "draws": 3,
       "loses": 6,
-      "goals_for": 12,
+      "goals_for": 8,
       "goals_against": 13,
       "max_win_point": 102,
-      "matches_left": 29
+      "matches_left": 30
     },
     {
       "j_name": "群馬",
@@ -30226,7 +30226,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 16,
+      "rank": 15,
       "win_point": 14,
       "wins": 3,
       "draws": 5,
@@ -30518,11 +30518,11 @@
       "win_point": 16,
       "wins": 5,
       "draws": 1,
-      "loses": 7,
+      "loses": 6,
       "goals_for": 18,
-      "goals_against": 22,
-      "max_win_point": 103,
-      "matches_left": 29
+      "goals_against": 18,
+      "max_win_point": 106,
+      "matches_left": 30
     },
     {
       "j_name": "清水",
@@ -30802,7 +30802,7 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 17,
+      "rank": 16,
       "win_point": 14,
       "wins": 3,
       "draws": 5,
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-05-03T18:06:04+09:00"
+  "updated_at": "2023-05-03T18:12:03+09:00"
 }
