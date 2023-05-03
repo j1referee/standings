@@ -8157,11 +8157,11 @@
           "date": "05/03(水・祝)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "050316"
         },
@@ -12541,11 +12541,11 @@
           "date": "05/03(水・祝)",
           "time": "14:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "050316"
         },
@@ -30104,11 +30104,11 @@
       "win_point": 11,
       "wins": 3,
       "draws": 2,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 10,
-      "goals_against": 17,
-      "max_win_point": 101,
-      "matches_left": 30
+      "goals_against": 18,
+      "max_win_point": 98,
+      "matches_left": 29
     },
     {
       "j_name": "鹿島",
@@ -30172,7 +30172,7 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 5,
+      "rank": 6,
       "win_point": 21,
       "wins": 6,
       "draws": 3,
@@ -30280,7 +30280,7 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 22,
       "wins": 7,
       "draws": 1,
@@ -30424,15 +30424,15 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 8,
-      "win_point": 20,
-      "wins": 6,
+      "rank": 4,
+      "win_point": 23,
+      "wins": 7,
       "draws": 2,
       "loses": 4,
-      "goals_for": 16,
+      "goals_for": 17,
       "goals_against": 15,
       "max_win_point": 110,
-      "matches_left": 30
+      "matches_left": 29
     },
     {
       "j_name": "松本",
@@ -30568,7 +30568,7 @@
       "league": "j2",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 7,
+      "rank": 8,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -30766,7 +30766,7 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 6,
+      "rank": 7,
       "win_point": 20,
       "wins": 4,
       "draws": 8,
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-05-03T16:36:04+09:00"
+  "updated_at": "2023-05-03T16:42:04+09:00"
 }
