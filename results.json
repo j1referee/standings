@@ -13637,11 +13637,11 @@
           "date": "05/03(水・祝)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "050323"
         },
@@ -16925,11 +16925,11 @@
           "date": "05/03(水・祝)",
           "time": "17:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "050323"
         },
@@ -30028,7 +30028,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 12,
+      "rank": 13,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
@@ -30280,15 +30280,15 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 5,
-      "win_point": 22,
+      "rank": 4,
+      "win_point": 23,
       "wins": 7,
-      "draws": 1,
+      "draws": 2,
       "loses": 4,
       "goals_for": 18,
       "goals_against": 7,
-      "max_win_point": 112,
-      "matches_left": 30
+      "max_win_point": 110,
+      "matches_left": 29
     },
     {
       "j_name": "町田",
@@ -30424,7 +30424,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 4,
+      "rank": 5,
       "win_point": 23,
       "wins": 7,
       "draws": 2,
@@ -30550,15 +30550,15 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 13,
-      "win_point": 16,
+      "rank": 11,
+      "win_point": 17,
       "wins": 4,
-      "draws": 4,
+      "draws": 5,
       "loses": 4,
       "goals_for": 21,
       "goals_against": 17,
-      "max_win_point": 106,
-      "matches_left": 30
+      "max_win_point": 104,
+      "matches_left": 29
     },
     {
       "j_name": "藤枝",
@@ -30964,7 +30964,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 11,
+      "rank": 12,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-05-03T19:02:04+09:00"
+  "updated_at": "2023-05-03T19:06:03+09:00"
 }
