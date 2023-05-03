@@ -24121,11 +24121,11 @@
           "date": "05/03(水・祝)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "奈良",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "050324"
         },
@@ -25113,11 +25113,11 @@
           "date": "05/03(水・祝)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "050324"
         },
@@ -30496,7 +30496,7 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 1,
+      "rank": 2,
       "win_point": 16,
       "wins": 5,
       "draws": 1,
@@ -30712,15 +30712,15 @@
       "league": "j3",
       "hash_tag": "#naraclub",
       "full_name": "奈良クラブ",
-      "rank": 2,
-      "win_point": 15,
-      "wins": 4,
+      "rank": 1,
+      "win_point": 18,
+      "wins": 5,
       "draws": 3,
       "loses": 1,
-      "goals_for": 12,
+      "goals_for": 15,
       "goals_against": 6,
       "max_win_point": 105,
-      "matches_left": 30
+      "matches_left": 29
     },
     {
       "j_name": "神戸",
@@ -31004,11 +31004,11 @@
       "win_point": 9,
       "wins": 2,
       "draws": 3,
-      "loses": 3,
+      "loses": 4,
       "goals_for": 7,
-      "goals_against": 10,
-      "max_win_point": 99,
-      "matches_left": 30
+      "goals_against": 13,
+      "max_win_point": 96,
+      "matches_left": 29
     },
     {
       "j_name": "鹿児島",
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-05-03T15:12:03+09:00"
+  "updated_at": "2023-05-03T15:16:04+09:00"
 }
