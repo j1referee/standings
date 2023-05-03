@@ -1467,13 +1467,13 @@
         {
           "sec": 11,
           "date": "05/03(水・祝)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "050309"
         },
@@ -4575,13 +4575,13 @@
         {
           "sec": 11,
           "date": "05/03(水・祝)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "050309"
         },
@@ -21644,7 +21644,7 @@
         {
           "sec": 9,
           "date": "05/03(水・祝)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "1-0",
           "opponent": "松本",
@@ -25607,7 +25607,7 @@
         {
           "sec": 9,
           "date": "05/03(水・祝)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "1-0",
           "opponent": "FC大阪",
@@ -30604,15 +30604,15 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 4,
-      "win_point": 19,
+      "rank": 3,
+      "win_point": 20,
       "wins": 5,
-      "draws": 4,
+      "draws": 5,
       "loses": 1,
-      "goals_for": 13,
-      "goals_against": 6,
-      "max_win_point": 91,
-      "matches_left": 24
+      "goals_for": 15,
+      "goals_against": 8,
+      "max_win_point": 89,
+      "matches_left": 23
     },
     {
       "j_name": "岐阜",
@@ -30731,14 +30731,14 @@
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
       "rank": 1,
-      "win_point": 22,
+      "win_point": 23,
       "wins": 7,
-      "draws": 1,
+      "draws": 2,
       "loses": 2,
-      "goals_for": 21,
-      "goals_against": 6,
-      "max_win_point": 94,
-      "matches_left": 24
+      "goals_for": 23,
+      "goals_against": 8,
+      "max_win_point": 92,
+      "matches_left": 23
     },
     {
       "j_name": "鳥取",
@@ -30784,7 +30784,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 3,
+      "rank": 4,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-05-03T17:36:04+09:00"
+  "updated_at": "2023-05-03T17:42:04+09:00"
 }
