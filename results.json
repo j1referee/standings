@@ -11445,11 +11445,11 @@
           "date": "05/03(水・祝)",
           "time": "13:50",
           "division": "j2",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "050313"
         },
@@ -19665,11 +19665,11 @@
           "date": "05/03(水・祝)",
           "time": "13:50",
           "division": "j2",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "群馬",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "050313"
         },
@@ -30028,7 +30028,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 12,
+      "rank": 13,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -30176,11 +30176,11 @@
       "win_point": 21,
       "wins": 6,
       "draws": 3,
-      "loses": 3,
+      "loses": 4,
       "goals_for": 14,
-      "goals_against": 11,
-      "max_win_point": 111,
-      "matches_left": 30
+      "goals_against": 13,
+      "max_win_point": 108,
+      "matches_left": 29
     },
     {
       "j_name": "浦和",
@@ -30514,7 +30514,7 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 13,
+      "rank": 14,
       "win_point": 16,
       "wins": 5,
       "draws": 1,
@@ -30550,7 +30550,7 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 11,
+      "rank": 12,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -30964,15 +30964,15 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 14,
-      "win_point": 14,
-      "wins": 3,
+      "rank": 11,
+      "win_point": 17,
+      "wins": 4,
       "draws": 5,
       "loses": 4,
-      "goals_for": 15,
+      "goals_for": 17,
       "goals_against": 15,
       "max_win_point": 104,
-      "matches_left": 30
+      "matches_left": 29
     },
     {
       "j_name": "大分",
@@ -31047,5 +31047,5 @@
       "matches_left": 30
     }
   ],
-  "updated_at": "2023-05-03T15:30:05+09:00"
+  "updated_at": "2023-05-03T15:50:04+09:00"
 }
