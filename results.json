@@ -3258,11 +3258,11 @@
           "date": "05/06(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "5-1",
           "opponent": "FC東京",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 5,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "050602"
         },
@@ -3702,11 +3702,11 @@
           "date": "05/06(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "5-1",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 5,
+          "point": 0,
           "home": false,
           "mid": "050602"
         },
@@ -29974,15 +29974,15 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 11,
-      "win_point": 13,
-      "wins": 3,
+      "rank": 8,
+      "win_point": 16,
+      "wins": 4,
       "draws": 4,
       "loses": 4,
-      "goals_for": 20,
-      "goals_against": 21,
+      "goals_for": 25,
+      "goals_against": 22,
       "max_win_point": 82,
-      "matches_left": 23
+      "matches_left": 22
     },
     {
       "j_name": "八戸",
@@ -30118,7 +30118,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 8,
+      "rank": 9,
       "win_point": 16,
       "wins": 5,
       "draws": 1,
@@ -30262,15 +30262,15 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 9,
+      "rank": 11,
       "win_point": 15,
       "wins": 4,
       "draws": 3,
-      "loses": 4,
-      "goals_for": 13,
-      "goals_against": 12,
-      "max_win_point": 84,
-      "matches_left": 23
+      "loses": 5,
+      "goals_for": 14,
+      "goals_against": 17,
+      "max_win_point": 81,
+      "matches_left": 22
     },
     {
       "j_name": "東京V",
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-06T16:12:03+09:00"
+  "updated_at": "2023-05-06T16:16:04+09:00"
 }
