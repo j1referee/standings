@@ -1482,11 +1482,11 @@
           "date": "05/06(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "050603"
         },
@@ -6810,11 +6810,11 @@
           "date": "05/06(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "050603"
         },
@@ -30334,7 +30334,7 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 2,
+      "rank": 3,
       "win_point": 21,
       "wins": 6,
       "draws": 3,
@@ -30604,15 +30604,15 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 3,
-      "win_point": 20,
-      "wins": 5,
+      "rank": 2,
+      "win_point": 23,
+      "wins": 6,
       "draws": 5,
       "loses": 1,
-      "goals_for": 15,
+      "goals_for": 16,
       "goals_against": 8,
       "max_win_point": 89,
-      "matches_left": 23
+      "matches_left": 22
     },
     {
       "j_name": "岐阜",
@@ -30662,11 +30662,11 @@
       "win_point": 7,
       "wins": 1,
       "draws": 4,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 12,
-      "goals_against": 24,
-      "max_win_point": 76,
-      "matches_left": 23
+      "goals_against": 25,
+      "max_win_point": 73,
+      "matches_left": 22
     },
     {
       "j_name": "C大阪",
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-06T21:02:04+09:00"
+  "updated_at": "2023-05-06T21:06:04+09:00"
 }
