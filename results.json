@@ -10910,11 +10910,11 @@
           "date": "05/07(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "050722"
         },
@@ -13650,11 +13650,11 @@
           "date": "05/07(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "千葉",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "050722"
         },
@@ -30230,11 +30230,11 @@
       "win_point": 14,
       "wins": 3,
       "draws": 5,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 14,
-      "goals_against": 19,
-      "max_win_point": 101,
-      "matches_left": 29
+      "goals_against": 20,
+      "max_win_point": 98,
+      "matches_left": 28
     },
     {
       "j_name": "柏",
@@ -30550,15 +30550,15 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 12,
-      "win_point": 17,
-      "wins": 4,
+      "rank": 10,
+      "win_point": 20,
+      "wins": 5,
       "draws": 5,
       "loses": 4,
-      "goals_for": 21,
+      "goals_for": 22,
       "goals_against": 17,
       "max_win_point": 104,
-      "matches_left": 29
+      "matches_left": 28
     },
     {
       "j_name": "藤枝",
@@ -30568,7 +30568,7 @@
       "league": "j2",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 11,
+      "rank": 12,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -30964,7 +30964,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 10,
+      "rank": 11,
       "win_point": 20,
       "wins": 5,
       "draws": 5,
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-07T21:12:04+09:00"
+  "updated_at": "2023-05-07T21:16:04+09:00"
 }
