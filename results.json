@@ -4120,11 +4120,11 @@
           "date": "05/10(水)",
           "time": "19:30",
           "division": "j1",
-          "score": "0-2",
+          "score": "vs",
           "opponent": "鳥栖",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "051001"
         },
@@ -7254,11 +7254,11 @@
           "date": "05/10(水)",
           "time": "19:30",
           "division": "j1",
-          "score": "0-2",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "051001"
         },
@@ -30194,11 +30194,11 @@
       "win_point": 17,
       "wins": 5,
       "draws": 2,
-      "loses": 3,
+      "loses": 2,
       "goals_for": 13,
-      "goals_against": 10,
-      "max_win_point": 89,
-      "matches_left": 24
+      "goals_against": 8,
+      "max_win_point": 92,
+      "matches_left": 25
     },
     {
       "j_name": "大宮",
@@ -30388,7 +30388,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 15,
+      "rank": 14,
       "win_point": 11,
       "wins": 2,
       "draws": 5,
@@ -30478,7 +30478,7 @@
       "league": "j1",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 14,
+      "rank": 13,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -30640,7 +30640,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 13,
+      "rank": 12,
       "win_point": 13,
       "wins": 4,
       "draws": 1,
@@ -30928,15 +30928,15 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 12,
-      "win_point": 14,
-      "wins": 4,
+      "rank": 15,
+      "win_point": 11,
+      "wins": 3,
       "draws": 2,
       "loses": 6,
-      "goals_for": 12,
+      "goals_for": 10,
       "goals_against": 17,
       "max_win_point": 80,
-      "matches_left": 22
+      "matches_left": 23
     },
     {
       "j_name": "長崎",
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-10T21:30:04+09:00"
+  "updated_at": "2023-05-10T21:32:04+09:00"
 }
