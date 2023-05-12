@@ -163,11 +163,11 @@
           "date": "05/12(金)",
           "time": "19:30",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "FC東京",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "051201"
         },
@@ -3715,11 +3715,11 @@
           "date": "05/12(金)",
           "time": "19:30",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "川崎F",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "051201"
         },
@@ -29974,7 +29974,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 11,
+      "rank": 10,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -30190,7 +30190,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 9,
+      "rank": 8,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -30262,15 +30262,15 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 8,
-      "win_point": 18,
-      "wins": 5,
+      "rank": 11,
+      "win_point": 15,
+      "wins": 4,
       "draws": 3,
       "loses": 5,
-      "goals_for": 16,
-      "goals_against": 18,
+      "goals_for": 14,
+      "goals_against": 17,
       "max_win_point": 81,
-      "matches_left": 21
+      "matches_left": 22
     },
     {
       "j_name": "東京V",
@@ -30320,11 +30320,11 @@
       "win_point": 18,
       "wins": 5,
       "draws": 3,
-      "loses": 5,
-      "goals_for": 16,
-      "goals_against": 16,
-      "max_win_point": 81,
-      "matches_left": 21
+      "loses": 4,
+      "goals_for": 15,
+      "goals_against": 14,
+      "max_win_point": 84,
+      "matches_left": 22
     },
     {
       "j_name": "横浜FM",
@@ -30676,7 +30676,7 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 10,
+      "rank": 9,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-12T21:42:04+09:00"
+  "updated_at": "2023-05-12T21:50:04+09:00"
 }
