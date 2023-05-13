@@ -9827,11 +9827,11 @@
           "date": "05/13(土)",
           "time": "17:00",
           "division": "j2",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "栃木",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "051311"
         },
@@ -19143,11 +19143,11 @@
           "date": "05/13(土)",
           "time": "17:00",
           "division": "j2",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "水戸",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "051311"
         },
@@ -30137,14 +30137,14 @@
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
       "rank": 16,
-      "win_point": 17,
+      "win_point": 16,
       "wins": 4,
-      "draws": 5,
+      "draws": 4,
       "loses": 6,
-      "goals_for": 15,
-      "goals_against": 28,
-      "max_win_point": 98,
-      "matches_left": 27
+      "goals_for": 13,
+      "goals_against": 26,
+      "max_win_point": 100,
+      "matches_left": 28
     },
     {
       "j_name": "栃木",
@@ -30155,14 +30155,14 @@
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
       "rank": 17,
-      "win_point": 16,
+      "win_point": 15,
       "wins": 4,
-      "draws": 4,
+      "draws": 3,
       "loses": 7,
-      "goals_for": 15,
-      "goals_against": 17,
-      "max_win_point": 97,
-      "matches_left": 27
+      "goals_for": 13,
+      "goals_against": 15,
+      "max_win_point": 99,
+      "matches_left": 28
     },
     {
       "j_name": "群馬",
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-13T19:12:04+09:00"
+  "updated_at": "2023-05-13T19:16:04+09:00"
 }
