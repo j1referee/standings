@@ -24630,11 +24630,11 @@
           "date": "05/13(土)",
           "time": "18:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "051316"
         },
@@ -25622,11 +25622,11 @@
           "date": "05/13(土)",
           "time": "18:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "長野",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "051316"
         },
@@ -30446,11 +30446,11 @@
       "win_point": 15,
       "wins": 4,
       "draws": 3,
-      "loses": 2,
-      "goals_for": 15,
-      "goals_against": 11,
-      "max_win_point": 102,
-      "matches_left": 29
+      "loses": 3,
+      "goals_for": 16,
+      "goals_against": 13,
+      "max_win_point": 99,
+      "matches_left": 28
     },
     {
       "j_name": "長野",
@@ -30460,15 +30460,15 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 3,
-      "win_point": 17,
-      "wins": 5,
+      "rank": 1,
+      "win_point": 20,
+      "wins": 6,
       "draws": 2,
       "loses": 2,
-      "goals_for": 18,
-      "goals_against": 11,
+      "goals_for": 20,
+      "goals_against": 12,
       "max_win_point": 104,
-      "matches_left": 29
+      "matches_left": 28
     },
     {
       "j_name": "新潟",
@@ -30712,7 +30712,7 @@
       "league": "j3",
       "hash_tag": "#naraclub",
       "full_name": "奈良クラブ",
-      "rank": 1,
+      "rank": 2,
       "win_point": 18,
       "wins": 5,
       "draws": 3,
@@ -30856,7 +30856,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 2,
+      "rank": 3,
       "win_point": 18,
       "wins": 5,
       "draws": 3,
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-13T20:02:04+09:00"
+  "updated_at": "2023-05-13T20:06:04+09:00"
 }
