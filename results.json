@@ -1051,11 +1051,11 @@
           "date": "05/13(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "051303"
         },
@@ -6379,11 +6379,11 @@
           "date": "05/13(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "051303"
         },
@@ -30248,11 +30248,11 @@
       "win_point": 11,
       "wins": 2,
       "draws": 5,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 8,
-      "goals_against": 15,
-      "max_win_point": 77,
-      "matches_left": 22
+      "goals_against": 16,
+      "max_win_point": 74,
+      "matches_left": 21
     },
     {
       "j_name": "FC東京",
@@ -30352,15 +30352,15 @@
       "league": "j1",
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
-      "rank": 18,
-      "win_point": 6,
-      "wins": 1,
+      "rank": 17,
+      "win_point": 9,
+      "wins": 2,
       "draws": 3,
       "loses": 8,
-      "goals_for": 9,
+      "goals_for": 10,
       "goals_against": 30,
       "max_win_point": 72,
-      "matches_left": 22
+      "matches_left": 21
     },
     {
       "j_name": "YS横浜",
@@ -30658,7 +30658,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 17,
+      "rank": 18,
       "win_point": 7,
       "wins": 1,
       "draws": 4,
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-13T17:30:05+09:00"
+  "updated_at": "2023-05-13T18:00:05+09:00"
 }
