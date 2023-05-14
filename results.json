@@ -20672,11 +20672,11 @@
           "date": "05/14(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "沼津",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "051407"
         },
@@ -28598,11 +28598,11 @@
           "date": "05/14(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "鳥取",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "051407"
         },
@@ -29992,7 +29992,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 9,
+      "rank": 8,
       "win_point": 13,
       "wins": 3,
       "draws": 4,
@@ -30587,14 +30587,14 @@
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
       "rank": 10,
-      "win_point": 13,
+      "win_point": 12,
       "wins": 3,
-      "draws": 4,
+      "draws": 3,
       "loses": 3,
-      "goals_for": 12,
-      "goals_against": 12,
-      "max_win_point": 97,
-      "matches_left": 28
+      "goals_for": 10,
+      "goals_against": 10,
+      "max_win_point": 99,
+      "matches_left": 29
     },
     {
       "j_name": "名古屋",
@@ -30748,15 +30748,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 8,
-      "win_point": 14,
+      "rank": 9,
+      "win_point": 13,
       "wins": 3,
-      "draws": 5,
+      "draws": 4,
       "loses": 2,
-      "goals_for": 18,
-      "goals_against": 17,
-      "max_win_point": 98,
-      "matches_left": 28
+      "goals_for": 16,
+      "goals_against": 15,
+      "max_win_point": 100,
+      "matches_left": 29
     },
     {
       "j_name": "岡山",
@@ -31047,5 +31047,5 @@
       "matches_left": 29
     }
   ],
-  "updated_at": "2023-05-14T15:06:04+09:00"
+  "updated_at": "2023-05-14T15:12:04+09:00"
 }
