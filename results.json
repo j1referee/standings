@@ -8744,11 +8744,11 @@
           "date": "05/17(水)",
           "time": "13:30",
           "division": "j2",
-          "score": "vs",
+          "score": "5-0",
           "opponent": "大分",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 5,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "051701"
         },
@@ -16416,11 +16416,11 @@
           "date": "05/17(水)",
           "time": "13:30",
           "division": "j2",
-          "score": "vs",
+          "score": "5-0",
           "opponent": "山形",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 5,
+          "point": 0,
           "home": false,
           "mid": "051701"
         },
@@ -30064,15 +30064,15 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 20,
-      "win_point": 13,
-      "wins": 4,
+      "rank": 18,
+      "win_point": 16,
+      "wins": 5,
       "draws": 1,
       "loses": 10,
-      "goals_for": 17,
+      "goals_for": 22,
       "goals_against": 25,
       "max_win_point": 94,
-      "matches_left": 27
+      "matches_left": 26
     },
     {
       "j_name": "福島",
@@ -30802,7 +30802,7 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 18,
+      "rank": 19,
       "win_point": 15,
       "wins": 3,
       "draws": 6,
@@ -30838,7 +30838,7 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 19,
+      "rank": 20,
       "win_point": 14,
       "wins": 2,
       "draws": 8,
@@ -30986,11 +30986,11 @@
       "win_point": 29,
       "wins": 9,
       "draws": 2,
-      "loses": 4,
+      "loses": 5,
       "goals_for": 22,
-      "goals_against": 17,
-      "max_win_point": 110,
-      "matches_left": 27
+      "goals_against": 22,
+      "max_win_point": 107,
+      "matches_left": 26
     },
     {
       "j_name": "宮崎",
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-14T18:30:05+09:00"
+  "updated_at": "2023-05-17T15:36:03+09:00"
 }
