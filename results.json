@@ -1508,11 +1508,11 @@
           "date": "05/20(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "広島",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "052004"
         },
@@ -2827,11 +2827,11 @@
           "date": "05/20(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "名古屋",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "052004"
         },
@@ -5502,7 +5502,7 @@
         {
           "sec": 14,
           "date": "05/20(土)",
-          "time": "15:00",
+          "time": "15:04",
           "division": "j1",
           "score": "0-2",
           "opponent": "湘南",
@@ -7709,7 +7709,7 @@
         {
           "sec": 14,
           "date": "05/20(土)",
-          "time": "15:00",
+          "time": "15:04",
           "division": "j1",
           "score": "0-2",
           "opponent": "C大阪",
@@ -30118,7 +30118,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 4,
+      "rank": 3,
       "win_point": 23,
       "wins": 7,
       "draws": 2,
@@ -30334,7 +30334,7 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 3,
+      "rank": 2,
       "win_point": 24,
       "wins": 7,
       "draws": 3,
@@ -30604,15 +30604,15 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 2,
-      "win_point": 26,
-      "wins": 7,
+      "rank": 4,
+      "win_point": 23,
+      "wins": 6,
       "draws": 5,
       "loses": 2,
-      "goals_for": 18,
-      "goals_against": 11,
+      "goals_for": 16,
+      "goals_against": 10,
       "max_win_point": 86,
-      "matches_left": 20
+      "matches_left": 21
     },
     {
       "j_name": "岐阜",
@@ -30788,11 +30788,11 @@
       "win_point": 23,
       "wins": 7,
       "draws": 2,
-      "loses": 4,
-      "goals_for": 17,
-      "goals_against": 12,
-      "max_win_point": 86,
-      "matches_left": 21
+      "loses": 3,
+      "goals_for": 16,
+      "goals_against": 10,
+      "max_win_point": 89,
+      "matches_left": 22
     },
     {
       "j_name": "山口",
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-20T17:16:03+09:00"
+  "updated_at": "2023-05-20T17:20:04+09:00"
 }
