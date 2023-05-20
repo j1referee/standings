@@ -4146,11 +4146,11 @@
           "date": "05/20(土)",
           "time": "13:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "052001"
         },
@@ -5060,11 +5060,11 @@
           "date": "05/20(土)",
           "time": "13:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "052001"
         },
@@ -30191,14 +30191,14 @@
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
       "rank": 7,
-      "win_point": 20,
+      "win_point": 21,
       "wins": 6,
-      "draws": 2,
+      "draws": 3,
       "loses": 3,
       "goals_for": 16,
       "goals_against": 11,
-      "max_win_point": 89,
-      "matches_left": 23
+      "max_win_point": 87,
+      "matches_left": 22
     },
     {
       "j_name": "大宮",
@@ -30893,14 +30893,14 @@
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
       "rank": 9,
-      "win_point": 19,
+      "win_point": 20,
       "wins": 5,
-      "draws": 4,
+      "draws": 5,
       "loses": 4,
       "goals_for": 15,
       "goals_against": 16,
-      "max_win_point": 82,
-      "matches_left": 21
+      "max_win_point": 80,
+      "matches_left": 20
     },
     {
       "j_name": "北九州",
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-19T22:02:04+09:00"
+  "updated_at": "2023-05-20T15:06:04+09:00"
 }
