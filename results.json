@@ -618,13 +618,13 @@
         {
           "sec": 14,
           "date": "05/20(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "052007"
         },
@@ -6834,13 +6834,13 @@
         {
           "sec": 14,
           "date": "05/20(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "052007"
         },
@@ -30334,15 +30334,15 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 3,
-      "win_point": 24,
-      "wins": 7,
+      "rank": 2,
+      "win_point": 27,
+      "wins": 8,
       "draws": 3,
       "loses": 3,
-      "goals_for": 26,
+      "goals_for": 28,
       "goals_against": 15,
       "max_win_point": 87,
-      "matches_left": 21
+      "matches_left": 20
     },
     {
       "j_name": "横浜FC",
@@ -30604,7 +30604,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 2,
+      "rank": 3,
       "win_point": 26,
       "wins": 7,
       "draws": 5,
@@ -30662,11 +30662,11 @@
       "win_point": 7,
       "wins": 1,
       "draws": 4,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 13,
-      "goals_against": 28,
-      "max_win_point": 70,
-      "matches_left": 21
+      "goals_against": 30,
+      "max_win_point": 67,
+      "matches_left": 20
     },
     {
       "j_name": "C大阪",
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-20T21:20:04+09:00"
+  "updated_at": "2023-05-20T21:30:04+09:00"
 }
