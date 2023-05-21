@@ -9303,7 +9303,7 @@
         {
           "sec": 17,
           "date": "05/21(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "2-1",
           "opponent": "町田",
@@ -13139,13 +13139,13 @@
         {
           "sec": 17,
           "date": "05/21(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "徳島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "052106"
         },
@@ -15879,13 +15879,13 @@
         {
           "sec": 17,
           "date": "05/21(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "052106"
         },
@@ -18071,7 +18071,7 @@
         {
           "sec": 17,
           "date": "05/21(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "2-1",
           "opponent": "清水",
@@ -30226,7 +30226,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 12,
+      "rank": 13,
       "win_point": 23,
       "wins": 6,
       "draws": 5,
@@ -30568,15 +30568,15 @@
       "league": "j2",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 14,
-      "win_point": 20,
-      "wins": 6,
+      "rank": 12,
+      "win_point": 23,
+      "wins": 7,
       "draws": 2,
       "loses": 8,
-      "goals_for": 24,
+      "goals_for": 27,
       "goals_against": 29,
       "max_win_point": 98,
-      "matches_left": 26
+      "matches_left": 25
     },
     {
       "j_name": "沼津",
@@ -30842,11 +30842,11 @@
       "win_point": 17,
       "wins": 3,
       "draws": 8,
-      "loses": 5,
+      "loses": 6,
       "goals_for": 17,
-      "goals_against": 22,
-      "max_win_point": 95,
-      "matches_left": 26
+      "goals_against": 25,
+      "max_win_point": 92,
+      "matches_left": 25
     },
     {
       "j_name": "愛媛",
@@ -30964,7 +30964,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 13,
+      "rank": 14,
       "win_point": 21,
       "wins": 5,
       "draws": 6,
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-21T16:32:04+09:00"
+  "updated_at": "2023-05-21T16:36:04+09:00"
 }
