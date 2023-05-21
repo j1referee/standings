@@ -11497,11 +11497,11 @@
           "date": "05/21(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "052111"
         },
@@ -14237,11 +14237,11 @@
           "date": "05/21(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "群馬",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "052111"
         },
@@ -30028,7 +30028,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 11,
+      "rank": 12,
       "win_point": 24,
       "wins": 6,
       "draws": 6,
@@ -30046,7 +30046,7 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 9,
+      "rank": 10,
       "win_point": 25,
       "wins": 7,
       "draws": 4,
@@ -30176,11 +30176,11 @@
       "win_point": 27,
       "wins": 8,
       "draws": 3,
-      "loses": 5,
-      "goals_for": 20,
-      "goals_against": 19,
-      "max_win_point": 105,
-      "matches_left": 26
+      "loses": 6,
+      "goals_for": 21,
+      "goals_against": 21,
+      "max_win_point": 102,
+      "matches_left": 25
     },
     {
       "j_name": "浦和",
@@ -30532,7 +30532,7 @@
       "league": "j2",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 8,
+      "rank": 9,
       "win_point": 25,
       "wins": 6,
       "draws": 7,
@@ -30766,15 +30766,15 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 12,
-      "win_point": 23,
-      "wins": 4,
+      "rank": 8,
+      "win_point": 26,
+      "wins": 5,
       "draws": 11,
       "loses": 1,
-      "goals_for": 20,
-      "goals_against": 14,
+      "goals_for": 22,
+      "goals_against": 15,
       "max_win_point": 101,
-      "matches_left": 26
+      "matches_left": 25
     },
     {
       "j_name": "広島",
@@ -30964,7 +30964,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 10,
+      "rank": 11,
       "win_point": 24,
       "wins": 6,
       "draws": 6,
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-21T21:02:04+09:00"
+  "updated_at": "2023-05-21T21:06:04+09:00"
 }
