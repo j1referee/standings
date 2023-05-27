@@ -1965,11 +1965,11 @@
           "date": "05/27(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "052705"
         },
@@ -4159,11 +4159,11 @@
           "date": "05/27(土)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "京都",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "052705"
         },
@@ -29974,7 +29974,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 7,
+      "rank": 8,
       "win_point": 22,
       "wins": 6,
       "draws": 4,
@@ -30118,7 +30118,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 5,
+      "rank": 6,
       "win_point": 24,
       "wins": 7,
       "draws": 3,
@@ -30190,15 +30190,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 8,
-      "win_point": 21,
-      "wins": 6,
+      "rank": 5,
+      "win_point": 24,
+      "wins": 7,
       "draws": 3,
       "loses": 3,
-      "goals_for": 16,
+      "goals_for": 18,
       "goals_against": 11,
       "max_win_point": 87,
-      "matches_left": 22
+      "matches_left": 21
     },
     {
       "j_name": "大宮",
@@ -30644,11 +30644,11 @@
       "win_point": 13,
       "wins": 4,
       "draws": 1,
-      "loses": 9,
+      "loses": 10,
       "goals_for": 16,
-      "goals_against": 22,
-      "max_win_point": 73,
-      "matches_left": 20
+      "goals_against": 24,
+      "max_win_point": 70,
+      "matches_left": 19
     },
     {
       "j_name": "G大阪",
@@ -30676,7 +30676,7 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 6,
+      "rank": 7,
       "win_point": 23,
       "wins": 7,
       "draws": 2,
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-27T21:12:04+09:00"
+  "updated_at": "2023-05-27T21:16:04+09:00"
 }
