@@ -20683,13 +20683,13 @@
         {
           "sec": 11,
           "date": "05/28(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "052815"
         },
@@ -26129,13 +26129,13 @@
         {
           "sec": 11,
           "date": "05/28(日)",
-          "time": "13:00",
+          "time": "13:03",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "052815"
         },
@@ -29992,7 +29992,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 6,
+      "rank": 7,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -30752,11 +30752,11 @@
       "win_point": 14,
       "wins": 3,
       "draws": 5,
-      "loses": 2,
+      "loses": 3,
       "goals_for": 18,
-      "goals_against": 17,
-      "max_win_point": 98,
-      "matches_left": 28
+      "goals_against": 20,
+      "max_win_point": 95,
+      "matches_left": 27
     },
     {
       "j_name": "岡山",
@@ -30856,7 +30856,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 5,
+      "rank": 6,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -30874,15 +30874,15 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 7,
-      "win_point": 16,
-      "wins": 4,
+      "rank": 5,
+      "win_point": 19,
+      "wins": 5,
       "draws": 4,
       "loses": 2,
-      "goals_for": 13,
+      "goals_for": 16,
       "goals_against": 13,
       "max_win_point": 100,
-      "matches_left": 28
+      "matches_left": 27
     },
     {
       "j_name": "福岡",
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-28T15:32:04+09:00"
+  "updated_at": "2023-05-28T15:36:04+09:00"
 }
