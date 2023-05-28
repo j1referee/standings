@@ -9864,13 +9864,13 @@
         {
           "sec": 18,
           "date": "05/28(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "山口",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "052813"
         },
@@ -14796,13 +14796,13 @@
         {
           "sec": 18,
           "date": "05/28(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "水戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "052813"
         },
@@ -30100,7 +30100,7 @@
       "league": "j2",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 20,
+      "rank": 21,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -30136,15 +30136,15 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 19,
+      "rank": 20,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 16,
-      "goals_against": 33,
-      "max_win_point": 92,
-      "matches_left": 25
+      "goals_against": 34,
+      "max_win_point": 89,
+      "matches_left": 24
     },
     {
       "j_name": "栃木",
@@ -30802,15 +30802,15 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 21,
-      "win_point": 15,
-      "wins": 3,
+      "rank": 19,
+      "win_point": 18,
+      "wins": 4,
       "draws": 6,
       "loses": 8,
-      "goals_for": 15,
+      "goals_for": 16,
       "goals_against": 33,
       "max_win_point": 90,
-      "matches_left": 25
+      "matches_left": 24
     },
     {
       "j_name": "讃岐",
@@ -31047,5 +31047,5 @@
       "matches_left": 27
     }
   ],
-  "updated_at": "2023-05-28T17:30:05+09:00"
+  "updated_at": "2023-05-28T17:32:03+09:00"
 }
