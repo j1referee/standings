@@ -189,11 +189,11 @@
           "date": "05/28(日)",
           "time": "17:00",
           "division": "j1",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "052804"
         },
@@ -6405,11 +6405,11 @@
           "date": "05/28(日)",
           "time": "17:00",
           "division": "j1",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "川崎F",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "052804"
         },
@@ -30248,11 +30248,11 @@
       "win_point": 12,
       "wins": 2,
       "draws": 6,
-      "loses": 7,
+      "loses": 6,
       "goals_for": 9,
-      "goals_against": 19,
-      "max_win_point": 69,
-      "matches_left": 19
+      "goals_against": 17,
+      "max_win_point": 72,
+      "matches_left": 20
     },
     {
       "j_name": "FC東京",
@@ -30262,7 +30262,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 11,
+      "rank": 10,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -30316,15 +30316,15 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 9,
-      "win_point": 21,
-      "wins": 6,
+      "rank": 12,
+      "win_point": 18,
+      "wins": 5,
       "draws": 3,
       "loses": 6,
-      "goals_for": 19,
+      "goals_for": 17,
       "goals_against": 18,
       "max_win_point": 78,
-      "matches_left": 19
+      "matches_left": 20
     },
     {
       "j_name": "横浜FM",
@@ -30892,7 +30892,7 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 10,
+      "rank": 9,
       "win_point": 20,
       "wins": 5,
       "draws": 5,
@@ -30928,7 +30928,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 12,
+      "rank": 11,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -31047,5 +31047,5 @@
       "matches_left": 27
     }
   ],
-  "updated_at": "2023-05-28T19:06:04+09:00"
+  "updated_at": "2023-05-28T19:12:04+09:00"
 }
