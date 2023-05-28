@@ -21181,11 +21181,11 @@
           "date": "05/28(日)",
           "time": "12:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-4",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "052814"
         },
@@ -25635,11 +25635,11 @@
           "date": "05/28(日)",
           "time": "12:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-4",
           "opponent": "鹿児島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "052814"
         },
@@ -30446,11 +30446,11 @@
       "win_point": 15,
       "wins": 4,
       "draws": 3,
-      "loses": 3,
-      "goals_for": 16,
-      "goals_against": 13,
-      "max_win_point": 99,
-      "matches_left": 28
+      "loses": 4,
+      "goals_for": 18,
+      "goals_against": 17,
+      "max_win_point": 96,
+      "matches_left": 27
     },
     {
       "j_name": "長野",
@@ -30460,7 +30460,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 1,
+      "rank": 2,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -30496,7 +30496,7 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 2,
+      "rank": 3,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -30712,7 +30712,7 @@
       "league": "j3",
       "hash_tag": "#naraclub",
       "full_name": "奈良クラブ",
-      "rank": 3,
+      "rank": 4,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -30856,7 +30856,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -31018,15 +31018,15 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 5,
-      "win_point": 18,
-      "wins": 5,
+      "rank": 1,
+      "win_point": 21,
+      "wins": 6,
       "draws": 3,
       "loses": 2,
-      "goals_for": 15,
-      "goals_against": 10,
+      "goals_for": 19,
+      "goals_against": 12,
       "max_win_point": 102,
-      "matches_left": 28
+      "matches_left": 27
     },
     {
       "j_name": "琉球",
@@ -31047,5 +31047,5 @@
       "matches_left": 28
     }
   ],
-  "updated_at": "2023-05-27T21:30:04+09:00"
+  "updated_at": "2023-05-28T14:06:04+09:00"
 }
