@@ -642,11 +642,11 @@
           "date": "06/03(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "FC東京",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "060302"
         },
@@ -3750,11 +3750,11 @@
           "date": "06/03(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "060302"
         },
@@ -30254,15 +30254,15 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 11,
+      "rank": 12,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
-      "loses": 6,
-      "goals_for": 19,
-      "goals_against": 22,
-      "max_win_point": 76,
-      "matches_left": 19
+      "loses": 7,
+      "goals_for": 21,
+      "goals_against": 25,
+      "max_win_point": 73,
+      "matches_left": 18
     },
     {
       "j_name": "東京V",
@@ -30327,14 +30327,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 2,
-      "win_point": 30,
-      "wins": 9,
+      "win_point": 33,
+      "wins": 10,
       "draws": 3,
       "loses": 3,
-      "goals_for": 30,
-      "goals_against": 15,
+      "goals_for": 33,
+      "goals_against": 17,
       "max_win_point": 87,
-      "matches_left": 19
+      "matches_left": 18
     },
     {
       "j_name": "横浜FC",
@@ -30920,7 +30920,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 12,
+      "rank": 11,
       "win_point": 19,
       "wins": 5,
       "draws": 4,
@@ -31039,5 +31039,5 @@
       "matches_left": 27
     }
   ],
-  "updated_at": "2023-06-03T17:32:03+09:00"
+  "updated_at": "2023-06-03T17:36:04+09:00"
 }
