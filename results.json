@@ -1084,7 +1084,7 @@
         {
           "sec": 16,
           "date": "06/03(土)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j1",
           "score": "1-2",
           "opponent": "鳥栖",
@@ -3304,7 +3304,7 @@
         {
           "sec": 16,
           "date": "06/03(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "4-5",
           "opponent": "柏",
@@ -6408,7 +6408,7 @@
         {
           "sec": 16,
           "date": "06/03(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "4-5",
           "opponent": "札幌",
@@ -7296,7 +7296,7 @@
         {
           "sec": 16,
           "date": "06/03(土)",
-          "time": "18:30",
+          "time": "18:33",
           "division": "j1",
           "score": "1-2",
           "opponent": "横浜FC",
@@ -14253,13 +14253,13 @@
         {
           "sec": 19,
           "date": "06/03(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "徳島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "060316"
         },
@@ -15897,13 +15897,13 @@
         {
           "sec": 19,
           "date": "06/03(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "060316"
         },
@@ -30020,7 +30020,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 10,
+      "rank": 11,
       "win_point": 27,
       "wins": 7,
       "draws": 6,
@@ -30164,7 +30164,7 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 7,
+      "rank": 8,
       "win_point": 29,
       "wins": 8,
       "draws": 5,
@@ -30506,7 +30506,7 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 18,
+      "rank": 17,
       "win_point": 20,
       "wins": 6,
       "draws": 2,
@@ -30524,7 +30524,7 @@
       "league": "j2",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 8,
+      "rank": 9,
       "win_point": 28,
       "wins": 7,
       "draws": 7,
@@ -30758,15 +30758,15 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 11,
-      "win_point": 26,
-      "wins": 5,
+      "rank": 7,
+      "win_point": 29,
+      "wins": 6,
       "draws": 11,
       "loses": 2,
-      "goals_for": 23,
+      "goals_for": 25,
       "goals_against": 17,
       "max_win_point": 98,
-      "matches_left": 24
+      "matches_left": 23
     },
     {
       "j_name": "広島",
@@ -30830,15 +30830,15 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 17,
+      "rank": 18,
       "win_point": 20,
       "wins": 4,
       "draws": 8,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 19,
-      "goals_against": 26,
-      "max_win_point": 92,
-      "matches_left": 24
+      "goals_against": 28,
+      "max_win_point": 89,
+      "matches_left": 23
     },
     {
       "j_name": "愛媛",
@@ -30956,7 +30956,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 9,
+      "rank": 10,
       "win_point": 27,
       "wins": 7,
       "draws": 6,
@@ -31039,5 +31039,5 @@
       "matches_left": 26
     }
   ],
-  "updated_at": "2023-06-03T21:20:04+09:00"
+  "updated_at": "2023-06-03T21:30:04+09:00"
 }
