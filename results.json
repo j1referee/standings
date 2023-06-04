@@ -1972,13 +1972,13 @@
         {
           "sec": 16,
           "date": "06/04(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "広島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "060401"
         },
@@ -2860,13 +2860,13 @@
         {
           "sec": 16,
           "date": "06/04(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "京都",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "060401"
         },
@@ -30182,7 +30182,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 27,
       "wins": 8,
       "draws": 3,
@@ -30636,11 +30636,11 @@
       "win_point": 13,
       "wins": 4,
       "draws": 1,
-      "loses": 10,
-      "goals_for": 16,
-      "goals_against": 24,
-      "max_win_point": 70,
-      "matches_left": 19
+      "loses": 11,
+      "goals_for": 17,
+      "goals_against": 27,
+      "max_win_point": 67,
+      "matches_left": 18
     },
     {
       "j_name": "G大阪",
@@ -30776,15 +30776,15 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 5,
-      "win_point": 26,
-      "wins": 8,
+      "rank": 4,
+      "win_point": 29,
+      "wins": 9,
       "draws": 2,
       "loses": 5,
-      "goals_for": 19,
-      "goals_against": 14,
+      "goals_for": 22,
+      "goals_against": 15,
       "max_win_point": 83,
-      "matches_left": 19
+      "matches_left": 18
     },
     {
       "j_name": "山口",
@@ -31039,5 +31039,5 @@
       "matches_left": 26
     }
   ],
-  "updated_at": "2023-06-04T16:32:04+09:00"
+  "updated_at": "2023-06-04T16:36:04+09:00"
 }
