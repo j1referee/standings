@@ -23181,11 +23181,11 @@
           "date": "06/10(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "愛媛",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": true,
           "mid": "061004"
         },
@@ -29133,11 +29133,11 @@
           "date": "06/10(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-2",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "061004"
         },
@@ -29992,7 +29992,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 9,
+      "rank": 10,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
@@ -30010,7 +30010,7 @@
       "league": "j3",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 8,
+      "rank": 9,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -30370,15 +30370,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 11,
-      "win_point": 16,
-      "wins": 4,
+      "rank": 7,
+      "win_point": 19,
+      "wins": 5,
       "draws": 4,
       "loses": 4,
-      "goals_for": 17,
-      "goals_against": 19,
+      "goals_for": 20,
+      "goals_against": 21,
       "max_win_point": 94,
-      "matches_left": 26
+      "matches_left": 25
     },
     {
       "j_name": "湘南",
@@ -30442,7 +30442,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 7,
+      "rank": 8,
       "win_point": 18,
       "wins": 5,
       "draws": 3,
@@ -30622,7 +30622,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 10,
+      "rank": 11,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -30860,11 +30860,11 @@
       "win_point": 22,
       "wins": 6,
       "draws": 4,
-      "loses": 2,
-      "goals_for": 14,
-      "goals_against": 13,
-      "max_win_point": 100,
-      "matches_left": 26
+      "loses": 3,
+      "goals_for": 16,
+      "goals_against": 16,
+      "max_win_point": 97,
+      "matches_left": 25
     },
     {
       "j_name": "今治",
@@ -31047,5 +31047,5 @@
       "matches_left": 26
     }
   ],
-  "updated_at": "2023-06-10T19:02:04+09:00"
+  "updated_at": "2023-06-10T19:06:04+09:00"
 }
