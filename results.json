@@ -659,11 +659,11 @@
           "date": "06/10(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "4-3",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 4,
-          "goals_against": 3,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "061001"
         },
@@ -6431,11 +6431,11 @@
           "date": "06/10(土)",
           "time": "16:00",
           "division": "j1",
-          "score": "4-3",
+          "score": "vs",
           "opponent": "横浜FM",
-          "goals_for": 3,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "061001"
         },
@@ -30248,11 +30248,11 @@
       "win_point": 12,
       "wins": 2,
       "draws": 6,
-      "loses": 9,
-      "goals_for": 16,
-      "goals_against": 28,
-      "max_win_point": 63,
-      "matches_left": 17
+      "loses": 8,
+      "goals_for": 13,
+      "goals_against": 24,
+      "max_win_point": 66,
+      "matches_left": 18
     },
     {
       "j_name": "FC東京",
@@ -30334,15 +30334,15 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 1,
-      "win_point": 36,
-      "wins": 11,
+      "rank": 2,
+      "win_point": 33,
+      "wins": 10,
       "draws": 3,
       "loses": 3,
-      "goals_for": 37,
-      "goals_against": 20,
+      "goals_for": 33,
+      "goals_against": 17,
       "max_win_point": 87,
-      "matches_left": 17
+      "matches_left": 18
     },
     {
       "j_name": "横浜FC",
@@ -30730,7 +30730,7 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 2,
+      "rank": 1,
       "win_point": 33,
       "wins": 10,
       "draws": 3,
@@ -31047,5 +31047,5 @@
       "matches_left": 26
     }
   ],
-  "updated_at": "2023-06-10T18:32:03+09:00"
+  "updated_at": "2023-06-10T18:36:04+09:00"
 }
