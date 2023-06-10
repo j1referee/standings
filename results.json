@@ -263,6 +263,19 @@
           "mid": "071502"
         },
         {
+          "sec": 16,
+          "date": "07/22(土)",
+          "time": "19:00",
+          "division": "j1",
+          "score": "vs",
+          "opponent": "神戸",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "072225"
+        },
+        {
           "sec": 22,
           "date": "08/06(日)",
           "time": "19:00",
@@ -430,15 +443,6 @@
           "point": null,
           "home": false,
           "mid": "120309"
-        },
-        {
-          "sec": 16,
-          "date": "06/03(土)",
-          "time": " ",
-          "opponent": "神戸",
-          "point": "suspended",
-          "home": false,
-          "mid": "060301"
         }
       ],
       "横浜FM": [
@@ -1631,8 +1635,8 @@
         },
         {
           "sec": 24,
-          "date": "08/19(土)",
-          "time": "19:00",
+          "date": "08/18(金)",
+          "time": "19:30",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -1640,7 +1644,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "081903"
+          "mid": "081802"
         },
         {
           "sec": 25,
@@ -4295,8 +4299,8 @@
         },
         {
           "sec": 24,
-          "date": "08/19(土)",
-          "time": "19:00",
+          "date": "08/18(金)",
+          "time": "19:30",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -4304,7 +4308,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "081903"
+          "mid": "081802"
         },
         {
           "sec": 25,
@@ -4699,6 +4703,19 @@
           "mid": "071607"
         },
         {
+          "sec": 16,
+          "date": "07/22(土)",
+          "time": "19:00",
+          "division": "j1",
+          "score": "vs",
+          "opponent": "川崎F",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "072225"
+        },
+        {
           "sec": 22,
           "date": "08/06(日)",
           "time": "18:30",
@@ -4866,15 +4883,6 @@
           "point": null,
           "home": false,
           "mid": "120307"
-        },
-        {
-          "sec": 16,
-          "date": "06/03(土)",
-          "time": " ",
-          "opponent": "川崎F",
-          "point": "suspended",
-          "home": true,
-          "mid": "060301"
         }
       ],
       "福岡": [
@@ -31039,5 +31047,5 @@
       "matches_left": 26
     }
   ],
-  "updated_at": "2023-06-04T19:50:03+09:00"
+  "updated_at": "2023-06-10T18:00:04+09:00"
 }
