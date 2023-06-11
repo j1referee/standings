@@ -13728,11 +13728,11 @@
           "date": "06/11(日)",
           "time": "13:05",
           "division": "j2",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "仙台",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "061107"
         },
@@ -18660,11 +18660,11 @@
           "date": "06/11(日)",
           "time": "13:05",
           "division": "j2",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "061107"
         },
@@ -30032,11 +30032,11 @@
       "win_point": 30,
       "wins": 8,
       "draws": 6,
-      "loses": 5,
-      "goals_for": 24,
-      "goals_against": 18,
-      "max_win_point": 99,
-      "matches_left": 23
+      "loses": 6,
+      "goals_for": 26,
+      "goals_against": 21,
+      "max_win_point": 96,
+      "matches_left": 22
     },
     {
       "j_name": "秋田",
@@ -30424,7 +30424,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 5,
+      "rank": 6,
       "win_point": 32,
       "wins": 10,
       "draws": 2,
@@ -30550,15 +30550,15 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 6,
-      "win_point": 30,
-      "wins": 8,
+      "rank": 4,
+      "win_point": 33,
+      "wins": 9,
       "draws": 6,
       "loses": 5,
-      "goals_for": 31,
-      "goals_against": 22,
+      "goals_for": 34,
+      "goals_against": 24,
       "max_win_point": 99,
-      "matches_left": 23
+      "matches_left": 22
     },
     {
       "j_name": "藤枝",
@@ -30946,7 +30946,7 @@
       "league": "j2",
       "hash_tag": "#vvaren",
       "full_name": "Ｖ・ファーレン長崎",
-      "rank": 4,
+      "rank": 5,
       "win_point": 32,
       "wins": 9,
       "draws": 5,
@@ -31047,5 +31047,5 @@
       "matches_left": 26
     }
   ],
-  "updated_at": "2023-06-11T15:12:04+09:00"
+  "updated_at": "2023-06-11T15:16:04+09:00"
 }
