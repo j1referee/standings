@@ -9344,11 +9344,11 @@
           "date": "06/11(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "061117"
         },
@@ -19756,11 +19756,11 @@
           "date": "06/11(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "清水",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "061117"
         },
@@ -30028,7 +30028,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 7,
+      "rank": 8,
       "win_point": 30,
       "wins": 8,
       "draws": 6,
@@ -30172,7 +30172,7 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 9,
+      "rank": 10,
       "win_point": 29,
       "wins": 8,
       "draws": 5,
@@ -30532,15 +30532,15 @@
       "league": "j2",
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
-      "rank": 10,
-      "win_point": 28,
-      "wins": 7,
+      "rank": 7,
+      "win_point": 31,
+      "wins": 8,
       "draws": 7,
       "loses": 5,
-      "goals_for": 38,
+      "goals_for": 39,
       "goals_against": 16,
       "max_win_point": 97,
-      "matches_left": 23
+      "matches_left": 22
     },
     {
       "j_name": "磐田",
@@ -30766,7 +30766,7 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 8,
+      "rank": 9,
       "win_point": 29,
       "wins": 6,
       "draws": 11,
@@ -30968,11 +30968,11 @@
       "win_point": 27,
       "wins": 7,
       "draws": 6,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 27,
-      "goals_against": 20,
-      "max_win_point": 96,
-      "matches_left": 23
+      "goals_against": 21,
+      "max_win_point": 93,
+      "matches_left": 22
     },
     {
       "j_name": "大分",
@@ -31047,5 +31047,5 @@
       "matches_left": 25
     }
   ],
-  "updated_at": "2023-06-11T20:50:04+09:00"
+  "updated_at": "2023-06-11T21:00:04+09:00"
 }
