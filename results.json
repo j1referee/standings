@@ -1989,7 +1989,7 @@
         {
           "sec": 17,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "1-3",
           "opponent": "新潟",
@@ -5985,7 +5985,7 @@
         {
           "sec": 17,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "1-3",
           "opponent": "京都",
@@ -8794,7 +8794,7 @@
         {
           "sec": 20,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "3-0",
           "opponent": "いわき",
@@ -10440,11 +10440,11 @@
           "date": "06/11(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "4-1",
+          "score": "vs",
           "opponent": "町田",
-          "goals_for": 1,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "061110"
         },
@@ -12082,7 +12082,7 @@
         {
           "sec": 20,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "0-0",
           "opponent": "金沢",
@@ -12630,7 +12630,7 @@
         {
           "sec": 20,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "3-0",
           "opponent": "山形",
@@ -17562,7 +17562,7 @@
         {
           "sec": 20,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "0-0",
           "opponent": "秋田",
@@ -18112,11 +18112,11 @@
           "date": "06/11(日)",
           "time": "14:00",
           "division": "j2",
-          "score": "4-1",
+          "score": "vs",
           "opponent": "長崎",
-          "goals_for": 4,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "061110"
         },
@@ -20709,7 +20709,7 @@
         {
           "sec": 13,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "0-0",
           "opponent": "富山",
@@ -23675,7 +23675,7 @@
         {
           "sec": 13,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "0-0",
           "opponent": "鳥取",
@@ -27643,7 +27643,7 @@
         {
           "sec": 13,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j3",
           "score": "0-0",
           "opponent": "沼津",
@@ -28635,7 +28635,7 @@
         {
           "sec": 13,
           "date": "06/11(日)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j3",
           "score": "0-0",
           "opponent": "岐阜",
@@ -30299,14 +30299,14 @@
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
       "rank": 1,
-      "win_point": 45,
-      "wins": 14,
+      "win_point": 42,
+      "wins": 13,
       "draws": 3,
       "loses": 3,
-      "goals_for": 32,
-      "goals_against": 11,
+      "goals_for": 28,
+      "goals_against": 10,
       "max_win_point": 111,
-      "matches_left": 22
+      "matches_left": 23
     },
     {
       "j_name": "川崎F",
@@ -30950,11 +30950,11 @@
       "win_point": 32,
       "wins": 9,
       "draws": 5,
-      "loses": 6,
-      "goals_for": 28,
-      "goals_against": 21,
-      "max_win_point": 98,
-      "matches_left": 22
+      "loses": 5,
+      "goals_for": 27,
+      "goals_against": 17,
+      "max_win_point": 101,
+      "matches_left": 23
     },
     {
       "j_name": "熊本",
@@ -31047,5 +31047,5 @@
       "matches_left": 26
     }
   ],
-  "updated_at": "2023-06-11T16:16:04+09:00"
+  "updated_at": "2023-06-11T16:20:04+09:00"
 }
