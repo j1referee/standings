@@ -21696,13 +21696,13 @@
         {
           "sec": 13,
           "date": "06/11(日)",
-          "time": "15:00",
+          "time": "15:04",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "福島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "061120"
         },
@@ -26651,13 +26651,13 @@
         {
           "sec": 13,
           "date": "06/11(日)",
-          "time": "15:00",
+          "time": "15:04",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "FC大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "061120"
         },
@@ -30010,7 +30010,7 @@
       "league": "j3",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 11,
+      "rank": 12,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -30086,11 +30086,11 @@
       "win_point": 12,
       "wins": 3,
       "draws": 3,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 7,
-      "goals_against": 11,
-      "max_win_point": 90,
-      "matches_left": 26
+      "goals_against": 12,
+      "max_win_point": 87,
+      "matches_left": 25
     },
     {
       "j_name": "いわき",
@@ -30586,7 +30586,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 12,
+      "rank": 13,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
@@ -30694,15 +30694,15 @@
       "league": "j3",
       "hash_tag": "#fcosaka",
       "full_name": "ＦＣ大阪",
-      "rank": 15,
-      "win_point": 15,
-      "wins": 5,
+      "rank": 11,
+      "win_point": 18,
+      "wins": 6,
       "draws": 0,
       "loses": 7,
-      "goals_for": 9,
+      "goals_for": 10,
       "goals_against": 12,
       "max_win_point": 93,
-      "matches_left": 26
+      "matches_left": 25
     },
     {
       "j_name": "奈良",
@@ -30748,7 +30748,7 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 14,
+      "rank": 15,
       "win_point": 15,
       "wins": 3,
       "draws": 6,
@@ -31000,7 +31000,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 13,
+      "rank": 14,
       "win_point": 16,
       "wins": 4,
       "draws": 4,
@@ -31047,5 +31047,5 @@
       "matches_left": 26
     }
   ],
-  "updated_at": "2023-06-11T17:20:04+09:00"
+  "updated_at": "2023-06-11T17:30:04+09:00"
 }
