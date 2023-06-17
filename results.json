@@ -24184,13 +24184,13 @@
         {
           "sec": 14,
           "date": "06/17(土)",
-          "time": "17:00",
+          "time": "17:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "061706"
         },
@@ -26168,13 +26168,13 @@
         {
           "sec": 14,
           "date": "06/17(土)",
-          "time": "17:00",
+          "time": "17:03",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "061706"
         },
@@ -30010,7 +30010,7 @@
       "league": "j3",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 12,
+      "rank": 13,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -30586,7 +30586,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 14,
+      "rank": 15,
       "win_point": 17,
       "wins": 4,
       "draws": 5,
@@ -30875,14 +30875,14 @@
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
       "rank": 8,
-      "win_point": 19,
+      "win_point": 20,
       "wins": 5,
-      "draws": 4,
+      "draws": 5,
       "loses": 4,
-      "goals_for": 17,
-      "goals_against": 17,
-      "max_win_point": 94,
-      "matches_left": 25
+      "goals_for": 18,
+      "goals_against": 18,
+      "max_win_point": 92,
+      "matches_left": 24
     },
     {
       "j_name": "福岡",
@@ -31000,15 +31000,15 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 15,
-      "win_point": 17,
+      "rank": 12,
+      "win_point": 18,
       "wins": 4,
-      "draws": 5,
+      "draws": 6,
       "loses": 4,
-      "goals_for": 10,
-      "goals_against": 14,
-      "max_win_point": 92,
-      "matches_left": 25
+      "goals_for": 11,
+      "goals_against": 15,
+      "max_win_point": 90,
+      "matches_left": 24
     },
     {
       "j_name": "鹿児島",
@@ -31036,7 +31036,7 @@
       "league": "j3",
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
-      "rank": 13,
+      "rank": 14,
       "win_point": 17,
       "wins": 5,
       "draws": 2,
@@ -31047,5 +31047,5 @@
       "matches_left": 25
     }
   ],
-  "updated_at": "2023-06-17T19:20:04+09:00"
+  "updated_at": "2023-06-17T19:30:04+09:00"
 }
