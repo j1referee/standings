@@ -11001,11 +11001,11 @@
           "date": "06/18(日)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "061812"
         },
@@ -12645,11 +12645,11 @@
           "date": "06/18(日)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "千葉",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "061812"
         },
@@ -30101,14 +30101,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 21,
-      "win_point": 16,
+      "win_point": 17,
       "wins": 4,
-      "draws": 4,
+      "draws": 5,
       "loses": 12,
       "goals_for": 14,
       "goals_against": 37,
-      "max_win_point": 82,
-      "matches_left": 22
+      "max_win_point": 80,
+      "matches_left": 21
     },
     {
       "j_name": "鹿島",
@@ -30227,14 +30227,14 @@
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
       "rank": 17,
-      "win_point": 23,
+      "win_point": 24,
       "wins": 6,
-      "draws": 5,
+      "draws": 6,
       "loses": 9,
       "goals_for": 19,
       "goals_against": 28,
-      "max_win_point": 89,
-      "matches_left": 22
+      "max_win_point": 87,
+      "matches_left": 21
     },
     {
       "j_name": "柏",
@@ -31047,5 +31047,5 @@
       "matches_left": 25
     }
   ],
-  "updated_at": "2023-06-18T18:02:04+09:00"
+  "updated_at": "2023-06-18T18:06:04+09:00"
 }
