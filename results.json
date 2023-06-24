@@ -3336,11 +3336,11 @@
           "date": "06/24(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "1-4",
+          "score": "vs",
           "opponent": "C大阪",
-          "goals_for": 1,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "062401"
         },
@@ -5556,11 +5556,11 @@
           "date": "06/24(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "1-4",
+          "score": "vs",
           "opponent": "札幌",
-          "goals_for": 4,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "062401"
         },
@@ -12095,7 +12095,7 @@
         {
           "sec": 22,
           "date": "06/24(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "1-3",
           "opponent": "藤枝",
@@ -13204,7 +13204,7 @@
         {
           "sec": 22,
           "date": "06/24(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "1-3",
           "opponent": "秋田",
@@ -29978,11 +29978,11 @@
       "win_point": 26,
       "wins": 7,
       "draws": 5,
-      "loses": 6,
-      "goals_for": 39,
-      "goals_against": 36,
-      "max_win_point": 74,
-      "matches_left": 16
+      "loses": 5,
+      "goals_for": 38,
+      "goals_against": 32,
+      "max_win_point": 77,
+      "matches_left": 17
     },
     {
       "j_name": "八戸",
@@ -30190,7 +30190,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 5,
+      "rank": 4,
       "win_point": 29,
       "wins": 8,
       "draws": 5,
@@ -30676,15 +30676,15 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 4,
-      "win_point": 32,
-      "wins": 10,
+      "rank": 6,
+      "win_point": 29,
+      "wins": 9,
       "draws": 2,
       "loses": 6,
-      "goals_for": 27,
-      "goals_against": 20,
+      "goals_for": 23,
+      "goals_against": 19,
       "max_win_point": 80,
-      "matches_left": 16
+      "matches_left": 17
     },
     {
       "j_name": "FC大阪",
@@ -30784,7 +30784,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 6,
+      "rank": 5,
       "win_point": 29,
       "wins": 9,
       "draws": 2,
@@ -31047,5 +31047,5 @@
       "matches_left": 24
     }
   ],
-  "updated_at": "2023-06-24T16:16:04+09:00"
+  "updated_at": "2023-06-24T16:20:04+09:00"
 }
