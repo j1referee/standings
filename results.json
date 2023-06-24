@@ -21724,11 +21724,11 @@
           "date": "06/24(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "062418"
         },
@@ -23207,11 +23207,11 @@
           "date": "06/24(土)",
           "time": "17:00",
           "division": "j3",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "FC大阪",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "062418"
         },
@@ -30371,14 +30371,14 @@
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
       "rank": 12,
-      "win_point": 20,
+      "win_point": 19,
       "wins": 5,
-      "draws": 5,
+      "draws": 4,
       "loses": 5,
       "goals_for": 21,
       "goals_against": 24,
-      "max_win_point": 89,
-      "matches_left": 23
+      "max_win_point": 91,
+      "matches_left": 24
     },
     {
       "j_name": "湘南",
@@ -30622,7 +30622,7 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 8,
+      "rank": 7,
       "win_point": 21,
       "wins": 6,
       "draws": 3,
@@ -30694,15 +30694,15 @@
       "league": "j3",
       "hash_tag": "#fcosaka",
       "full_name": "ＦＣ大阪",
-      "rank": 6,
-      "win_point": 22,
+      "rank": 8,
+      "win_point": 21,
       "wins": 7,
-      "draws": 1,
+      "draws": 0,
       "loses": 7,
       "goals_for": 13,
       "goals_against": 12,
-      "max_win_point": 91,
-      "matches_left": 23
+      "max_win_point": 93,
+      "matches_left": 24
     },
     {
       "j_name": "奈良",
@@ -30712,7 +30712,7 @@
       "league": "j3",
       "hash_tag": "#naraclub",
       "full_name": "奈良クラブ",
-      "rank": 7,
+      "rank": 6,
       "win_point": 21,
       "wins": 5,
       "draws": 6,
@@ -31047,5 +31047,5 @@
       "matches_left": 24
     }
   ],
-  "updated_at": "2023-06-24T19:12:04+09:00"
+  "updated_at": "2023-06-24T19:16:04+09:00"
 }
