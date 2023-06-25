@@ -4655,11 +4655,11 @@
           "date": "06/25(日)",
           "time": "19:00",
           "division": "j1",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 3,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "062501"
         },
@@ -5112,11 +5112,11 @@
           "date": "06/25(日)",
           "time": "19:00",
           "division": "j1",
-          "score": "0-3",
+          "score": "vs",
           "opponent": "神戸",
-          "goals_for": 0,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "062501"
         },
@@ -13741,11 +13741,11 @@
           "date": "06/25(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "062503"
         },
@@ -19782,11 +19782,11 @@
           "date": "06/25(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "062503"
         },
@@ -30424,7 +30424,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 5,
+      "rank": 6,
       "win_point": 36,
       "wins": 11,
       "draws": 3,
@@ -30550,15 +30550,15 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 6,
-      "win_point": 33,
-      "wins": 9,
+      "rank": 5,
+      "win_point": 36,
+      "wins": 10,
       "draws": 6,
       "loses": 5,
-      "goals_for": 34,
+      "goals_for": 36,
       "goals_against": 24,
       "max_win_point": 99,
-      "matches_left": 22
+      "matches_left": 21
     },
     {
       "j_name": "藤枝",
@@ -30604,7 +30604,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 3,
+      "rank": 2,
       "win_point": 35,
       "wins": 10,
       "draws": 5,
@@ -30730,15 +30730,15 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 2,
-      "win_point": 36,
-      "wins": 11,
+      "rank": 3,
+      "win_point": 33,
+      "wins": 10,
       "draws": 3,
       "loses": 3,
-      "goals_for": 36,
+      "goals_for": 33,
       "goals_against": 13,
       "max_win_point": 87,
-      "matches_left": 17
+      "matches_left": 18
     },
     {
       "j_name": "鳥取",
@@ -30896,11 +30896,11 @@
       "win_point": 20,
       "wins": 5,
       "draws": 5,
-      "loses": 8,
+      "loses": 7,
       "goals_for": 17,
-      "goals_against": 25,
-      "max_win_point": 68,
-      "matches_left": 16
+      "goals_against": 22,
+      "max_win_point": 71,
+      "matches_left": 17
     },
     {
       "j_name": "北九州",
@@ -30968,11 +30968,11 @@
       "win_point": 30,
       "wins": 8,
       "draws": 6,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 31,
-      "goals_against": 21,
-      "max_win_point": 93,
-      "matches_left": 21
+      "goals_against": 23,
+      "max_win_point": 90,
+      "matches_left": 20
     },
     {
       "j_name": "大分",
@@ -31047,5 +31047,5 @@
       "matches_left": 23
     }
   ],
-  "updated_at": "2023-06-25T21:00:05+09:00"
+  "updated_at": "2023-06-25T21:02:04+09:00"
 }
