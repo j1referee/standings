@@ -4655,11 +4655,11 @@
           "date": "06/25(日)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-3",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "062501"
         },
@@ -5112,11 +5112,11 @@
           "date": "06/25(日)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-3",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "062501"
         },
@@ -30604,7 +30604,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 2,
+      "rank": 3,
       "win_point": 35,
       "wins": 10,
       "draws": 5,
@@ -30730,15 +30730,15 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 3,
-      "win_point": 33,
-      "wins": 10,
+      "rank": 2,
+      "win_point": 36,
+      "wins": 11,
       "draws": 3,
       "loses": 3,
-      "goals_for": 33,
+      "goals_for": 36,
       "goals_against": 13,
       "max_win_point": 87,
-      "matches_left": 18
+      "matches_left": 17
     },
     {
       "j_name": "鳥取",
@@ -30896,11 +30896,11 @@
       "win_point": 20,
       "wins": 5,
       "draws": 5,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 17,
-      "goals_against": 22,
-      "max_win_point": 71,
-      "matches_left": 17
+      "goals_against": 25,
+      "max_win_point": 68,
+      "matches_left": 16
     },
     {
       "j_name": "北九州",
@@ -31047,5 +31047,5 @@
       "matches_left": 23
     }
   ],
-  "updated_at": "2023-06-25T20:30:05+09:00"
+  "updated_at": "2023-06-25T21:00:05+09:00"
 }
