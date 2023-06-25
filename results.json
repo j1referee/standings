@@ -4653,7 +4653,7 @@
         {
           "sec": 18,
           "date": "06/25(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "0-3",
           "opponent": "福岡",
@@ -5110,7 +5110,7 @@
         {
           "sec": 18,
           "date": "06/25(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "0-3",
           "opponent": "神戸",
@@ -13739,13 +13739,13 @@
         {
           "sec": 22,
           "date": "06/25(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "062503"
         },
@@ -19780,13 +19780,13 @@
         {
           "sec": 22,
           "date": "06/25(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "062503"
         },
@@ -30424,7 +30424,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 5,
+      "rank": 6,
       "win_point": 36,
       "wins": 11,
       "draws": 3,
@@ -30550,15 +30550,15 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 6,
-      "win_point": 33,
-      "wins": 9,
+      "rank": 5,
+      "win_point": 36,
+      "wins": 10,
       "draws": 6,
       "loses": 5,
-      "goals_for": 34,
+      "goals_for": 36,
       "goals_against": 24,
       "max_win_point": 99,
-      "matches_left": 22
+      "matches_left": 21
     },
     {
       "j_name": "藤枝",
@@ -30968,11 +30968,11 @@
       "win_point": 30,
       "wins": 8,
       "draws": 6,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 31,
-      "goals_against": 21,
-      "max_win_point": 93,
-      "matches_left": 21
+      "goals_against": 23,
+      "max_win_point": 90,
+      "matches_left": 20
     },
     {
       "j_name": "大分",
@@ -31047,5 +31047,5 @@
       "matches_left": 23
     }
   ],
-  "updated_at": "2023-06-25T21:16:04+09:00"
+  "updated_at": "2023-06-25T21:20:04+09:00"
 }
