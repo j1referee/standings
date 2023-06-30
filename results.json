@@ -5125,11 +5125,11 @@
           "date": "06/30(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "063001"
         },
@@ -5569,11 +5569,11 @@
           "date": "06/30(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "063001"
         },
@@ -30262,7 +30262,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 11,
+      "rank": 12,
       "win_point": 22,
       "wins": 6,
       "draws": 4,
@@ -30680,11 +30680,11 @@
       "win_point": 32,
       "wins": 10,
       "draws": 2,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 27,
-      "goals_against": 20,
-      "max_win_point": 80,
-      "matches_left": 16
+      "goals_against": 21,
+      "max_win_point": 77,
+      "matches_left": 15
     },
     {
       "j_name": "FC大阪",
@@ -30892,15 +30892,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 12,
-      "win_point": 20,
-      "wins": 5,
+      "rank": 11,
+      "win_point": 23,
+      "wins": 6,
       "draws": 5,
       "loses": 8,
-      "goals_for": 17,
+      "goals_for": 18,
       "goals_against": 25,
       "max_win_point": 68,
-      "matches_left": 16
+      "matches_left": 15
     },
     {
       "j_name": "北九州",
@@ -31047,5 +31047,5 @@
       "matches_left": 23
     }
   ],
-  "updated_at": "2023-06-28T22:00:04+09:00"
+  "updated_at": "2023-06-30T21:02:03+09:00"
 }
