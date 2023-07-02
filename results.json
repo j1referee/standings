@@ -12123,11 +12123,11 @@
           "date": "07/02(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "070202"
         },
@@ -12671,11 +12671,11 @@
           "date": "07/02(日)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "秋田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "070202"
         },
@@ -30046,15 +30046,15 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 14,
-      "win_point": 30,
+      "rank": 13,
+      "win_point": 31,
       "wins": 8,
-      "draws": 6,
+      "draws": 7,
       "loses": 8,
-      "goals_for": 18,
-      "goals_against": 21,
-      "max_win_point": 90,
-      "matches_left": 20
+      "goals_for": 19,
+      "goals_against": 22,
+      "max_win_point": 88,
+      "matches_left": 19
     },
     {
       "j_name": "山形",
@@ -30101,14 +30101,14 @@
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
       "rank": 21,
-      "win_point": 20,
+      "win_point": 21,
       "wins": 5,
-      "draws": 5,
+      "draws": 6,
       "loses": 12,
-      "goals_for": 19,
-      "goals_against": 38,
-      "max_win_point": 80,
-      "matches_left": 20
+      "goals_for": 20,
+      "goals_against": 39,
+      "max_win_point": 78,
+      "matches_left": 19
     },
     {
       "j_name": "鹿島",
@@ -30964,7 +30964,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 13,
+      "rank": 14,
       "win_point": 30,
       "wins": 8,
       "draws": 6,
@@ -31047,5 +31047,5 @@
       "matches_left": 22
     }
   ],
-  "updated_at": "2023-07-02T18:30:04+09:00"
+  "updated_at": "2023-07-02T20:00:04+09:00"
 }
