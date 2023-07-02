@@ -683,13 +683,13 @@
         {
           "sec": 19,
           "date": "07/02(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "070201"
         },
@@ -7787,13 +7787,13 @@
         {
           "sec": 19,
           "date": "07/02(日)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "070201"
         },
@@ -30335,14 +30335,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 1,
-      "win_point": 39,
-      "wins": 12,
+      "win_point": 42,
+      "wins": 13,
       "draws": 3,
       "loses": 3,
-      "goals_for": 38,
-      "goals_against": 20,
+      "goals_for": 42,
+      "goals_against": 21,
       "max_win_point": 87,
-      "matches_left": 16
+      "matches_left": 15
     },
     {
       "j_name": "横浜FC",
@@ -30392,11 +30392,11 @@
       "win_point": 12,
       "wins": 2,
       "draws": 6,
-      "loses": 10,
-      "goals_for": 24,
-      "goals_against": 38,
-      "max_win_point": 60,
-      "matches_left": 16
+      "loses": 11,
+      "goals_for": 25,
+      "goals_against": 42,
+      "max_win_point": 57,
+      "matches_left": 15
     },
     {
       "j_name": "相模原",
@@ -31047,5 +31047,5 @@
       "matches_left": 22
     }
   ],
-  "updated_at": "2023-07-02T21:20:04+09:00"
+  "updated_at": "2023-07-02T21:30:04+09:00"
 }
