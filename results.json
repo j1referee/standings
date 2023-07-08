@@ -5582,11 +5582,11 @@
           "date": "07/08(土)",
           "time": "19:30",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "鳥栖",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "070808"
         },
@@ -7358,11 +7358,11 @@
           "date": "07/08(土)",
           "time": "19:30",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "C大阪",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "070808"
         },
@@ -29974,7 +29974,7 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 10,
+      "rank": 9,
       "win_point": 27,
       "wins": 7,
       "draws": 6,
@@ -30316,7 +30316,7 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 9,
+      "rank": 8,
       "win_point": 28,
       "wins": 8,
       "draws": 4,
@@ -30680,11 +30680,11 @@
       "win_point": 32,
       "wins": 10,
       "draws": 2,
-      "loses": 8,
-      "goals_for": 28,
-      "goals_against": 23,
-      "max_win_point": 74,
-      "matches_left": 14
+      "loses": 7,
+      "goals_for": 27,
+      "goals_against": 21,
+      "max_win_point": 77,
+      "matches_left": 15
     },
     {
       "j_name": "FC大阪",
@@ -30928,15 +30928,15 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 8,
-      "win_point": 29,
-      "wins": 8,
+      "rank": 10,
+      "win_point": 26,
+      "wins": 7,
       "draws": 5,
       "loses": 7,
-      "goals_for": 28,
-      "goals_against": 24,
+      "goals_for": 26,
+      "goals_against": 23,
       "max_win_point": 71,
-      "matches_left": 14
+      "matches_left": 15
     },
     {
       "j_name": "長崎",
@@ -31047,5 +31047,5 @@
       "matches_left": 21
     }
   ],
-  "updated_at": "2023-07-08T22:00:05+09:00"
+  "updated_at": "2023-07-08T22:02:04+09:00"
 }
