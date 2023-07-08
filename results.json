@@ -698,11 +698,11 @@
           "date": "07/08(土)",
           "time": "18:00",
           "division": "j1",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "名古屋",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "070801"
         },
@@ -1586,11 +1586,11 @@
           "date": "07/08(土)",
           "time": "18:00",
           "division": "j1",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "横浜FM",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "070801"
         },
@@ -27201,11 +27201,11 @@
           "date": "07/08(土)",
           "time": "18:00",
           "division": "j3",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "岩手",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "070811"
         },
@@ -29681,11 +29681,11 @@
           "date": "07/08(土)",
           "time": "18:00",
           "division": "j3",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "北九州",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "070811"
         },
@@ -30014,11 +30014,11 @@
       "win_point": 21,
       "wins": 6,
       "draws": 3,
-      "loses": 8,
+      "loses": 7,
       "goals_for": 21,
-      "goals_against": 20,
-      "max_win_point": 84,
-      "matches_left": 21
+      "goals_against": 19,
+      "max_win_point": 87,
+      "matches_left": 22
     },
     {
       "j_name": "仙台",
@@ -30335,14 +30335,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 1,
-      "win_point": 43,
+      "win_point": 42,
       "wins": 13,
-      "draws": 4,
+      "draws": 3,
       "loses": 3,
-      "goals_for": 44,
-      "goals_against": 23,
-      "max_win_point": 85,
-      "matches_left": 14
+      "goals_for": 42,
+      "goals_against": 21,
+      "max_win_point": 87,
+      "matches_left": 15
     },
     {
       "j_name": "横浜FC",
@@ -30605,14 +30605,14 @@
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
       "rank": 3,
-      "win_point": 39,
+      "win_point": 38,
       "wins": 11,
-      "draws": 6,
+      "draws": 5,
       "loses": 3,
-      "goals_for": 29,
-      "goals_against": 18,
-      "max_win_point": 81,
-      "matches_left": 14
+      "goals_for": 27,
+      "goals_against": 16,
+      "max_win_point": 83,
+      "matches_left": 15
     },
     {
       "j_name": "岐阜",
@@ -30911,14 +30911,14 @@
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
       "rank": 19,
-      "win_point": 14,
-      "wins": 3,
+      "win_point": 11,
+      "wins": 2,
       "draws": 5,
       "loses": 9,
-      "goals_for": 16,
+      "goals_for": 15,
       "goals_against": 23,
       "max_win_point": 77,
-      "matches_left": 21
+      "matches_left": 22
     },
     {
       "j_name": "鳥栖",
@@ -31047,5 +31047,5 @@
       "matches_left": 22
     }
   ],
-  "updated_at": "2023-07-08T20:06:04+09:00"
+  "updated_at": "2023-07-08T20:12:03+09:00"
 }
