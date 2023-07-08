@@ -2474,11 +2474,11 @@
           "date": "07/08(土)",
           "time": "18:30",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "広島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "070802"
         },
@@ -2918,11 +2918,11 @@
           "date": "07/08(土)",
           "time": "18:30",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "鹿島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "070802"
         },
@@ -30119,14 +30119,14 @@
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
       "rank": 6,
-      "win_point": 29,
+      "win_point": 30,
       "wins": 8,
-      "draws": 5,
+      "draws": 6,
       "loses": 6,
-      "goals_for": 24,
-      "goals_against": 18,
-      "max_win_point": 74,
-      "matches_left": 15
+      "goals_for": 25,
+      "goals_against": 19,
+      "max_win_point": 72,
+      "matches_left": 14
     },
     {
       "j_name": "水戸",
@@ -30785,14 +30785,14 @@
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
       "rank": 7,
-      "win_point": 29,
+      "win_point": 30,
       "wins": 9,
-      "draws": 2,
+      "draws": 3,
       "loses": 8,
-      "goals_for": 22,
-      "goals_against": 19,
-      "max_win_point": 74,
-      "matches_left": 15
+      "goals_for": 23,
+      "goals_against": 20,
+      "max_win_point": 72,
+      "matches_left": 14
     },
     {
       "j_name": "山口",
@@ -31047,5 +31047,5 @@
       "matches_left": 22
     }
   ],
-  "updated_at": "2023-07-08T20:20:04+09:00"
+  "updated_at": "2023-07-08T20:30:05+09:00"
 }
