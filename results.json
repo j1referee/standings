@@ -23729,11 +23729,11 @@
           "date": "07/09(日)",
           "time": "19:00",
           "division": "j3",
-          "score": "4-3",
+          "score": "vs",
           "opponent": "愛媛",
-          "goals_for": 3,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "070915"
         },
@@ -29185,11 +29185,11 @@
           "date": "07/09(日)",
           "time": "19:00",
           "division": "j3",
-          "score": "4-3",
+          "score": "vs",
           "opponent": "富山",
-          "goals_for": 4,
-          "goals_against": 3,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "070915"
         },
@@ -30496,15 +30496,15 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 3,
+      "rank": 2,
       "win_point": 30,
       "wins": 9,
       "draws": 3,
-      "loses": 5,
-      "goals_for": 29,
-      "goals_against": 21,
-      "max_win_point": 93,
-      "matches_left": 21
+      "loses": 4,
+      "goals_for": 26,
+      "goals_against": 17,
+      "max_win_point": 96,
+      "matches_left": 22
     },
     {
       "j_name": "金沢",
@@ -30856,15 +30856,15 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 1,
-      "win_point": 32,
-      "wins": 9,
+      "rank": 3,
+      "win_point": 29,
+      "wins": 8,
       "draws": 5,
       "loses": 3,
-      "goals_for": 24,
-      "goals_against": 21,
+      "goals_for": 20,
+      "goals_against": 18,
       "max_win_point": 95,
-      "matches_left": 21
+      "matches_left": 22
     },
     {
       "j_name": "今治",
@@ -31018,7 +31018,7 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 2,
+      "rank": 1,
       "win_point": 31,
       "wins": 9,
       "draws": 4,
@@ -31047,5 +31047,5 @@
       "matches_left": 21
     }
   ],
-  "updated_at": "2023-07-09T21:30:04+09:00"
+  "updated_at": "2023-07-09T21:32:04+09:00"
 }
