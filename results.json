@@ -3375,11 +3375,11 @@
           "date": "07/15(土)",
           "time": "13:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "新潟",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "071501"
         },
@@ -6039,11 +6039,11 @@
           "date": "07/15(土)",
           "time": "13:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "071501"
         },
@@ -29978,11 +29978,11 @@
       "win_point": 27,
       "wins": 7,
       "draws": 6,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 41,
-      "goals_against": 39,
-      "max_win_point": 69,
-      "matches_left": 14
+      "goals_against": 40,
+      "max_win_point": 66,
+      "matches_left": 13
     },
     {
       "j_name": "八戸",
@@ -30478,15 +30478,15 @@
       "league": "j1",
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
-      "rank": 14,
-      "win_point": 21,
-      "wins": 5,
+      "rank": 13,
+      "win_point": 24,
+      "wins": 6,
       "draws": 6,
       "loses": 9,
-      "goals_for": 21,
+      "goals_for": 22,
       "goals_against": 29,
       "max_win_point": 63,
-      "matches_left": 14
+      "matches_left": 13
     },
     {
       "j_name": "富山",
@@ -30658,7 +30658,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 13,
+      "rank": 14,
       "win_point": 23,
       "wins": 6,
       "draws": 5,
@@ -31047,5 +31047,5 @@
       "matches_left": 21
     }
   ],
-  "updated_at": "2023-07-15T15:12:04+09:00"
+  "updated_at": "2023-07-15T15:16:04+09:00"
 }
