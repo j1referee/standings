@@ -12158,19 +12158,6 @@
           "mid": "070901"
         },
         {
-          "sec": 26,
-          "date": "07/16(日)",
-          "time": "18:00",
-          "division": "j2",
-          "score": "vs",
-          "opponent": "町田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": true,
-          "mid": "071608"
-        },
-        {
           "sec": 27,
           "date": "07/22(土)",
           "time": "19:00",
@@ -12377,6 +12364,15 @@
           "point": null,
           "home": true,
           "mid": "111202"
+        },
+        {
+          "sec": 26,
+          "date": "07/16(日)",
+          "time": " ",
+          "opponent": "町田",
+          "point": "suspended",
+          "home": true,
+          "mid": "071608"
         }
       ],
       "いわき": [
@@ -18186,19 +18182,6 @@
           "mid": "070904"
         },
         {
-          "sec": 26,
-          "date": "07/16(日)",
-          "time": "18:00",
-          "division": "j2",
-          "score": "vs",
-          "opponent": "秋田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": false,
-          "mid": "071608"
-        },
-        {
           "sec": 27,
           "date": "07/22(土)",
           "time": "18:00",
@@ -18405,6 +18388,15 @@
           "point": null,
           "home": false,
           "mid": "111201"
+        },
+        {
+          "sec": 26,
+          "date": "07/16(日)",
+          "time": " ",
+          "opponent": "秋田",
+          "point": "suspended",
+          "home": false,
+          "mid": "071608"
         }
       ],
       "仙台": [
@@ -21272,11 +21264,11 @@
           "date": "07/16(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "071620"
         },
@@ -28702,11 +28694,11 @@
           "date": "07/16(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "鹿児島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "071620"
         },
@@ -30586,15 +30578,15 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 6,
-      "win_point": 27,
-      "wins": 7,
+      "rank": 4,
+      "win_point": 30,
+      "wins": 8,
       "draws": 6,
       "loses": 4,
-      "goals_for": 21,
+      "goals_for": 23,
       "goals_against": 18,
       "max_win_point": 90,
-      "matches_left": 21
+      "matches_left": 20
     },
     {
       "j_name": "名古屋",
@@ -30712,7 +30704,7 @@
       "league": "j3",
       "hash_tag": "#naraclub",
       "full_name": "奈良クラブ",
-      "rank": 5,
+      "rank": 6,
       "win_point": 27,
       "wins": 7,
       "draws": 6,
@@ -30874,7 +30866,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 4,
+      "rank": 5,
       "win_point": 28,
       "wins": 7,
       "draws": 7,
@@ -31022,11 +31014,11 @@
       "win_point": 31,
       "wins": 9,
       "draws": 4,
-      "loses": 4,
+      "loses": 5,
       "goals_for": 26,
-      "goals_against": 16,
-      "max_win_point": 94,
-      "matches_left": 21
+      "goals_against": 18,
+      "max_win_point": 91,
+      "matches_left": 20
     },
     {
       "j_name": "琉球",
@@ -31047,5 +31039,5 @@
       "matches_left": 20
     }
   ],
-  "updated_at": "2023-07-15T21:50:04+09:00"
+  "updated_at": "2023-07-16T19:00:04+09:00"
 }
