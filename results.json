@@ -8324,13 +8324,13 @@
         {
           "sec": 26,
           "date": "07/16(日)",
-          "time": "18:00",
+          "time": "18:05",
           "division": "j2",
-          "score": "vs",
+          "score": "0-3",
           "opponent": "群馬",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "071610"
         },
@@ -11612,13 +11612,13 @@
         {
           "sec": 26,
           "date": "07/16(日)",
-          "time": "18:00",
+          "time": "18:05",
           "division": "j2",
-          "score": "vs",
+          "score": "0-3",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "071610"
         },
@@ -30165,14 +30165,14 @@
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
       "rank": 8,
-      "win_point": 36,
-      "wins": 9,
+      "win_point": 39,
+      "wins": 10,
       "draws": 9,
       "loses": 7,
-      "goals_for": 28,
+      "goals_for": 31,
       "goals_against": 27,
       "max_win_point": 87,
-      "matches_left": 17
+      "matches_left": 16
     },
     {
       "j_name": "浦和",
@@ -30420,11 +30420,11 @@
       "win_point": 43,
       "wins": 13,
       "draws": 4,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 40,
-      "goals_against": 26,
-      "max_win_point": 94,
-      "matches_left": 17
+      "goals_against": 29,
+      "max_win_point": 91,
+      "matches_left": 16
     },
     {
       "j_name": "松本",
@@ -31039,5 +31039,5 @@
       "matches_left": 20
     }
   ],
-  "updated_at": "2023-07-16T20:42:04+09:00"
+  "updated_at": "2023-07-16T20:50:04+09:00"
 }
