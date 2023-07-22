@@ -330,7 +330,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -342,8 +342,8 @@
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
-          "time": "",
+          "date": "09/15(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -351,12 +351,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "091604"
+          "mid": "091501"
         },
         {
           "sec": 28,
-          "date": "09/23(土・祝)",
-          "time": "",
+          "date": "09/24(日)",
+          "time": "16:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -364,7 +364,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "092305"
+          "mid": "092412"
         },
         {
           "sec": 29,
@@ -394,8 +394,8 @@
         },
         {
           "sec": 31,
-          "date": "10/28(土)",
-          "time": "",
+          "date": "10/29(日)",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -403,7 +403,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "102803"
+          "mid": "102918"
         },
         {
           "sec": 32,
@@ -421,7 +421,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -434,7 +434,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -774,7 +774,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -787,7 +787,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -799,8 +799,8 @@
         },
         {
           "sec": 28,
-          "date": "09/23(土・祝)",
-          "time": "",
+          "date": "09/24(日)",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -808,12 +808,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "092302"
+          "mid": "092411"
         },
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "16:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -826,7 +826,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -839,7 +839,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -852,7 +852,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -865,7 +865,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -878,7 +878,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -1218,7 +1218,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -1230,8 +1230,8 @@
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
-          "time": "",
+          "date": "09/17(日)",
+          "time": "18:30",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -1239,12 +1239,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "091606"
+          "mid": "091713"
         },
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -1257,7 +1257,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -1270,7 +1270,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -1283,7 +1283,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -1296,7 +1296,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -1309,7 +1309,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -1322,7 +1322,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -1662,7 +1662,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -1675,7 +1675,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -1688,7 +1688,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "16:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -1701,7 +1701,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -1714,7 +1714,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -1727,7 +1727,7 @@
         {
           "sec": 31,
           "date": "10/27(金)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -1740,7 +1740,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -1753,7 +1753,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -1766,7 +1766,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -2105,8 +2105,8 @@
         },
         {
           "sec": 26,
-          "date": "09/02(土)",
-          "time": "",
+          "date": "09/03(日)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -2114,12 +2114,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "090208"
+          "mid": "090316"
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
-          "time": "",
+          "date": "09/15(金)",
+          "time": "19:30",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -2127,12 +2127,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "091603"
+          "mid": "091502"
         },
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -2145,7 +2145,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -2158,7 +2158,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -2171,7 +2171,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -2197,7 +2197,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -2210,7 +2210,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -2550,7 +2550,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -2563,7 +2563,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -2575,8 +2575,8 @@
         },
         {
           "sec": 28,
-          "date": "09/23(土・祝)",
-          "time": "",
+          "date": "09/24(日)",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -2584,12 +2584,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "092302"
+          "mid": "092411"
         },
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -2602,7 +2602,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -2615,7 +2615,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -2628,7 +2628,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -2641,7 +2641,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -2654,7 +2654,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -2994,7 +2994,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -3007,7 +3007,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -3020,7 +3020,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -3033,7 +3033,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -3046,7 +3046,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "16:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -3059,7 +3059,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -3072,7 +3072,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -3085,7 +3085,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -3098,7 +3098,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -3438,7 +3438,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -3451,7 +3451,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -3464,7 +3464,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "16:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -3477,7 +3477,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -3490,7 +3490,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -3503,7 +3503,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -3516,7 +3516,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -3529,7 +3529,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -3542,7 +3542,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -3881,8 +3881,8 @@
         },
         {
           "sec": 26,
-          "date": "09/02(土)",
-          "time": "",
+          "date": "09/03(日)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -3890,12 +3890,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "090203"
+          "mid": "090315"
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
-          "time": "",
+          "date": "09/15(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -3903,12 +3903,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "091604"
+          "mid": "091501"
         },
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -3920,8 +3920,8 @@
         },
         {
           "sec": 29,
-          "date": "09/30(土)",
-          "time": "",
+          "date": "10/01(日)",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -3929,12 +3929,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "093003"
+          "mid": "100119"
         },
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -3947,7 +3947,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -3960,7 +3960,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -3973,7 +3973,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -3986,7 +3986,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -4326,7 +4326,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -4338,8 +4338,8 @@
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
-          "time": "",
+          "date": "09/15(金)",
+          "time": "19:30",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -4347,12 +4347,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "091603"
+          "mid": "091502"
         },
         {
           "sec": 28,
-          "date": "09/23(土・祝)",
-          "time": "",
+          "date": "09/24(日)",
+          "time": "17:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -4360,12 +4360,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "092309"
+          "mid": "092413"
         },
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -4378,7 +4378,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -4391,7 +4391,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -4404,7 +4404,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -4417,7 +4417,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -4430,7 +4430,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -4769,8 +4769,8 @@
         },
         {
           "sec": 26,
-          "date": "09/02(土)",
-          "time": "",
+          "date": "09/03(日)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -4778,12 +4778,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "090208"
+          "mid": "090316"
         },
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -4796,7 +4796,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -4809,7 +4809,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "16:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -4822,7 +4822,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -4835,7 +4835,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -4848,7 +4848,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -4861,7 +4861,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -4874,7 +4874,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -5213,8 +5213,8 @@
         },
         {
           "sec": 26,
-          "date": "09/02(土)",
-          "time": "",
+          "date": "09/03(日)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -5222,12 +5222,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "090203"
+          "mid": "090315"
         },
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -5240,7 +5240,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -5253,7 +5253,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -5279,7 +5279,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -5292,7 +5292,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -5305,7 +5305,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -5318,7 +5318,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -5658,7 +5658,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -5671,7 +5671,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -5684,7 +5684,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -5697,7 +5697,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j1",
           "score": "vs",
           "opponent": "湘南",
@@ -5710,7 +5710,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "16:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -5723,7 +5723,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -5736,7 +5736,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -5749,7 +5749,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -5762,7 +5762,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -6102,7 +6102,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -6114,8 +6114,8 @@
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
-          "time": "",
+          "date": "09/17(日)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "G大阪",
@@ -6123,12 +6123,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "091607"
+          "mid": "091714"
         },
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -6154,7 +6154,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -6167,7 +6167,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -6180,7 +6180,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -6193,7 +6193,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -6206,7 +6206,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -6546,7 +6546,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -6558,8 +6558,8 @@
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
-          "time": "",
+          "date": "09/17(日)",
+          "time": "18:30",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -6567,12 +6567,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "091606"
+          "mid": "091713"
         },
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -6585,7 +6585,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -6598,7 +6598,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -6610,8 +6610,8 @@
         },
         {
           "sec": 31,
-          "date": "10/28(土)",
-          "time": "",
+          "date": "10/29(日)",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -6619,12 +6619,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "102803"
+          "mid": "102918"
         },
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -6637,7 +6637,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鳥栖",
@@ -6650,7 +6650,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -6990,7 +6990,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -7002,8 +7002,8 @@
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
-          "time": "",
+          "date": "09/17(日)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -7011,12 +7011,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "091607"
+          "mid": "091714"
         },
         {
           "sec": 28,
-          "date": "09/23(土・祝)",
-          "time": "",
+          "date": "09/24(日)",
+          "time": "17:00",
           "division": "j1",
           "score": "vs",
           "opponent": "浦和",
@@ -7024,12 +7024,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "092309"
+          "mid": "092413"
         },
         {
           "sec": 29,
-          "date": "09/30(土)",
-          "time": "",
+          "date": "10/01(日)",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -7037,12 +7037,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "093003"
+          "mid": "100119"
         },
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -7055,7 +7055,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -7068,7 +7068,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -7081,7 +7081,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -7094,7 +7094,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -7434,7 +7434,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "広島",
@@ -7447,7 +7447,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -7460,7 +7460,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -7473,7 +7473,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -7486,7 +7486,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -7499,7 +7499,7 @@
         {
           "sec": 31,
           "date": "10/27(金)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -7512,7 +7512,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -7525,7 +7525,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "柏",
@@ -7538,7 +7538,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -7878,7 +7878,7 @@
         {
           "sec": 26,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -7891,7 +7891,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "札幌",
@@ -7903,8 +7903,8 @@
         },
         {
           "sec": 28,
-          "date": "09/23(土・祝)",
-          "time": "",
+          "date": "09/24(日)",
+          "time": "16:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -7912,12 +7912,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "092305"
+          "mid": "092412"
         },
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j1",
           "score": "vs",
           "opponent": "C大阪",
@@ -7930,7 +7930,7 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -7943,7 +7943,7 @@
         {
           "sec": 31,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -7956,7 +7956,7 @@
         {
           "sec": 32,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "名古屋",
@@ -7969,7 +7969,7 @@
         {
           "sec": 33,
           "date": "11/25(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FC",
@@ -7982,7 +7982,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "FC東京",
@@ -8415,7 +8415,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -8428,7 +8428,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -8441,7 +8441,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "16:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -8454,7 +8454,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -8467,7 +8467,7 @@
         {
           "sec": 37,
           "date": "09/30(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -8480,7 +8480,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -8493,7 +8493,7 @@
         {
           "sec": 39,
           "date": "10/20(金)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -8506,7 +8506,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -8519,7 +8519,7 @@
         {
           "sec": 41,
           "date": "11/03(金・祝)",
-          "time": "",
+          "time": "13:05",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -8532,7 +8532,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -8963,7 +8963,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -8976,7 +8976,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -8989,7 +8989,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -9002,7 +9002,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -9015,7 +9015,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -9028,7 +9028,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -9041,7 +9041,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -9054,7 +9054,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -9067,7 +9067,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -9080,7 +9080,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -9511,7 +9511,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -9524,7 +9524,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -9537,7 +9537,7 @@
         {
           "sec": 35,
           "date": "09/17(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -9550,7 +9550,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -9563,7 +9563,7 @@
         {
           "sec": 37,
           "date": "09/30(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -9576,7 +9576,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -9589,7 +9589,7 @@
         {
           "sec": 39,
           "date": "10/21(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -9602,7 +9602,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -9614,8 +9614,8 @@
         },
         {
           "sec": 41,
-          "date": "11/05(日)",
-          "time": "",
+          "date": "11/04(土)",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -9623,12 +9623,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "110513"
+          "mid": "110416"
         },
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -10059,7 +10059,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -10072,7 +10072,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -10085,7 +10085,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -10098,7 +10098,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -10111,7 +10111,7 @@
         {
           "sec": 37,
           "date": "09/30(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -10124,7 +10124,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -10137,7 +10137,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -10150,7 +10150,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -10163,7 +10163,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -10176,7 +10176,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -10607,7 +10607,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -10620,7 +10620,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -10633,7 +10633,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -10646,7 +10646,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "17:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -10659,7 +10659,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -10672,7 +10672,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -10685,7 +10685,7 @@
         {
           "sec": 39,
           "date": "10/20(金)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -10698,7 +10698,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -10711,7 +10711,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -10724,7 +10724,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -11155,7 +11155,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -11168,7 +11168,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -11181,7 +11181,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -11194,7 +11194,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -11207,7 +11207,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -11220,7 +11220,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -11233,7 +11233,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -11246,7 +11246,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -11259,7 +11259,7 @@
         {
           "sec": 41,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -11272,7 +11272,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -11703,7 +11703,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -11716,7 +11716,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -11729,7 +11729,7 @@
         {
           "sec": 35,
           "date": "09/17(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -11742,7 +11742,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -11755,7 +11755,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -11768,7 +11768,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -11781,7 +11781,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -11794,7 +11794,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -11807,7 +11807,7 @@
         {
           "sec": 41,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -11820,7 +11820,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -12238,7 +12238,7 @@
         {
           "sec": 33,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -12251,7 +12251,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -12264,7 +12264,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -12277,7 +12277,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -12290,7 +12290,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -12303,7 +12303,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -12316,7 +12316,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -12329,7 +12329,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -12342,7 +12342,7 @@
         {
           "sec": 41,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -12355,7 +12355,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -12795,7 +12795,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -12808,7 +12808,7 @@
         {
           "sec": 34,
           "date": "09/10(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -12821,7 +12821,7 @@
         {
           "sec": 35,
           "date": "09/17(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -12834,7 +12834,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -12847,7 +12847,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -12860,7 +12860,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -12873,7 +12873,7 @@
         {
           "sec": 39,
           "date": "10/21(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -12886,7 +12886,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -12899,7 +12899,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -12912,7 +12912,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -13343,7 +13343,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -13356,7 +13356,7 @@
         {
           "sec": 34,
           "date": "09/10(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -13369,7 +13369,7 @@
         {
           "sec": 35,
           "date": "09/17(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -13382,7 +13382,7 @@
         {
           "sec": 36,
           "date": "09/24(日)",
-          "time": "",
+          "time": "16:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -13395,7 +13395,7 @@
         {
           "sec": 37,
           "date": "09/30(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -13408,7 +13408,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -13421,7 +13421,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -13434,7 +13434,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -13447,7 +13447,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -13460,7 +13460,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -13891,7 +13891,7 @@
         {
           "sec": 33,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -13904,7 +13904,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -13917,7 +13917,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -13930,7 +13930,7 @@
         {
           "sec": 36,
           "date": "09/24(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -13943,7 +13943,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -13956,7 +13956,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -13969,7 +13969,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -13982,7 +13982,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -13995,7 +13995,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -14008,7 +14008,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -14439,7 +14439,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -14452,7 +14452,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -14465,7 +14465,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -14478,7 +14478,7 @@
         {
           "sec": 36,
           "date": "09/24(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -14491,7 +14491,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -14504,7 +14504,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -14517,7 +14517,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "12:30",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -14530,7 +14530,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -14543,7 +14543,7 @@
         {
           "sec": 41,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -14556,7 +14556,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -14987,7 +14987,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -15000,7 +15000,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -15013,7 +15013,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -15026,7 +15026,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -15039,7 +15039,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -15052,7 +15052,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -15065,7 +15065,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "12:30",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -15078,7 +15078,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -15091,7 +15091,7 @@
         {
           "sec": 41,
           "date": "11/05(日)",
-          "time": "",
+          "time": "13:05",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -15104,7 +15104,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -15535,7 +15535,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -15548,7 +15548,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -15561,7 +15561,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -15574,7 +15574,7 @@
         {
           "sec": 36,
           "date": "09/24(日)",
-          "time": "",
+          "time": "16:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -15587,7 +15587,7 @@
         {
           "sec": 37,
           "date": "09/30(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -15600,7 +15600,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -15613,7 +15613,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -15626,7 +15626,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -15638,8 +15638,8 @@
         },
         {
           "sec": 41,
-          "date": "11/05(日)",
-          "time": "",
+          "date": "11/04(土)",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -15647,12 +15647,12 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "110513"
+          "mid": "110416"
         },
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -16083,7 +16083,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -16096,7 +16096,7 @@
         {
           "sec": 34,
           "date": "09/10(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -16109,7 +16109,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -16122,7 +16122,7 @@
         {
           "sec": 36,
           "date": "09/24(日)",
-          "time": "",
+          "time": "16:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -16135,7 +16135,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -16148,7 +16148,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -16161,7 +16161,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -16174,7 +16174,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -16187,7 +16187,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -16200,7 +16200,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -16631,7 +16631,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -16644,7 +16644,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -16657,7 +16657,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -16670,7 +16670,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -16683,7 +16683,7 @@
         {
           "sec": 37,
           "date": "09/30(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -16696,7 +16696,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -16709,7 +16709,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -16722,7 +16722,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -16735,7 +16735,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "13:55",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -16748,7 +16748,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -17179,7 +17179,7 @@
         {
           "sec": 33,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -17192,7 +17192,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -17205,7 +17205,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "16:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -17218,7 +17218,7 @@
         {
           "sec": 36,
           "date": "09/24(日)",
-          "time": "",
+          "time": "16:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -17231,7 +17231,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -17244,7 +17244,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -17257,7 +17257,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -17270,7 +17270,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -17283,7 +17283,7 @@
         {
           "sec": 41,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -17296,7 +17296,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -17727,7 +17727,7 @@
         {
           "sec": 33,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -17740,7 +17740,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -17753,7 +17753,7 @@
         {
           "sec": 35,
           "date": "09/17(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -17766,7 +17766,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -17779,7 +17779,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -17792,7 +17792,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -17805,7 +17805,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -17818,7 +17818,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -17831,7 +17831,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "13:55",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -17844,7 +17844,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -18262,7 +18262,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "群馬",
@@ -18275,7 +18275,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -18288,7 +18288,7 @@
         {
           "sec": 35,
           "date": "09/17(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -18301,7 +18301,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "17:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -18314,7 +18314,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -18327,7 +18327,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -18340,7 +18340,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -18353,7 +18353,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "金沢",
@@ -18366,7 +18366,7 @@
         {
           "sec": 41,
           "date": "11/05(日)",
-          "time": "",
+          "time": "13:05",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -18379,7 +18379,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -18819,7 +18819,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -18832,7 +18832,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -18845,7 +18845,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "水戸",
@@ -18858,7 +18858,7 @@
         {
           "sec": 36,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -18871,7 +18871,7 @@
         {
           "sec": 37,
           "date": "09/30(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -18884,7 +18884,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "いわき",
@@ -18897,7 +18897,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -18910,7 +18910,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -18923,7 +18923,7 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "長崎",
@@ -18936,7 +18936,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -19367,7 +19367,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -19380,7 +19380,7 @@
         {
           "sec": 34,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -19393,7 +19393,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -19406,7 +19406,7 @@
         {
           "sec": 36,
           "date": "09/24(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "熊本",
@@ -19419,7 +19419,7 @@
         {
           "sec": 37,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "秋田",
@@ -19432,7 +19432,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山形",
@@ -19445,7 +19445,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大分",
@@ -19458,7 +19458,7 @@
         {
           "sec": 40,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "岡山",
@@ -19471,7 +19471,7 @@
         {
           "sec": 41,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -19484,7 +19484,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "磐田",
@@ -19915,7 +19915,7 @@
         {
           "sec": 33,
           "date": "09/03(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "千葉",
@@ -19928,7 +19928,7 @@
         {
           "sec": 34,
           "date": "09/10(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "藤枝",
@@ -19941,7 +19941,7 @@
         {
           "sec": 35,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j2",
           "score": "vs",
           "opponent": "大宮",
@@ -19954,7 +19954,7 @@
         {
           "sec": 36,
           "date": "09/24(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "栃木",
@@ -19967,7 +19967,7 @@
         {
           "sec": 37,
           "date": "09/30(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "仙台",
@@ -19980,7 +19980,7 @@
         {
           "sec": 38,
           "date": "10/08(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "徳島",
@@ -19993,7 +19993,7 @@
         {
           "sec": 39,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "町田",
@@ -20006,7 +20006,7 @@
         {
           "sec": 40,
           "date": "10/28(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -20019,7 +20019,7 @@
         {
           "sec": 41,
           "date": "11/03(金・祝)",
-          "time": "",
+          "time": "13:05",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -20032,7 +20032,7 @@
         {
           "sec": 42,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "山口",
@@ -20361,7 +20361,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -20374,7 +20374,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -20387,7 +20387,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -20400,7 +20400,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -20413,7 +20413,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -20426,7 +20426,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -20439,7 +20439,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -20452,7 +20452,7 @@
         {
           "sec": 32,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -20465,7 +20465,7 @@
         {
           "sec": 33,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -20478,7 +20478,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -20491,7 +20491,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -20504,7 +20504,7 @@
         {
           "sec": 36,
           "date": "11/18(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -20517,7 +20517,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -20530,7 +20530,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -20857,7 +20857,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -20870,7 +20870,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -20883,7 +20883,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -20896,7 +20896,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -20909,7 +20909,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -20922,7 +20922,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -20935,7 +20935,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -20948,7 +20948,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -20961,7 +20961,7 @@
         {
           "sec": 33,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -20974,7 +20974,7 @@
         {
           "sec": 34,
           "date": "11/04(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -20987,7 +20987,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -21000,7 +21000,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -21013,7 +21013,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -21026,7 +21026,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -21353,7 +21353,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -21366,7 +21366,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -21379,7 +21379,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -21392,7 +21392,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -21405,7 +21405,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -21416,9 +21416,22 @@
           "mid": "100114"
         },
         {
+          "sec": 30,
+          "date": "10/05(木)",
+          "time": "19:00",
+          "division": "j3",
+          "score": "vs",
+          "opponent": "FC大阪",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "100501"
+        },
+        {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -21431,7 +21444,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -21444,7 +21457,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -21457,7 +21470,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -21470,7 +21483,7 @@
         {
           "sec": 35,
           "date": "11/11(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -21483,7 +21496,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -21496,7 +21509,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "13:05",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -21509,7 +21522,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -21518,14 +21531,6 @@
           "point": null,
           "home": false,
           "mid": "120211"
-        },
-        {
-          "sec": 30,
-          "date": "未定",
-          "time": "",
-          "opponent": "FC大阪",
-          "point": "suspended",
-          "home": false
         }
       ],
       "FC大阪": [
@@ -21844,7 +21849,7 @@
         {
           "sec": 25,
           "date": "09/03(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -21857,7 +21862,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -21870,7 +21875,7 @@
         {
           "sec": 27,
           "date": "09/17(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -21883,7 +21888,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -21896,7 +21901,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -21907,9 +21912,22 @@
           "mid": "100112"
         },
         {
+          "sec": 30,
+          "date": "10/05(木)",
+          "time": "19:00",
+          "division": "j3",
+          "score": "vs",
+          "opponent": "鹿児島",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "100501"
+        },
+        {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -21922,7 +21940,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -21935,7 +21953,7 @@
         {
           "sec": 33,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -21948,7 +21966,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -21961,7 +21979,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -21974,7 +21992,7 @@
         {
           "sec": 36,
           "date": "11/18(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -21987,7 +22005,7 @@
         {
           "sec": 37,
           "date": "11/25(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -22000,7 +22018,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -22009,14 +22027,6 @@
           "point": null,
           "home": true,
           "mid": "120210"
-        },
-        {
-          "sec": 30,
-          "date": "未定",
-          "time": "",
-          "opponent": "鹿児島",
-          "point": "suspended",
-          "home": true
         }
       ],
       "琉球": [
@@ -22335,7 +22345,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -22348,7 +22358,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -22361,7 +22371,7 @@
         {
           "sec": 27,
           "date": "09/17(日)",
-          "time": "",
+          "time": "18:30",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -22374,7 +22384,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "15:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -22387,7 +22397,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "18:30",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -22400,7 +22410,7 @@
         {
           "sec": 30,
           "date": "10/07(土)",
-          "time": "",
+          "time": "13:30",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -22413,7 +22423,7 @@
         {
           "sec": 31,
           "date": "10/14(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -22426,7 +22436,7 @@
         {
           "sec": 32,
           "date": "10/21(土)",
-          "time": "",
+          "time": "18:30",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -22439,7 +22449,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -22452,7 +22462,7 @@
         {
           "sec": 34,
           "date": "11/04(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -22465,7 +22475,7 @@
         {
           "sec": 35,
           "date": "11/11(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -22478,7 +22488,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -22491,7 +22501,7 @@
         {
           "sec": 37,
           "date": "11/25(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -22504,7 +22514,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -22831,7 +22841,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -22844,7 +22854,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -22857,7 +22867,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -22870,7 +22880,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -22883,7 +22893,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -22896,7 +22906,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -22909,7 +22919,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -22922,7 +22932,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -22935,7 +22945,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -22948,7 +22958,7 @@
         {
           "sec": 34,
           "date": "11/04(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -22961,7 +22971,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -22974,7 +22984,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -22987,7 +22997,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "12:55",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -23000,7 +23010,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -23327,7 +23337,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -23340,7 +23350,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -23353,7 +23363,7 @@
         {
           "sec": 27,
           "date": "09/18(月・祝)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -23366,7 +23376,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -23379,7 +23389,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -23392,7 +23402,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -23405,7 +23415,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -23418,7 +23428,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -23431,7 +23441,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -23444,7 +23454,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "13:05",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -23457,7 +23467,7 @@
         {
           "sec": 35,
           "date": "11/11(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -23470,7 +23480,7 @@
         {
           "sec": 36,
           "date": "11/18(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -23483,7 +23493,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -23496,7 +23506,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -23823,7 +23833,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -23836,7 +23846,7 @@
         {
           "sec": 26,
           "date": "09/10(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -23849,7 +23859,7 @@
         {
           "sec": 27,
           "date": "09/17(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -23862,7 +23872,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -23875,7 +23885,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -23888,7 +23898,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -23901,7 +23911,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -23914,7 +23924,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -23927,7 +23937,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -23940,7 +23950,7 @@
         {
           "sec": 34,
           "date": "11/04(土)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -23953,7 +23963,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -23966,7 +23976,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -23979,7 +23989,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -23992,7 +24002,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -24319,7 +24329,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -24332,7 +24342,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -24345,7 +24355,7 @@
         {
           "sec": 27,
           "date": "09/17(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -24358,7 +24368,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -24371,7 +24381,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -24384,7 +24394,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "15:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -24397,7 +24407,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -24410,7 +24420,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -24423,7 +24433,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -24436,7 +24446,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -24449,7 +24459,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -24462,7 +24472,7 @@
         {
           "sec": 36,
           "date": "11/18(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -24475,7 +24485,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -24488,7 +24498,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -24815,7 +24825,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -24828,7 +24838,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -24841,7 +24851,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -24854,7 +24864,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -24867,7 +24877,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "18:30",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -24880,7 +24890,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -24893,7 +24903,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -24906,7 +24916,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -24919,7 +24929,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -24932,7 +24942,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -24945,7 +24955,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -24958,7 +24968,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -24971,7 +24981,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -24984,7 +24994,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -25311,7 +25321,7 @@
         {
           "sec": 25,
           "date": "09/03(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -25324,7 +25334,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -25337,7 +25347,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -25350,7 +25360,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "15:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -25363,7 +25373,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -25376,7 +25386,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -25389,7 +25399,7 @@
         {
           "sec": 31,
           "date": "10/14(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -25402,7 +25412,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -25415,7 +25425,7 @@
         {
           "sec": 33,
           "date": "10/28(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -25428,7 +25438,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -25441,7 +25451,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -25454,7 +25464,7 @@
         {
           "sec": 36,
           "date": "11/18(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -25467,7 +25477,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -25480,7 +25490,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -25807,7 +25817,7 @@
         {
           "sec": 25,
           "date": "09/03(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -25820,7 +25830,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -25833,7 +25843,7 @@
         {
           "sec": 27,
           "date": "09/17(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -25846,7 +25856,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -25859,7 +25869,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -25872,7 +25882,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -25885,7 +25895,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -25898,7 +25908,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -25911,7 +25921,7 @@
         {
           "sec": 33,
           "date": "10/28(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -25924,7 +25934,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -25937,7 +25947,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -25950,7 +25960,7 @@
         {
           "sec": 36,
           "date": "11/18(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -25963,7 +25973,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -25976,7 +25986,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -26303,7 +26313,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -26316,7 +26326,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -26329,7 +26339,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -26342,7 +26352,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -26355,7 +26365,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -26368,7 +26378,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -26381,7 +26391,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -26394,7 +26404,7 @@
         {
           "sec": 32,
           "date": "10/21(土)",
-          "time": "",
+          "time": "18:30",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -26407,7 +26417,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -26420,7 +26430,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -26433,7 +26443,7 @@
         {
           "sec": 35,
           "date": "11/11(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -26446,7 +26456,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -26459,7 +26469,7 @@
         {
           "sec": 37,
           "date": "11/25(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -26472,7 +26482,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -26799,7 +26809,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -26812,7 +26822,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -26825,7 +26835,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -26838,7 +26848,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -26851,7 +26861,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -26864,7 +26874,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -26877,7 +26887,7 @@
         {
           "sec": 31,
           "date": "10/14(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -26890,7 +26900,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -26903,7 +26913,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -26916,7 +26926,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -26929,7 +26939,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -26942,7 +26952,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -26955,7 +26965,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -26968,7 +26978,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -27295,7 +27305,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -27308,7 +27318,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -27321,7 +27331,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -27334,7 +27344,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -27347,7 +27357,7 @@
         {
           "sec": 29,
           "date": "09/30(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -27360,7 +27370,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -27373,7 +27383,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "13:55",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -27386,7 +27396,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -27399,7 +27409,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -27412,7 +27422,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -27425,7 +27435,7 @@
         {
           "sec": 35,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -27438,7 +27448,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -27451,7 +27461,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -27464,7 +27474,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -27791,7 +27801,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -27804,7 +27814,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -27817,7 +27827,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -27830,7 +27840,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -27843,7 +27853,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -27856,7 +27866,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -27869,7 +27879,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -27882,7 +27892,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -27895,7 +27905,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -27908,7 +27918,7 @@
         {
           "sec": 34,
           "date": "11/04(土)",
-          "time": "",
+          "time": "15:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -27921,7 +27931,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -27934,7 +27944,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -27947,7 +27957,7 @@
         {
           "sec": 37,
           "date": "11/25(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -27960,7 +27970,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -28287,7 +28297,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -28300,7 +28310,7 @@
         {
           "sec": 26,
           "date": "09/10(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -28313,7 +28323,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -28326,7 +28336,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -28339,7 +28349,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -28352,7 +28362,7 @@
         {
           "sec": 30,
           "date": "10/07(土)",
-          "time": "",
+          "time": "13:30",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -28365,7 +28375,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -28378,7 +28388,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -28391,7 +28401,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -28404,7 +28414,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -28417,7 +28427,7 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -28430,7 +28440,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -28443,7 +28453,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -28456,7 +28466,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -28783,7 +28793,7 @@
         {
           "sec": 25,
           "date": "09/03(日)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -28796,7 +28806,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "愛媛",
@@ -28809,7 +28819,7 @@
         {
           "sec": 27,
           "date": "09/16(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -28822,7 +28832,7 @@
         {
           "sec": 28,
           "date": "09/24(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -28835,7 +28845,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岩手",
@@ -28848,7 +28858,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -28861,7 +28871,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -28874,7 +28884,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -28887,7 +28897,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -28900,7 +28910,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -28913,7 +28923,7 @@
         {
           "sec": 35,
           "date": "11/11(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -28926,7 +28936,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -28939,7 +28949,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "13:05",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -28952,7 +28962,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -29279,7 +29289,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "長野",
@@ -29292,7 +29302,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "19:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -29305,7 +29315,7 @@
         {
           "sec": 27,
           "date": "09/17(日)",
-          "time": "",
+          "time": "18:30",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -29318,7 +29328,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -29331,7 +29341,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "富山",
@@ -29344,7 +29354,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "15:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -29357,7 +29367,7 @@
         {
           "sec": 31,
           "date": "10/15(日)",
-          "time": "",
+          "time": "13:55",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -29370,7 +29380,7 @@
         {
           "sec": 32,
           "date": "10/21(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -29383,7 +29393,7 @@
         {
           "sec": 33,
           "date": "10/28(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "奈良",
@@ -29396,7 +29406,7 @@
         {
           "sec": 34,
           "date": "11/05(日)",
-          "time": "",
+          "time": "13:05",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -29409,7 +29419,7 @@
         {
           "sec": 35,
           "date": "11/11(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -29422,7 +29432,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -29435,7 +29445,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "12:55",
           "division": "j3",
           "score": "vs",
           "opponent": "八戸",
@@ -29448,7 +29458,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -29775,7 +29785,7 @@
         {
           "sec": 25,
           "date": "09/02(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "福島",
@@ -29788,7 +29798,7 @@
         {
           "sec": 26,
           "date": "09/09(土)",
-          "time": "",
+          "time": "18:00",
           "division": "j3",
           "score": "vs",
           "opponent": "FC大阪",
@@ -29801,7 +29811,7 @@
         {
           "sec": 27,
           "date": "09/18(月・祝)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "YS横浜",
@@ -29814,7 +29824,7 @@
         {
           "sec": 28,
           "date": "09/23(土・祝)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "宮崎",
@@ -29827,7 +29837,7 @@
         {
           "sec": 29,
           "date": "10/01(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "沼津",
@@ -29840,7 +29850,7 @@
         {
           "sec": 30,
           "date": "10/08(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "松本",
@@ -29853,7 +29863,7 @@
         {
           "sec": 31,
           "date": "10/14(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "琉球",
@@ -29866,7 +29876,7 @@
         {
           "sec": 32,
           "date": "10/22(日)",
-          "time": "",
+          "time": "17:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鹿児島",
@@ -29879,7 +29889,7 @@
         {
           "sec": 33,
           "date": "10/29(日)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "今治",
@@ -29892,7 +29902,7 @@
         {
           "sec": 34,
           "date": "11/04(土)",
-          "time": "",
+          "time": "13:00",
           "division": "j3",
           "score": "vs",
           "opponent": "鳥取",
@@ -29905,7 +29915,7 @@
         {
           "sec": 35,
           "date": "11/11(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "北九州",
@@ -29918,7 +29928,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "岐阜",
@@ -29931,7 +29941,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "相模原",
@@ -29944,7 +29954,7 @@
         {
           "sec": 38,
           "date": "12/02(土)",
-          "time": "",
+          "time": "14:00",
           "division": "j3",
           "score": "vs",
           "opponent": "讃岐",
@@ -31039,5 +31049,5 @@
       "matches_left": 20
     }
   ],
-  "updated_at": "2023-07-16T21:50:04+09:00"
+  "updated_at": "2023-07-22T17:00:05+09:00"
 }
