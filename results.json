@@ -23757,11 +23757,11 @@
           "date": "07/22(土)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "奈良",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "072210"
         },
@@ -25245,11 +25245,11 @@
           "date": "07/22(土)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "富山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "072210"
         },
@@ -30498,15 +30498,15 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 2,
-      "win_point": 33,
-      "wins": 10,
+      "rank": 1,
+      "win_point": 36,
+      "wins": 11,
       "draws": 3,
       "loses": 5,
-      "goals_for": 30,
-      "goals_against": 21,
+      "goals_for": 32,
+      "goals_against": 22,
       "max_win_point": 93,
-      "matches_left": 20
+      "matches_left": 19
     },
     {
       "j_name": "金沢",
@@ -30718,11 +30718,11 @@
       "win_point": 27,
       "wins": 7,
       "draws": 6,
-      "loses": 5,
-      "goals_for": 25,
-      "goals_against": 15,
-      "max_win_point": 87,
-      "matches_left": 20
+      "loses": 6,
+      "goals_for": 26,
+      "goals_against": 17,
+      "max_win_point": 84,
+      "matches_left": 19
     },
     {
       "j_name": "神戸",
@@ -30858,7 +30858,7 @@
       "league": "j3",
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
-      "rank": 1,
+      "rank": 2,
       "win_point": 35,
       "wins": 10,
       "draws": 5,
@@ -31049,5 +31049,5 @@
       "matches_left": 20
     }
   ],
-  "updated_at": "2023-07-22T17:12:04+09:00"
+  "updated_at": "2023-07-22T17:16:04+09:00"
 }
