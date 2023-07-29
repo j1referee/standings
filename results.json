@@ -11092,11 +11092,11 @@
           "date": "07/29(土)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "4-0",
           "opponent": "山口",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "072911"
         },
@@ -14924,11 +14924,11 @@
           "date": "07/29(土)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "4-0",
           "opponent": "千葉",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "072911"
         },
@@ -30048,7 +30048,7 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 12,
+      "rank": 13,
       "win_point": 36,
       "wins": 9,
       "draws": 9,
@@ -30228,15 +30228,15 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 13,
-      "win_point": 35,
-      "wins": 9,
+      "rank": 11,
+      "win_point": 38,
+      "wins": 10,
       "draws": 8,
       "loses": 10,
-      "goals_for": 29,
+      "goals_for": 33,
       "goals_against": 35,
       "max_win_point": 80,
-      "matches_left": 15
+      "matches_left": 14
     },
     {
       "j_name": "柏",
@@ -30570,7 +30570,7 @@
       "league": "j2",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 11,
+      "rank": 12,
       "win_point": 37,
       "wins": 10,
       "draws": 7,
@@ -30808,11 +30808,11 @@
       "win_point": 31,
       "wins": 7,
       "draws": 10,
-      "loses": 10,
+      "loses": 11,
       "goals_for": 22,
-      "goals_against": 40,
-      "max_win_point": 76,
-      "matches_left": 15
+      "goals_against": 44,
+      "max_win_point": 73,
+      "matches_left": 14
     },
     {
       "j_name": "讃岐",
@@ -31049,5 +31049,5 @@
       "matches_left": 19
     }
   ],
-  "updated_at": "2023-07-29T21:36:04+09:00"
+  "updated_at": "2023-07-29T21:42:04+09:00"
 }
