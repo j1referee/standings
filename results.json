@@ -22282,11 +22282,11 @@
           "date": "07/30(日)",
           "time": "18:00",
           "division": "j3",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "沼津",
-          "goals_for": 0,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "073007"
         },
@@ -28730,11 +28730,11 @@
           "date": "07/30(日)",
           "time": "18:00",
           "division": "j3",
-          "score": "4-0",
+          "score": "vs",
           "opponent": "琉球",
-          "goals_for": 4,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "073007"
         },
@@ -30588,15 +30588,15 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 4,
-      "win_point": 33,
-      "wins": 9,
+      "rank": 5,
+      "win_point": 30,
+      "wins": 8,
       "draws": 6,
       "loses": 5,
-      "goals_for": 27,
+      "goals_for": 23,
       "goals_against": 19,
       "max_win_point": 87,
-      "matches_left": 18
+      "matches_left": 19
     },
     {
       "j_name": "名古屋",
@@ -30876,7 +30876,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 5,
+      "rank": 4,
       "win_point": 32,
       "wins": 8,
       "draws": 8,
@@ -31042,12 +31042,12 @@
       "win_point": 24,
       "wins": 7,
       "draws": 3,
-      "loses": 10,
+      "loses": 9,
       "goals_for": 22,
-      "goals_against": 32,
-      "max_win_point": 78,
-      "matches_left": 18
+      "goals_against": 28,
+      "max_win_point": 81,
+      "matches_left": 19
     }
   ],
-  "updated_at": "2023-07-30T20:06:04+09:00"
+  "updated_at": "2023-07-30T20:12:04+09:00"
 }
