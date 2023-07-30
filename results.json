@@ -23274,11 +23274,11 @@
           "date": "07/30(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "073006"
         },
@@ -27738,11 +27738,11 @@
           "date": "07/30(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "073006"
         },
@@ -30372,15 +30372,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 17,
-      "win_point": 22,
-      "wins": 5,
+      "rank": 14,
+      "win_point": 25,
+      "wins": 6,
       "draws": 7,
       "loses": 7,
-      "goals_for": 25,
+      "goals_for": 26,
       "goals_against": 30,
       "max_win_point": 79,
-      "matches_left": 19
+      "matches_left": 18
     },
     {
       "j_name": "湘南",
@@ -30628,11 +30628,11 @@
       "win_point": 27,
       "wins": 7,
       "draws": 6,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 21,
-      "goals_against": 17,
-      "max_win_point": 84,
-      "matches_left": 19
+      "goals_against": 18,
+      "max_win_point": 81,
+      "matches_left": 18
     },
     {
       "j_name": "京都",
@@ -30822,7 +30822,7 @@
       "league": "j3",
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
-      "rank": 16,
+      "rank": 17,
       "win_point": 24,
       "wins": 6,
       "draws": 6,
@@ -31002,7 +31002,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 14,
+      "rank": 15,
       "win_point": 25,
       "wins": 6,
       "draws": 7,
@@ -31038,7 +31038,7 @@
       "league": "j3",
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
-      "rank": 15,
+      "rank": 16,
       "win_point": 24,
       "wins": 7,
       "draws": 3,
@@ -31049,5 +31049,5 @@
       "matches_left": 19
     }
   ],
-  "updated_at": "2023-07-30T19:12:04+09:00"
+  "updated_at": "2023-07-30T19:16:05+09:00"
 }
