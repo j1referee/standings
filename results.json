@@ -15472,11 +15472,11 @@
           "date": "07/30(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "金沢",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "073005"
         },
@@ -17664,11 +17664,11 @@
           "date": "07/30(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "大宮",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "073005"
         },
@@ -30211,14 +30211,14 @@
       "hash_tag": "#ardija",
       "full_name": "大宮アルディージャ",
       "rank": 22,
-      "win_point": 19,
-      "wins": 5,
+      "win_point": 22,
+      "wins": 6,
       "draws": 4,
       "loses": 18,
-      "goals_for": 23,
-      "goals_against": 46,
+      "goals_for": 25,
+      "goals_against": 47,
       "max_win_point": 64,
-      "matches_left": 15
+      "matches_left": 14
     },
     {
       "j_name": "千葉",
@@ -30520,11 +30520,11 @@
       "win_point": 28,
       "wins": 8,
       "draws": 4,
-      "loses": 15,
-      "goals_for": 31,
-      "goals_against": 45,
-      "max_win_point": 73,
-      "matches_left": 15
+      "loses": 16,
+      "goals_for": 32,
+      "goals_against": 47,
+      "max_win_point": 70,
+      "matches_left": 14
     },
     {
       "j_name": "清水",
@@ -31049,5 +31049,5 @@
       "matches_left": 18
     }
   ],
-  "updated_at": "2023-07-30T21:12:03+09:00"
+  "updated_at": "2023-07-30T21:16:04+09:00"
 }
