@@ -20311,11 +20311,11 @@
           "date": "08/05(土)",
           "time": "18:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "080508"
         },
@@ -28239,11 +28239,11 @@
           "date": "08/05(土)",
           "time": "18:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "相模原",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "080508"
         },
@@ -30400,15 +30400,15 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 20,
-      "win_point": 14,
-      "wins": 2,
+      "rank": 19,
+      "win_point": 17,
+      "wins": 3,
       "draws": 8,
       "loses": 10,
-      "goals_for": 19,
+      "goals_for": 20,
       "goals_against": 28,
       "max_win_point": 68,
-      "matches_left": 18
+      "matches_left": 17
     },
     {
       "j_name": "甲府",
@@ -30818,11 +30818,11 @@
       "win_point": 24,
       "wins": 6,
       "draws": 6,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 14,
-      "goals_against": 27,
-      "max_win_point": 78,
-      "matches_left": 18
+      "goals_against": 28,
+      "max_win_point": 75,
+      "matches_left": 17
     },
     {
       "j_name": "徳島",
@@ -30904,7 +30904,7 @@
       "league": "j3",
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
-      "rank": 19,
+      "rank": 20,
       "win_point": 16,
       "wins": 3,
       "draws": 7,
@@ -31041,5 +31041,5 @@
       "matches_left": 18
     }
   ],
-  "updated_at": "2023-08-05T19:42:04+09:00"
+  "updated_at": "2023-08-05T20:00:04+09:00"
 }
