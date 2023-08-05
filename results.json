@@ -14387,13 +14387,13 @@
         {
           "sec": 29,
           "date": "08/05(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "町田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "080506"
         },
@@ -18210,13 +18210,13 @@
         {
           "sec": 29,
           "date": "08/05(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j2",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "080506"
         },
@@ -20805,7 +20805,7 @@
         {
           "sec": 21,
           "date": "08/05(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
           "score": "2-1",
           "opponent": "松本",
@@ -25757,7 +25757,7 @@
         {
           "sec": 21,
           "date": "08/05(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
           "score": "2-1",
           "opponent": "鳥取",
@@ -30293,14 +30293,14 @@
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
       "rank": 1,
-      "win_point": 57,
-      "wins": 17,
+      "win_point": 60,
+      "wins": 18,
       "draws": 6,
       "loses": 4,
-      "goals_for": 45,
-      "goals_against": 21,
+      "goals_for": 48,
+      "goals_against": 22,
       "max_win_point": 102,
-      "matches_left": 15
+      "matches_left": 14
     },
     {
       "j_name": "川崎F",
@@ -30764,11 +30764,11 @@
       "win_point": 38,
       "wins": 8,
       "draws": 14,
-      "loses": 6,
-      "goals_for": 34,
-      "goals_against": 28,
-      "max_win_point": 80,
-      "matches_left": 14
+      "loses": 7,
+      "goals_for": 35,
+      "goals_against": 31,
+      "max_win_point": 77,
+      "matches_left": 13
     },
     {
       "j_name": "広島",
@@ -31041,5 +31041,5 @@
       "matches_left": 18
     }
   ],
-  "updated_at": "2023-08-05T21:42:04+09:00"
+  "updated_at": "2023-08-05T21:50:04+09:00"
 }
