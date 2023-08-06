@@ -5162,13 +5162,13 @@
         {
           "sec": 22,
           "date": "08/06(日)",
-          "time": "19:00",
+          "time": "19:08",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "080609"
         },
@@ -7382,13 +7382,13 @@
         {
           "sec": 22,
           "date": "08/06(日)",
-          "time": "19:00",
+          "time": "19:08",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "080609"
         },
@@ -30256,7 +30256,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 10,
+      "rank": 11,
       "win_point": 29,
       "wins": 8,
       "draws": 5,
@@ -30778,7 +30778,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 8,
+      "rank": 9,
       "win_point": 31,
       "wins": 9,
       "draws": 4,
@@ -30886,15 +30886,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 11,
-      "win_point": 29,
-      "wins": 8,
+      "rank": 8,
+      "win_point": 32,
+      "wins": 9,
       "draws": 5,
       "loses": 8,
-      "goals_for": 21,
+      "goals_for": 22,
       "goals_against": 26,
       "max_win_point": 68,
-      "matches_left": 13
+      "matches_left": 12
     },
     {
       "j_name": "北九州",
@@ -30922,15 +30922,15 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 9,
+      "rank": 10,
       "win_point": 29,
       "wins": 8,
       "draws": 5,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 29,
-      "goals_against": 26,
-      "max_win_point": 68,
-      "matches_left": 13
+      "goals_against": 27,
+      "max_win_point": 65,
+      "matches_left": 12
     },
     {
       "j_name": "長崎",
@@ -31041,5 +31041,5 @@
       "matches_left": 18
     }
   ],
-  "updated_at": "2023-08-06T21:50:03+09:00"
+  "updated_at": "2023-08-06T22:00:05+09:00"
 }
