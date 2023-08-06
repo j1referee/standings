@@ -13841,11 +13841,11 @@
           "date": "08/06(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "仙台",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "080615"
         },
@@ -18769,11 +18769,11 @@
           "date": "08/06(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "080615"
         },
@@ -30026,11 +30026,11 @@
       "win_point": 33,
       "wins": 8,
       "draws": 9,
-      "loses": 11,
-      "goals_for": 35,
-      "goals_against": 40,
-      "max_win_point": 75,
-      "matches_left": 14
+      "loses": 12,
+      "goals_for": 36,
+      "goals_against": 44,
+      "max_win_point": 72,
+      "matches_left": 13
     },
     {
       "j_name": "秋田",
@@ -30545,14 +30545,14 @@
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
       "rank": 2,
-      "win_point": 51,
-      "wins": 14,
+      "win_point": 54,
+      "wins": 15,
       "draws": 9,
       "loses": 5,
-      "goals_for": 49,
-      "goals_against": 30,
+      "goals_for": 53,
+      "goals_against": 31,
       "max_win_point": 93,
-      "matches_left": 14
+      "matches_left": 13
     },
     {
       "j_name": "藤枝",
@@ -31041,5 +31041,5 @@
       "matches_left": 18
     }
   ],
-  "updated_at": "2023-08-06T20:50:04+09:00"
+  "updated_at": "2023-08-06T21:00:05+09:00"
 }
