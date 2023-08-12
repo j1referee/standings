@@ -3401,11 +3401,11 @@
           "date": "08/12(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "081203"
         },
@@ -7397,11 +7397,11 @@
           "date": "08/12(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "081203"
         },
@@ -29969,14 +29969,14 @@
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
       "rank": 13,
-      "win_point": 27,
+      "win_point": 28,
       "wins": 7,
-      "draws": 6,
+      "draws": 7,
       "loses": 9,
-      "goals_for": 41,
-      "goals_against": 43,
-      "max_win_point": 63,
-      "matches_left": 12
+      "goals_for": 42,
+      "goals_against": 44,
+      "max_win_point": 61,
+      "matches_left": 11
     },
     {
       "j_name": "八戸",
@@ -30923,14 +30923,14 @@
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
       "rank": 10,
-      "win_point": 29,
+      "win_point": 30,
       "wins": 8,
-      "draws": 5,
+      "draws": 6,
       "loses": 9,
-      "goals_for": 29,
-      "goals_against": 27,
-      "max_win_point": 65,
-      "matches_left": 12
+      "goals_for": 30,
+      "goals_against": 28,
+      "max_win_point": 63,
+      "matches_left": 11
     },
     {
       "j_name": "長崎",
@@ -31041,5 +31041,5 @@
       "matches_left": 18
     }
   ],
-  "updated_at": "2023-08-12T16:32:04+09:00"
+  "updated_at": "2023-08-12T16:36:04+09:00"
 }
