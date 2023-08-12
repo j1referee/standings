@@ -735,13 +735,13 @@
         {
           "sec": 23,
           "date": "08/12(土)",
-          "time": "19:30",
+          "time": "19:33",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "081209"
         },
@@ -6951,13 +6951,13 @@
         {
           "sec": 23,
           "date": "08/12(土)",
-          "time": "19:30",
+          "time": "19:33",
           "division": "j1",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "081209"
         },
@@ -17688,7 +17688,7 @@
         {
           "sec": 30,
           "date": "08/12(土)",
-          "time": "19:00",
+          "time": "19:04",
           "division": "j2",
           "score": "1-1",
           "opponent": "熊本",
@@ -19876,7 +19876,7 @@
         {
           "sec": 30,
           "date": "08/12(土)",
-          "time": "19:00",
+          "time": "19:04",
           "division": "j2",
           "score": "1-1",
           "opponent": "金沢",
@@ -30329,14 +30329,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 2,
-      "win_point": 44,
-      "wins": 13,
+      "win_point": 47,
+      "wins": 14,
       "draws": 5,
       "loses": 4,
-      "goals_for": 44,
-      "goals_against": 24,
+      "goals_for": 46,
+      "goals_against": 25,
       "max_win_point": 80,
-      "matches_left": 12
+      "matches_left": 11
     },
     {
       "j_name": "横浜FC",
@@ -30656,11 +30656,11 @@
       "win_point": 29,
       "wins": 8,
       "draws": 5,
-      "loses": 9,
-      "goals_for": 31,
-      "goals_against": 38,
-      "max_win_point": 65,
-      "matches_left": 12
+      "loses": 10,
+      "goals_for": 32,
+      "goals_against": 40,
+      "max_win_point": 62,
+      "matches_left": 11
     },
     {
       "j_name": "C大阪",
@@ -31041,5 +31041,5 @@
       "matches_left": 17
     }
   ],
-  "updated_at": "2023-08-12T21:50:04+09:00"
+  "updated_at": "2023-08-12T22:00:04+09:00"
 }
