@@ -22327,7 +22327,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": null
+          "mid": "082301"
         },
         {
           "sec": 24,
@@ -22823,7 +22823,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": null
+          "mid": "082301"
         },
         {
           "sec": 24,
@@ -31049,5 +31049,5 @@
       "matches_left": 17
     }
   ],
-  "updated_at": "2023-08-13T21:30:04+09:00"
+  "updated_at": "2023-08-18T21:00:04+09:00"
 }
