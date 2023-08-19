@@ -20831,13 +20831,13 @@
         {
           "sec": 23,
           "date": "08/19(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "宮崎",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "081924"
         },
@@ -24303,13 +24303,13 @@
         {
           "sec": 23,
           "date": "08/19(土)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "鳥取",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "081924"
         },
@@ -30012,7 +30012,7 @@
       "league": "j3",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 10,
+      "rank": 11,
       "win_point": 30,
       "wins": 8,
       "draws": 6,
@@ -30444,7 +30444,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 8,
+      "rank": 9,
       "win_point": 32,
       "wins": 9,
       "draws": 5,
@@ -30750,15 +30750,15 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 11,
-      "win_point": 30,
-      "wins": 7,
+      "rank": 8,
+      "win_point": 33,
+      "wins": 8,
       "draws": 9,
       "loses": 6,
-      "goals_for": 33,
+      "goals_for": 35,
       "goals_against": 32,
       "max_win_point": 78,
-      "matches_left": 16
+      "matches_left": 15
     },
     {
       "j_name": "岡山",
@@ -31002,15 +31002,15 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 9,
+      "rank": 10,
       "win_point": 31,
       "wins": 8,
       "draws": 7,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 21,
-      "goals_against": 25,
-      "max_win_point": 79,
-      "matches_left": 16
+      "goals_against": 27,
+      "max_win_point": 76,
+      "matches_left": 15
     },
     {
       "j_name": "鹿児島",
@@ -31049,5 +31049,5 @@
       "matches_left": 16
     }
   ],
-  "updated_at": "2023-08-19T22:00:03+09:00"
+  "updated_at": "2023-08-19T22:06:04+09:00"
 }
