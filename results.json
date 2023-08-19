@@ -2526,11 +2526,11 @@
           "date": "08/19(土)",
           "time": "18:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "鳥栖",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "081902"
         },
@@ -7410,11 +7410,11 @@
           "date": "08/19(土)",
           "time": "18:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "鹿島",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "081902"
         },
@@ -30121,14 +30121,14 @@
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
       "rank": 5,
-      "win_point": 39,
-      "wins": 11,
+      "win_point": 36,
+      "wins": 10,
       "draws": 6,
       "loses": 7,
-      "goals_for": 33,
-      "goals_against": 22,
+      "goals_for": 31,
+      "goals_against": 21,
       "max_win_point": 69,
-      "matches_left": 10
+      "matches_left": 11
     },
     {
       "j_name": "水戸",
@@ -30934,11 +30934,11 @@
       "win_point": 30,
       "wins": 8,
       "draws": 6,
-      "loses": 10,
-      "goals_for": 31,
-      "goals_against": 30,
-      "max_win_point": 60,
-      "matches_left": 10
+      "loses": 9,
+      "goals_for": 30,
+      "goals_against": 28,
+      "max_win_point": 63,
+      "matches_left": 11
     },
     {
       "j_name": "長崎",
@@ -31049,5 +31049,5 @@
       "matches_left": 16
     }
   ],
-  "updated_at": "2023-08-19T20:30:04+09:00"
+  "updated_at": "2023-08-19T20:32:04+09:00"
 }
