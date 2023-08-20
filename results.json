@@ -1194,11 +1194,11 @@
           "date": "08/20(日)",
           "time": "18:30",
           "division": "j1",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "C大阪",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "082005"
         },
@@ -5634,11 +5634,11 @@
           "date": "08/20(日)",
           "time": "18:30",
           "division": "j1",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "横浜FC",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "082005"
         },
@@ -30358,11 +30358,11 @@
       "win_point": 18,
       "wins": 4,
       "draws": 6,
-      "loses": 14,
+      "loses": 13,
       "goals_for": 17,
-      "goals_against": 44,
-      "max_win_point": 48,
-      "matches_left": 10
+      "goals_against": 43,
+      "max_win_point": 51,
+      "matches_left": 11
     },
     {
       "j_name": "YS横浜",
@@ -30678,15 +30678,15 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 6,
-      "win_point": 39,
-      "wins": 12,
+      "rank": 7,
+      "win_point": 36,
+      "wins": 11,
       "draws": 3,
       "loses": 9,
-      "goals_for": 32,
+      "goals_for": 31,
       "goals_against": 25,
       "max_win_point": 69,
-      "matches_left": 10
+      "matches_left": 11
     },
     {
       "j_name": "FC大阪",
@@ -30786,7 +30786,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 7,
+      "rank": 6,
       "win_point": 37,
       "wins": 11,
       "draws": 4,
@@ -31049,5 +31049,5 @@
       "matches_left": 16
     }
   ],
-  "updated_at": "2023-08-20T20:30:04+09:00"
+  "updated_at": "2023-08-20T20:32:04+09:00"
 }
