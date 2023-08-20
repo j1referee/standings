@@ -1194,11 +1194,11 @@
           "date": "08/20(日)",
           "time": "18:30",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "082005"
         },
@@ -5634,11 +5634,11 @@
           "date": "08/20(日)",
           "time": "18:30",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "横浜FC",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "082005"
         },
@@ -11675,19 +11675,6 @@
           "mid": "081306"
         },
         {
-          "sec": 31,
-          "date": "08/20(日)",
-          "time": "19:00",
-          "division": "j2",
-          "score": "vs",
-          "opponent": "金沢",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": true,
-          "mid": "082002"
-        },
-        {
           "sec": 32,
           "date": "08/26(土)",
           "time": "19:00",
@@ -11829,6 +11816,15 @@
           "point": null,
           "home": false,
           "mid": "111211"
+        },
+        {
+          "sec": 31,
+          "date": "08/20(日)",
+          "time": " ",
+          "opponent": "金沢",
+          "point": "suspended",
+          "home": true,
+          "mid": "082002"
         }
       ],
       "秋田": [
@@ -17699,19 +17695,6 @@
           "mid": "081214"
         },
         {
-          "sec": 31,
-          "date": "08/20(日)",
-          "time": "19:00",
-          "division": "j2",
-          "score": "vs",
-          "opponent": "群馬",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
-          "home": false,
-          "mid": "082002"
-        },
-        {
           "sec": 32,
           "date": "08/26(土)",
           "time": "19:00",
@@ -17853,6 +17836,15 @@
           "point": null,
           "home": true,
           "mid": "111208"
+        },
+        {
+          "sec": 31,
+          "date": "08/20(日)",
+          "time": " ",
+          "opponent": "群馬",
+          "point": "suspended",
+          "home": false,
+          "mid": "082002"
         }
       ],
       "町田": [
@@ -30358,11 +30350,11 @@
       "win_point": 18,
       "wins": 4,
       "draws": 6,
-      "loses": 13,
+      "loses": 14,
       "goals_for": 17,
-      "goals_against": 43,
-      "max_win_point": 51,
-      "matches_left": 11
+      "goals_against": 44,
+      "max_win_point": 48,
+      "matches_left": 10
     },
     {
       "j_name": "YS横浜",
@@ -30678,15 +30670,15 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 7,
-      "win_point": 36,
-      "wins": 11,
+      "rank": 6,
+      "win_point": 39,
+      "wins": 12,
       "draws": 3,
       "loses": 9,
-      "goals_for": 31,
+      "goals_for": 32,
       "goals_against": 25,
       "max_win_point": 69,
-      "matches_left": 11
+      "matches_left": 10
     },
     {
       "j_name": "FC大阪",
@@ -30786,7 +30778,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 6,
+      "rank": 7,
       "win_point": 37,
       "wins": 11,
       "draws": 4,
@@ -31049,5 +31041,5 @@
       "matches_left": 16
     }
   ],
-  "updated_at": "2023-08-20T20:32:04+09:00"
+  "updated_at": "2023-08-20T20:36:04+09:00"
 }
