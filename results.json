@@ -4315,11 +4315,11 @@
           "date": "08/25(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "湘南",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "082501"
         },
@@ -7867,11 +7867,11 @@
           "date": "08/25(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "082501"
         },
@@ -30193,14 +30193,14 @@
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
       "rank": 4,
-      "win_point": 44,
-      "wins": 12,
+      "win_point": 41,
+      "wins": 11,
       "draws": 8,
       "loses": 5,
-      "goals_for": 30,
+      "goals_for": 29,
       "goals_against": 19,
       "max_win_point": 71,
-      "matches_left": 9
+      "matches_left": 10
     },
     {
       "j_name": "大宮",
@@ -30394,11 +30394,11 @@
       "win_point": 17,
       "wins": 3,
       "draws": 8,
-      "loses": 14,
+      "loses": 13,
       "goals_for": 30,
-      "goals_against": 49,
-      "max_win_point": 44,
-      "matches_left": 9
+      "goals_against": 48,
+      "max_win_point": 47,
+      "matches_left": 10
     },
     {
       "j_name": "相模原",
@@ -31049,5 +31049,5 @@
       "matches_left": 15
     }
   ],
-  "updated_at": "2023-08-25T21:00:04+09:00"
+  "updated_at": "2023-08-25T21:02:04+09:00"
 }
