@@ -786,7 +786,7 @@
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
+          "date": "09/15(金)",
           "time": "19:00",
           "division": "j1",
           "score": "vs",
@@ -795,7 +795,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "091605"
+          "mid": null
         },
         {
           "sec": 28,
@@ -812,8 +812,8 @@
         },
         {
           "sec": 29,
-          "date": "09/30(土)",
-          "time": "16:00",
+          "date": "09/29(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "神戸",
@@ -821,7 +821,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "093005"
+          "mid": null
         },
         {
           "sec": 30,
@@ -851,7 +851,7 @@
         },
         {
           "sec": 32,
-          "date": "11/11(土)",
+          "date": "11/12(日)",
           "time": "14:00",
           "division": "j1",
           "score": "vs",
@@ -860,12 +860,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "111105"
+          "mid": null
         },
         {
           "sec": 33,
-          "date": "11/25(土)",
-          "time": "14:00",
+          "date": "11/24(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -873,7 +873,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "112507"
+          "mid": null
         },
         {
           "sec": 34,
@@ -4315,11 +4315,11 @@
           "date": "08/25(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "082501"
         },
@@ -4808,8 +4808,8 @@
         },
         {
           "sec": 29,
-          "date": "09/30(土)",
-          "time": "16:00",
+          "date": "09/29(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -4817,7 +4817,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "093005"
+          "mid": null
         },
         {
           "sec": 30,
@@ -5735,7 +5735,7 @@
         },
         {
           "sec": 32,
-          "date": "11/11(土)",
+          "date": "11/12(日)",
           "time": "14:00",
           "division": "j1",
           "score": "vs",
@@ -5744,7 +5744,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "111105"
+          "mid": null
         },
         {
           "sec": 33,
@@ -6192,8 +6192,8 @@
         },
         {
           "sec": 33,
-          "date": "11/25(土)",
-          "time": "14:00",
+          "date": "11/24(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "横浜FM",
@@ -6201,7 +6201,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "112507"
+          "mid": null
         },
         {
           "sec": 34,
@@ -7446,7 +7446,7 @@
         },
         {
           "sec": 27,
-          "date": "09/16(土)",
+          "date": "09/15(金)",
           "time": "19:00",
           "division": "j1",
           "score": "vs",
@@ -7455,7 +7455,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "091605"
+          "mid": null
         },
         {
           "sec": 28,
@@ -7867,11 +7867,11 @@
           "date": "08/25(金)",
           "time": "19:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "082501"
         },
@@ -8440,8 +8440,8 @@
         },
         {
           "sec": 35,
-          "date": "09/16(土)",
-          "time": "16:00",
+          "date": "09/15(金)",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "東京V",
@@ -8449,12 +8449,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "091614"
+          "mid": null
         },
         {
           "sec": 36,
-          "date": "09/23(土・祝)",
-          "time": "14:00",
+          "date": "09/24(日)",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "清水",
@@ -8462,7 +8462,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "092315"
+          "mid": null
         },
         {
           "sec": 37,
@@ -9549,8 +9549,8 @@
         },
         {
           "sec": 36,
-          "date": "09/23(土・祝)",
-          "time": "14:00",
+          "date": "09/24(日)",
+          "time": "13:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -9558,7 +9558,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "092315"
+          "mid": null
         },
         {
           "sec": 37,
@@ -12310,6 +12310,19 @@
           "mid": "100806"
         },
         {
+          "sec": 26,
+          "date": "10/14(土)",
+          "time": "14:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "町田",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": null
+        },
+        {
           "sec": 39,
           "date": "10/22(日)",
           "time": "14:00",
@@ -12360,15 +12373,6 @@
           "point": null,
           "home": true,
           "mid": "111202"
-        },
-        {
-          "sec": 26,
-          "date": "07/16(日)",
-          "time": " ",
-          "opponent": "町田",
-          "point": "suspended",
-          "home": true,
-          "mid": "071608"
         }
       ],
       "いわき": [
@@ -17200,8 +17204,8 @@
         },
         {
           "sec": 35,
-          "date": "09/16(土)",
-          "time": "16:00",
+          "date": "09/15(金)",
+          "time": "19:00",
           "division": "j2",
           "score": "vs",
           "opponent": "甲府",
@@ -17209,7 +17213,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "091614"
+          "mid": null
         },
         {
           "sec": 36,
@@ -18330,6 +18334,19 @@
           "mid": "100805"
         },
         {
+          "sec": 26,
+          "date": "10/14(土)",
+          "time": "14:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "秋田",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": null
+        },
+        {
           "sec": 39,
           "date": "10/22(日)",
           "time": "13:00",
@@ -18380,15 +18397,6 @@
           "point": null,
           "home": false,
           "mid": "111201"
-        },
-        {
-          "sec": 26,
-          "date": "07/16(日)",
-          "time": " ",
-          "opponent": "秋田",
-          "point": "suspended",
-          "home": false,
-          "mid": "071608"
         }
       ],
       "仙台": [
@@ -30185,14 +30193,14 @@
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
       "rank": 4,
-      "win_point": 41,
-      "wins": 11,
+      "win_point": 44,
+      "wins": 12,
       "draws": 8,
       "loses": 5,
-      "goals_for": 29,
+      "goals_for": 30,
       "goals_against": 19,
       "max_win_point": 71,
-      "matches_left": 10
+      "matches_left": 9
     },
     {
       "j_name": "大宮",
@@ -30386,11 +30394,11 @@
       "win_point": 17,
       "wins": 3,
       "draws": 8,
-      "loses": 13,
+      "loses": 14,
       "goals_for": 30,
-      "goals_against": 48,
-      "max_win_point": 47,
-      "matches_left": 10
+      "goals_against": 49,
+      "max_win_point": 44,
+      "matches_left": 9
     },
     {
       "j_name": "相模原",
@@ -31041,5 +31049,5 @@
       "matches_left": 15
     }
   ],
-  "updated_at": "2023-08-23T20:30:04+09:00"
+  "updated_at": "2023-08-25T21:00:04+09:00"
 }
