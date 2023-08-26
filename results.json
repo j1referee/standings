@@ -368,8 +368,8 @@
         },
         {
           "sec": 29,
-          "date": "09/30(土)",
-          "time": "",
+          "date": "09/29(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "新潟",
@@ -377,12 +377,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "093004"
+          "mid": "092902"
         },
         {
           "sec": 30,
-          "date": "10/21(土)",
-          "time": "",
+          "date": "10/20(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "福岡",
@@ -390,7 +390,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "102102"
+          "mid": "102002"
         },
         {
           "sec": 31,
@@ -407,8 +407,8 @@
         },
         {
           "sec": 32,
-          "date": "11/11(土)",
-          "time": "",
+          "date": "11/12(日)",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "京都",
@@ -416,12 +416,12 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "111104"
+          "mid": "111221"
         },
         {
           "sec": 33,
-          "date": "11/25(土)",
-          "time": "14:00",
+          "date": "11/24(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "鹿島",
@@ -429,7 +429,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "112506"
+          "mid": "112402"
         },
         {
           "sec": 34,
@@ -795,7 +795,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": null
+          "mid": "091504"
         },
         {
           "sec": 28,
@@ -821,7 +821,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": null
+          "mid": "092901"
         },
         {
           "sec": 30,
@@ -834,7 +834,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": "102103"
+          "mid": "102118"
         },
         {
           "sec": 31,
@@ -860,7 +860,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": null
+          "mid": "111220"
         },
         {
           "sec": 33,
@@ -873,7 +873,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": null
+          "mid": "112401"
         },
         {
           "sec": 34,
@@ -2183,8 +2183,8 @@
         },
         {
           "sec": 32,
-          "date": "11/11(土)",
-          "time": "",
+          "date": "11/12(日)",
+          "time": "14:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -2192,7 +2192,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "111104"
+          "mid": "111221"
         },
         {
           "sec": 33,
@@ -2640,8 +2640,8 @@
         },
         {
           "sec": 33,
-          "date": "11/25(土)",
-          "time": "14:00",
+          "date": "11/24(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -2649,7 +2649,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "112506"
+          "mid": "112402"
         },
         {
           "sec": 34,
@@ -3498,7 +3498,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "102103"
+          "mid": "102118"
         },
         {
           "sec": 31,
@@ -4817,7 +4817,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": null
+          "mid": "092901"
         },
         {
           "sec": 30,
@@ -5265,8 +5265,8 @@
         },
         {
           "sec": 30,
-          "date": "10/21(土)",
-          "time": "",
+          "date": "10/20(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -5274,7 +5274,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "102102"
+          "mid": "102002"
         },
         {
           "sec": 31,
@@ -5744,7 +5744,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": null
+          "mid": "111220"
         },
         {
           "sec": 33,
@@ -6140,8 +6140,8 @@
         },
         {
           "sec": 29,
-          "date": "09/30(土)",
-          "time": "",
+          "date": "09/29(金)",
+          "time": "19:00",
           "division": "j1",
           "score": "vs",
           "opponent": "川崎F",
@@ -6149,7 +6149,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": "093004"
+          "mid": "092902"
         },
         {
           "sec": 30,
@@ -6201,7 +6201,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": null
+          "mid": "112401"
         },
         {
           "sec": 34,
@@ -7455,7 +7455,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": null
+          "mid": "091504"
         },
         {
           "sec": 28,
@@ -8449,7 +8449,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": null
+          "mid": "091503"
         },
         {
           "sec": 36,
@@ -8462,7 +8462,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": null
+          "mid": "092414"
         },
         {
           "sec": 37,
@@ -9558,7 +9558,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": null
+          "mid": "092414"
         },
         {
           "sec": 37,
@@ -12320,7 +12320,7 @@
           "goals_against": null,
           "point": null,
           "home": true,
-          "mid": null
+          "mid": "101410"
         },
         {
           "sec": 39,
@@ -17213,7 +17213,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": null
+          "mid": "091503"
         },
         {
           "sec": 36,
@@ -18344,7 +18344,7 @@
           "goals_against": null,
           "point": null,
           "home": false,
-          "mid": null
+          "mid": "101410"
         },
         {
           "sec": 39,
@@ -31049,5 +31049,5 @@
       "matches_left": 15
     }
   ],
-  "updated_at": "2023-08-25T21:20:04+09:00"
+  "updated_at": "2023-08-26T17:00:04+09:00"
 }
