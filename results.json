@@ -22822,11 +22822,11 @@
           "date": "08/27(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "082703"
         },
@@ -23318,11 +23318,11 @@
           "date": "08/27(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "082703"
         },
@@ -29986,15 +29986,15 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 12,
-      "win_point": 31,
-      "wins": 8,
+      "rank": 8,
+      "win_point": 34,
+      "wins": 9,
       "draws": 7,
       "loses": 8,
-      "goals_for": 27,
-      "goals_against": 26,
+      "goals_for": 30,
+      "goals_against": 28,
       "max_win_point": 76,
-      "matches_left": 15
+      "matches_left": 14
     },
     {
       "j_name": "岩手",
@@ -30004,7 +30004,7 @@
       "league": "j3",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 9,
+      "rank": 10,
       "win_point": 33,
       "wins": 9,
       "draws": 6,
@@ -30368,11 +30368,11 @@
       "win_point": 27,
       "wins": 6,
       "draws": 9,
-      "loses": 8,
-      "goals_for": 30,
-      "goals_against": 35,
-      "max_win_point": 72,
-      "matches_left": 15
+      "loses": 9,
+      "goals_for": 32,
+      "goals_against": 38,
+      "max_win_point": 69,
+      "matches_left": 14
     },
     {
       "j_name": "湘南",
@@ -30436,7 +30436,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 8,
+      "rank": 9,
       "win_point": 33,
       "wins": 9,
       "draws": 6,
@@ -30688,7 +30688,7 @@
       "league": "j3",
       "hash_tag": "#fcosaka",
       "full_name": "ＦＣ大阪",
-      "rank": 10,
+      "rank": 11,
       "win_point": 33,
       "wins": 9,
       "draws": 6,
@@ -30742,7 +30742,7 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 11,
+      "rank": 12,
       "win_point": 33,
       "wins": 8,
       "draws": 9,
@@ -31041,5 +31041,5 @@
       "matches_left": 14
     }
   ],
-  "updated_at": "2023-08-27T19:12:04+09:00"
+  "updated_at": "2023-08-27T19:16:04+09:00"
 }
