@@ -11727,6 +11727,19 @@
           "mid": "092316"
         },
         {
+          "sec": 31,
+          "date": "09/27(水)",
+          "time": "19:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "金沢",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "092702"
+        },
+        {
           "sec": 37,
           "date": "10/01(日)",
           "time": "17:00",
@@ -11751,6 +11764,19 @@
           "point": null,
           "home": true,
           "mid": "100803"
+        },
+        {
+          "sec": 32,
+          "date": "10/14(土)",
+          "time": "17:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "藤枝",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "101411"
         },
         {
           "sec": 39,
@@ -11803,24 +11829,6 @@
           "point": null,
           "home": false,
           "mid": "111211"
-        },
-        {
-          "sec": 31,
-          "date": "08/20(日)",
-          "time": " ",
-          "opponent": "金沢",
-          "point": "suspended",
-          "home": true,
-          "mid": "082002"
-        },
-        {
-          "sec": 32,
-          "date": "08/26(土)",
-          "time": " ",
-          "opponent": "藤枝",
-          "point": "suspended",
-          "home": false,
-          "mid": "082615"
         }
       ],
       "秋田": [
@@ -13402,6 +13410,19 @@
           "mid": "100704"
         },
         {
+          "sec": 32,
+          "date": "10/14(土)",
+          "time": "17:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "群馬",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": true,
+          "mid": "101411"
+        },
+        {
           "sec": 39,
           "date": "10/22(日)",
           "time": "14:00",
@@ -13452,15 +13473,6 @@
           "point": null,
           "home": true,
           "mid": "111209"
-        },
-        {
-          "sec": 32,
-          "date": "08/26(土)",
-          "time": " ",
-          "opponent": "群馬",
-          "point": "suspended",
-          "home": true,
-          "mid": "082615"
         }
       ],
       "磐田": [
@@ -17756,6 +17768,19 @@
           "mid": "092312"
         },
         {
+          "sec": 31,
+          "date": "09/27(水)",
+          "time": "19:00",
+          "division": "j2",
+          "score": "vs",
+          "opponent": "群馬",
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
+          "home": false,
+          "mid": "092702"
+        },
+        {
           "sec": 37,
           "date": "10/01(日)",
           "time": "14:00",
@@ -17832,15 +17857,6 @@
           "point": null,
           "home": true,
           "mid": "111208"
-        },
-        {
-          "sec": 31,
-          "date": "08/20(日)",
-          "time": " ",
-          "opponent": "群馬",
-          "point": "suspended",
-          "home": false,
-          "mid": "082002"
         }
       ],
       "町田": [
@@ -31041,5 +31057,5 @@
       "matches_left": 13
     }
   ],
-  "updated_at": "2023-09-03T21:30:04+09:00"
+  "updated_at": "2023-09-06T21:00:04+09:00"
 }
