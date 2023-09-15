@@ -787,13 +787,13 @@
         {
           "sec": 27,
           "date": "09/15(金)",
-          "time": "19:00",
+          "time": "19:33",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "091504"
         },
@@ -7447,13 +7447,13 @@
         {
           "sec": 27,
           "date": "09/15(金)",
-          "time": "19:00",
+          "time": "19:33",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "091504"
         },
@@ -30345,14 +30345,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 2,
-      "win_point": 50,
+      "win_point": 51,
       "wins": 15,
-      "draws": 5,
+      "draws": 6,
       "loses": 6,
-      "goals_for": 49,
-      "goals_against": 32,
-      "max_win_point": 74,
-      "matches_left": 8
+      "goals_for": 50,
+      "goals_against": 33,
+      "max_win_point": 72,
+      "matches_left": 7
     },
     {
       "j_name": "横浜FC",
@@ -30939,14 +30939,14 @@
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
       "rank": 13,
-      "win_point": 31,
+      "win_point": 32,
       "wins": 8,
-      "draws": 7,
+      "draws": 8,
       "loses": 11,
-      "goals_for": 32,
-      "goals_against": 33,
-      "max_win_point": 55,
-      "matches_left": 8
+      "goals_for": 33,
+      "goals_against": 34,
+      "max_win_point": 53,
+      "matches_left": 7
     },
     {
       "j_name": "長崎",
@@ -31057,5 +31057,5 @@
       "matches_left": 12
     }
   ],
-  "updated_at": "2023-09-15T22:00:04+09:00"
+  "updated_at": "2023-09-15T22:06:04+09:00"
 }
