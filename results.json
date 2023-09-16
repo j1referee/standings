@@ -20397,11 +20397,11 @@
           "date": "09/16(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "岐阜",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "091618"
         },
@@ -27837,11 +27837,11 @@
           "date": "09/16(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "相模原",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "091618"
         },
@@ -30417,14 +30417,14 @@
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
       "rank": 19,
-      "win_point": 27,
+      "win_point": 26,
       "wins": 6,
-      "draws": 9,
+      "draws": 8,
       "loses": 12,
-      "goals_for": 29,
-      "goals_against": 37,
-      "max_win_point": 60,
-      "matches_left": 11
+      "goals_for": 28,
+      "goals_against": 36,
+      "max_win_point": 62,
+      "matches_left": 12
     },
     {
       "j_name": "甲府",
@@ -30596,7 +30596,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 7,
+      "rank": 6,
       "win_point": 39,
       "wins": 11,
       "draws": 6,
@@ -30632,15 +30632,15 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 6,
-      "win_point": 39,
+      "rank": 7,
+      "win_point": 38,
       "wins": 10,
-      "draws": 9,
+      "draws": 8,
       "loses": 8,
-      "goals_for": 33,
-      "goals_against": 24,
-      "max_win_point": 72,
-      "matches_left": 11
+      "goals_for": 32,
+      "goals_against": 23,
+      "max_win_point": 74,
+      "matches_left": 12
     },
     {
       "j_name": "京都",
@@ -31057,5 +31057,5 @@
       "matches_left": 12
     }
   ],
-  "updated_at": "2023-09-16T16:16:04+09:00"
+  "updated_at": "2023-09-16T16:20:04+09:00"
 }
