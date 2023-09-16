@@ -15567,11 +15567,11 @@
           "date": "09/16(土)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-3",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "091613"
         },
@@ -19951,11 +19951,11 @@
           "date": "09/16(土)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-3",
           "opponent": "大宮",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "091613"
         },
@@ -30110,7 +30110,7 @@
       "league": "j2",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 18,
+      "rank": 19,
       "win_point": 37,
       "wins": 9,
       "draws": 10,
@@ -30222,11 +30222,11 @@
       "win_point": 27,
       "wins": 7,
       "draws": 6,
-      "loses": 21,
+      "loses": 22,
       "goals_for": 30,
-      "goals_against": 57,
-      "max_win_point": 51,
-      "matches_left": 8
+      "goals_against": 60,
+      "max_win_point": 48,
+      "matches_left": 7
     },
     {
       "j_name": "千葉",
@@ -30812,7 +30812,7 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 19,
+      "rank": 20,
       "win_point": 35,
       "wins": 8,
       "draws": 11,
@@ -30974,15 +30974,15 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 20,
-      "win_point": 34,
-      "wins": 8,
+      "rank": 18,
+      "win_point": 37,
+      "wins": 9,
       "draws": 10,
       "loses": 16,
-      "goals_for": 39,
+      "goals_for": 42,
       "goals_against": 45,
       "max_win_point": 58,
-      "matches_left": 8
+      "matches_left": 7
     },
     {
       "j_name": "大分",
@@ -31057,5 +31057,5 @@
       "matches_left": 12
     }
   ],
-  "updated_at": "2023-09-16T16:30:04+09:00"
+  "updated_at": "2023-09-16T20:00:04+09:00"
 }
