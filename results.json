@@ -23373,11 +23373,11 @@
           "date": "09/18(月・祝)",
           "time": "17:00",
           "division": "j3",
-          "score": "4-2",
+          "score": "vs",
           "opponent": "岩手",
-          "goals_for": 4,
-          "goals_against": 2,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "091801"
         },
@@ -29821,11 +29821,11 @@
           "date": "09/18(月・祝)",
           "time": "17:00",
           "division": "j3",
-          "score": "4-2",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 2,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "091801"
         },
@@ -30024,11 +30024,11 @@
       "win_point": 33,
       "wins": 9,
       "draws": 6,
-      "loses": 12,
-      "goals_for": 33,
-      "goals_against": 34,
-      "max_win_point": 66,
-      "matches_left": 11
+      "loses": 11,
+      "goals_for": 31,
+      "goals_against": 30,
+      "max_win_point": 69,
+      "matches_left": 12
     },
     {
       "j_name": "仙台",
@@ -30380,15 +30380,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 15,
-      "win_point": 33,
-      "wins": 8,
+      "rank": 17,
+      "win_point": 30,
+      "wins": 7,
       "draws": 9,
       "loses": 10,
-      "goals_for": 37,
-      "goals_against": 42,
+      "goals_for": 33,
+      "goals_against": 40,
       "max_win_point": 66,
-      "matches_left": 11
+      "matches_left": 12
     },
     {
       "j_name": "湘南",
@@ -30470,7 +30470,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 16,
+      "rank": 15,
       "win_point": 33,
       "wins": 9,
       "draws": 6,
@@ -31010,7 +31010,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 17,
+      "rank": 16,
       "win_point": 32,
       "wins": 8,
       "draws": 8,
@@ -31057,5 +31057,5 @@
       "matches_left": 11
     }
   ],
-  "updated_at": "2023-09-18T19:00:04+09:00"
+  "updated_at": "2023-09-18T19:02:03+09:00"
 }
