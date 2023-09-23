@@ -22394,11 +22394,11 @@
           "date": "09/23(土・祝)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "奈良",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "092320"
         },
@@ -25370,11 +25370,11 @@
           "date": "09/23(土・祝)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "琉球",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "092320"
         },
@@ -30726,11 +30726,11 @@
       "win_point": 40,
       "wins": 10,
       "draws": 10,
-      "loses": 7,
+      "loses": 8,
       "goals_for": 33,
-      "goals_against": 21,
-      "max_win_point": 73,
-      "matches_left": 11
+      "goals_against": 22,
+      "max_win_point": 70,
+      "matches_left": 10
     },
     {
       "j_name": "神戸",
@@ -31047,15 +31047,15 @@
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
       "rank": 18,
-      "win_point": 28,
-      "wins": 8,
+      "win_point": 31,
+      "wins": 9,
       "draws": 4,
       "loses": 15,
-      "goals_for": 29,
+      "goals_for": 30,
       "goals_against": 47,
       "max_win_point": 61,
-      "matches_left": 11
+      "matches_left": 10
     }
   ],
-  "updated_at": "2023-09-23T16:36:04+09:00"
+  "updated_at": "2023-09-23T17:02:04+09:00"
 }
