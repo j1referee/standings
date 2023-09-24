@@ -13936,11 +13936,11 @@
           "date": "09/24(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "092402"
         },
@@ -14484,11 +14484,11 @@
           "date": "09/24(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "092402"
         },
@@ -30074,7 +30074,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 9,
+      "rank": 10,
       "win_point": 52,
       "wins": 16,
       "draws": 4,
@@ -30434,7 +30434,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 8,
+      "rank": 9,
       "win_point": 53,
       "wins": 15,
       "draws": 8,
@@ -30564,11 +30564,11 @@
       "win_point": 62,
       "wins": 17,
       "draws": 11,
-      "loses": 7,
-      "goals_for": 61,
-      "goals_against": 39,
-      "max_win_point": 83,
-      "matches_left": 7
+      "loses": 8,
+      "goals_for": 62,
+      "goals_against": 41,
+      "max_win_point": 80,
+      "matches_left": 6
     },
     {
       "j_name": "藤枝",
@@ -30776,15 +30776,15 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 10,
-      "win_point": 51,
-      "wins": 12,
+      "rank": 7,
+      "win_point": 54,
+      "wins": 13,
       "draws": 15,
       "loses": 8,
-      "goals_for": 43,
-      "goals_against": 37,
+      "goals_for": 45,
+      "goals_against": 38,
       "max_win_point": 72,
-      "matches_left": 7
+      "matches_left": 6
     },
     {
       "j_name": "広島",
@@ -30992,7 +30992,7 @@
       "league": "j2",
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
-      "rank": 7,
+      "rank": 8,
       "win_point": 54,
       "wins": 15,
       "draws": 9,
@@ -31057,5 +31057,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2023-09-24T15:32:04+09:00"
+  "updated_at": "2023-09-24T15:36:04+09:00"
 }
