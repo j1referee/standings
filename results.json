@@ -802,11 +802,11 @@
           "date": "09/24(日)",
           "time": "15:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "鹿島",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "092411"
         },
@@ -2578,11 +2578,11 @@
           "date": "09/24(日)",
           "time": "15:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "横浜FM",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "092411"
         },
@@ -30132,11 +30132,11 @@
       "win_point": 46,
       "wins": 13,
       "draws": 7,
-      "loses": 8,
-      "goals_for": 39,
-      "goals_against": 26,
-      "max_win_point": 64,
-      "matches_left": 6
+      "loses": 7,
+      "goals_for": 38,
+      "goals_against": 24,
+      "max_win_point": 67,
+      "matches_left": 7
     },
     {
       "j_name": "水戸",
@@ -30345,14 +30345,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 2,
-      "win_point": 54,
-      "wins": 16,
+      "win_point": 51,
+      "wins": 15,
       "draws": 6,
       "loses": 6,
-      "goals_for": 52,
-      "goals_against": 34,
+      "goals_for": 50,
+      "goals_against": 33,
       "max_win_point": 72,
-      "matches_left": 6
+      "matches_left": 7
     },
     {
       "j_name": "横浜FC",
@@ -31057,5 +31057,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2023-09-24T17:06:04+09:00"
+  "updated_at": "2023-09-24T17:12:04+09:00"
 }
