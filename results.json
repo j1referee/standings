@@ -19416,11 +19416,11 @@
           "date": "09/24(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "092404"
         },
@@ -19964,11 +19964,11 @@
           "date": "09/24(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "栃木",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "092404"
         },
@@ -30038,7 +30038,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 17,
+      "rank": 18,
       "win_point": 40,
       "wins": 10,
       "draws": 10,
@@ -30110,7 +30110,7 @@
       "league": "j2",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 18,
+      "rank": 19,
       "win_point": 40,
       "wins": 10,
       "draws": 10,
@@ -30168,11 +30168,11 @@
       "win_point": 42,
       "wins": 10,
       "draws": 12,
-      "loses": 13,
+      "loses": 14,
       "goals_for": 35,
-      "goals_against": 35,
-      "max_win_point": 63,
-      "matches_left": 7
+      "goals_against": 38,
+      "max_win_point": 60,
+      "matches_left": 6
     },
     {
       "j_name": "群馬",
@@ -30812,7 +30812,7 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 19,
+      "rank": 20,
       "win_point": 39,
       "wins": 9,
       "draws": 12,
@@ -30974,15 +30974,15 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 20,
-      "win_point": 37,
-      "wins": 9,
+      "rank": 17,
+      "win_point": 40,
+      "wins": 10,
       "draws": 10,
       "loses": 16,
-      "goals_for": 42,
+      "goals_for": 45,
       "goals_against": 45,
       "max_win_point": 58,
-      "matches_left": 7
+      "matches_left": 6
     },
     {
       "j_name": "大分",
@@ -31057,5 +31057,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2023-09-24T21:02:04+09:00"
+  "updated_at": "2023-09-24T21:06:03+09:00"
 }
