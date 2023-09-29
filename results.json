@@ -369,7 +369,7 @@
         {
           "sec": 29,
           "date": "09/29(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "2-3",
           "opponent": "新潟",
@@ -813,13 +813,13 @@
         {
           "sec": 29,
           "date": "09/29(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "092901"
         },
@@ -1259,11 +1259,11 @@
           "date": "09/29(金)",
           "time": "19:30",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "092903"
         },
@@ -4367,11 +4367,11 @@
           "date": "09/29(金)",
           "time": "19:30",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "横浜FC",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "092903"
         },
@@ -4809,13 +4809,13 @@
         {
           "sec": 29,
           "date": "09/29(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "092901"
         },
@@ -6141,7 +6141,7 @@
         {
           "sec": 29,
           "date": "09/29(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "2-3",
           "opponent": "川崎F",
@@ -30201,14 +30201,14 @@
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
       "rank": 3,
-      "win_point": 50,
+      "win_point": 49,
       "wins": 13,
-      "draws": 11,
+      "draws": 10,
       "loses": 5,
-      "goals_for": 35,
-      "goals_against": 22,
-      "max_win_point": 65,
-      "matches_left": 5
+      "goals_for": 34,
+      "goals_against": 21,
+      "max_win_point": 67,
+      "matches_left": 6
     },
     {
       "j_name": "大宮",
@@ -30348,11 +30348,11 @@
       "win_point": 54,
       "wins": 16,
       "draws": 6,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 52,
-      "goals_against": 34,
-      "max_win_point": 72,
-      "matches_left": 6
+      "goals_against": 36,
+      "max_win_point": 69,
+      "matches_left": 5
     },
     {
       "j_name": "横浜FC",
@@ -30363,14 +30363,14 @@
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
       "rank": 17,
-      "win_point": 23,
+      "win_point": 22,
       "wins": 5,
-      "draws": 8,
+      "draws": 7,
       "loses": 16,
-      "goals_for": 25,
-      "goals_against": 52,
-      "max_win_point": 38,
-      "matches_left": 5
+      "goals_for": 24,
+      "goals_against": 51,
+      "max_win_point": 40,
+      "matches_left": 6
     },
     {
       "j_name": "YS横浜",
@@ -30741,14 +30741,14 @@
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
       "rank": 1,
-      "win_point": 55,
-      "wins": 16,
+      "win_point": 58,
+      "wins": 17,
       "draws": 7,
       "loses": 5,
-      "goals_for": 49,
+      "goals_for": 51,
       "goals_against": 25,
       "max_win_point": 73,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "鳥取",
@@ -31057,5 +31057,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2023-09-29T21:30:04+09:00"
+  "updated_at": "2023-09-29T21:32:04+09:00"
 }
