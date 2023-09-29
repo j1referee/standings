@@ -1259,11 +1259,11 @@
           "date": "09/29(金)",
           "time": "19:30",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "092903"
         },
@@ -4367,11 +4367,11 @@
           "date": "09/29(金)",
           "time": "19:30",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "横浜FC",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "092903"
         },
@@ -30201,14 +30201,14 @@
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
       "rank": 3,
-      "win_point": 50,
+      "win_point": 49,
       "wins": 13,
-      "draws": 11,
+      "draws": 10,
       "loses": 5,
-      "goals_for": 35,
-      "goals_against": 22,
-      "max_win_point": 65,
-      "matches_left": 5
+      "goals_for": 34,
+      "goals_against": 21,
+      "max_win_point": 67,
+      "matches_left": 6
     },
     {
       "j_name": "大宮",
@@ -30363,14 +30363,14 @@
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
       "rank": 17,
-      "win_point": 23,
+      "win_point": 22,
       "wins": 5,
-      "draws": 8,
+      "draws": 7,
       "loses": 16,
-      "goals_for": 25,
-      "goals_against": 52,
-      "max_win_point": 38,
-      "matches_left": 5
+      "goals_for": 24,
+      "goals_against": 51,
+      "max_win_point": 40,
+      "matches_left": 6
     },
     {
       "j_name": "YS横浜",
@@ -31057,5 +31057,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2023-09-29T21:36:03+09:00"
+  "updated_at": "2023-09-29T21:42:03+09:00"
 }
