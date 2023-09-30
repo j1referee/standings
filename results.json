@@ -5699,11 +5699,11 @@
           "date": "09/30(土)",
           "time": "18:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "093006"
         },
@@ -7919,11 +7919,11 @@
           "date": "09/30(土)",
           "time": "18:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "093006"
         },
@@ -15593,11 +15593,11 @@
           "date": "09/30(土)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "大分",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "093013"
         },
@@ -16689,11 +16689,11 @@
           "date": "09/30(土)",
           "time": "18:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "大宮",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "093013"
         },
@@ -30219,14 +30219,14 @@
       "hash_tag": "#ardija",
       "full_name": "大宮アルディージャ",
       "rank": 22,
-      "win_point": 30,
-      "wins": 8,
+      "win_point": 33,
+      "wins": 9,
       "draws": 6,
       "loses": 22,
-      "goals_for": 31,
+      "goals_for": 32,
       "goals_against": 60,
       "max_win_point": 48,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "千葉",
@@ -30362,7 +30362,7 @@
       "league": "j1",
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
-      "rank": 17,
+      "rank": 18,
       "win_point": 23,
       "wins": 5,
       "draws": 8,
@@ -30398,15 +30398,15 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 18,
-      "win_point": 21,
-      "wins": 4,
+      "rank": 17,
+      "win_point": 24,
+      "wins": 5,
       "draws": 9,
       "loses": 15,
-      "goals_for": 33,
+      "goals_for": 35,
       "goals_against": 53,
       "max_win_point": 39,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "相模原",
@@ -30690,11 +30690,11 @@
       "win_point": 45,
       "wins": 14,
       "draws": 3,
-      "loses": 11,
+      "loses": 12,
       "goals_for": 38,
-      "goals_against": 28,
-      "max_win_point": 63,
-      "matches_left": 6
+      "goals_against": 30,
+      "max_win_point": 60,
+      "matches_left": 5
     },
     {
       "j_name": "FC大阪",
@@ -30996,11 +30996,11 @@
       "win_point": 54,
       "wins": 15,
       "draws": 9,
-      "loses": 12,
+      "loses": 13,
       "goals_for": 47,
-      "goals_against": 49,
-      "max_win_point": 72,
-      "matches_left": 6
+      "goals_against": 50,
+      "max_win_point": 69,
+      "matches_left": 5
     },
     {
       "j_name": "宮崎",
@@ -31057,5 +31057,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2023-09-30T17:16:04+09:00"
+  "updated_at": "2023-09-30T20:00:04+09:00"
 }
