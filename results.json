@@ -20423,11 +20423,11 @@
           "date": "09/30(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "北九州",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "093015"
         },
@@ -27367,11 +27367,11 @@
           "date": "09/30(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "相模原",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "093015"
         },
@@ -30416,15 +30416,15 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 18,
-      "win_point": 31,
-      "wins": 7,
+      "rank": 19,
+      "win_point": 28,
+      "wins": 6,
       "draws": 10,
       "loses": 12,
-      "goals_for": 32,
-      "goals_against": 39,
+      "goals_for": 30,
+      "goals_against": 38,
       "max_win_point": 58,
-      "matches_left": 9
+      "matches_left": 10
     },
     {
       "j_name": "甲府",
@@ -30924,11 +30924,11 @@
       "win_point": 24,
       "wins": 5,
       "draws": 9,
-      "loses": 15,
-      "goals_for": 23,
-      "goals_against": 34,
-      "max_win_point": 51,
-      "matches_left": 9
+      "loses": 14,
+      "goals_for": 22,
+      "goals_against": 32,
+      "max_win_point": 54,
+      "matches_left": 10
     },
     {
       "j_name": "鳥栖",
@@ -31046,7 +31046,7 @@
       "league": "j3",
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
-      "rank": 19,
+      "rank": 18,
       "win_point": 31,
       "wins": 9,
       "draws": 4,
@@ -31057,5 +31057,5 @@
       "matches_left": 10
     }
   ],
-  "updated_at": "2023-09-30T16:30:04+09:00"
+  "updated_at": "2023-09-30T16:32:04+09:00"
 }
