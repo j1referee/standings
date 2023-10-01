@@ -3923,11 +3923,11 @@
           "date": "10/01(日)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "100119"
         },
@@ -7031,11 +7031,11 @@
           "date": "10/01(日)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "FC東京",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "100119"
         },
@@ -30273,14 +30273,14 @@
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
       "rank": 10,
-      "win_point": 36,
-      "wins": 10,
+      "win_point": 39,
+      "wins": 11,
       "draws": 6,
       "loses": 12,
-      "goals_for": 36,
+      "goals_for": 39,
       "goals_against": 40,
       "max_win_point": 54,
-      "matches_left": 6
+      "matches_left": 5
     },
     {
       "j_name": "東京V",
@@ -30672,11 +30672,11 @@
       "win_point": 34,
       "wins": 9,
       "draws": 7,
-      "loses": 12,
+      "loses": 13,
       "goals_for": 37,
-      "goals_against": 50,
-      "max_win_point": 52,
-      "matches_left": 6
+      "goals_against": 53,
+      "max_win_point": 49,
+      "matches_left": 5
     },
     {
       "j_name": "C大阪",
@@ -31057,5 +31057,5 @@
       "matches_left": 9
     }
   ],
-  "updated_at": "2023-10-01T17:12:04+09:00"
+  "updated_at": "2023-10-01T17:16:04+09:00"
 }
