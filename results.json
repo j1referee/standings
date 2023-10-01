@@ -11744,11 +11744,11 @@
           "date": "10/01(日)",
           "time": "17:00",
           "division": "j2",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "東京V",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "100103"
         },
@@ -17237,11 +17237,11 @@
           "date": "10/01(日)",
           "time": "17:00",
           "division": "j2",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "群馬",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "100103"
         },
@@ -30183,14 +30183,14 @@
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
       "rank": 10,
-      "win_point": 53,
+      "win_point": 52,
       "wins": 13,
-      "draws": 14,
+      "draws": 13,
       "loses": 9,
       "goals_for": 38,
       "goals_against": 32,
-      "max_win_point": 71,
-      "matches_left": 6
+      "max_win_point": 73,
+      "matches_left": 7
     },
     {
       "j_name": "浦和",
@@ -30291,14 +30291,14 @@
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
       "rank": 4,
-      "win_point": 62,
+      "win_point": 61,
       "wins": 17,
-      "draws": 11,
+      "draws": 10,
       "loses": 9,
       "goals_for": 49,
       "goals_against": 28,
-      "max_win_point": 77,
-      "matches_left": 5
+      "max_win_point": 79,
+      "matches_left": 6
     },
     {
       "j_name": "町田",
@@ -31057,5 +31057,5 @@
       "matches_left": 9
     }
   ],
-  "updated_at": "2023-10-01T19:16:03+09:00"
+  "updated_at": "2023-10-01T19:20:04+09:00"
 }
