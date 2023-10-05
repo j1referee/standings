@@ -21428,11 +21428,11 @@
           "date": "10/05(木)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "FC大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "100501"
         },
@@ -21924,11 +21924,11 @@
           "date": "10/05(木)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-3",
           "opponent": "鹿児島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "100501"
         },
@@ -30708,11 +30708,11 @@
       "win_point": 44,
       "wins": 12,
       "draws": 8,
-      "loses": 9,
-      "goals_for": 31,
-      "goals_against": 22,
-      "max_win_point": 71,
-      "matches_left": 9
+      "loses": 10,
+      "goals_for": 33,
+      "goals_against": 25,
+      "max_win_point": 68,
+      "matches_left": 8
     },
     {
       "j_name": "奈良",
@@ -31029,14 +31029,14 @@
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
       "rank": 2,
-      "win_point": 48,
-      "wins": 14,
+      "win_point": 51,
+      "wins": 15,
       "draws": 6,
       "loses": 9,
-      "goals_for": 45,
-      "goals_against": 31,
+      "goals_for": 48,
+      "goals_against": 33,
       "max_win_point": 75,
-      "matches_left": 9
+      "matches_left": 8
     },
     {
       "j_name": "琉球",
@@ -31057,5 +31057,5 @@
       "matches_left": 9
     }
   ],
-  "updated_at": "2023-10-05T21:02:03+09:00"
+  "updated_at": "2023-10-05T21:06:04+09:00"
 }
