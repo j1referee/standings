@@ -22420,11 +22420,11 @@
           "date": "10/07(土)",
           "time": "13:30",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "讃岐",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "100705"
         },
@@ -28372,11 +28372,11 @@
           "date": "10/07(土)",
           "time": "13:30",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "琉球",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "100705"
         },
@@ -30834,11 +30834,11 @@
       "win_point": 36,
       "wins": 9,
       "draws": 9,
-      "loses": 11,
+      "loses": 12,
       "goals_for": 21,
-      "goals_against": 34,
-      "max_win_point": 63,
-      "matches_left": 9
+      "goals_against": 35,
+      "max_win_point": 60,
+      "matches_left": 8
     },
     {
       "j_name": "徳島",
@@ -31010,7 +31010,7 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 17,
+      "rank": 18,
       "win_point": 32,
       "wins": 8,
       "draws": 8,
@@ -31046,16 +31046,16 @@
       "league": "j3",
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
-      "rank": 18,
-      "win_point": 32,
-      "wins": 9,
+      "rank": 17,
+      "win_point": 35,
+      "wins": 10,
       "draws": 5,
       "loses": 15,
-      "goals_for": 32,
+      "goals_for": 33,
       "goals_against": 49,
       "max_win_point": 59,
-      "matches_left": 9
+      "matches_left": 8
     }
   ],
-  "updated_at": "2023-10-07T15:42:04+09:00"
+  "updated_at": "2023-10-07T15:50:04+09:00"
 }
