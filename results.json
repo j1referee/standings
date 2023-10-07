@@ -9576,7 +9576,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "1-0",
           "opponent": "磐田",
@@ -13960,7 +13960,7 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
           "score": "1-0",
           "opponent": "清水",
@@ -15056,13 +15056,13 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "大宮",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "100701"
         },
@@ -15604,13 +15604,13 @@
         {
           "sec": 38,
           "date": "10/07(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j2",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "山口",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "100701"
         },
@@ -30218,15 +30218,15 @@
       "league": "j2",
       "hash_tag": "#ardija",
       "full_name": "大宮アルディージャ",
-      "rank": 22,
-      "win_point": 33,
-      "wins": 9,
+      "rank": 21,
+      "win_point": 36,
+      "wins": 10,
       "draws": 6,
       "loses": 22,
-      "goals_for": 32,
-      "goals_against": 60,
+      "goals_for": 34,
+      "goals_against": 61,
       "max_win_point": 48,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "千葉",
@@ -30524,7 +30524,7 @@
       "league": "j2",
       "hash_tag": "#zweigen",
       "full_name": "ツエーゲン金沢",
-      "rank": 21,
+      "rank": 22,
       "win_point": 33,
       "wins": 9,
       "draws": 6,
@@ -30816,11 +30816,11 @@
       "win_point": 42,
       "wins": 10,
       "draws": 12,
-      "loses": 15,
-      "goals_for": 32,
-      "goals_against": 57,
-      "max_win_point": 57,
-      "matches_left": 5
+      "loses": 16,
+      "goals_for": 33,
+      "goals_against": 59,
+      "max_win_point": 54,
+      "matches_left": 4
     },
     {
       "j_name": "讃岐",
@@ -31057,5 +31057,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2023-10-07T16:42:04+09:00"
+  "updated_at": "2023-10-07T16:50:04+09:00"
 }
