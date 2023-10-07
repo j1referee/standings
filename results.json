@@ -16702,11 +16702,11 @@
           "date": "10/07(土)",
           "time": "15:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "100702"
         },
@@ -17250,11 +17250,11 @@
           "date": "10/07(土)",
           "time": "15:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "大分",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "100702"
         },
@@ -30290,15 +30290,15 @@
       "league": "j2",
       "hash_tag": "#verdy",
       "full_name": "東京ヴェルディ",
-      "rank": 4,
-      "win_point": 62,
-      "wins": 17,
+      "rank": 3,
+      "win_point": 65,
+      "wins": 18,
       "draws": 11,
       "loses": 9,
-      "goals_for": 49,
+      "goals_for": 50,
       "goals_against": 28,
       "max_win_point": 77,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "町田",
@@ -30560,7 +30560,7 @@
       "league": "j2",
       "hash_tag": "#jubilo",
       "full_name": "ジュビロ磐田",
-      "rank": 3,
+      "rank": 4,
       "win_point": 65,
       "wins": 18,
       "draws": 11,
@@ -30996,11 +30996,11 @@
       "win_point": 54,
       "wins": 15,
       "draws": 9,
-      "loses": 13,
+      "loses": 14,
       "goals_for": 47,
-      "goals_against": 50,
-      "max_win_point": 69,
-      "matches_left": 5
+      "goals_against": 51,
+      "max_win_point": 66,
+      "matches_left": 4
     },
     {
       "j_name": "宮崎",
@@ -31057,5 +31057,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2023-10-07T17:02:03+09:00"
+  "updated_at": "2023-10-07T17:06:04+09:00"
 }
