@@ -24404,11 +24404,11 @@
           "date": "10/08(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "愛媛",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "100814"
         },
@@ -29364,11 +29364,11 @@
           "date": "10/08(日)",
           "time": "15:00",
           "division": "j3",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "宮崎",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "100814"
         },
@@ -30416,7 +30416,7 @@
       "league": "j3",
       "hash_tag": "#sc_sagamihara",
       "full_name": "ＳＣ相模原",
-      "rank": 19,
+      "rank": 18,
       "win_point": 32,
       "wins": 7,
       "draws": 11,
@@ -30867,14 +30867,14 @@
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
       "rank": 1,
-      "win_point": 55,
+      "win_point": 54,
       "wins": 15,
-      "draws": 10,
+      "draws": 9,
       "loses": 5,
-      "goals_for": 47,
-      "goals_against": 40,
-      "max_win_point": 79,
-      "matches_left": 8
+      "goals_for": 46,
+      "goals_against": 39,
+      "max_win_point": 81,
+      "matches_left": 9
     },
     {
       "j_name": "今治",
@@ -31010,15 +31010,15 @@
       "league": "j3",
       "hash_tag": "#テゲバ",
       "full_name": "テゲバジャーロ宮崎",
-      "rank": 18,
-      "win_point": 33,
+      "rank": 19,
+      "win_point": 32,
       "wins": 8,
-      "draws": 9,
+      "draws": 8,
       "loses": 13,
-      "goals_for": 22,
-      "goals_against": 34,
-      "max_win_point": 57,
-      "matches_left": 8
+      "goals_for": 21,
+      "goals_against": 33,
+      "max_win_point": 59,
+      "matches_left": 9
     },
     {
       "j_name": "鹿児島",
@@ -31057,5 +31057,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2023-10-08T17:00:04+09:00"
+  "updated_at": "2023-10-08T17:02:04+09:00"
 }
