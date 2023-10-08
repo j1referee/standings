@@ -23412,11 +23412,11 @@
           "date": "10/08(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "奈良",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "100809"
         },
@@ -25396,11 +25396,11 @@
           "date": "10/08(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "YS横浜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "100809"
         },
@@ -30002,7 +30002,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 12,
+      "rank": 13,
       "win_point": 38,
       "wins": 10,
       "draws": 8,
@@ -30092,7 +30092,7 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 13,
+      "rank": 14,
       "win_point": 38,
       "wins": 10,
       "draws": 8,
@@ -30380,15 +30380,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 15,
-      "win_point": 36,
-      "wins": 9,
+      "rank": 12,
+      "win_point": 39,
+      "wins": 10,
       "draws": 9,
       "loses": 11,
-      "goals_for": 38,
+      "goals_for": 39,
       "goals_against": 45,
       "max_win_point": 63,
-      "matches_left": 9
+      "matches_left": 8
     },
     {
       "j_name": "湘南",
@@ -30470,7 +30470,7 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 14,
+      "rank": 15,
       "win_point": 37,
       "wins": 10,
       "draws": 7,
@@ -30726,11 +30726,11 @@
       "win_point": 43,
       "wins": 11,
       "draws": 10,
-      "loses": 8,
+      "loses": 9,
       "goals_for": 34,
-      "goals_against": 22,
-      "max_win_point": 70,
-      "matches_left": 9
+      "goals_against": 23,
+      "max_win_point": 67,
+      "matches_left": 8
     },
     {
       "j_name": "神戸",
@@ -31057,5 +31057,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2023-10-08T15:32:04+09:00"
+  "updated_at": "2023-10-08T15:36:04+09:00"
 }
