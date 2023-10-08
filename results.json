@@ -11757,11 +11757,11 @@
           "date": "10/08(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "岡山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "100803"
         },
@@ -14510,11 +14510,11 @@
           "date": "10/08(日)",
           "time": "19:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "群馬",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "100803"
         },
@@ -30182,15 +30182,15 @@
       "league": "j2",
       "hash_tag": "#thespakusatsu",
       "full_name": "ザスパクサツ群馬",
-      "rank": 11,
-      "win_point": 53,
+      "rank": 10,
+      "win_point": 54,
       "wins": 13,
-      "draws": 14,
+      "draws": 15,
       "loses": 9,
       "goals_for": 38,
       "goals_against": 32,
-      "max_win_point": 71,
-      "matches_left": 6
+      "max_win_point": 69,
+      "matches_left": 5
     },
     {
       "j_name": "浦和",
@@ -30777,14 +30777,14 @@
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
       "rank": 9,
-      "win_point": 54,
+      "win_point": 55,
       "wins": 13,
-      "draws": 15,
+      "draws": 16,
       "loses": 9,
       "goals_for": 45,
       "goals_against": 43,
-      "max_win_point": 69,
-      "matches_left": 5
+      "max_win_point": 67,
+      "matches_left": 4
     },
     {
       "j_name": "広島",
@@ -30992,7 +30992,7 @@
       "league": "j2",
       "hash_tag": "#trinita",
       "full_name": "大分トリニータ",
-      "rank": 10,
+      "rank": 11,
       "win_point": 54,
       "wins": 15,
       "draws": 9,
@@ -31057,5 +31057,5 @@
       "matches_left": 8
     }
   ],
-  "updated_at": "2023-10-08T21:12:04+09:00"
+  "updated_at": "2023-10-08T21:16:04+09:00"
 }
