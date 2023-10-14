@@ -12318,11 +12318,11 @@
           "date": "10/14(土)",
           "time": "14:00",
           "division": "j2",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "町田",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "101410"
         },
@@ -18346,11 +18346,11 @@
           "date": "10/14(土)",
           "time": "14:00",
           "division": "j2",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "秋田",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "101410"
         },
@@ -30060,11 +30060,11 @@
       "win_point": 47,
       "wins": 11,
       "draws": 14,
-      "loses": 13,
-      "goals_for": 33,
-      "goals_against": 40,
-      "max_win_point": 59,
-      "matches_left": 4
+      "loses": 12,
+      "goals_for": 32,
+      "goals_against": 38,
+      "max_win_point": 62,
+      "matches_left": 5
     },
     {
       "j_name": "山形",
@@ -30309,14 +30309,14 @@
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
       "rank": 1,
-      "win_point": 75,
-      "wins": 22,
+      "win_point": 72,
+      "wins": 21,
       "draws": 9,
       "loses": 7,
-      "goals_for": 70,
-      "goals_against": 34,
+      "goals_for": 68,
+      "goals_against": 33,
       "max_win_point": 87,
-      "matches_left": 4
+      "matches_left": 5
     },
     {
       "j_name": "川崎F",
@@ -31057,5 +31057,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2023-10-14T16:30:04+09:00"
+  "updated_at": "2023-10-14T16:32:04+09:00"
 }
