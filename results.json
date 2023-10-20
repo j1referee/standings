@@ -4380,11 +4380,11 @@
           "date": "10/20(金)",
           "time": "19:30",
           "division": "j1",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102003"
         },
@@ -6600,11 +6600,11 @@
           "date": "10/20(金)",
           "time": "19:30",
           "division": "j1",
-          "score": "2-0",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102003"
         },
@@ -30201,14 +30201,14 @@
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
       "rank": 3,
-      "win_point": 53,
-      "wins": 14,
+      "win_point": 50,
+      "wins": 13,
       "draws": 11,
       "loses": 5,
-      "goals_for": 37,
+      "goals_for": 35,
       "goals_against": 22,
       "max_win_point": 65,
-      "matches_left": 4
+      "matches_left": 5
     },
     {
       "j_name": "大宮",
@@ -30258,11 +30258,11 @@
       "win_point": 29,
       "wins": 6,
       "draws": 11,
-      "loses": 13,
+      "loses": 12,
       "goals_for": 28,
-      "goals_against": 42,
-      "max_win_point": 41,
-      "matches_left": 4
+      "goals_against": 40,
+      "max_win_point": 44,
+      "matches_left": 5
     },
     {
       "j_name": "FC東京",
@@ -31057,5 +31057,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2023-10-20T22:00:06+09:00"
+  "updated_at": "2023-10-20T22:02:04+09:00"
 }
