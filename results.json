@@ -6156,11 +6156,11 @@
           "date": "10/21(土)",
           "time": "13:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "鳥栖",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "102105"
         },
@@ -7488,11 +7488,11 @@
           "date": "10/21(土)",
           "time": "13:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "新潟",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "102105"
         },
@@ -9591,11 +9591,11 @@
           "date": "10/21(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-7",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 7,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "102110"
         },
@@ -12879,11 +12879,11 @@
           "date": "10/21(土)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-7",
           "opponent": "清水",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 7,
+          "point": 0,
           "home": true,
           "mid": "102110"
         },
@@ -30114,11 +30114,11 @@
       "win_point": 44,
       "wins": 11,
       "draws": 11,
-      "loses": 16,
-      "goals_for": 39,
-      "goals_against": 56,
-      "max_win_point": 56,
-      "matches_left": 4
+      "loses": 17,
+      "goals_for": 40,
+      "goals_against": 63,
+      "max_win_point": 53,
+      "matches_left": 3
     },
     {
       "j_name": "鹿島",
@@ -30489,14 +30489,14 @@
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
       "rank": 11,
-      "win_point": 36,
+      "win_point": 37,
       "wins": 9,
-      "draws": 9,
+      "draws": 10,
       "loses": 11,
-      "goals_for": 33,
-      "goals_against": 39,
-      "max_win_point": 51,
-      "matches_left": 5
+      "goals_for": 34,
+      "goals_against": 40,
+      "max_win_point": 49,
+      "matches_left": 4
     },
     {
       "j_name": "富山",
@@ -30543,14 +30543,14 @@
       "hash_tag": "#spulse",
       "full_name": "清水エスパルス",
       "rank": 2,
-      "win_point": 67,
-      "wins": 18,
+      "win_point": 70,
+      "wins": 19,
       "draws": 13,
       "loses": 7,
-      "goals_for": 65,
-      "goals_against": 29,
+      "goals_for": 72,
+      "goals_against": 30,
       "max_win_point": 79,
-      "matches_left": 4
+      "matches_left": 3
     },
     {
       "j_name": "磐田",
@@ -30939,14 +30939,14 @@
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
       "rank": 12,
-      "win_point": 35,
+      "win_point": 36,
       "wins": 9,
-      "draws": 8,
+      "draws": 9,
       "loses": 12,
-      "goals_for": 38,
-      "goals_against": 39,
-      "max_win_point": 50,
-      "matches_left": 5
+      "goals_for": 39,
+      "goals_against": 40,
+      "max_win_point": 48,
+      "matches_left": 4
     },
     {
       "j_name": "長崎",
@@ -31057,5 +31057,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2023-10-21T15:12:04+09:00"
+  "updated_at": "2023-10-21T15:16:04+09:00"
 }
