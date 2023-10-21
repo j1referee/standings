@@ -828,11 +828,11 @@
           "date": "10/21(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "4-1",
+          "score": "vs",
           "opponent": "札幌",
-          "goals_for": 4,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102118"
         },
@@ -3492,11 +3492,11 @@
           "date": "10/21(土)",
           "time": "14:00",
           "division": "j1",
-          "score": "4-1",
+          "score": "vs",
           "opponent": "横浜FM",
-          "goals_for": 1,
-          "goals_against": 4,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102118"
         },
@@ -20462,11 +20462,11 @@
           "date": "10/21(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "愛媛",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102111"
         },
@@ -29390,11 +29390,11 @@
           "date": "10/21(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "相模原",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102111"
         },
@@ -29988,11 +29988,11 @@
       "win_point": 33,
       "wins": 8,
       "draws": 9,
-      "loses": 13,
-      "goals_for": 51,
-      "goals_against": 57,
-      "max_win_point": 45,
-      "matches_left": 4
+      "loses": 12,
+      "goals_for": 50,
+      "goals_against": 53,
+      "max_win_point": 48,
+      "matches_left": 5
     },
     {
       "j_name": "八戸",
@@ -30345,14 +30345,14 @@
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
       "rank": 2,
-      "win_point": 57,
-      "wins": 17,
+      "win_point": 54,
+      "wins": 16,
       "draws": 6,
       "loses": 7,
-      "goals_for": 56,
-      "goals_against": 37,
+      "goals_for": 52,
+      "goals_against": 36,
       "max_win_point": 69,
-      "matches_left": 4
+      "matches_left": 5
     },
     {
       "j_name": "横浜FC",
@@ -30420,11 +30420,11 @@
       "win_point": 33,
       "wins": 7,
       "draws": 12,
-      "loses": 13,
-      "goals_for": 35,
-      "goals_against": 43,
-      "max_win_point": 51,
-      "matches_left": 6
+      "loses": 12,
+      "goals_for": 34,
+      "goals_against": 41,
+      "max_win_point": 54,
+      "matches_left": 7
     },
     {
       "j_name": "甲府",
@@ -30867,14 +30867,14 @@
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
       "rank": 1,
-      "win_point": 61,
-      "wins": 17,
+      "win_point": 58,
+      "wins": 16,
       "draws": 10,
       "loses": 5,
-      "goals_for": 50,
-      "goals_against": 41,
+      "goals_for": 48,
+      "goals_against": 40,
       "max_win_point": 79,
-      "matches_left": 6
+      "matches_left": 7
     },
     {
       "j_name": "今治",
@@ -31057,5 +31057,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2023-10-21T16:30:04+09:00"
+  "updated_at": "2023-10-21T16:32:04+09:00"
 }
