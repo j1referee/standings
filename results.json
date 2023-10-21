@@ -2158,13 +2158,13 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "102106"
         },
@@ -7930,13 +7930,13 @@
         {
           "sec": 30,
           "date": "10/21(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "京都",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "102106"
         },
@@ -30362,7 +30362,7 @@
       "league": "j1",
       "hash_tag": "#yokohamafc",
       "full_name": "横浜ＦＣ",
-      "rank": 17,
+      "rank": 18,
       "win_point": 26,
       "wins": 6,
       "draws": 8,
@@ -30398,15 +30398,15 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 18,
-      "win_point": 24,
-      "wins": 5,
+      "rank": 17,
+      "win_point": 27,
+      "wins": 6,
       "draws": 9,
       "loses": 15,
-      "goals_for": 35,
+      "goals_for": 36,
       "goals_against": 53,
       "max_win_point": 39,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "相模原",
@@ -30654,11 +30654,11 @@
       "win_point": 33,
       "wins": 10,
       "draws": 3,
-      "loses": 16,
+      "loses": 17,
       "goals_for": 33,
-      "goals_against": 39,
-      "max_win_point": 48,
-      "matches_left": 5
+      "goals_against": 40,
+      "max_win_point": 45,
+      "matches_left": 4
     },
     {
       "j_name": "G大阪",
@@ -31057,5 +31057,5 @@
       "matches_left": 7
     }
   ],
-  "updated_at": "2023-10-21T17:16:04+09:00"
+  "updated_at": "2023-10-21T17:20:04+09:00"
 }
