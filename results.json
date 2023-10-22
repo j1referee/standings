@@ -21454,11 +21454,11 @@
           "date": "10/22(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "岩手",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "102217"
         },
@@ -29886,11 +29886,11 @@
           "date": "10/22(日)",
           "time": "17:00",
           "division": "j3",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "鹿児島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "102217"
         },
@@ -30024,11 +30024,11 @@
       "win_point": 43,
       "wins": 12,
       "draws": 7,
-      "loses": 12,
+      "loses": 13,
       "goals_for": 42,
-      "goals_against": 38,
-      "max_win_point": 64,
-      "matches_left": 7
+      "goals_against": 41,
+      "max_win_point": 61,
+      "matches_left": 6
     },
     {
       "j_name": "仙台",
@@ -30506,7 +30506,7 @@
       "league": "j3",
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
-      "rank": 2,
+      "rank": 3,
       "win_point": 52,
       "wins": 16,
       "draws": 4,
@@ -31028,15 +31028,15 @@
       "league": "j3",
       "hash_tag": "#鹿児島ユナイテッドFC",
       "full_name": "鹿児島ユナイテッドＦＣ",
-      "rank": 3,
-      "win_point": 51,
-      "wins": 15,
+      "rank": 2,
+      "win_point": 54,
+      "wins": 16,
       "draws": 6,
       "loses": 10,
-      "goals_for": 49,
+      "goals_for": 52,
       "goals_against": 35,
       "max_win_point": 72,
-      "matches_left": 7
+      "matches_left": 6
     },
     {
       "j_name": "琉球",
@@ -31057,5 +31057,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2023-10-22T19:12:04+09:00"
+  "updated_at": "2023-10-22T19:16:03+09:00"
 }
