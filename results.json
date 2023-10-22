@@ -14523,11 +14523,11 @@
           "date": "10/22(日)",
           "time": "12:30",
           "division": "j2",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "山口",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102207"
         },
@@ -15071,11 +15071,11 @@
           "date": "10/22(日)",
           "time": "12:30",
           "division": "j2",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "岡山",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102207"
         },
@@ -30074,7 +30074,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 9,
+      "rank": 8,
       "win_point": 55,
       "wins": 17,
       "draws": 4,
@@ -30164,7 +30164,7 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 20,
+      "rank": 19,
       "win_point": 42,
       "wins": 10,
       "draws": 12,
@@ -30776,15 +30776,15 @@
       "league": "j2",
       "hash_tag": "#fagiano",
       "full_name": "ファジアーノ岡山",
-      "rank": 8,
-      "win_point": 56,
+      "rank": 9,
+      "win_point": 55,
       "wins": 13,
-      "draws": 17,
+      "draws": 16,
       "loses": 9,
-      "goals_for": 47,
-      "goals_against": 45,
-      "max_win_point": 65,
-      "matches_left": 3
+      "goals_for": 45,
+      "goals_against": 43,
+      "max_win_point": 67,
+      "matches_left": 4
     },
     {
       "j_name": "広島",
@@ -30812,15 +30812,15 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 19,
-      "win_point": 43,
+      "rank": 20,
+      "win_point": 42,
       "wins": 10,
-      "draws": 13,
+      "draws": 12,
       "loses": 16,
-      "goals_for": 35,
-      "goals_against": 61,
-      "max_win_point": 52,
-      "matches_left": 3
+      "goals_for": 33,
+      "goals_against": 59,
+      "max_win_point": 54,
+      "matches_left": 4
     },
     {
       "j_name": "讃岐",
@@ -31057,5 +31057,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2023-10-22T14:36:04+09:00"
+  "updated_at": "2023-10-22T14:42:04+09:00"
 }
