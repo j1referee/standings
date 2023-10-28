@@ -1285,11 +1285,11 @@
           "date": "10/28(土)",
           "time": "13:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "札幌",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "102801"
         },
@@ -3505,11 +3505,11 @@
           "date": "10/28(土)",
           "time": "13:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "横浜FC",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "102801"
         },
@@ -29984,15 +29984,15 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 13,
-      "win_point": 36,
-      "wins": 9,
+      "rank": 14,
+      "win_point": 33,
+      "wins": 8,
       "draws": 9,
       "loses": 13,
-      "goals_for": 53,
-      "goals_against": 58,
+      "goals_for": 51,
+      "goals_against": 57,
       "max_win_point": 45,
-      "matches_left": 3
+      "matches_left": 4
     },
     {
       "j_name": "八戸",
@@ -30366,11 +30366,11 @@
       "win_point": 26,
       "wins": 6,
       "draws": 8,
-      "loses": 17,
-      "goals_for": 27,
-      "goals_against": 54,
-      "max_win_point": 35,
-      "matches_left": 3
+      "loses": 16,
+      "goals_for": 26,
+      "goals_against": 52,
+      "max_win_point": 38,
+      "matches_left": 4
     },
     {
       "j_name": "YS横浜",
@@ -30668,7 +30668,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 14,
+      "rank": 13,
       "win_point": 34,
       "wins": 9,
       "draws": 7,
@@ -31057,5 +31057,5 @@
       "matches_left": 6
     }
   ],
-  "updated_at": "2023-10-28T15:32:04+09:00"
+  "updated_at": "2023-10-28T15:36:04+09:00"
 }
