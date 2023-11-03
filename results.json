@@ -8521,11 +8521,11 @@
           "date": "11/03(金・祝)",
           "time": "13:05",
           "division": "j2",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "熊本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "110301"
         },
@@ -20029,11 +20029,11 @@
           "date": "11/03(金・祝)",
           "time": "13:05",
           "division": "j2",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "甲府",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "110301"
         },
@@ -30236,7 +30236,7 @@
       "league": "j2",
       "hash_tag": "#jefunited",
       "full_name": "ジェフユナイテッド千葉",
-      "rank": 5,
+      "rank": 6,
       "win_point": 64,
       "wins": 18,
       "draws": 10,
@@ -30434,15 +30434,15 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 6,
-      "win_point": 61,
-      "wins": 17,
+      "rank": 5,
+      "win_point": 64,
+      "wins": 18,
       "draws": 10,
       "loses": 13,
-      "goals_for": 57,
+      "goals_for": 59,
       "goals_against": 48,
       "max_win_point": 67,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "松本",
@@ -30978,11 +30978,11 @@
       "win_point": 46,
       "wins": 12,
       "draws": 10,
-      "loses": 18,
+      "loses": 19,
       "goals_for": 49,
-      "goals_against": 50,
-      "max_win_point": 52,
-      "matches_left": 2
+      "goals_against": 52,
+      "max_win_point": 49,
+      "matches_left": 1
     },
     {
       "j_name": "大分",
@@ -31057,5 +31057,5 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2023-11-03T15:36:03+09:00"
+  "updated_at": "2023-11-03T15:42:04+09:00"
 }
