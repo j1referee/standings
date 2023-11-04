@@ -13451,13 +13451,13 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "徳島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": false,
           "mid": "110403"
         },
@@ -16191,13 +16191,13 @@
         {
           "sec": 41,
           "date": "11/04(土)",
-          "time": "14:00",
+          "time": "14:04",
           "division": "j2",
-          "score": "vs",
+          "score": "0-0",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 0,
+          "point": 1,
           "home": true,
           "mid": "110403"
         },
@@ -30038,7 +30038,7 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 13,
+      "rank": 14,
       "win_point": 48,
       "wins": 12,
       "draws": 12,
@@ -30056,7 +30056,7 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 14,
+      "rank": 15,
       "win_point": 47,
       "wins": 11,
       "draws": 14,
@@ -30579,14 +30579,14 @@
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
       "rank": 12,
-      "win_point": 51,
+      "win_point": 52,
       "wins": 14,
-      "draws": 9,
+      "draws": 10,
       "loses": 17,
       "goals_for": 59,
       "goals_against": 68,
-      "max_win_point": 57,
-      "matches_left": 2
+      "max_win_point": 55,
+      "matches_left": 1
     },
     {
       "j_name": "沼津",
@@ -30848,15 +30848,15 @@
       "league": "j2",
       "hash_tag": "#vortis",
       "full_name": "徳島ヴォルティス",
-      "rank": 15,
-      "win_point": 47,
+      "rank": 13,
+      "win_point": 48,
       "wins": 10,
-      "draws": 17,
+      "draws": 18,
       "loses": 13,
       "goals_for": 42,
       "goals_against": 52,
-      "max_win_point": 53,
-      "matches_left": 2
+      "max_win_point": 51,
+      "matches_left": 1
     },
     {
       "j_name": "愛媛",
@@ -31057,5 +31057,5 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2023-11-04T16:20:03+09:00"
+  "updated_at": "2023-11-04T16:30:04+09:00"
 }
