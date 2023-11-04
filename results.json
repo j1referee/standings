@@ -20984,11 +20984,11 @@
           "date": "11/04(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "岩手",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110405"
         },
@@ -29912,11 +29912,11 @@
           "date": "11/04(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "鳥取",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110405"
         },
@@ -30021,14 +30021,14 @@
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
       "rank": 11,
-      "win_point": 47,
+      "win_point": 46,
       "wins": 13,
-      "draws": 8,
+      "draws": 7,
       "loses": 13,
-      "goals_for": 44,
-      "goals_against": 42,
-      "max_win_point": 59,
-      "matches_left": 4
+      "goals_for": 43,
+      "goals_against": 41,
+      "max_win_point": 61,
+      "matches_left": 5
     },
     {
       "j_name": "仙台",
@@ -30759,14 +30759,14 @@
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
       "rank": 7,
-      "win_point": 49,
+      "win_point": 48,
       "wins": 12,
-      "draws": 13,
+      "draws": 12,
       "loses": 9,
-      "goals_for": 49,
-      "goals_against": 45,
-      "max_win_point": 61,
-      "matches_left": 4
+      "goals_for": 48,
+      "goals_against": 44,
+      "max_win_point": 63,
+      "matches_left": 5
     },
     {
       "j_name": "岡山",
@@ -31057,5 +31057,5 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2023-11-04T15:06:04+09:00"
+  "updated_at": "2023-11-04T15:12:04+09:00"
 }
