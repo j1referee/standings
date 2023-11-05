@@ -21976,11 +21976,11 @@
           "date": "11/05(日)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "福島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "110511"
         },
@@ -26936,11 +26936,11 @@
           "date": "11/05(日)",
           "time": "19:00",
           "division": "j3",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "FC大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "110511"
         },
@@ -30096,11 +30096,11 @@
       "win_point": 39,
       "wins": 10,
       "draws": 9,
-      "loses": 14,
+      "loses": 15,
       "goals_for": 30,
-      "goals_against": 38,
-      "max_win_point": 54,
-      "matches_left": 5
+      "goals_against": 39,
+      "max_win_point": 51,
+      "matches_left": 4
     },
     {
       "j_name": "いわき",
@@ -30452,7 +30452,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 52,
       "wins": 15,
       "draws": 7,
@@ -30704,15 +30704,15 @@
       "league": "j3",
       "hash_tag": "#fcosaka",
       "full_name": "ＦＣ大阪",
-      "rank": 6,
-      "win_point": 49,
-      "wins": 13,
+      "rank": 4,
+      "win_point": 52,
+      "wins": 14,
       "draws": 10,
       "loses": 10,
-      "goals_for": 37,
+      "goals_for": 38,
       "goals_against": 27,
       "max_win_point": 64,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "奈良",
@@ -30884,7 +30884,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 5,
+      "rank": 6,
       "win_point": 50,
       "wins": 13,
       "draws": 11,
@@ -31057,5 +31057,5 @@
       "matches_left": 4
     }
   ],
-  "updated_at": "2023-11-05T16:32:04+09:00"
+  "updated_at": "2023-11-05T21:00:04+09:00"
 }
