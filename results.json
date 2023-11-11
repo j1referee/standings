@@ -26453,11 +26453,11 @@
           "date": "11/11(土)",
           "time": "18:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "愛媛",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "111111"
         },
@@ -29429,11 +29429,11 @@
           "date": "11/11(土)",
           "time": "18:00",
           "division": "j3",
-          "score": "1-0",
+          "score": "vs",
           "opponent": "今治",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "111111"
         },
@@ -30867,14 +30867,14 @@
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
       "rank": 1,
-      "win_point": 70,
-      "wins": 20,
+      "win_point": 67,
+      "wins": 19,
       "draws": 10,
       "loses": 5,
-      "goals_for": 55,
+      "goals_for": 54,
       "goals_against": 41,
       "max_win_point": 79,
-      "matches_left": 3
+      "matches_left": 4
     },
     {
       "j_name": "今治",
@@ -30888,11 +30888,11 @@
       "win_point": 50,
       "wins": 13,
       "draws": 11,
-      "loses": 11,
+      "loses": 10,
       "goals_for": 46,
-      "goals_against": 38,
-      "max_win_point": 59,
-      "matches_left": 3
+      "goals_against": 37,
+      "max_win_point": 62,
+      "matches_left": 4
     },
     {
       "j_name": "福岡",
@@ -31057,5 +31057,5 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2023-11-11T20:06:03+09:00"
+  "updated_at": "2023-11-11T20:12:04+09:00"
 }
