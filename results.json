@@ -4406,11 +4406,11 @@
           "date": "11/12(日)",
           "time": "15:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "神戸",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "111222"
         },
@@ -4850,11 +4850,11 @@
           "date": "11/12(日)",
           "time": "15:00",
           "division": "j1",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "浦和",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "111222"
         },
@@ -30204,11 +30204,11 @@
       "win_point": 54,
       "wins": 14,
       "draws": 12,
-      "loses": 6,
-      "goals_for": 38,
-      "goals_against": 24,
-      "max_win_point": 60,
-      "matches_left": 2
+      "loses": 5,
+      "goals_for": 37,
+      "goals_against": 22,
+      "max_win_point": 63,
+      "matches_left": 3
     },
     {
       "j_name": "大宮",
@@ -30344,7 +30344,7 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 2,
+      "rank": 1,
       "win_point": 63,
       "wins": 19,
       "draws": 6,
@@ -30740,15 +30740,15 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 1,
-      "win_point": 65,
-      "wins": 19,
+      "rank": 2,
+      "win_point": 62,
+      "wins": 18,
       "draws": 8,
       "loses": 5,
-      "goals_for": 57,
-      "goals_against": 28,
+      "goals_for": 55,
+      "goals_against": 27,
       "max_win_point": 71,
-      "matches_left": 2
+      "matches_left": 3
     },
     {
       "j_name": "鳥取",
@@ -31057,5 +31057,5 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2023-11-12T17:06:04+09:00"
+  "updated_at": "2023-11-12T17:12:04+09:00"
 }
