@@ -12918,11 +12918,11 @@
           "date": "11/12(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-4",
           "opponent": "藤枝",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 2,
+          "point": 3,
           "home": false,
           "mid": "111209"
         }
@@ -13466,11 +13466,11 @@
           "date": "11/12(日)",
           "time": "13:00",
           "division": "j2",
-          "score": "vs",
+          "score": "2-4",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "111209"
         }
@@ -25955,13 +25955,13 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "13:00",
+          "time": "13:04",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "福島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "111212"
         },
@@ -26947,13 +26947,13 @@
         {
           "sec": 35,
           "date": "11/12(日)",
-          "time": "13:00",
+          "time": "13:04",
           "division": "j3",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "松本",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "111212"
         },
@@ -30092,15 +30092,15 @@
       "league": "j3",
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
-      "rank": 17,
-      "win_point": 39,
+      "rank": 16,
+      "win_point": 40,
       "wins": 10,
-      "draws": 9,
+      "draws": 10,
       "loses": 15,
-      "goals_for": 30,
-      "goals_against": 39,
-      "max_win_point": 51,
-      "matches_left": 4
+      "goals_for": 31,
+      "goals_against": 40,
+      "max_win_point": 49,
+      "matches_left": 3
     },
     {
       "j_name": "いわき",
@@ -30110,15 +30110,15 @@
       "league": "j2",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 19,
-      "win_point": 44,
-      "wins": 11,
+      "rank": 18,
+      "win_point": 47,
+      "wins": 12,
       "draws": 11,
       "loses": 19,
-      "goals_for": 41,
-      "goals_against": 67,
+      "goals_for": 45,
+      "goals_against": 69,
       "max_win_point": 47,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "鹿島",
@@ -30164,7 +30164,7 @@
       "league": "j2",
       "hash_tag": "#tochigisc",
       "full_name": "栃木ＳＣ",
-      "rank": 18,
+      "rank": 19,
       "win_point": 44,
       "wins": 10,
       "draws": 14,
@@ -30452,15 +30452,15 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 5,
-      "win_point": 52,
+      "rank": 4,
+      "win_point": 53,
       "wins": 15,
-      "draws": 7,
+      "draws": 8,
       "loses": 12,
-      "goals_for": 50,
-      "goals_against": 43,
-      "max_win_point": 64,
-      "matches_left": 4
+      "goals_for": 51,
+      "goals_against": 44,
+      "max_win_point": 62,
+      "matches_left": 3
     },
     {
       "j_name": "長野",
@@ -30582,11 +30582,11 @@
       "win_point": 52,
       "wins": 14,
       "draws": 10,
-      "loses": 17,
-      "goals_for": 59,
-      "goals_against": 68,
-      "max_win_point": 55,
-      "matches_left": 1
+      "loses": 18,
+      "goals_for": 61,
+      "goals_against": 72,
+      "max_win_point": 52,
+      "matches_left": 0
     },
     {
       "j_name": "沼津",
@@ -30704,7 +30704,7 @@
       "league": "j3",
       "hash_tag": "#fcosaka",
       "full_name": "ＦＣ大阪",
-      "rank": 4,
+      "rank": 5,
       "win_point": 52,
       "wins": 14,
       "draws": 10,
@@ -30830,7 +30830,7 @@
       "league": "j3",
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
-      "rank": 16,
+      "rank": 17,
       "win_point": 40,
       "wins": 10,
       "draws": 10,
@@ -31057,5 +31057,5 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2023-11-12T15:32:04+09:00"
+  "updated_at": "2023-11-12T15:36:04+09:00"
 }
