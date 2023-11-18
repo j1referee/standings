@@ -23490,11 +23490,11 @@
           "date": "11/18(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "0-2",
+          "score": "vs",
           "opponent": "松本",
-          "goals_for": 2,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "111802"
         },
@@ -25970,11 +25970,11 @@
           "date": "11/18(土)",
           "time": "14:00",
           "division": "j3",
-          "score": "0-2",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 0,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "111802"
         },
@@ -30002,7 +30002,7 @@
       "league": "j3",
       "hash_tag": "#ヴァンラーレ八戸",
       "full_name": "ヴァンラーレ八戸",
-      "rank": 12,
+      "rank": 11,
       "win_point": 49,
       "wins": 13,
       "draws": 10,
@@ -30380,15 +30380,15 @@
       "league": "j3",
       "hash_tag": "#yscc",
       "full_name": "Ｙ．Ｓ．Ｃ．Ｃ．横浜",
-      "rank": 9,
-      "win_point": 51,
-      "wins": 14,
+      "rank": 12,
+      "win_point": 48,
+      "wins": 13,
       "draws": 9,
       "loses": 13,
-      "goals_for": 46,
+      "goals_for": 44,
       "goals_against": 47,
       "max_win_point": 57,
-      "matches_left": 2
+      "matches_left": 3
     },
     {
       "j_name": "湘南",
@@ -30456,11 +30456,11 @@
       "win_point": 53,
       "wins": 15,
       "draws": 8,
-      "loses": 13,
+      "loses": 12,
       "goals_for": 51,
-      "goals_against": 46,
-      "max_win_point": 59,
-      "matches_left": 2
+      "goals_against": 44,
+      "max_win_point": 62,
+      "matches_left": 3
     },
     {
       "j_name": "長野",
@@ -30758,7 +30758,7 @@
       "league": "j3",
       "hash_tag": "#gainare",
       "full_name": "ガイナーレ鳥取",
-      "rank": 11,
+      "rank": 10,
       "win_point": 49,
       "wins": 12,
       "draws": 13,
@@ -30884,7 +30884,7 @@
       "league": "j3",
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
-      "rank": 10,
+      "rank": 9,
       "win_point": 50,
       "wins": 13,
       "draws": 11,
@@ -31057,5 +31057,5 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2023-11-18T16:16:04+09:00"
+  "updated_at": "2023-11-18T16:20:04+09:00"
 }
