@@ -24978,11 +24978,11 @@
           "date": "11/19(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "北九州",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "111904"
         },
@@ -27458,11 +27458,11 @@
           "date": "11/19(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "2-2",
+          "score": "vs",
           "opponent": "長野",
-          "goals_for": 2,
-          "goals_against": 2,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "111904"
         },
@@ -27954,11 +27954,11 @@
           "date": "11/19(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "岩手",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "111902"
         },
@@ -28448,7 +28448,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "沼津",
@@ -28944,7 +28944,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "1-2",
           "opponent": "讃岐",
@@ -29938,11 +29938,11 @@
           "date": "11/19(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "111902"
         },
@@ -30020,15 +30020,15 @@
       "league": "j3",
       "hash_tag": "#いわてグルージャ盛岡",
       "full_name": "いわてグルージャ盛岡",
-      "rank": 14,
-      "win_point": 47,
-      "wins": 13,
+      "rank": 13,
+      "win_point": 50,
+      "wins": 14,
       "draws": 8,
       "loses": 14,
-      "goals_for": 45,
-      "goals_against": 48,
+      "goals_for": 47,
+      "goals_against": 49,
       "max_win_point": 56,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "仙台",
@@ -30470,15 +30470,15 @@
       "league": "j3",
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
-      "rank": 13,
-      "win_point": 48,
+      "rank": 14,
+      "win_point": 47,
       "wins": 13,
-      "draws": 9,
+      "draws": 8,
       "loses": 14,
-      "goals_for": 49,
-      "goals_against": 57,
-      "max_win_point": 54,
-      "matches_left": 2
+      "goals_for": 47,
+      "goals_against": 55,
+      "max_win_point": 56,
+      "matches_left": 3
     },
     {
       "j_name": "新潟",
@@ -30636,11 +30636,11 @@
       "win_point": 51,
       "wins": 13,
       "draws": 12,
-      "loses": 10,
-      "goals_for": 42,
-      "goals_against": 32,
-      "max_win_point": 60,
-      "matches_left": 3
+      "loses": 11,
+      "goals_for": 43,
+      "goals_against": 34,
+      "max_win_point": 57,
+      "matches_left": 2
     },
     {
       "j_name": "京都",
@@ -30921,14 +30921,14 @@
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
       "rank": 20,
-      "win_point": 28,
+      "win_point": 27,
       "wins": 6,
-      "draws": 10,
+      "draws": 9,
       "loses": 20,
-      "goals_for": 31,
-      "goals_against": 43,
-      "max_win_point": 34,
-      "matches_left": 2
+      "goals_for": 29,
+      "goals_against": 41,
+      "max_win_point": 36,
+      "matches_left": 3
     },
     {
       "j_name": "鳥栖",
@@ -31057,5 +31057,5 @@
       "matches_left": 2
     }
   ],
-  "updated_at": "2023-11-19T16:16:04+09:00"
+  "updated_at": "2023-11-19T16:20:04+09:00"
 }
