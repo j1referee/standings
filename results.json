@@ -24978,11 +24978,11 @@
           "date": "11/19(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "北九州",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "111904"
         },
@@ -27458,11 +27458,11 @@
           "date": "11/19(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "長野",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "111904"
         },
@@ -27952,7 +27952,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "2-1",
           "opponent": "岩手",
@@ -29936,7 +29936,7 @@
         {
           "sec": 36,
           "date": "11/19(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "2-1",
           "opponent": "岐阜",
@@ -30471,14 +30471,14 @@
       "hash_tag": "#acnpv",
       "full_name": "ＡＣ長野パルセイロ",
       "rank": 14,
-      "win_point": 47,
+      "win_point": 48,
       "wins": 13,
-      "draws": 8,
+      "draws": 9,
       "loses": 14,
-      "goals_for": 47,
-      "goals_against": 55,
-      "max_win_point": 56,
-      "matches_left": 3
+      "goals_for": 49,
+      "goals_against": 57,
+      "max_win_point": 54,
+      "matches_left": 2
     },
     {
       "j_name": "新潟",
@@ -30921,14 +30921,14 @@
       "hash_tag": "#giravanz",
       "full_name": "ギラヴァンツ北九州",
       "rank": 20,
-      "win_point": 27,
+      "win_point": 28,
       "wins": 6,
-      "draws": 9,
+      "draws": 10,
       "loses": 20,
-      "goals_for": 29,
-      "goals_against": 41,
-      "max_win_point": 36,
-      "matches_left": 3
+      "goals_for": 31,
+      "goals_against": 43,
+      "max_win_point": 34,
+      "matches_left": 2
     },
     {
       "j_name": "鳥栖",
@@ -31057,5 +31057,5 @@
       "matches_left": 2
     }
   ],
-  "updated_at": "2023-11-19T16:20:04+09:00"
+  "updated_at": "2023-11-19T16:30:04+09:00"
 }
