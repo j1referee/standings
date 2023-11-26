@@ -20525,7 +20525,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "0-0",
           "opponent": "岩手",
@@ -25983,11 +25983,11 @@
           "date": "11/26(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "讃岐",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "112604"
         },
@@ -26975,11 +26975,11 @@
           "date": "11/26(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "北九州",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "112606"
         },
@@ -27471,11 +27471,11 @@
           "date": "11/26(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "1-2",
+          "score": "vs",
           "opponent": "福島",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "112606"
         },
@@ -28463,11 +28463,11 @@
           "date": "11/26(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "0-0",
+          "score": "vs",
           "opponent": "松本",
-          "goals_for": 0,
-          "goals_against": 0,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "112604"
         },
@@ -29949,7 +29949,7 @@
         {
           "sec": 37,
           "date": "11/26(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "0-0",
           "opponent": "相模原",
@@ -30093,14 +30093,14 @@
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
       "rank": 15,
-      "win_point": 46,
-      "wins": 12,
+      "win_point": 43,
+      "wins": 11,
       "draws": 10,
       "loses": 15,
-      "goals_for": 37,
-      "goals_against": 42,
+      "goals_for": 35,
+      "goals_against": 41,
       "max_win_point": 49,
-      "matches_left": 1
+      "matches_left": 2
     },
     {
       "j_name": "いわき",
@@ -30453,14 +30453,14 @@
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
       "rank": 9,
-      "win_point": 54,
+      "win_point": 53,
       "wins": 15,
-      "draws": 9,
+      "draws": 8,
       "loses": 13,
       "goals_for": 51,
       "goals_against": 46,
-      "max_win_point": 57,
-      "matches_left": 1
+      "max_win_point": 59,
+      "matches_left": 2
     },
     {
       "j_name": "長野",
@@ -30831,14 +30831,14 @@
       "hash_tag": "#kamatamare",
       "full_name": "カマタマーレ讃岐",
       "rank": 16,
-      "win_point": 44,
+      "win_point": 43,
       "wins": 11,
-      "draws": 11,
+      "draws": 10,
       "loses": 15,
       "goals_for": 29,
       "goals_against": 44,
-      "max_win_point": 47,
-      "matches_left": 1
+      "max_win_point": 49,
+      "matches_left": 2
     },
     {
       "j_name": "徳島",
@@ -30924,11 +30924,11 @@
       "win_point": 28,
       "wins": 6,
       "draws": 10,
-      "loses": 21,
-      "goals_for": 32,
-      "goals_against": 45,
-      "max_win_point": 31,
-      "matches_left": 1
+      "loses": 20,
+      "goals_for": 31,
+      "goals_against": 43,
+      "max_win_point": 34,
+      "matches_left": 2
     },
     {
       "j_name": "鳥栖",
@@ -31057,5 +31057,5 @@
       "matches_left": 1
     }
   ],
-  "updated_at": "2023-11-26T16:06:04+09:00"
+  "updated_at": "2023-11-26T16:12:04+09:00"
 }
