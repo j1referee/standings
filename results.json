@@ -1768,11 +1768,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "120305"
         }
@@ -3542,7 +3542,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "0-2",
           "opponent": "浦和",
@@ -4430,7 +4430,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "0-2",
           "opponent": "札幌",
@@ -6652,11 +6652,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "名古屋",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "120305"
         }
@@ -30255,14 +30255,14 @@
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
       "rank": 17,
-      "win_point": 32,
+      "win_point": 33,
       "wins": 6,
-      "draws": 14,
+      "draws": 15,
       "loses": 13,
-      "goals_for": 32,
-      "goals_against": 46,
-      "max_win_point": 35,
-      "matches_left": 1
+      "goals_for": 33,
+      "goals_against": 47,
+      "max_win_point": 33,
+      "matches_left": 0
     },
     {
       "j_name": "FC東京",
@@ -30615,14 +30615,14 @@
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
       "rank": 6,
-      "win_point": 51,
+      "win_point": 52,
       "wins": 14,
-      "draws": 9,
+      "draws": 10,
       "loses": 10,
-      "goals_for": 40,
-      "goals_against": 35,
-      "max_win_point": 54,
-      "matches_left": 1
+      "goals_for": 41,
+      "goals_against": 36,
+      "max_win_point": 52,
+      "matches_left": 0
     },
     {
       "j_name": "岐阜",
@@ -31057,5 +31057,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2023-12-03T16:42:04+09:00"
+  "updated_at": "2023-12-03T16:50:04+09:00"
 }
