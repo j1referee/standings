@@ -434,7 +434,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:05",
           "division": "j1",
           "score": "0-1",
           "opponent": "鳥栖",
@@ -880,11 +880,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "京都",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "120306"
         }
@@ -1322,7 +1322,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "2-1",
           "opponent": "鹿島",
@@ -2212,11 +2212,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "横浜FM",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "120306"
         }
@@ -2654,7 +2654,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "2-1",
           "opponent": "横浜FC",
@@ -3100,11 +3100,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "120308"
         }
@@ -3544,11 +3544,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "120301"
         }
@@ -3986,13 +3986,13 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "湘南",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "120303"
         }
@@ -4432,11 +4432,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "札幌",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "120301"
         }
@@ -4876,11 +4876,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "G大阪",
-          "goals_for": 1,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "120307"
         }
@@ -5320,11 +5320,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "広島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "120308"
         }
@@ -5762,7 +5762,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "新潟",
@@ -6206,7 +6206,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "C大阪",
@@ -7096,11 +7096,11 @@
           "date": "12/03(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "0-1",
+          "score": "vs",
           "opponent": "神戸",
-          "goals_for": 0,
-          "goals_against": 1,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "120307"
         }
@@ -7538,7 +7538,7 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:05",
           "division": "j1",
           "score": "0-1",
           "opponent": "川崎F",
@@ -7982,13 +7982,13 @@
         {
           "sec": 34,
           "date": "12/03(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "0-1",
           "opponent": "FC東京",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": true,
           "mid": "120303"
         }
@@ -29984,15 +29984,15 @@
       "league": "j1",
       "hash_tag": "#consadole",
       "full_name": "北海道コンサドーレ札幌",
-      "rank": 11,
+      "rank": 12,
       "win_point": 40,
       "wins": 10,
       "draws": 10,
-      "loses": 13,
+      "loses": 14,
       "goals_for": 56,
-      "goals_against": 59,
-      "max_win_point": 43,
-      "matches_left": 1
+      "goals_against": 61,
+      "max_win_point": 40,
+      "matches_left": 0
     },
     {
       "j_name": "八戸",
@@ -30201,14 +30201,14 @@
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
       "rank": 4,
-      "win_point": 54,
-      "wins": 14,
+      "win_point": 57,
+      "wins": 15,
       "draws": 12,
       "loses": 7,
-      "goals_for": 40,
+      "goals_for": 42,
       "goals_against": 27,
       "max_win_point": 57,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "大宮",
@@ -30272,15 +30272,15 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 12,
-      "win_point": 40,
-      "wins": 11,
+      "rank": 11,
+      "win_point": 43,
+      "wins": 12,
       "draws": 7,
       "loses": 15,
-      "goals_for": 41,
+      "goals_for": 42,
       "goals_against": 46,
       "max_win_point": 43,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "東京V",
@@ -30348,11 +30348,11 @@
       "win_point": 64,
       "wins": 19,
       "draws": 7,
-      "loses": 7,
-      "goals_for": 62,
-      "goals_against": 37,
-      "max_win_point": 67,
-      "matches_left": 1
+      "loses": 8,
+      "goals_for": 63,
+      "goals_against": 40,
+      "max_win_point": 64,
+      "matches_left": 0
     },
     {
       "j_name": "横浜FC",
@@ -30402,11 +30402,11 @@
       "win_point": 34,
       "wins": 8,
       "draws": 10,
-      "loses": 15,
+      "loses": 16,
       "goals_for": 40,
-      "goals_against": 55,
-      "max_win_point": 37,
-      "matches_left": 1
+      "goals_against": 56,
+      "max_win_point": 34,
+      "matches_left": 0
     },
     {
       "j_name": "相模原",
@@ -30650,15 +30650,15 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 14,
-      "win_point": 37,
-      "wins": 11,
+      "rank": 13,
+      "win_point": 40,
+      "wins": 12,
       "draws": 4,
       "loses": 18,
-      "goals_for": 37,
-      "goals_against": 44,
+      "goals_for": 40,
+      "goals_against": 45,
       "max_win_point": 40,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "G大阪",
@@ -30672,11 +30672,11 @@
       "win_point": 34,
       "wins": 9,
       "draws": 7,
-      "loses": 18,
+      "loses": 17,
       "goals_for": 38,
-      "goals_against": 61,
-      "max_win_point": 34,
-      "matches_left": 0
+      "goals_against": 60,
+      "max_win_point": 37,
+      "matches_left": 1
     },
     {
       "j_name": "C大阪",
@@ -30741,14 +30741,14 @@
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
       "rank": 1,
-      "win_point": 71,
-      "wins": 21,
+      "win_point": 68,
+      "wins": 20,
       "draws": 8,
       "loses": 5,
-      "goals_for": 60,
+      "goals_for": 59,
       "goals_against": 29,
       "max_win_point": 71,
-      "matches_left": 0
+      "matches_left": 1
     },
     {
       "j_name": "鳥取",
@@ -30795,14 +30795,14 @@
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
       "rank": 3,
-      "win_point": 55,
-      "wins": 16,
+      "win_point": 58,
+      "wins": 17,
       "draws": 7,
       "loses": 10,
-      "goals_for": 41,
+      "goals_for": 42,
       "goals_against": 28,
       "max_win_point": 58,
-      "matches_left": 1
+      "matches_left": 0
     },
     {
       "j_name": "山口",
@@ -30906,11 +30906,11 @@
       "win_point": 51,
       "wins": 15,
       "draws": 6,
-      "loses": 12,
+      "loses": 13,
       "goals_for": 37,
-      "goals_against": 42,
-      "max_win_point": 54,
-      "matches_left": 1
+      "goals_against": 43,
+      "max_win_point": 51,
+      "matches_left": 0
     },
     {
       "j_name": "北九州",
@@ -30938,7 +30938,7 @@
       "league": "j1",
       "hash_tag": "#sagantosu",
       "full_name": "サガン鳥栖",
-      "rank": 13,
+      "rank": 14,
       "win_point": 38,
       "wins": 9,
       "draws": 11,
@@ -31057,5 +31057,5 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2023-12-03T16:16:04+09:00"
+  "updated_at": "2023-12-03T16:20:04+09:00"
 }
