@@ -23256,11 +23256,11 @@
           "date": "10/26(土)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "今治",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "102604"
         },
@@ -24248,11 +24248,11 @@
           "date": "10/26(土)",
           "time": "15:00",
           "division": "j3",
-          "score": "vs",
+          "score": "4-1",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 4,
+          "point": 0,
           "home": false,
           "mid": "102604"
         },
@@ -30424,15 +30424,15 @@
       "league": "j3",
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
-      "rank": 14,
-      "win_point": 42,
-      "wins": 12,
+      "rank": 13,
+      "win_point": 45,
+      "wins": 13,
       "draws": 6,
       "loses": 15,
-      "goals_for": 52,
-      "goals_against": 51,
+      "goals_for": 56,
+      "goals_against": 52,
       "max_win_point": 57,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "京都",
@@ -30680,11 +30680,11 @@
       "win_point": 61,
       "wins": 18,
       "draws": 7,
-      "loses": 8,
-      "goals_for": 52,
-      "goals_against": 33,
-      "max_win_point": 76,
-      "matches_left": 5
+      "loses": 9,
+      "goals_for": 53,
+      "goals_against": 37,
+      "max_win_point": 73,
+      "matches_left": 4
     },
     {
       "j_name": "福岡",
@@ -30838,7 +30838,7 @@
       "league": "j3",
       "hash_tag": "#fc_ryukyu",
       "full_name": "ＦＣ琉球",
-      "rank": 13,
+      "rank": 14,
       "win_point": 45,
       "wins": 12,
       "draws": 9,
@@ -30849,7 +30849,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2024-10-26T17:02:04+09:00",
+  "updated_at": "2024-10-26T17:06:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 49,
