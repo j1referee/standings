@@ -11376,11 +11376,11 @@
           "date": "10/26(土)",
           "time": "13:50",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "いわき",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "102601"
         },
@@ -11872,11 +11872,11 @@
           "date": "10/26(土)",
           "time": "13:50",
           "division": "j2",
-          "score": "vs",
+          "score": "1-2",
           "opponent": "水戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "102601"
         },
@@ -29906,11 +29906,11 @@
       "win_point": 51,
       "wins": 14,
       "draws": 9,
-      "loses": 12,
-      "goals_for": 49,
-      "goals_against": 38,
-      "max_win_point": 60,
-      "matches_left": 3
+      "loses": 13,
+      "goals_for": 50,
+      "goals_against": 40,
+      "max_win_point": 57,
+      "matches_left": 2
     },
     {
       "j_name": "鹿島",
@@ -29938,15 +29938,15 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 15,
-      "win_point": 41,
-      "wins": 10,
+      "rank": 13,
+      "win_point": 44,
+      "wins": 11,
       "draws": 11,
       "loses": 14,
-      "goals_for": 35,
-      "goals_against": 44,
+      "goals_for": 37,
+      "goals_against": 45,
       "max_win_point": 50,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "栃木",
@@ -30226,7 +30226,7 @@
       "league": "j2",
       "hash_tag": "#ventforet",
       "full_name": "ヴァンフォーレ甲府",
-      "rank": 14,
+      "rank": 15,
       "win_point": 42,
       "wins": 11,
       "draws": 9,
@@ -30766,7 +30766,7 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 13,
+      "rank": 14,
       "win_point": 43,
       "wins": 12,
       "draws": 7,
@@ -30849,7 +30849,7 @@
       "matches_left": 5
     }
   ],
-  "updated_at": "2024-10-23T22:20:04+09:00",
+  "updated_at": "2024-10-26T15:50:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 49,
