@@ -13360,11 +13360,11 @@
           "date": "10/27(日)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "仙台",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": true,
           "mid": "102707"
         },
@@ -19808,11 +19808,11 @@
           "date": "10/27(日)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "0-2",
           "opponent": "愛媛",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": false,
           "mid": "102707"
         },
@@ -29830,15 +29830,15 @@
       "league": "j2",
       "hash_tag": "#vegalta",
       "full_name": "ベガルタ仙台",
-      "rank": 7,
-      "win_point": 58,
-      "wins": 16,
+      "rank": 6,
+      "win_point": 61,
+      "wins": 17,
       "draws": 10,
       "loses": 9,
-      "goals_for": 45,
+      "goals_for": 47,
       "goals_against": 40,
       "max_win_point": 67,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "秋田",
@@ -29866,7 +29866,7 @@
       "league": "j2",
       "hash_tag": "#montedio",
       "full_name": "モンテディオ山形",
-      "rank": 6,
+      "rank": 7,
       "win_point": 60,
       "wins": 18,
       "draws": 6,
@@ -30662,11 +30662,11 @@
       "win_point": 39,
       "wins": 10,
       "draws": 9,
-      "loses": 16,
+      "loses": 17,
       "goals_for": 38,
-      "goals_against": 61,
-      "max_win_point": 48,
-      "matches_left": 3
+      "goals_against": 63,
+      "max_win_point": 45,
+      "matches_left": 2
     },
     {
       "j_name": "今治",
@@ -30849,7 +30849,7 @@
       "matches_left": 4
     }
   ],
-  "updated_at": "2024-10-27T18:02:04+09:00",
+  "updated_at": "2024-10-27T18:06:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 49,
