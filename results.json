@@ -930,7 +930,7 @@
         {
           "sec": 35,
           "date": "10/30(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "0-0",
           "opponent": "横浜FM",
@@ -9858,7 +9858,7 @@
         {
           "sec": 35,
           "date": "10/30(水)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
           "score": "0-0",
           "opponent": "浦和",
@@ -30849,7 +30849,7 @@
       "matches_left": 4
     }
   ],
-  "updated_at": "2024-10-30T21:20:04+09:00",
+  "updated_at": "2024-10-30T21:30:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 49,
