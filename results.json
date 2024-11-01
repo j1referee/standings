@@ -1922,13 +1922,13 @@
         {
           "sec": 35,
           "date": "11/01(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": false,
           "mid": "110101"
         },
@@ -2418,13 +2418,13 @@
         {
           "sec": 35,
           "date": "11/01(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "神戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "110102"
         },
@@ -2927,13 +2927,13 @@
         {
           "sec": 35,
           "date": "11/01(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "2-0",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "110102"
         },
@@ -7874,13 +7874,13 @@
         {
           "sec": 35,
           "date": "11/01(金)",
-          "time": "19:00",
+          "time": "19:03",
           "division": "j1",
-          "score": "vs",
+          "score": "1-3",
           "opponent": "鹿島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": true,
           "mid": "110101"
         },
@@ -29920,15 +29920,15 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 5,
-      "win_point": 54,
-      "wins": 15,
+      "rank": 4,
+      "win_point": 57,
+      "wins": 16,
       "draws": 9,
       "loses": 9,
-      "goals_for": 52,
-      "goals_against": 39,
+      "goals_for": 55,
+      "goals_against": 40,
       "max_win_point": 69,
-      "matches_left": 5
+      "matches_left": 4
     },
     {
       "j_name": "水戸",
@@ -30122,11 +30122,11 @@
       "win_point": 44,
       "wins": 11,
       "draws": 11,
-      "loses": 11,
-      "goals_for": 55,
-      "goals_against": 47,
-      "max_win_point": 59,
-      "matches_left": 5
+      "loses": 12,
+      "goals_for": 56,
+      "goals_against": 50,
+      "max_win_point": 56,
+      "matches_left": 4
     },
     {
       "j_name": "横浜FM",
@@ -30356,11 +30356,11 @@
       "win_point": 35,
       "wins": 9,
       "draws": 8,
-      "loses": 16,
+      "loses": 17,
       "goals_for": 39,
-      "goals_against": 54,
-      "max_win_point": 50,
-      "matches_left": 5
+      "goals_against": 56,
+      "max_win_point": 47,
+      "matches_left": 4
     },
     {
       "j_name": "藤枝",
@@ -30460,7 +30460,7 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 4,
+      "rank": 5,
       "win_point": 57,
       "wins": 15,
       "draws": 12,
@@ -30532,15 +30532,15 @@
       "league": "j1",
       "hash_tag": "#vissel",
       "full_name": "ヴィッセル神戸",
-      "rank": 2,
-      "win_point": 64,
-      "wins": 19,
+      "rank": 1,
+      "win_point": 67,
+      "wins": 20,
       "draws": 7,
       "loses": 8,
-      "goals_for": 54,
+      "goals_for": 56,
       "goals_against": 34,
       "max_win_point": 76,
-      "matches_left": 4
+      "matches_left": 3
     },
     {
       "j_name": "鳥取",
@@ -30586,7 +30586,7 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 1,
+      "rank": 2,
       "win_point": 65,
       "wins": 18,
       "draws": 11,
@@ -30849,10 +30849,10 @@
       "matches_left": 4
     }
   ],
-  "updated_at": "2024-11-01T21:20:04+09:00",
+  "updated_at": "2024-11-01T21:30:04+09:00",
   "divisions": {
     "j1": {
-      "safe_point": 49,
+      "safe_point": 48,
       "out_point": 38
     },
     "j2": {
