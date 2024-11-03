@@ -12877,11 +12877,11 @@
           "date": "11/03(日・祝)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "愛媛",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "110318"
         },
@@ -13373,11 +13373,11 @@
           "date": "11/03(日・祝)",
           "time": "16:00",
           "division": "j2",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "山口",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "110318"
         },
@@ -29848,7 +29848,7 @@
       "league": "j2",
       "hash_tag": "#bbakita",
       "full_name": "ブラウブリッツ秋田",
-      "rank": 10,
+      "rank": 11,
       "win_point": 51,
       "wins": 14,
       "draws": 9,
@@ -29902,7 +29902,7 @@
       "league": "j2",
       "hash_tag": "#iwakifc",
       "full_name": "いわきＦＣ",
-      "rank": 9,
+      "rank": 10,
       "win_point": 51,
       "wins": 14,
       "draws": 9,
@@ -30604,15 +30604,15 @@
       "league": "j2",
       "hash_tag": "#renofa",
       "full_name": "レノファ山口ＦＣ",
-      "rank": 11,
-      "win_point": 51,
+      "rank": 9,
+      "win_point": 52,
       "wins": 15,
-      "draws": 6,
+      "draws": 7,
       "loses": 15,
-      "goals_for": 42,
-      "goals_against": 43,
-      "max_win_point": 57,
-      "matches_left": 2
+      "goals_for": 43,
+      "goals_against": 44,
+      "max_win_point": 55,
+      "matches_left": 1
     },
     {
       "j_name": "讃岐",
@@ -30659,14 +30659,14 @@
       "hash_tag": "#ehimefc",
       "full_name": "愛媛ＦＣ",
       "rank": 17,
-      "win_point": 39,
+      "win_point": 40,
       "wins": 10,
-      "draws": 9,
+      "draws": 10,
       "loses": 17,
-      "goals_for": 38,
-      "goals_against": 63,
-      "max_win_point": 45,
-      "matches_left": 2
+      "goals_for": 39,
+      "goals_against": 64,
+      "max_win_point": 43,
+      "matches_left": 1
     },
     {
       "j_name": "今治",
@@ -30849,5 +30849,5 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-03T18:06:04+09:00"
+  "updated_at": "2024-11-03T18:12:05+09:00"
 }
