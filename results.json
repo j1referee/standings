@@ -3425,11 +3425,11 @@
           "date": "11/03(日・祝)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 2,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110309"
         },
@@ -8385,11 +8385,11 @@
           "date": "11/03(日・祝)",
           "time": "15:00",
           "division": "j1",
-          "score": "2-1",
+          "score": "vs",
           "opponent": "福岡",
-          "goals_for": 1,
-          "goals_against": 2,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110309"
         },
@@ -30050,11 +30050,11 @@
       "win_point": 39,
       "wins": 9,
       "draws": 12,
-      "loses": 14,
-      "goals_for": 37,
-      "goals_against": 48,
-      "max_win_point": 48,
-      "matches_left": 3
+      "loses": 13,
+      "goals_for": 36,
+      "goals_against": 46,
+      "max_win_point": 51,
+      "matches_left": 4
     },
     {
       "j_name": "FC東京",
@@ -30118,7 +30118,7 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 11,
+      "rank": 10,
       "win_point": 44,
       "wins": 11,
       "draws": 11,
@@ -30190,7 +30190,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 12,
+      "rank": 11,
       "win_point": 44,
       "wins": 12,
       "draws": 8,
@@ -30406,7 +30406,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 10,
+      "rank": 9,
       "win_point": 46,
       "wins": 14,
       "draws": 4,
@@ -30694,15 +30694,15 @@
       "league": "j1",
       "hash_tag": "#avispa",
       "full_name": "アビスパ福岡",
-      "rank": 9,
-      "win_point": 47,
-      "wins": 11,
+      "rank": 12,
+      "win_point": 44,
+      "wins": 10,
       "draws": 14,
       "loses": 10,
-      "goals_for": 31,
-      "goals_against": 34,
+      "goals_for": 29,
+      "goals_against": 33,
       "max_win_point": 56,
-      "matches_left": 3
+      "matches_left": 4
     },
     {
       "j_name": "北九州",
@@ -30849,5 +30849,5 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-03T17:06:04+09:00"
+  "updated_at": "2024-11-03T17:12:04+09:00"
 }
