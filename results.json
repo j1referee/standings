@@ -14365,11 +14365,11 @@
           "date": "11/04(月・休)",
           "time": "14:00",
           "division": "j2",
-          "score": "3-1",
+          "score": "vs",
           "opponent": "仙台",
-          "goals_for": 3,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110401"
         },
@@ -19821,11 +19821,11 @@
           "date": "11/04(月・休)",
           "time": "14:00",
           "division": "j2",
-          "score": "3-1",
+          "score": "vs",
           "opponent": "熊本",
-          "goals_for": 1,
-          "goals_against": 3,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110401"
         },
@@ -29834,11 +29834,11 @@
       "win_point": 61,
       "wins": 17,
       "draws": 10,
-      "loses": 10,
-      "goals_for": 48,
-      "goals_against": 43,
-      "max_win_point": 64,
-      "matches_left": 1
+      "loses": 9,
+      "goals_for": 47,
+      "goals_against": 40,
+      "max_win_point": 67,
+      "matches_left": 2
     },
     {
       "j_name": "秋田",
@@ -29938,7 +29938,7 @@
       "league": "j2",
       "hash_tag": "#hollyhock",
       "full_name": "水戸ホーリーホック",
-      "rank": 14,
+      "rank": 13,
       "win_point": 44,
       "wins": 11,
       "draws": 11,
@@ -30370,7 +30370,7 @@
       "league": "j2",
       "hash_tag": "#myfc",
       "full_name": "藤枝ＭＹＦＣ",
-      "rank": 13,
+      "rank": 12,
       "win_point": 46,
       "wins": 14,
       "draws": 4,
@@ -30766,15 +30766,15 @@
       "league": "j2",
       "hash_tag": "#roasso",
       "full_name": "ロアッソ熊本",
-      "rank": 12,
-      "win_point": 46,
-      "wins": 13,
+      "rank": 14,
+      "win_point": 43,
+      "wins": 12,
       "draws": 7,
       "loses": 17,
-      "goals_for": 53,
-      "goals_against": 61,
+      "goals_for": 50,
+      "goals_against": 60,
       "max_win_point": 49,
-      "matches_left": 1
+      "matches_left": 2
     },
     {
       "j_name": "大分",
@@ -30849,15 +30849,5 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-04T16:16:05+09:00",
-  "divisions": {
-    "j1": {
-      "safe_point": 47,
-      "out_point": 38
-    },
-    "j2": {
-      "safe_point": 37,
-      "out_point": 39
-    }
-  }
+  "updated_at": "2024-11-04T16:20:04+09:00"
 }
