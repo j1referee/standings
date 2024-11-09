@@ -27250,11 +27250,11 @@
           "date": "11/09(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "5-0",
+          "score": "vs",
           "opponent": "FC大阪",
-          "goals_for": 0,
-          "goals_against": 5,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110913"
         },
@@ -29234,11 +29234,11 @@
           "date": "11/09(土)",
           "time": "13:00",
           "division": "j3",
-          "score": "5-0",
+          "score": "vs",
           "opponent": "YS横浜",
-          "goals_for": 5,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110913"
         },
@@ -30176,11 +30176,11 @@
       "win_point": 32,
       "wins": 7,
       "draws": 11,
-      "loses": 18,
+      "loses": 17,
       "goals_for": 30,
-      "goals_against": 58,
-      "max_win_point": 38,
-      "matches_left": 2
+      "goals_against": 53,
+      "max_win_point": 41,
+      "matches_left": 3
     },
     {
       "j_name": "湘南",
@@ -30244,7 +30244,7 @@
       "league": "j3",
       "hash_tag": "#yamaga",
       "full_name": "松本山雅ＦＣ",
-      "rank": 6,
+      "rank": 5,
       "win_point": 51,
       "wins": 13,
       "draws": 12,
@@ -30388,7 +30388,7 @@
       "league": "j3",
       "hash_tag": "#アスルクラロ沼津",
       "full_name": "アスルクラロ沼津",
-      "rank": 5,
+      "rank": 4,
       "win_point": 52,
       "wins": 15,
       "draws": 7,
@@ -30496,15 +30496,15 @@
       "league": "j3",
       "hash_tag": "#fcosaka",
       "full_name": "ＦＣ大阪",
-      "rank": 4,
-      "win_point": 54,
-      "wins": 14,
+      "rank": 6,
+      "win_point": 51,
+      "wins": 13,
       "draws": 12,
       "loses": 10,
-      "goals_for": 41,
+      "goals_for": 36,
       "goals_against": 30,
       "max_win_point": 60,
-      "matches_left": 2
+      "matches_left": 3
     },
     {
       "j_name": "奈良",
@@ -30849,7 +30849,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-09T15:06:04+09:00",
+  "updated_at": "2024-11-09T15:12:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 47,
