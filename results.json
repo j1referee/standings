@@ -7887,7 +7887,7 @@
         {
           "sec": 36,
           "date": "11/09(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "1-1",
           "opponent": "京都",
@@ -8879,7 +8879,7 @@
         {
           "sec": 36,
           "date": "11/09(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "1-1",
           "opponent": "川崎F",
@@ -30849,7 +30849,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-09T16:36:04+09:00",
+  "updated_at": "2024-11-09T16:42:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 47,
