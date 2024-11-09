@@ -2431,7 +2431,7 @@
         {
           "sec": 36,
           "date": "11/09(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "3-4",
           "opponent": "G大阪",
@@ -5916,7 +5916,7 @@
         {
           "sec": 36,
           "date": "11/09(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "3-4",
           "opponent": "磐田",
@@ -30849,7 +30849,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-09T17:36:04+09:00",
+  "updated_at": "2024-11-09T17:42:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 45,
