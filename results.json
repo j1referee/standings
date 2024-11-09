@@ -2433,11 +2433,11 @@
           "date": "11/09(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-4",
           "opponent": "G大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 4,
+          "point": 0,
           "home": true,
           "mid": "110907"
         },
@@ -3436,7 +3436,7 @@
         {
           "sec": 36,
           "date": "11/09(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "C大阪",
@@ -5918,11 +5918,11 @@
           "date": "11/09(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "3-4",
           "opponent": "磐田",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 3,
+          "point": 3,
           "home": false,
           "mid": "110907"
         },
@@ -6412,7 +6412,7 @@
         {
           "sec": 36,
           "date": "11/09(土)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "福岡",
@@ -29920,7 +29920,7 @@
       "league": "j1",
       "hash_tag": "#antlers",
       "full_name": "鹿島アントラーズ",
-      "rank": 4,
+      "rank": 5,
       "win_point": 58,
       "wins": 16,
       "draws": 10,
@@ -30356,11 +30356,11 @@
       "win_point": 35,
       "wins": 9,
       "draws": 8,
-      "loses": 17,
-      "goals_for": 39,
-      "goals_against": 56,
-      "max_win_point": 47,
-      "matches_left": 4
+      "loses": 18,
+      "goals_for": 42,
+      "goals_against": 60,
+      "max_win_point": 44,
+      "matches_left": 3
     },
     {
       "j_name": "藤枝",
@@ -30460,15 +30460,15 @@
       "league": "j1",
       "hash_tag": "#gamba",
       "full_name": "ガンバ大阪",
-      "rank": 5,
-      "win_point": 57,
-      "wins": 15,
+      "rank": 4,
+      "win_point": 60,
+      "wins": 16,
       "draws": 12,
       "loses": 8,
-      "goals_for": 41,
-      "goals_against": 31,
+      "goals_for": 45,
+      "goals_against": 34,
       "max_win_point": 66,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "C大阪",
@@ -30849,10 +30849,10 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-09T17:32:04+09:00",
+  "updated_at": "2024-11-09T17:36:04+09:00",
   "divisions": {
     "j1": {
-      "safe_point": 47,
+      "safe_point": 45,
       "out_point": 39
     },
     "j2": {
