@@ -4926,11 +4926,11 @@
           "date": "11/09(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "柏",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": false,
           "mid": "110903"
         },
@@ -8398,11 +8398,11 @@
           "date": "11/09(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-1",
           "opponent": "新潟",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 1,
+          "point": 1,
           "home": true,
           "mid": "110903"
         },
@@ -30047,14 +30047,14 @@
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
       "rank": 17,
-      "win_point": 39,
+      "win_point": 40,
       "wins": 9,
-      "draws": 12,
+      "draws": 13,
       "loses": 14,
-      "goals_for": 37,
-      "goals_against": 48,
-      "max_win_point": 48,
-      "matches_left": 3
+      "goals_for": 38,
+      "goals_against": 49,
+      "max_win_point": 46,
+      "matches_left": 2
     },
     {
       "j_name": "FC東京",
@@ -30281,14 +30281,14 @@
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
       "rank": 16,
-      "win_point": 40,
+      "win_point": 41,
       "wins": 10,
-      "draws": 10,
+      "draws": 11,
       "loses": 15,
-      "goals_for": 43,
-      "goals_against": 57,
-      "max_win_point": 49,
-      "matches_left": 3
+      "goals_for": 44,
+      "goals_against": 58,
+      "max_win_point": 47,
+      "matches_left": 2
     },
     {
       "j_name": "富山",
@@ -30849,11 +30849,11 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-09T16:42:04+09:00",
+  "updated_at": "2024-11-09T17:00:05+09:00",
   "divisions": {
     "j1": {
       "safe_point": 47,
-      "out_point": 38
+      "out_point": 39
     },
     "j2": {
       "safe_point": 37,
