@@ -3438,11 +3438,11 @@
           "date": "11/09(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "C大阪",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 1,
+          "point": 0,
           "home": false,
           "mid": "110909"
         },
@@ -4926,11 +4926,11 @@
           "date": "11/09(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "柏",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "110903"
         },
@@ -6414,11 +6414,11 @@
           "date": "11/09(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "vs",
+          "score": "1-0",
           "opponent": "福岡",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "110909"
         },
@@ -8398,11 +8398,11 @@
           "date": "11/09(土)",
           "time": "15:00",
           "division": "j1",
-          "score": "1-1",
+          "score": "vs",
           "opponent": "新潟",
-          "goals_for": 1,
-          "goals_against": 1,
-          "point": 1,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "110903"
         },
@@ -30047,14 +30047,14 @@
       "hash_tag": "#reysol",
       "full_name": "柏レイソル",
       "rank": 17,
-      "win_point": 40,
+      "win_point": 39,
       "wins": 9,
-      "draws": 13,
+      "draws": 12,
       "loses": 14,
-      "goals_for": 38,
-      "goals_against": 49,
-      "max_win_point": 46,
-      "matches_left": 2
+      "goals_for": 37,
+      "goals_against": 48,
+      "max_win_point": 48,
+      "matches_left": 3
     },
     {
       "j_name": "FC東京",
@@ -30064,7 +30064,7 @@
       "league": "j1",
       "hash_tag": "#fctokyo",
       "full_name": "ＦＣ東京",
-      "rank": 7,
+      "rank": 8,
       "win_point": 51,
       "wins": 14,
       "draws": 9,
@@ -30281,14 +30281,14 @@
       "hash_tag": "#albirex",
       "full_name": "アルビレックス新潟",
       "rank": 16,
-      "win_point": 41,
+      "win_point": 40,
       "wins": 10,
-      "draws": 11,
+      "draws": 10,
       "loses": 15,
-      "goals_for": 44,
-      "goals_against": 58,
-      "max_win_point": 47,
-      "matches_left": 2
+      "goals_for": 43,
+      "goals_against": 57,
+      "max_win_point": 49,
+      "matches_left": 3
     },
     {
       "j_name": "富山",
@@ -30478,15 +30478,15 @@
       "league": "j1",
       "hash_tag": "#cerezo",
       "full_name": "セレッソ大阪",
-      "rank": 8,
-      "win_point": 49,
-      "wins": 12,
+      "rank": 7,
+      "win_point": 52,
+      "wins": 13,
       "draws": 13,
       "loses": 10,
-      "goals_for": 42,
+      "goals_for": 43,
       "goals_against": 43,
       "max_win_point": 58,
-      "matches_left": 3
+      "matches_left": 2
     },
     {
       "j_name": "FC大阪",
@@ -30698,11 +30698,11 @@
       "win_point": 47,
       "wins": 11,
       "draws": 14,
-      "loses": 10,
+      "loses": 11,
       "goals_for": 31,
-      "goals_against": 34,
-      "max_win_point": 56,
-      "matches_left": 3
+      "goals_against": 35,
+      "max_win_point": 53,
+      "matches_left": 2
     },
     {
       "j_name": "北九州",
@@ -30849,11 +30849,11 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-09T17:06:04+09:00",
+  "updated_at": "2024-11-09T17:12:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 47,
-      "out_point": 39
+      "out_point": 38
     },
     "j2": {
       "safe_point": 37,
