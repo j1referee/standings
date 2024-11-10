@@ -24274,11 +24274,11 @@
           "date": "11/10(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "0-5",
+          "score": "vs",
           "opponent": "鳥取",
-          "goals_for": 5,
-          "goals_against": 0,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "111015"
         },
@@ -24770,11 +24770,11 @@
           "date": "11/10(日)",
           "time": "13:00",
           "division": "j3",
-          "score": "0-5",
+          "score": "vs",
           "opponent": "今治",
-          "goals_for": 0,
-          "goals_against": 5,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "111015"
         },
@@ -30554,11 +30554,11 @@
       "win_point": 47,
       "wins": 13,
       "draws": 8,
-      "loses": 15,
+      "loses": 14,
       "goals_for": 48,
-      "goals_against": 64,
-      "max_win_point": 53,
-      "matches_left": 2
+      "goals_against": 59,
+      "max_win_point": 56,
+      "matches_left": 3
     },
     {
       "j_name": "岡山",
@@ -30677,14 +30677,14 @@
       "hash_tag": "#FC今治",
       "full_name": "ＦＣ今治",
       "rank": 2,
-      "win_point": 67,
-      "wins": 20,
+      "win_point": 64,
+      "wins": 19,
       "draws": 7,
       "loses": 9,
-      "goals_for": 60,
+      "goals_for": 55,
       "goals_against": 38,
       "max_win_point": 73,
-      "matches_left": 2
+      "matches_left": 3
     },
     {
       "j_name": "福岡",
@@ -30849,7 +30849,7 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-10T15:16:05+09:00",
+  "updated_at": "2024-11-10T15:20:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 45,
