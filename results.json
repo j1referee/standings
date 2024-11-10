@@ -23280,13 +23280,13 @@
         {
           "sec": 36,
           "date": "11/10(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "富山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": false,
           "mid": "111012"
         },
@@ -27744,13 +27744,13 @@
         {
           "sec": 36,
           "date": "11/10(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
-          "score": "vs",
+          "score": "2-2",
           "opponent": "岐阜",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 2,
+          "point": 1,
           "home": true,
           "mid": "111012"
         },
@@ -30299,14 +30299,14 @@
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
       "rank": 3,
-      "win_point": 57,
+      "win_point": 58,
       "wins": 14,
-      "draws": 15,
+      "draws": 16,
       "loses": 6,
-      "goals_for": 47,
-      "goals_against": 32,
-      "max_win_point": 66,
-      "matches_left": 3
+      "goals_for": 49,
+      "goals_against": 34,
+      "max_win_point": 64,
+      "matches_left": 2
     },
     {
       "j_name": "金沢",
@@ -30425,14 +30425,14 @@
       "hash_tag": "#fcgifu",
       "full_name": "ＦＣ岐阜",
       "rank": 11,
-      "win_point": 48,
+      "win_point": 49,
       "wins": 14,
-      "draws": 6,
+      "draws": 7,
       "loses": 15,
-      "goals_for": 58,
-      "goals_against": 52,
-      "max_win_point": 57,
-      "matches_left": 3
+      "goals_for": 60,
+      "goals_against": 54,
+      "max_win_point": 55,
+      "matches_left": 2
     },
     {
       "j_name": "京都",
@@ -30849,5 +30849,5 @@
       "matches_left": 3
     }
   ],
-  "updated_at": "2024-11-10T16:30:04+09:00"
+  "updated_at": "2024-11-10T16:32:04+09:00"
 }
