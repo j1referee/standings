@@ -460,13 +460,13 @@
         {
           "sec": 36,
           "date": "11/10(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "浦和",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 0,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "111024"
         },
@@ -943,13 +943,13 @@
         {
           "sec": 36,
           "date": "11/10(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j1",
-          "score": "vs",
+          "score": "3-0",
           "opponent": "広島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 0,
+          "point": 3,
           "home": true,
           "mid": "111024"
         },
@@ -20800,7 +20800,7 @@
         {
           "sec": 36,
           "date": "11/10(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "1-1",
           "opponent": "大宮",
@@ -21296,7 +21296,7 @@
         {
           "sec": 36,
           "date": "11/10(日)",
-          "time": "15:00",
+          "time": "15:03",
           "division": "j3",
           "score": "1-1",
           "opponent": "琉球",
@@ -29992,15 +29992,15 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 15,
-      "win_point": 43,
-      "wins": 11,
+      "rank": 11,
+      "win_point": 46,
+      "wins": 12,
       "draws": 10,
       "loses": 13,
-      "goals_for": 45,
+      "goals_for": 48,
       "goals_against": 43,
       "max_win_point": 55,
-      "matches_left": 4
+      "matches_left": 3
     },
     {
       "j_name": "大宮",
@@ -30118,7 +30118,7 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 12,
+      "rank": 13,
       "win_point": 45,
       "wins": 11,
       "draws": 12,
@@ -30136,7 +30136,7 @@
       "league": "j1",
       "hash_tag": "#fmarinos",
       "full_name": "横浜Ｆ・マリノス",
-      "rank": 11,
+      "rank": 12,
       "win_point": 46,
       "wins": 13,
       "draws": 7,
@@ -30190,7 +30190,7 @@
       "league": "j1",
       "hash_tag": "#bellmare",
       "full_name": "湘南ベルマーレ",
-      "rank": 13,
+      "rank": 14,
       "win_point": 45,
       "wins": 12,
       "draws": 9,
@@ -30442,7 +30442,7 @@
       "league": "j1",
       "hash_tag": "#sanga",
       "full_name": "京都サンガF.C.",
-      "rank": 14,
+      "rank": 15,
       "win_point": 45,
       "wins": 12,
       "draws": 9,
@@ -30590,11 +30590,11 @@
       "win_point": 65,
       "wins": 18,
       "draws": 11,
-      "loses": 6,
+      "loses": 7,
       "goals_for": 66,
-      "goals_against": 36,
-      "max_win_point": 74,
-      "matches_left": 3
+      "goals_against": 39,
+      "max_win_point": 71,
+      "matches_left": 2
     },
     {
       "j_name": "山口",
@@ -30849,5 +30849,5 @@
       "matches_left": 2
     }
   ],
-  "updated_at": "2024-11-10T17:36:04+09:00"
+  "updated_at": "2024-11-10T17:42:04+09:00"
 }
