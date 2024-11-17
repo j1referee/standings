@@ -21805,13 +21805,13 @@
         {
           "sec": 37,
           "date": "11/17(日)",
-          "time": "13:05",
+          "time": "13:08",
           "division": "j3",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "富山",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 3,
+          "point": 0,
           "home": false,
           "mid": "111702"
         },
@@ -27757,13 +27757,13 @@
         {
           "sec": 37,
           "date": "11/17(日)",
-          "time": "13:05",
+          "time": "13:08",
           "division": "j3",
-          "score": "vs",
+          "score": "3-1",
           "opponent": "八戸",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 3,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "111702"
         },
@@ -29798,11 +29798,11 @@
       "win_point": 51,
       "wins": 13,
       "draws": 12,
-      "loses": 11,
-      "goals_for": 42,
-      "goals_against": 38,
-      "max_win_point": 57,
-      "matches_left": 2
+      "loses": 12,
+      "goals_for": 43,
+      "goals_against": 41,
+      "max_win_point": 54,
+      "matches_left": 1
     },
     {
       "j_name": "岩手",
@@ -30299,14 +30299,14 @@
       "hash_tag": "#kataller",
       "full_name": "カターレ富山",
       "rank": 3,
-      "win_point": 58,
-      "wins": 14,
+      "win_point": 61,
+      "wins": 15,
       "draws": 16,
       "loses": 6,
-      "goals_for": 49,
-      "goals_against": 34,
+      "goals_for": 52,
+      "goals_against": 35,
       "max_win_point": 64,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "金沢",
@@ -30849,5 +30849,5 @@
       "matches_left": 1
     }
   ],
-  "updated_at": "2024-11-17T15:36:04+09:00"
+  "updated_at": "2024-11-17T15:42:04+09:00"
 }
