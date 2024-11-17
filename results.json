@@ -23791,11 +23791,11 @@
           "date": "11/17(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "沼津",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 2,
+          "goals_against": 1,
+          "point": 3,
           "home": true,
           "mid": "111701"
         },
@@ -26271,11 +26271,11 @@
           "date": "11/17(日)",
           "time": "14:00",
           "division": "j3",
-          "score": "vs",
+          "score": "2-1",
           "opponent": "福島",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 1,
+          "goals_against": 2,
+          "point": 0,
           "home": false,
           "mid": "111701"
         },
@@ -29885,14 +29885,14 @@
       "hash_tag": "#FUFC",
       "full_name": "福島ユナイテッドＦＣ",
       "rank": 6,
-      "win_point": 53,
-      "wins": 16,
+      "win_point": 56,
+      "wins": 17,
       "draws": 5,
       "loses": 15,
-      "goals_for": 58,
-      "goals_against": 47,
+      "goals_for": 60,
+      "goals_against": 48,
       "max_win_point": 59,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "いわき",
@@ -30392,11 +30392,11 @@
       "win_point": 52,
       "wins": 15,
       "draws": 7,
-      "loses": 14,
-      "goals_for": 52,
-      "goals_against": 43,
-      "max_win_point": 58,
-      "matches_left": 2
+      "loses": 15,
+      "goals_for": 53,
+      "goals_against": 45,
+      "max_win_point": 55,
+      "matches_left": 1
     },
     {
       "j_name": "名古屋",
@@ -30849,5 +30849,5 @@
       "matches_left": 1
     }
   ],
-  "updated_at": "2024-11-17T16:50:04+09:00"
+  "updated_at": "2024-11-17T17:00:04+09:00"
 }
