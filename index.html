@@ -611,7 +611,7 @@ function setSafeOutLineStyle(divisions_data, division)
     safe_caption: {display: "none"},
     out_caption: {display: "none"}
   };
-  if (safe_point === undefined ) return styles;
+  if (!safe_point) return styles;
 
   let table_width = 0;
   document.querySelectorAll("div.col").forEach( (d) => {
@@ -633,7 +633,7 @@ function setSafeOutLineStyle(divisions_data, division)
     top: `${topY - 10}px`,
     display: "block",
   };
-  if (out_point === undefined ) return styles;
+  if (!out_point) return styles;
 
   const bottomY = point2y(out_point);
   styles.line.borderBottom = "solid 2px deeppink";
