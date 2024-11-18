@@ -30857,7 +30857,7 @@
     },
     "j2": {
       "safe_point": 35,
-      "out_point": 39
+      "out_point": null
     }
   }
 }
