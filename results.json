@@ -22314,7 +22314,7 @@
         {
           "sec": 38,
           "date": "11/24(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "2-3",
           "opponent": "YS横浜",
@@ -27274,7 +27274,7 @@
         {
           "sec": 38,
           "date": "11/24(日)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j3",
           "score": "2-3",
           "opponent": "北九州",
@@ -30849,7 +30849,7 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2024-11-24T16:36:04+09:00",
+  "updated_at": "2024-11-24T16:42:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 42,
