@@ -969,7 +969,7 @@
         {
           "sec": 37,
           "date": "11/30(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "福岡",
@@ -3449,7 +3449,7 @@
         {
           "sec": 37,
           "date": "11/30(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
           "score": "1-0",
           "opponent": "浦和",
@@ -7913,13 +7913,13 @@
         {
           "sec": 37,
           "date": "11/30(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "4-5",
           "opponent": "東京V",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 5,
+          "goals_against": 4,
+          "point": 3,
           "home": false,
           "mid": "113002"
         },
@@ -9401,13 +9401,13 @@
         {
           "sec": 37,
           "date": "11/30(土)",
-          "time": "14:00",
+          "time": "14:03",
           "division": "j1",
-          "score": "vs",
+          "score": "4-5",
           "opponent": "川崎F",
-          "goals_for": null,
-          "goals_against": null,
-          "point": null,
+          "goals_for": 4,
+          "goals_against": 5,
+          "point": 0,
           "home": true,
           "mid": "113002"
         },
@@ -29992,7 +29992,7 @@
       "league": "j1",
       "hash_tag": "#urawareds",
       "full_name": "浦和レッズ",
-      "rank": 11,
+      "rank": 12,
       "win_point": 47,
       "wins": 12,
       "draws": 11,
@@ -30086,11 +30086,11 @@
       "win_point": 55,
       "wins": 14,
       "draws": 13,
-      "loses": 9,
-      "goals_for": 47,
-      "goals_against": 46,
-      "max_win_point": 61,
-      "matches_left": 2
+      "loses": 10,
+      "goals_for": 51,
+      "goals_against": 51,
+      "max_win_point": 58,
+      "matches_left": 1
     },
     {
       "j_name": "町田",
@@ -30118,15 +30118,15 @@
       "league": "j1",
       "hash_tag": "#frontale",
       "full_name": "川崎フロンターレ",
-      "rank": 13,
-      "win_point": 46,
-      "wins": 11,
+      "rank": 11,
+      "win_point": 49,
+      "wins": 12,
       "draws": 13,
       "loses": 12,
-      "goals_for": 58,
-      "goals_against": 52,
+      "goals_for": 63,
+      "goals_against": 56,
       "max_win_point": 52,
-      "matches_left": 2
+      "matches_left": 1
     },
     {
       "j_name": "横浜FM",
@@ -30406,7 +30406,7 @@
       "league": "j1",
       "hash_tag": "#grampus",
       "full_name": "名古屋グランパス",
-      "rank": 12,
+      "rank": 13,
       "win_point": 47,
       "wins": 14,
       "draws": 5,
@@ -30849,7 +30849,7 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2024-11-30T16:36:08+09:00",
+  "updated_at": "2024-11-30T16:42:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 42,
