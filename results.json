@@ -475,11 +475,11 @@
           "date": "12/01(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "5-1",
+          "score": "vs",
           "opponent": "札幌",
-          "goals_for": 5,
-          "goals_against": 1,
-          "point": 3,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": true,
           "mid": "120110"
         },
@@ -3947,11 +3947,11 @@
           "date": "12/01(日)",
           "time": "14:00",
           "division": "j1",
-          "score": "5-1",
+          "score": "vs",
           "opponent": "広島",
-          "goals_for": 1,
-          "goals_against": 5,
-          "point": 0,
+          "goals_for": null,
+          "goals_against": null,
+          "point": null,
           "home": false,
           "mid": "120110"
         },
@@ -29780,11 +29780,11 @@
       "win_point": 34,
       "wins": 8,
       "draws": 10,
-      "loses": 19,
-      "goals_for": 42,
-      "goals_against": 66,
-      "max_win_point": 37,
-      "matches_left": 1
+      "loses": 18,
+      "goals_for": 41,
+      "goals_against": 61,
+      "max_win_point": 40,
+      "matches_left": 2
     },
     {
       "j_name": "八戸",
@@ -30100,7 +30100,7 @@
       "league": "j1",
       "hash_tag": "#zelvia",
       "full_name": "ＦＣ町田ゼルビア",
-      "rank": 3,
+      "rank": 2,
       "win_point": 66,
       "wins": 19,
       "draws": 9,
@@ -30586,15 +30586,15 @@
       "league": "j1",
       "hash_tag": "#sanfrecce",
       "full_name": "サンフレッチェ広島",
-      "rank": 2,
-      "win_point": 68,
-      "wins": 19,
+      "rank": 3,
+      "win_point": 65,
+      "wins": 18,
       "draws": 11,
       "loses": 7,
-      "goals_for": 71,
-      "goals_against": 40,
+      "goals_for": 66,
+      "goals_against": 39,
       "max_win_point": 71,
-      "matches_left": 1
+      "matches_left": 2
     },
     {
       "j_name": "山口",
@@ -30849,7 +30849,7 @@
       "matches_left": 0
     }
   ],
-  "updated_at": "2024-12-01T16:06:04+09:00",
+  "updated_at": "2024-12-01T16:12:04+09:00",
   "divisions": {
     "j1": {
       "safe_point": 42,
